@@ -1,0 +1,9 @@
+.searchBar{
+    width: 720px;
+}
+.centerDiv{
+    display: 'flex';
+    alignItems: 'center';
+    justifyContent: 'center';
+    height: '100vh';
+}

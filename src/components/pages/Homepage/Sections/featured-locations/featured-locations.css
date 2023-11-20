@@ -1,0 +1,14 @@
+.shadowDiv{
+    box-shadow: 2px 2px 16px 2px rgba(0,0,0,0.5);
+}
+ul{
+    margin-bottom: 0! important;
+}
+img.darker {
+    transition: all 0.2s ease-in-out;
+  }
+  
+  img.darker:hover {
+    filter: brightness(50%);
+    cursor: pointer;
+  }

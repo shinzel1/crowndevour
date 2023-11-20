@@ -1,0 +1,14 @@
+.location-detail-container {
+    background-color: white;
+    /* Add other styles for location detail page */
+  }
+  
+  .restaurant-name {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    /* Add other restaurant name styles */
+  }
+  
+  /* Add styles for other elements on the location detail page */
+  

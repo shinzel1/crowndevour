@@ -1,0 +1,32 @@
+.navbar{
+    padding: 1rem !important;
+    font-size: 1.2rem;
+    color: #080706;
+}
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    color: #080706 !important;
+    font-size: 1.2rem !important;
+}
+.navbar-brand img{
+    height: 3rem;
+}
+.bg-light{
+  /* background-image: linear-gradient(#FAC49F, #FFFAF8); */
+  box-shadow: 0px 5px 17px 0px rgba(0,0,0,0.5);
+}
+.nav-link:hover{
+    font-weight: bold;
+    font-size:1.4rem !important ;
+}
+.navbar-nav{
+    margin-top: 10px;
+}
+::-webkit-scrollbar {
+    display: none;
+  }

@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Restaurant A",
+      "location": "City 1",
+      "updatedDate": "2023-10-15",
+      "description": "A fantastic restaurant offering a wide range of cuisines.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Cafe B",
+      "location": "City 2",
+      "updatedDate": "2023-10-20",
+      "description": "A cozy cafe with a variety of coffee and pastries.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Street Food Stall C",
+      "location": "City 3",
+      "updatedDate": "2023-10-10",
+      "description": "A popular street food stall known for its delicious snacks.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Restaurant D",
+      "location": "City 1",
+      "updatedDate": "2023-10-25",
+      "description": "A high-end restaurant serving gourmet dishes.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Restaurant F",
+      "location": "City 1",
+      "updatedDate": "2023-10-25",
+      "description": "A high-end restaurant serving gourmet dishes.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Restaurant A",
+      "location": "City 1",
+      "updatedDate": "2023-10-15",
+      "description": "A fantastic restaurant offering a wide range of cuisines.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Cafe B",
+      "location": "City 2",
+      "updatedDate": "2023-10-20",
+      "description": "A cozy cafe with a variety of coffee and pastries.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Street Food Stall C",
+      "location": "City 3",
+      "updatedDate": "2023-10-10",
+      "description": "A popular street food stall known for its delicious snacks.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Restaurant D",
+      "location": "City 1",
+      "updatedDate": "2023-10-25",
+      "description": "A high-end restaurant serving gourmet dishes.",
+      "image": "../../data/Images/post/post-1.jpg"
+    },
+    {
+      "name": "Restaurant F",
+      "location": "City 1",
+      "updatedDate": "2023-10-25",
+      "description": "A high-end restaurant serving gourmet dishes.",
+      "image": "../../data/Images/post/post-1.jpg"
+    }
+  ]
+  
