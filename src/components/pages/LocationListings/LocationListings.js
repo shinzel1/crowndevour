@@ -7,10 +7,20 @@ import Col from 'react-bootstrap/Col';
 import TextField from '@mui/material/TextField';
 import IconButton from '@mui/material/IconButton';
 import SearchIcon from '@mui/icons-material/Search';
+import { Link } from 'react-router-dom'
+import {useLocation} from 'react-router-dom';
+
+
+
 
 function LocationListings() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredLocations, setFilteredLocations] = useState(data);
+  const location = useLocation();
+  if(location?.state?.value){
+    console.log(location?.state?.value)
+    // document.getElementById('searchBar').value = "test"
+  }
 
   const handleSearch = (e) => {
     setSearchQuery(e.target.value)
@@ -32,7 +42,8 @@ function LocationListings() {
         <TextField
           variant="outlined"
           className='searchBar'
-       InputProps={{
+          id='searchBar'
+          InputProps={{
             endAdornment: (
               <IconButton color="primary">
                 <SearchIcon />
@@ -42,17 +53,20 @@ function LocationListings() {
           type="text"
           placeholder="Search locations by name, description, or location"
           value={searchQuery}
-          onChange={(e) =>handleSearch(e)}
+          onChange={(e) => handleSearch(e)}
         />
       </div>
       <div className='padding-5'>
-      <Row xs={1} md={5} className="g-4"> 
+        <Row xs={1} md={5} className="g-4">
           {filteredLocations.map((location, index) => (
             <Col key={index}>
-            <RecipeReviewCard key={index} data={location}/>
-          </Col>
-        ))}
-      </Row>
+              <Link to={'/location/' + location.title} state={{ loc: location }}>
+                <RecipeReviewCard id={location.title} data={location} />
+              </Link>
+            </Col>
+          ))}
+        </Row>
+
       </div>
     </div>
   );

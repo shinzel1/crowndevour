@@ -1,5 +1,4 @@
 import React from 'react';
-import Navbar from '../../commons/Navbar/Navbar';
 function Footer() {
     return (
       <div className='shadowDiv'>

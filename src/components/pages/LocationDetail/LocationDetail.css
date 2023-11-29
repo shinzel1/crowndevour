@@ -9,6 +9,33 @@
     font-weight: bold;
     /* Add other restaurant name styles */
   }
+  .section {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  .section-sm {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+  .post-slider {
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .post-slider img {
+    border-radius: inherit;
+  }
+  .post-slider:hover .prevArrow {
+    left: 10px;
+  }
+  .post-slider:hover .nextArrow {
+    right: 10px;
+  }
+  .rounded-lg, .post-slider {
+    border-radius: 10px !important;
+  }
+  .locationDetails{
+    max-width: 1140px;
+  }
   
   /* Add styles for other elements on the location detail page */
   

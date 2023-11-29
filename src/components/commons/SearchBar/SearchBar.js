@@ -2,18 +2,26 @@ import React from 'react';
 import TextField from '@mui/material/TextField';
 import IconButton from '@mui/material/IconButton';
 import SearchIcon from '@mui/icons-material/Search';
+import {useNavigate} from 'react-router-dom';
 import './SearchBar.css';
 function SearchBar() {
+  const navigate = useNavigate();
+
+  const handleSubmit = (e) => {
+        // 👇️ redirect to /contacts
+    navigate(`/locations`,{state:{value:document.getElementById('testText').value}});
+  };
     return (
       <div className='centerDiv padding-5'>
         <TextField
           variant="outlined"
           className='searchBar'
           placeholder="Search Locations for Cafe and Resturants..."
+          id='testText'
           InputProps={{
             endAdornment: (
-              <IconButton color="primary">
-                <SearchIcon />
+              <IconButton color="primary" onClick={(e) => handleSubmit(e)}>
+                <SearchIcon/>
               </IconButton>
             ),
           }}

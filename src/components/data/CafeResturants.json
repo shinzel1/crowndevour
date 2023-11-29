@@ -1,73 +1,151 @@
 [
-    {
-      "name": "Restaurant A",
-      "location": "City 1",
-      "updatedDate": "2023-10-15",
-      "description": "A fantastic restaurant offering a wide range of cuisines.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Cafe B",
-      "location": "City 2",
-      "updatedDate": "2023-10-20",
-      "description": "A cozy cafe with a variety of coffee and pastries.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Street Food Stall C",
-      "location": "City 3",
-      "updatedDate": "2023-10-10",
-      "description": "A popular street food stall known for its delicious snacks.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Restaurant D",
-      "location": "City 1",
-      "updatedDate": "2023-10-25",
-      "description": "A high-end restaurant serving gourmet dishes.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Restaurant F",
-      "location": "City 1",
-      "updatedDate": "2023-10-25",
-      "description": "A high-end restaurant serving gourmet dishes.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Restaurant A",
-      "location": "City 1",
-      "updatedDate": "2023-10-15",
-      "description": "A fantastic restaurant offering a wide range of cuisines.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Cafe B",
-      "location": "City 2",
-      "updatedDate": "2023-10-20",
-      "description": "A cozy cafe with a variety of coffee and pastries.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Street Food Stall C",
-      "location": "City 3",
-      "updatedDate": "2023-10-10",
-      "description": "A popular street food stall known for its delicious snacks.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Restaurant D",
-      "location": "City 1",
-      "updatedDate": "2023-10-25",
-      "description": "A high-end restaurant serving gourmet dishes.",
-      "image": "../../data/Images/post/post-1.jpg"
-    },
-    {
-      "name": "Restaurant F",
-      "location": "City 1",
-      "updatedDate": "2023-10-25",
-      "description": "A high-end restaurant serving gourmet dishes.",
-      "image": "../../data/Images/post/post-1.jpg"
-    }
-  ]
-  
+  {
+    "title": "dramz",
+    "name": "Dramz",
+    "location": "Chanakyapuri, Delhi",
+    "type": "Rooftop Restaurant",
+    "highlights": [
+      "Scenic Views",
+      "Diverse Menu"
+    ],
+    "description": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
+    "image": "path/to/dramz-image.jpg"
+  },
+  {
+    "title": "gastronomica-kitchen-bar",
+    "name": "Gastronomica Kitchen & Bar",
+    "location": "Chanakyapuri, Delhi",
+    "type": "Global Cuisines",
+    "highlights": [
+      "Vibrant Ambiance"
+    ],
+    "description": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
+    "image": "path/to/gastronomica-image.jpg"
+  },
+  {
+    "title": "sanadige-goldfinch-hotel",
+    "name": "Sanadige - Goldfinch Hotel",
+    "location": "Chanakyapuri, Delhi",
+    "type": "Coastal Cuisine",
+    "specialties": [
+      "Dishes from Karnataka and Kerala"
+    ],
+    "description": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
+    "image": "path/to/sanadige-image.jpg"
+  },
+  {
+    "title": "tamra-shangri-las-eros-hotel",
+    "name": "Tamra - Shangri-La's Eros Hotel",
+    "location": "Chanakyapuri, Delhi",
+    "type": "Multi-Cuisine Restaurant",
+    "highlights": [
+      "International Dishes",
+      "Café-Style Section"
+    ],
+    "description": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
+    "image": "path/to/tamra-image.jpg"
+  },
+  {
+    "title": "dilli-32-the-leela-palace",
+    "name": "Dilli 32 - The Leela Palace",
+    "location": "Chanakyapuri, Delhi",
+    "type": "North Indian and Mughlai Cuisine",
+    "specialties": [
+      "Luxurious Dining"
+    ],
+    "description": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
+    "image": "path/to/dilli32-image.jpg"
+  },
+  {
+    "title": "social-offline-hauz-khas",
+    "name": "Social Offline",
+    "location": "9A & 12, Hauz Khas Village",
+    "type": "Hangout Spot",
+    "highlights": [
+      "Lively Ambiance",
+      "Diverse Menu"
+    ],
+    "description": "Social Offline is a popular hangout spot in Hauz Khas Village known for its lively ambiance and a diverse menu offering a range of culinary delights.",
+    "image": "path/to/social-offline-image.jpg"
+  },
+  {
+    "title": "yeti-the-himalayan-kitchen",
+    "name": "Yeti - The Himalayan Kitchen",
+    "location": "30, Hauz Khas Village",
+    "type": "Himalayan Cuisine",
+    "highlights": [
+      "Cozy Atmosphere"
+    ],
+    "description": "Yeti - The Himalayan Kitchen offers a cozy atmosphere and specializes in Himalayan cuisine, providing a unique dining experience.",
+    "image": "path/to/yeti-image.jpg"
+  },
+  {
+    "title": "hauz-khas-social",
+    "name": "Hauz Khas Social",
+    "location": "9A & 12, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Relaxed Setting",
+      "Diverse Menu"
+    ],
+    "description": "Hauz Khas Social is a café with a relaxed setting and a diverse menu, making it a popular spot for the community to gather.",
+    "image": "path/to/hauz-khas-social-image.jpg"
+  },
+  {
+    "title": "smoke-house-deli",
+    "name": "Smoke House Deli",
+    "location": "12, Hauz Khas Village",
+    "type": "Contemporary Café",
+    "cuisines": [
+      "European",
+      "Italian"
+    ],
+    "description": "Smoke House Deli is a contemporary café with a menu featuring European and Italian cuisines, offering a delightful culinary experience.",
+    "image": "path/to/smoke-house-deli-image.jpg"
+  },
+  {
+    "title": "elmas-bakery-bar-kitchen",
+    "name": "Elma's Bakery, Bar, and Kitchen",
+    "location": "31, 2nd Floor, Hauz Khas Village",
+    "type": "Bakery",
+    "highlights": [
+      "Cozy Atmosphere",
+      "Desserts"
+    ],
+    "description": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
+    "image": "path/to/elmas-bakery-image.jpg"
+  },
+  {
+    "title": "naivedyam",
+    "name": "Naivedyam",
+    "location": "1, Hauz Khas Village",
+    "type": "South Indian Vegetarian",
+    "cuisines": [
+      "South Indian"
+    ],
+    "description": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
+    "image": "path/to/naivedyam-image.jpg"
+  },
+  {
+    "title": "mia-bella",
+    "name": "Mia Bella",
+    "location": "50E, Hauz Khas Village",
+    "type": "Mediterranean",
+    "highlights": [
+      "Rooftop Seating"
+    ],
+    "description": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
+    "image": "path/to/mia-bella-image.jpg"
+  },
+  {
+    "title": "bo-tai-qutub",
+    "name": "Bo Tai Qutub",
+    "location": "6/4, Kalka Das Marg, Mehrauli Road, Near Qutub Minar",
+    "type": "Thai Cuisine",
+    "highlights": [
+      "Modern Twist"
+    ],
+    "description": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
+    "image": "path/to/bo-tai-qutub-image.jpg"
+  }
+]

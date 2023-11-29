@@ -15,6 +15,7 @@ import ShareIcon from '@mui/icons-material/Share';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 import cardImage from '../../data/Images/post/post-1.jpg'
+import './Card.css'
 
 const ExpandMore = styled((props) => {
   const { expand, ...other } = props;
@@ -35,7 +36,7 @@ export default function RecipeReviewCard({data}) {
   };
 
   return (
-    <Card sx={{ maxWidth: 345 }}>
+    <Card sx={{ maxWidth: 345 }} className='locationCards'>
       <CardHeader
         avatar={
           <Avatar sx={{ bgcolor: red[500] }} aria-label="recipe">

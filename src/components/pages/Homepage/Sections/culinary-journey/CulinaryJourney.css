@@ -1,4 +1,4 @@
-article {
+.curlinaryJourney-article {
     --img-scale: 1.001;
     --title-color: black;
     --link-icon-translate: -20px;
@@ -12,7 +12,7 @@ article {
     overflow: hidden;
   }
   
-  article a::after {
+  .curlinaryJourney-article a::after {
     position: absolute;
     inset-block: 0;
     inset-inline: 0;
@@ -21,7 +21,7 @@ article {
   }
   
   /* basic article elements styling */
-  article h2 {
+  .curlinaryJourney-article h2 {
     margin: 0 0 18px 0;
     font-family: "Bebas Neue", cursive;
     font-size: 1.9rem;
@@ -37,7 +37,7 @@ article {
     overflow: hidden;
   }
   
-  article img {
+  .curlinaryJourney-article img {
     max-width: 100%;
     transform-origin: center;
     transform: scale(var(--img-scale));
@@ -48,18 +48,18 @@ article {
     padding: 24px;
   }
   
-  article a {
+  .curlinaryJourney-article a {
     display: inline-flex;
     align-items: center;
     text-decoration: none;
     color: #28666e;
   }
   
-  article a:focus {
+  .curlinaryJourney-article a:focus {
     outline: 1px dotted #28666e;
   }
   
-  article a .icon {
+  .curlinaryJourney-article a .icon {
     min-width: 24px;
     width: 24px;
     height: 24px;
@@ -70,7 +70,7 @@ article {
   }
   
   /* using the has() relational pseudo selector to update our custom properties */
-  article:has(:hover, :focus) {
+  .curlinaryJourney-article:has(:hover, :focus) {
     --img-scale: 1.1;
     --title-color: #28666e;
     --link-icon-translate: 0;
@@ -108,7 +108,7 @@ article {
   }
   
   @media screen and (max-width: 960px) {
-    article {
+    .curlinaryJourney-article {
       container: card/inline-size;
     }
     .article-body p {

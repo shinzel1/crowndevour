@@ -1,0 +1,9 @@
+.addIcon{
+    position: absolute;
+    top: 8rem;
+    right: 2rem;
+}
+.map-container {
+    height: 100%;
+    width: 100%;
+  }

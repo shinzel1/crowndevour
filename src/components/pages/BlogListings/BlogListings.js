@@ -5,21 +5,24 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import '../../commons/blogPostCards/blogPostCards.css'
 import './BlogListings.css'
+import { Link } from 'react-router-dom'
 const BlogListings = () => {
   // Sample data for blog listings
   return (
     <div>
-      <header className='blogPostHeader'>
+      {/* <header className='blogPostHeader'>
         <h1>Blog and Article Listings</h1>
-      </header>
+      </header> */}
       <div className='BlogListing centered'>
-      <Row xs={1} md={5} className="g-4">
-        {blogPosts.map((post, index) => (
-          <Col key={index}>
-            <BlogPostCards key={index} data={post} />
-          </Col>
-        ))}
-      </Row>
+        <Row xs={1} md={4} className="g-4">
+          {blogPosts.map((post, index) => (
+            <Col key={index}>
+              <Link to={'/blog-post/' + post.title} state={{ post: post }}>
+                <BlogPostCards key={post.title} data={post} />
+              </Link>
+            </Col>
+          ))}
+        </Row>
       </div>
     </div>
   );

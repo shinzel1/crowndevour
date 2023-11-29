@@ -23,14 +23,14 @@ function App() {
   <Header/>
     <Routes>
       <Route path="/" element={<Homepage />} />
-      <Route path="/location/:id" element={<LocationDetail />} />
+      <Route path="/thelas-near-location" element={<ThelasNearLocation />} />
       <Route path="/locations" element={<SearchAndFilter />} />
+      <Route path="/location/:id" element={<LocationDetail />} />
       <Route path="/blogs" element={<BlogListings />} />
       <Route path="/blog-post/:id" element={<BlogPostDetail />} />
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/user-profile" element={<UserProfile />} />
-      <Route path="/thelas-near-location/:id" element={<ThelasNearLocation />} />
     </Routes>
     <Footer/>
   </div>
