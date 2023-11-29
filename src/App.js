@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import './App.css';
 import Homepage from './components/pages/Homepage/Homepage';
 import LocationDetail from './components/pages/LocationDetail/LocationDetail';
@@ -22,8 +22,8 @@ function App() {
   <div className="App">
   <Header/>
     <Routes>
-      <Route path="/" element={<Homepage />} />
-      <Route path="/thelas-near-location" element={<ThelasNearLocation />} />
+      <Route path="/" Component={Homepage} />
+      <Route path="/thelas-near-location" Component={ThelasNearLocation} />
       <Route path="/locations" element={<SearchAndFilter />} />
       <Route path="/location/:id" element={<LocationDetail />} />
       <Route path="/blogs" element={<BlogListings />} />
@@ -31,6 +31,7 @@ function App() {
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/user-profile" element={<UserProfile />} />
+      <Route path="*" element={ <Navigate to="/404" replace />} />
     </Routes>
     <Footer/>
   </div>
