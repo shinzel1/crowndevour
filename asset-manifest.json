@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crowndevour/static/css/main.9775b501.css",
-    "main.js": "/crowndevour/static/js/main.22636a0e.js",
+    "main.js": "/crowndevour/static/js/main.da9df120.js",
     "static/js/787.eb9d0b2d.chunk.js": "/crowndevour/static/js/787.eb9d0b2d.chunk.js",
     "static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg": "/crowndevour/static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.3d0aa9bbb63ea6705678.jpg",
     "static/media/monika-grabkowska-jsgJtBOR6jY-unsplash.jpg": "/crowndevour/static/media/monika-grabkowska-jsgJtBOR6jY-unsplash.460c1afcfadcf75dc149.jpg",
@@ -24,11 +24,11 @@
     "static/media/author.jpg": "/crowndevour/static/media/author.2a2b847c1fc5c482598d.jpg",
     "index.html": "/crowndevour/index.html",
     "main.9775b501.css.map": "/crowndevour/static/css/main.9775b501.css.map",
-    "main.22636a0e.js.map": "/crowndevour/static/js/main.22636a0e.js.map",
+    "main.da9df120.js.map": "/crowndevour/static/js/main.da9df120.js.map",
     "787.eb9d0b2d.chunk.js.map": "/crowndevour/static/js/787.eb9d0b2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9775b501.css",
-    "static/js/main.22636a0e.js"
+    "static/js/main.da9df120.js"
   ]
 }
