@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e29e2786.css",
+    "main.js": "/react-gh-pages/static/js/main.52f49616.js",
+    "static/js/787.eb9d0b2d.chunk.js": "/react-gh-pages/static/js/787.eb9d0b2d.chunk.js",
+    "static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg": "/react-gh-pages/static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.3d0aa9bbb63ea6705678.jpg",
+    "static/media/monika-grabkowska-jsgJtBOR6jY-unsplash.jpg": "/react-gh-pages/static/media/monika-grabkowska-jsgJtBOR6jY-unsplash.460c1afcfadcf75dc149.jpg",
+    "static/media/nadine-primeau-n4RrgczkLJM-unsplash.jpg": "/react-gh-pages/static/media/nadine-primeau-n4RrgczkLJM-unsplash.3f8dac33b1e8b6ae6a3e.jpg",
+    "static/media/chad-montano-eeqbbemH9-c-unsplash.jpg": "/react-gh-pages/static/media/chad-montano-eeqbbemH9-c-unsplash.c787ce8dd7bf2c104e1e.jpg",
+    "static/media/jen-p-FoG8lotg7AA-unsplash.jpg": "/react-gh-pages/static/media/jen-p-FoG8lotg7AA-unsplash.6cc0b0ef2219654899ba.jpg",
+    "static/media/zoe-EqgySSNO2kw-unsplash.jpg": "/react-gh-pages/static/media/zoe-EqgySSNO2kw-unsplash.1a09aeea913aa1f1bdcd.jpg",
+    "static/media/post-1.jpg": "/react-gh-pages/static/media/post-1.72af24a0045586ba2c63.jpg",
+    "static/media/post-4.jpg": "/react-gh-pages/static/media/post-4.c59c27cf849c07701e1c.jpg",
+    "static/media/post-6.jpg": "/react-gh-pages/static/media/post-6.c5aa3130b2974c340760.jpg",
+    "static/media/author-full.jpg": "/react-gh-pages/static/media/author-full.ab035184e7bb51667e87.jpg",
+    "static/media/themify.svg?-fvbane": "/react-gh-pages/static/media/themify.f0fc8c798eac5636249c.svg",
+    "static/media/post-5.jpg": "/react-gh-pages/static/media/post-5.ffdf7d308ad867434747.jpg",
+    "static/media/post-3.jpg": "/react-gh-pages/static/media/post-3.18e25b9ea4856ae80194.jpg",
+    "static/media/post-2.jpg": "/react-gh-pages/static/media/post-2.643d14f748548d2b4d8b.jpg",
+    "static/media/themify.eot": "/react-gh-pages/static/media/themify.9bad94440d49256265a5.eot",
+    "static/media/themify.ttf?-fvbane": "/react-gh-pages/static/media/themify.eda8b94308c6f538f04a.ttf",
+    "static/media/themify.woff?-fvbane": "/react-gh-pages/static/media/themify.29b39089170885ae2967.woff",
+    "static/media/logoImage.png": "/react-gh-pages/static/media/logoImage.a8417b889d7424290eb4.png",
+    "static/media/author.jpg": "/react-gh-pages/static/media/author.2a2b847c1fc5c482598d.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e29e2786.css.map": "/react-gh-pages/static/css/main.e29e2786.css.map",
+    "main.52f49616.js.map": "/react-gh-pages/static/js/main.52f49616.js.map",
+    "787.eb9d0b2d.chunk.js.map": "/react-gh-pages/static/js/787.eb9d0b2d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e29e2786.css",
+    "static/js/main.52f49616.js"
+  ]
+}
