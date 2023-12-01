@@ -1,23 +1,18 @@
-import React, { useEffect, useState } from 'react';
+import React, {useState } from 'react';
 import './LocationListings.css';
-import RecipeReviewCard from '../../commons/Card/Card';
 import data from '../../data/CafeResturants.json';
-import Row from 'react-bootstrap/Row';
-import Col from 'react-bootstrap/Col';
 import TextField from '@mui/material/TextField';
 import IconButton from '@mui/material/IconButton';
 import SearchIcon from '@mui/icons-material/Search';
 import { Link } from 'react-router-dom'
-import {useLocation} from 'react-router-dom';
-
-
-
+import { useLocation } from 'react-router-dom';
+import LocationCards from '../../commons/locationCard/locationCard'
 
 function LocationListings() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredLocations, setFilteredLocations] = useState(data);
   const location = useLocation();
-  if(location?.state?.value){
+  if (location?.state?.value) {
     console.log(location?.state?.value)
     // document.getElementById('searchBar').value = "test"
   }
@@ -56,18 +51,26 @@ function LocationListings() {
           onChange={(e) => handleSearch(e)}
         />
       </div>
-      <div className='padding-5'>
-        <Row xs={1} md={5} className="g-4">
-          {filteredLocations.map((location, index) => (
-            <Col key={index}>
-              <Link to={'/location/' + location.title} state={{ loc: location }}>
-                <RecipeReviewCard id={location.title} data={location} />
-              </Link>
-            </Col>
-          ))}
-        </Row>
+      <section className="section-sm">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-12">
+              <div className="title text-center">
+                <h2 className="mb-5">Posted by this author</h2>
+              </div>
+            </div>
 
-      </div>
+            {filteredLocations.map((location, index) => (
+              <div className="col-lg-4 col-sm-6 mb-4">
+              <Link to={'/location/' + location.title} state={{ loc: location }}>
+                  <LocationCards id={location.title} data={location} />
+              </Link>
+              </div>
+            ))}
+
+          </div>
+        </div>
+      </section>
     </div>
   );
 }

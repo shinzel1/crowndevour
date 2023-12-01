@@ -1,0 +1,14 @@
+[
+    {
+        "title": "dramz",
+        "name": "Dramz",
+        "location": "Chanakyapuri, Delhi",
+        "type": "Rooftop Restaurant",
+        "highlights": [
+          "Scenic Views",
+          "Diverse Menu"
+        ],
+        "description": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
+        "image": "path/to/dramz-image.jpg"
+      }
+]
