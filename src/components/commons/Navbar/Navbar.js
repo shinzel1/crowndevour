@@ -24,7 +24,7 @@ const Navbar = () => {
   <BootstrapNavbar.Toggle aria-controls="basic-navbar-nav" />
   <BootstrapNavbar.Collapse id="basic-navbar-nav">
     <Nav className="">
-      <Nav.Link as={Link} to="/locations"  className={"underline" + (url === "/locations" ?" active" : "")}>Locations</Nav.Link>
+      <Nav.Link as={Link} to="/location"  className={"underline" + (url === "/location" ?" active" : "")}>Locations</Nav.Link>
       <Nav.Link as={Link} to="/blogs"  className={"underline" + (url === "/blogs" ?" active" : "")}>Blogs</Nav.Link>
       <Nav.Link as={Link} to="/thelas-near-location"  className={"underline" + (url === "/thelas-near-location" ?" active" : "")}>Register</Nav.Link>
       <Nav.Link as={Link} to="/about"  className={"underline" + (url === "/about" ?" active" : "")}>About</Nav.Link>

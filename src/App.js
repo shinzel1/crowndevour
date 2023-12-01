@@ -25,10 +25,10 @@ function App() {
     <Route path="*" element={ <Navigate to="/404" replace />} />
       <Route path="/" Component={Homepage} />
       <Route path="/thelas-near-location" Component={ThelasNearLocation} />
-      <Route path="/locations" element={<SearchAndFilter />} />
+      <Route path="/location" element={<SearchAndFilter />} />
       <Route path="/location/:id" element={<LocationDetail />} />
       <Route path="/blogs" element={<BlogListings />} />
-      <Route path="/blog-post/:id" element={<BlogPostDetail />} />
+      <Route path="/blogs/:id" element={<BlogPostDetail />} />
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/user-profile" element={<UserProfile />} />

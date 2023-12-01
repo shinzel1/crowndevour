@@ -17,7 +17,7 @@ const BlogListings = () => {
         <Row xs={1} md={4} className="g-4">
           {blogPosts.map((post, index) => (
             <Col key={index}>
-              <Link to={'/blog-post/' + post.title} state={{ post: post }}>
+              <Link to={'/blogs/' + post.title} state={{ post: post }}>
                 <BlogPostCards key={post.title} data={post} />
               </Link>
             </Col>
