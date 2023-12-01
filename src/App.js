@@ -18,7 +18,7 @@ import Footer from './components/layout/Footer/Footer'
 
 function App() {
   return (
-    <Router basename="/crowndevour">
+    <Router basename={process.env.PUBLIC_URL}>
   <div className="App">
   <Header/>
     <Routes>
