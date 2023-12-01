@@ -18,10 +18,11 @@ import Footer from './components/layout/Footer/Footer'
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/crowndevour">
   <div className="App">
   <Header/>
     <Routes>
+    <Route path="*" element={ <Navigate to="/404" replace />} />
       <Route path="/" Component={Homepage} />
       <Route path="/thelas-near-location" Component={ThelasNearLocation} />
       <Route path="/locations" element={<SearchAndFilter />} />
@@ -31,7 +32,6 @@ function App() {
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/user-profile" element={<UserProfile />} />
-      <Route path="*" element={ <Navigate to="/404" replace />} />
     </Routes>
     <Footer/>
   </div>
