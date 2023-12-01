@@ -6,7 +6,7 @@ const locationCard = ({ data }) => {
 	return (
 		<article className="mb-5">
                 <div className="post-slider slider-sm">
-                  <img loading="lazy" src={post5} className="img-fluid" alt="post-thumb" />
+                  <img loading="lazy" src={data.image} className="img-fluid" alt="post-thumb" />
                   {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
                 </div>

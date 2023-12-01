@@ -18,7 +18,7 @@ function LocationDetail() {
 			<article class="row mb-5">
 				<div class="col-12">
 					<div class="post-slider">
-						<img loading="lazy" src={imagse} class="img-fluid" alt="post-thumb" />
+						<img loading="lazy" src={loc.image} class="img-fluid" alt="post-thumb" />
 						{/* <img loading="lazy" src="images/post/post-1.jpg" class="img-fluid" alt="post-thumb"/>
 				<img loading="lazy" src="images/post/post-3.jpg" class="img-fluid" alt="post-thumb"/> */}
 					</div>
