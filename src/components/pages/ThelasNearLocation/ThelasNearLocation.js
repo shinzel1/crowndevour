@@ -1,10 +1,6 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import Fab from '@mui/material/Fab';
 import AddIcon from '@mui/icons-material/Add';
-import post1 from '../../data/Images/post/post-1.jpg'
-import post2 from '../../data/Images/post/post-2.jpg'
-import post3 from '../../data/Images/post/post-3.jpg'
-import post4 from '../../data/Images/post/post-4.jpg'
 import './ThelasNearLocation.css'
 import Modal from 'react-bootstrap/Modal';
 import Col from 'react-bootstrap/Col';
@@ -14,9 +10,28 @@ import { GoogleMap, useJsApiLoader } from '@react-google-maps/api';
 import { Link } from 'react-router-dom';
 import LocationLists from '../../data/ThelasNearMe.json'
 import LocationCards from '../../commons/locationCard/locationCard'
+import { useLocation } from 'react-router-dom';
 
 const ThelasNearLocation = () => {
   const [show, setShow] = useState(false);
+
+  const search = useLocation().search;
+  const id = new URLSearchParams(search).get("keyId");
+
+  useEffect(() => {
+    // Get the element by ID
+    if (id !== null && id !== "null") {
+      const element = document.getElementById(id);
+      // Trigger a click event on the element
+      if (element) {
+        element.click();
+      }else{
+        window.location.href = "404"
+      }
+    }
+  }, []);
+
+
   const containerStyle = {
     width: '400px',
     height: '400px'

@@ -29,7 +29,7 @@ const Navbar = () => {
       <Nav.Link as={Link} to="/thelas-near-location"  className={"underline" + (url === "/thelas-near-location" ?" active" : "")}>Register</Nav.Link>
       <Nav.Link as={Link} to="/about"  className={"underline" + (url === "/about" ?" active" : "")}>About</Nav.Link>
       <Nav.Link as={Link} to="/contact"  className={"underline" + (url === "/contact" ?" active" : "")}>Contact</Nav.Link>
-      <Nav.Link as={Link} to="/user-profile"  className={"underline" + (url === "/user-profile" ?" active" : "")}>Author</Nav.Link>
+      {/* <Nav.Link as={Link} to="/user-profile"  className={"underline" + (url === "/user-profile" ?" active" : "")}>Author</Nav.Link> */}
     </Nav>
   </BootstrapNavbar.Collapse>  
 </BootstrapNavbar>
