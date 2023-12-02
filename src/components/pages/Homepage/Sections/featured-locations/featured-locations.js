@@ -4,7 +4,6 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import './featured-locations.css'
 import itemData from '../../../../data/CafeResturants.json'
-import imageFeature from "../../../../data/Images/post/post-4.jpg"
 import { Link } from 'react-router-dom'
 export default function MasonryImageList() {
   return (
@@ -15,8 +14,8 @@ export default function MasonryImageList() {
             <Link to={'/location/' + item.title} state={{ loc: item }} key={item.title+ "ahref"}>
             <ImageListItem key={item.title + "Masonry"}>
                 <img className='darker'
-                  srcSet={`${imageFeature}?w=248&fit=crop&auto=format&dpr=2 2x`}
-                  src={`${imageFeature}?w=248&fit=crop&auto=format`}
+                  srcSet={`${item.image}?w=248&fit=crop&auto=format&dpr=2 2x`}
+                  src={`${item.image}?w=248&fit=crop&auto=format`}
                   alt={item.name}
                   loading="lazy"
                 />
