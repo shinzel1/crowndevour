@@ -8,6 +8,7 @@
       "Scenic Views",
       "Diverse Menu"
     ],
+    "category":["cafe","restaurant"],
     "description": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-3.18e25b9ea4856ae80194.jpg"
   },
@@ -19,6 +20,7 @@
     "highlights": [
       "Vibrant Ambiance"
     ],
+    "category":["cafe","thelas","restaurant"],
     "description": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -30,6 +32,7 @@
     "specialties": [
       "Dishes from Karnataka and Kerala"
     ],
+    "category":["cafe","thelas","restaurant"],
     "description": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-1.72af24a0045586ba2c63.jpg"
   },
@@ -42,6 +45,7 @@
       "International Dishes",
       "Café-Style Section"
     ],
+    "category":["cafe","thelas","restaurant"],
     "description": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-1.72af24a0045586ba2c63.jpg"
   },
@@ -53,6 +57,7 @@
     "specialties": [
       "Luxurious Dining"
     ],
+    "category":["cafe","thelas","restaurant"],
     "description": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -65,6 +70,7 @@
       "Lively Ambiance",
       "Diverse Menu"
     ],
+    "category":["cafe","thelas","restaurant"],
     "description": "Social Offline is a popular hangout spot in Hauz Khas Village known for its lively ambiance and a diverse menu offering a range of culinary delights.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -76,6 +82,7 @@
     "highlights": [
       "Cozy Atmosphere"
     ],
+    "category":["cafe","thelas","restaurant"],
     "description": "Yeti - The Himalayan Kitchen offers a cozy atmosphere and specializes in Himalayan cuisine, providing a unique dining experience.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -88,6 +95,7 @@
       "Relaxed Setting",
       "Diverse Menu"
     ],
+    "category":["cafe","thelas","restaurant"],
     "description": "Hauz Khas Social is a café with a relaxed setting and a diverse menu, making it a popular spot for the community to gather.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -100,6 +108,7 @@
       "European",
       "Italian"
     ],
+    "category":["cafe","restaurant"],
     "description": "Smoke House Deli is a contemporary café with a menu featuring European and Italian cuisines, offering a delightful culinary experience.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -112,6 +121,7 @@
       "Cozy Atmosphere",
       "Desserts"
     ],
+    "category":["cafe","restaurant"],
     "description": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -123,6 +133,7 @@
     "cuisines": [
       "South Indian"
     ],
+    "category":["cafe","restaurant"],
     "description": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -134,6 +145,7 @@
     "highlights": [
       "Rooftop Seating"
     ],
+    "category":["cafe","restaurant"],
     "description": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
@@ -145,6 +157,7 @@
     "highlights": [
       "Modern Twist"
     ],
+    "category":["cafe","restaurant"],
     "description": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   }

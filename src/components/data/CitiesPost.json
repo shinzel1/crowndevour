@@ -1,0 +1,78 @@
+[{
+    "name": "Delhi",
+    "title": "Delhi",
+    "highlights": [
+      "Historical Street Food",
+      "Mughlai Delicacies",
+      "Diverse Culinary Heritage",
+      "Food Bazaars and Markets",
+      "Street Chaat and Snacks",
+      "Rooftop Dining Experiences",
+      "Cultural Fusion of Flavors"
+    ],
+    "description": "Delhi, the capital city of India, is a treasure trove of culinary delights. As a food blogger with a love for diverse tastes and rich heritage, Delhi offers a culinary journey that spans from historical street food vendors to modern rooftop dining experiences. Indulge in the vibrant street chaat, Mughlai delicacies, and explore the diverse culinary heritage of this bustling metropolis.",
+    "tags": [
+      "Delhi Street Food",
+      "Mughlai Cuisine Delhi",
+      "Culinary Heritage Delhi",
+      "Delhi Food Bazaars",
+      "Rooftop Dining Delhi",
+      "Delhi Chaat",
+      "Diverse Flavors Delhi",
+      "Delhi Food Blog",
+      "Historical Street Food Delhi"
+    ],
+    "image":"https://picsum.photos/id/1011/800/450"
+  },
+  {
+    "name": "Mumbai",
+    "title": "Mumbai",
+    "highlights": [
+      "Street Vada Pav and Pav Bhaji",
+      "Coastal Seafood Delicacies",
+      "Bollywood-Inspired Cafes",
+      "Diverse Street Food Culture",
+      "Local Snacks and Chaats",
+      "Colaba Causeway Shopping and Eats",
+      "Marine Drive Food Experiences"
+    ],
+    "description": "Mumbai, the city of dreams, is also a paradise for food lovers. Dive into the bustling street food culture, savor iconic Vada Pav and Pav Bhaji, indulge in coastal seafood delicacies, and explore Bollywood-inspired cafes. From local snacks and chaats to the vibrant food experiences along Marine Drive, Mumbai offers a diverse and dynamic culinary scene.",
+    "tags": [
+      "Mumbai Street Food",
+      "Coastal Cuisine Mumbai",
+      "Bollywood Cafes",
+      "Street Food Culture Mumbai",
+      "Local Snacks Mumbai",
+      "Colaba Causeway Eats",
+      "Marine Drive Food Mumbai",
+      "Mumbai Food Blog"
+    ],
+    "image":"https://picsum.photos/id/1005/800/450"
+  },
+  {
+    "name": "Bangalore",
+    "title": "Bangalore",
+    "highlights": [
+      "South Indian Delights",
+      "Pub Capital of India",
+      "Multicultural Flavors",
+      "Garden City's Cafes",
+      "Tech Parks and Food Trucks",
+      "Farm-to-Table Experiences",
+      "Food Street and Market Explorations"
+    ],
+    "description": "Bangalore, the vibrant and cosmopolitan city known as the Silicon Valley of India, is not only a tech hub but also a haven for food enthusiasts. As a food blogger with a penchant for diverse culinary experiences, Bangalore provides an exciting palette of flavors, blending traditional South Indian tastes with a global culinary influence.",
+    "tags": [
+      "Bangalore Pub Culture",
+      "South Indian Food Bangalore",
+      "Cafes in the Garden City",
+      "Bangalore Food Trucks",
+      "Multicultural Cuisine Bangalore",
+      "Farm-to-Table Bangalore",
+      "Tech Park Food Scene",
+      "Bangalore Food Blog",
+      "Street Food Exploration",
+      "Garden City Culinary Journey"
+    ],
+    "image":"https://picsum.photos/id/103/800/450"
+  }]

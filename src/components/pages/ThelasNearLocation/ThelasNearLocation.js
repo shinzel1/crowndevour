@@ -8,7 +8,7 @@ import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import { GoogleMap, useJsApiLoader } from '@react-google-maps/api';
 import { Link } from 'react-router-dom';
-import LocationLists from '../../data/ThelasNearMe.json'
+import LocationLists from '../../data/CafeResturants.json'
 import LocationCards from '../../commons/locationCard/locationCard'
 import { useLocation } from 'react-router-dom';
 
@@ -17,6 +17,9 @@ const ThelasNearLocation = () => {
 
   const search = useLocation().search;
   const id = new URLSearchParams(search).get("keyId");
+
+  const thelas = LocationLists.filter(locatione => locatione.category.includes('thelas'));
+
 
   useEffect(() => {
     // Get the element by ID
@@ -124,19 +127,20 @@ const ThelasNearLocation = () => {
       </Modal>
       <section className="section-sm">
         <div className="container">
-          <div className="row">
+
+        <div className="row">
             <div className="col-lg-12">
               <div className="title text-center">
                 <h2 className="mb-5">Posted by this author</h2>
               </div>
             </div>
 
-            {LocationLists.map((post) => (
-              <Link to={'/location/' + post.title} state={{ loc: post }}>
-                <div className="col-lg-4 col-sm-6 mb-4">
-                  <LocationCards data={post} />
-                </div>
-              </Link>
+            {thelas.map((location, index) => (
+              <div className="col-lg-4 col-sm-6 mb-4">
+                <Link to={'/location/' + location.title} state={{ loc: location }}>
+                  <LocationCards data={location} />
+                </Link>
+              </div>
             ))}
           </div>
         </div>
