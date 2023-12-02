@@ -100,25 +100,25 @@ h6, .h6 {
 
 /* Button style */
 .btn {
-  font-size: 14px;
-  font-family: "Open Sans", sans-serif;
-  text-transform: capitalize;
-  padding: 8px 25px;
-  border-radius: 50px;
-  border: 1px solid;
-  position: relative;
-  z-index: 1;
-  transition: 0.2s ease;
+  font-size: 14px !important;
+  font-family: "Poppins", sans-serif;
+  text-transform: capitalize !important;
+  padding: 8px 25px !important;
+  border-radius: 50px !important;
+  border: 1px solid !important;
+  position: relative !important;
+  z-index: 1 !important;
+  transition: 0.2s ease !important;
 }
 .btn:hover, .btn:active, .btn:focus {
-  outline: 0;
+  outline: 0 !important;
   box-shadow: none !important;
 }
 
 .btn-primary {
-  background: #ce8460;
-  color: #fff;
-  border-color: #ce8460;
+  background: #ce8460 !important;
+  color: #fff !important;
+  border-color: #ce8460 !important;
 }
 .btn-primary:active, .btn-primary:hover, .btn-primary.focus, .btn-primary.active {
   background: #ce8460 !important;
@@ -126,14 +126,14 @@ h6, .h6 {
 }
 
 .btn-outline-primary {
-  background: transparent;
-  color: #696c6d;
-  border-color: #ce8460;
+  background: transparent !important;
+  color: #696c6d !important;
+  border-color: #ce8460 !important;
 }
 .btn-outline-primary:active, .btn-outline-primary:hover, .btn-outline-primary.focus, .btn-outline-primary.active {
   background: #ce8460 !important;
   border-color: #ce8460 !important;
-  color: #fff;
+  color: #fff !important;
 }
 
 .btn-outline-light {
@@ -449,22 +449,22 @@ a:hover {
 }
 
 .post-title {
-  color: #1c1d1f;
+  color: #1c1d1f !important;
 }
 .post-title:hover {
-  color: #ce8460;
+  color: #ce8460 !important;
 }
 
 .post-meta li {
-  margin-right: 10px;
-  font-size: 90%;
+  margin-right: 10px !important;
+  font-size: 90% !important;
 }
 .post-meta a {
-  color: #696c6d;
-  border-bottom: 1px dotted #ddd;
+  color: #696c6d !important;
+  border-bottom: 1px dotted #ddd !important;
 }
 .post-meta a:hover {
-  color: #ce8460;
+  color: #ce8460 !important;
 }
 
 .recent-thumb-alt {
@@ -472,7 +472,7 @@ a:hover {
   height: 60px;
   width: 60px;
   border-radius: 50%;
-  background-color: #ce8460;
+  background-color: #ce8460 !important;
   text-align: center;
 }
 .recent-thumb-alt::first-letter {
@@ -893,7 +893,7 @@ a:hover {
   color: #1c1d1f;
 }
 .widget-list li a:hover {
-  color: #ce8460;
+  color: #ce8460 !important;
 }
 .widget-list-inline li {
   margin-bottom: 10px;
@@ -906,9 +906,9 @@ a:hover {
   color: #696c6d;
 }
 .widget-list-inline li a:hover {
-  border-color: #ce8460;
-  background: #ce8460;
-  color: #fff;
+  border-color: #ce8460 !important;
+  background: #ce8460 !important;
+  color: #fff !important;
 }
 .widget-post {
   padding: 15px 0 !important;
