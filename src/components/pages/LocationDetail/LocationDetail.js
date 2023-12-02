@@ -21,7 +21,7 @@ function LocationDetail() {
 								</div>
 							</div>
 							<div class="col-12 mx-auto">
-								<h3><a class="post-title" href="post-elements.html">{loc.name}</a></h3>
+								<h3><a class="post-title" href="#">{loc.name}</a></h3>
 								<ul class="list-inline post-meta mb-4">
 									<li class="list-inline-item"><i class="ti-user mr-2"></i>
 										<a href="author.html">John Doe</a>

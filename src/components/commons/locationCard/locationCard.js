@@ -1,5 +1,4 @@
 import React from 'react';
-import post5 from '../../data/Images/post/post-6.jpg'
 
 const locationCard = ({data }) => {
 	// Sample data for blog listings

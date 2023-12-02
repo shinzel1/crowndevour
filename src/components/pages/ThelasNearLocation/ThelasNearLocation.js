@@ -117,9 +117,9 @@ const ThelasNearLocation = () => {
             </div>
 
             {LocationLists.map((post) => (
-              <Link to={'/location/' + post.title} state={{ post: post }}>
+              <Link to={'/location/' + post.title} state={{ loc: post }}>
                 <div className="col-lg-4 col-sm-6 mb-4">
-                  <LocationCards key={post.title} data={post} />
+                  <LocationCards data={post} />
                 </div>
               </Link>
             ))}
