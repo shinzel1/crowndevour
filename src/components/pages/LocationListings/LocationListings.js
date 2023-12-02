@@ -39,6 +39,8 @@ function LocationListings() {
       // Trigger a click event on the element
       if (element) {
         element.click();
+      }else{
+        window.location.href = "404"
       }
     }
   }, []);
