@@ -14,7 +14,6 @@ function LocationListings() {
   const location = useLocation();
 
   if (location?.state?.value) {
-    console.log(location?.state?.value)
     // document.getElementById('searchBar').value = "test"
   }
   const search = useLocation().search;

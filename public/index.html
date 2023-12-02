@@ -15,10 +15,8 @@
         var decodedKey = ""
         if (decoded.slice(1).indexOf('/') > 0) {
           decodedKey = decoded.substring(decoded.slice(1).indexOf('/') + 2)
-          console.log(decodedKey)
           decoded = decoded.substring(0, decoded.indexOf(decodedKey) - 1)
           decoded = decoded + "?keyId=" + decodedKey
-          console.log(decoded)
         }
         window.history.replaceState(null, null,
           l.pathname.slice(0, -1) + decoded + l.hash
