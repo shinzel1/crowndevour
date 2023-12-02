@@ -17,7 +17,7 @@
           decodedKey = decoded.substring(decoded.slice(1).indexOf('/') + 2)
           console.log(decodedKey)
           decoded = decoded.substring(0, decoded.indexOf(decodedKey) - 1)
-          decoded = decoded + "?key=" + decodedKey
+          decoded = decoded + "?keyId=" + decodedKey
           console.log(decoded)
         }
         window.history.replaceState(null, null,

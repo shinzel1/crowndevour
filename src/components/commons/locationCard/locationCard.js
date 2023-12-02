@@ -1,10 +1,11 @@
 import React from 'react';
 import post5 from '../../data/Images/post/post-6.jpg'
 
-const locationCard = ({ data }) => {
+const locationCard = ({data }) => {
 	// Sample data for blog listings
 	return (
-		<article className="mb-5">
+    
+		<article className="mb-5" id={data.title}>
                 <div className="post-slider slider-sm">
                   <img loading="lazy" src={data.image} className="img-fluid" alt="post-thumb" />
                   {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />

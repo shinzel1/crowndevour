@@ -1,4 +1,4 @@
-import React, {useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './LocationListings.css';
 import data from '../../data/CafeResturants.json';
 import TextField from '@mui/material/TextField';
@@ -12,11 +12,13 @@ function LocationListings() {
   const [searchQuery, setSearchQuery] = useState('');
   const [filteredLocations, setFilteredLocations] = useState(data);
   const location = useLocation();
+
   if (location?.state?.value) {
     console.log(location?.state?.value)
     // document.getElementById('searchBar').value = "test"
   }
-
+  const search = useLocation().search;
+  const id = new URLSearchParams(search).get("keyId");
   const handleSearch = (e) => {
     setSearchQuery(e.target.value)
     const query = searchQuery.toLowerCase();
@@ -30,6 +32,16 @@ function LocationListings() {
 
     setFilteredLocations(filtered);
   };
+  useEffect(() => {
+    // Get the element by ID
+    if (id !== null && id !== "null") {
+      const element = document.getElementById(id);
+      // Trigger a click event on the element
+      if (element) {
+        element.click();
+      }
+    }
+  }, []);
 
   return (
     <div className="location-listings">
@@ -62,9 +74,9 @@ function LocationListings() {
 
             {filteredLocations.map((location, index) => (
               <div className="col-lg-4 col-sm-6 mb-4">
-              <Link to={'/location/' + location.title} state={{ loc: location }}>
-                  <LocationCards id={location.title} data={location} />
-              </Link>
+                <Link to={'/location/' + location.title} state={{ loc: location }}>
+                  <LocationCards data={location} />
+                </Link>
               </div>
             ))}
 
