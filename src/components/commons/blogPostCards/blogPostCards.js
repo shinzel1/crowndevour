@@ -4,7 +4,7 @@ const BlogPostCards = ({ data }) => {
 	// Sample data for blog listings
 	return (
 	
-		<article className="mb-5" id={data.name}>
+		<article className="mb-5" id={data.title}>
               <div className="post-slider slider-sm">
                 <img loading="lazy" src= {data.imageSrc} className="img-fluid" alt="post-thumb" />
                 {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
