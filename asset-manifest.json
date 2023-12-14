@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crowndevour/static/css/main.21641cdd.css",
-    "main.js": "/crowndevour/static/js/main.0d75455e.js",
+    "main.js": "/crowndevour/static/js/main.daad776a.js",
     "static/js/787.eb9d0b2d.chunk.js": "/crowndevour/static/js/787.eb9d0b2d.chunk.js",
     "static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg": "/crowndevour/static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.3d0aa9bbb63ea6705678.jpg",
     "static/media/nadine-primeau-n4RrgczkLJM-unsplash.jpg": "/crowndevour/static/media/nadine-primeau-n4RrgczkLJM-unsplash.0ec635291392f0ba63e6.jpg",
@@ -9,10 +9,9 @@
     "static/media/chad-montano-eeqbbemH9-c-unsplash.jpg": "/crowndevour/static/media/chad-montano-eeqbbemH9-c-unsplash.a8818479a06483274a5a.jpg",
     "static/media/jen-p-FoG8lotg7AA-unsplash.jpg": "/crowndevour/static/media/jen-p-FoG8lotg7AA-unsplash.57fa288aae70374842b6.jpg",
     "static/media/zoe-EqgySSNO2kw-unsplash.jpg": "/crowndevour/static/media/zoe-EqgySSNO2kw-unsplash.215e7d29904ed1580a74.jpg",
-    "static/media/post-1.jpg": "/crowndevour/static/media/post-1.72af24a0045586ba2c63.jpg",
+    "static/media/post-1.jpg": "/crowndevour/static/media/post-1.1f0df48a78c066ef1751.jpg",
     "static/media/post-4.jpg": "/crowndevour/static/media/post-4.c59c27cf849c07701e1c.jpg",
     "static/media/post-6.jpg": "/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg",
-    "static/media/author-full.jpg": "/crowndevour/static/media/author-full.ab035184e7bb51667e87.jpg",
     "static/media/themify.svg?-fvbane": "/crowndevour/static/media/themify.f0fc8c798eac5636249c.svg",
     "static/media/post-5.jpg": "/crowndevour/static/media/post-5.ffdf7d308ad867434747.jpg",
     "static/media/post-3.jpg": "/crowndevour/static/media/post-3.18e25b9ea4856ae80194.jpg",
@@ -24,11 +23,11 @@
     "static/media/author.jpg": "/crowndevour/static/media/author.2a2b847c1fc5c482598d.jpg",
     "index.html": "/crowndevour/index.html",
     "main.21641cdd.css.map": "/crowndevour/static/css/main.21641cdd.css.map",
-    "main.0d75455e.js.map": "/crowndevour/static/js/main.0d75455e.js.map",
+    "main.daad776a.js.map": "/crowndevour/static/js/main.daad776a.js.map",
     "787.eb9d0b2d.chunk.js.map": "/crowndevour/static/js/787.eb9d0b2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.21641cdd.css",
-    "static/js/main.0d75455e.js"
+    "static/js/main.daad776a.js"
   ]
 }
