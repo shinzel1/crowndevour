@@ -1,5 +1,5 @@
 import React from 'react';
-import authorImage from "../../data/Images/author-full.jpg"
+import authorImage from "../../data/Images/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg"
 
 const About = () => {
   return (

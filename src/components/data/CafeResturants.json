@@ -100,19 +100,6 @@
     "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
   },
   {
-    "title": "smoke-house-deli",
-    "name": "Smoke House Deli",
-    "location": "12, Hauz Khas Village",
-    "type": "Contemporary Café",
-    "cuisines": [
-      "European",
-      "Italian"
-    ],
-    "category":["cafe","restaurant"],
-    "description": "Smoke House Deli is a contemporary café with a menu featuring European and Italian cuisines, offering a delightful culinary experience.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
-  },
-  {
     "title": "elmas-bakery-bar-kitchen",
     "name": "Elma's Bakery, Bar, and Kitchen",
     "location": "31, 2nd Floor, Hauz Khas Village",

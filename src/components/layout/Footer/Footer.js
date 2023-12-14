@@ -1,23 +1,63 @@
 import React from 'react';
+import Logo from '../../data/Images/logoImage.png'
+
+
 function Footer() {
     return (
       <div className='shadowDiv'>
-        <div className="container">
-      <footer className="d-flex flex-wrap justify-content-between align-items-center py-3 my-4 border-top">
-        <div className="col-md-4 d-flex align-items-center">
-          <a href="/" className="mb-3 me-2 mb-md-0 text-muted text-decoration-none lh-1">
-            {/* <svg className="bi" width="30" height="24"><use xlink:href="#bootstrap"></use></svg> */}
-          </a>
-          <span className="mb-3 mb-md-0 text-muted">© 2022 Company, Inc</span>
-        </div>
-    
-        <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
-          <li className="ms-3">facebook</li>
-          <li className="ms-3">insta</li>
-          <li className="ms-3">Facebook</li>
-        </ul>
-      </footer>
-    </div>
+        <footer className="section-sm pb-0 border-top border-default">
+      <div className="container">
+         <div className="row justify-content-between">
+            <div className="col-md-3 mb-4">
+               <a className="mb-4 d-block" href="/crowndevour">
+                  <img className="img-fluid" width="150px" src={Logo} alt="Crowndevour"/>
+               </a>
+               {/* <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p> */}
+            </div>
+            <div className="col-lg-2 col-md-3 col-6 mb-4">
+               <h6 className="mb-4">Quick Links</h6>
+               <ul className="list-unstyled footer-list">
+                  <li><a href="/crowndevour/about">About</a></li>
+                  <li><a href="/crowndevour/contact">Contact</a></li>
+                  <li><a href="/crowndevour/privacy-policy">Privacy Policy</a></li>
+                  <li><a href="/crowndevour/terms-conditions">Terms Conditions</a></li>
+               </ul>
+            </div>
+
+            <div className="col-lg-2 col-md-3 col-6 mb-4">
+               <h6 className="mb-4">Social Links</h6>
+               <ul className="list-unstyled footer-list">
+               <li><a href="https://www.instagram.com/crowndevour/">instagram</a></li>
+                  <li><a href="https://www.facebook.com/crowndevour98">facebook</a></li>
+                  <li><a href="https://twitter.com/crowndevour">twitter</a></li>
+                  <li><a href="https://www.linkedin.com/in/crowndevour/">linkedin</a></li>
+               </ul>
+            </div>
+
+            <div className="col-md-3 mb-4">
+               <h6 className="mb-4">Subscribe Newsletter</h6>
+               <form className="subscription" action="javascript:void(0)" method="post">
+                  <div className="position-relative">
+                     <i className="ti-email email-icon"></i>
+                     <input type="email" className="form-control" placeholder="Your Email Address"/>
+                  </div>
+                  <button className="btn btn-primary btn-block rounded" type="submit">Subscribe now</button>
+               </form>
+            </div>
+         </div>
+         <div className="scroll-top">
+            <a href="javascript:void(0);" id="scrollTop"><i className="ti-angle-up"></i></a>
+         </div>
+         <div className="text-center">
+            <p className="content">&copy; 2023 - Crowndevour</p>
+         </div>
+      </div>
+   </footer>
+
+   <script src="plugins/jQuery/jquery.min.js"></script>
+   <script src="plugins/bootstrap/bootstrap.min.js" async></script>
+   <script src="plugins/slick/slick.min.js"></script>
+   <script src="js/script.js"></script>
       </div>
     );
   }

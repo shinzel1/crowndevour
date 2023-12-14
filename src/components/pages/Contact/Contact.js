@@ -18,14 +18,16 @@ const Contact = () => {
             <div className="title-bordered mb-5 d-flex align-items-center">
               <h1 className="h4">Talk To Me Anytime :</h1>
               <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
-                <li className="list-inline-item"><a href="#"><i className="ti-facebook"></i></a>
+              <li className="list-inline-item"><a href="https://www.instagram.com/crowndevour/" target='_blank'><i className="ti-instagram"></i></a>
                 </li>
-                <li className="list-inline-item"><a href="#"><i className="ti-twitter-alt"></i></a>
+                <li className="list-inline-item"><a href="https://www.facebook.com/crowndevour98" target='_blank'><i className="ti-facebook"></i></a>
                 </li>
-                <li className="list-inline-item"><a href="#"><i className="ti-linkedin"></i></a>
+                <li className="list-inline-item"><a href="https://twitter.com/crowndevour"  target='_blank'><i className="ti-twitter-alt" ></i></a>
                 </li>
-                <li className="list-inline-item"><a href="#"><i className="ti-github"></i></a>
+                <li className="list-inline-item"><a href="https://www.linkedin.com/in/crowndevour/" target='_blank'><i className="ti-linkedin"></i></a>
                 </li>
+                {/* <li className="list-inline-item"><a href="" target='_blank'><i className="ti-github"></i></a>
+                </li> */}
               </ul>
             </div>
           </div>

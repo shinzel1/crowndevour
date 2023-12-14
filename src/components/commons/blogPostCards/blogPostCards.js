@@ -4,13 +4,13 @@ const BlogPostCards = ({ data }) => {
 	// Sample data for blog listings
 	return (
 	
-		<article className="mb-5" id={data.title}>
+		<article className="mb-5" id={data.name}>
               <div className="post-slider slider-sm">
                 <img loading="lazy" src= {data.imageSrc} className="img-fluid" alt="post-thumb" />
                 {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
               </div>
-              <h3 className="h5"><a className="post-title" href="post-elements.html">{data.title}</a></h3>
+              <h3 className="h5"><a className="post-title" href="post-elements.html">{data.name}</a></h3>
               <ul className="list-inline post-meta mb-2">
                 <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
                   Doe</a>
