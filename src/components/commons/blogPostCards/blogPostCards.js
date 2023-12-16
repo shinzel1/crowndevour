@@ -5,8 +5,8 @@ const BlogPostCards = ({ data }) => {
 	return (
 	
 		<article className="mb-5" id={data.title}>
-              <div className="post-slider slider-sm">
-                <img loading="lazy" src= {data.imageSrc} className="img-fluid" alt="post-thumb" />
+              <div className="post-slider slider-sm blogPostCardImage">
+                <img loading="lazy" src= {data.imageSrc} className="img-fluid image" alt="post-thumb" />
                 {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
               </div>

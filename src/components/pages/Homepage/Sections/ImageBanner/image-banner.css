@@ -47,6 +47,7 @@
     box-shadow: 2px 2px 16px 2px rgba(0,0,0,0.5);
   }
   
+  
   .second-animation {
     animation-delay: -1.5s;
   }
@@ -105,3 +106,25 @@
       display: none;
     }
   }
+  @media (max-width: 576px) { 
+    .img-container {
+      width: 7rem;
+   }
+   }
+
+/* // Medium devices (tablets, 768px and up) */
+@media (max-width: 768px) { 
+  .img-container {
+    width: 7rem;
+ }
+ }
+ @media (max-width: 500px) { 
+  .img-container {
+    display: none;
+ }
+ }
+
+/* // Large devices (desktops, 992px and up) */
+/* @media (min-width: 992px) {
+
+ } */

@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from '../../data/Images/logoImage.png'
+import Logo from '../../data/Images/WholeImage.png'
 
 
 function Footer() {
@@ -10,7 +10,7 @@ function Footer() {
          <div className="row justify-content-between">
             <div className="col-md-3 mb-4">
                <a className="mb-4 d-block" href="/crowndevour">
-                  <img className="img-fluid" width="150px" src={Logo} alt="Crowndevour"/>
+                  <img className="img-fluid" src={Logo} alt="Crowndevour"/>
                </a>
                {/* <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p> */}
             </div>
@@ -27,10 +27,10 @@ function Footer() {
             <div className="col-lg-2 col-md-3 col-6 mb-4">
                <h6 className="mb-4">Social Links</h6>
                <ul className="list-unstyled footer-list">
-               <li><a href="https://www.instagram.com/crowndevour/">instagram</a></li>
-                  <li><a href="https://www.facebook.com/crowndevour98">facebook</a></li>
-                  <li><a href="https://twitter.com/crowndevour">twitter</a></li>
-                  <li><a href="https://www.linkedin.com/in/crowndevour/">linkedin</a></li>
+               <li><a href="https://www.instagram.com/crowndevour/" target='_blank'>instagram</a></li>
+                  <li><a href="https://www.facebook.com/crowndevour98" target='_blank'>facebook</a></li>
+                  <li><a href="https://twitter.com/crowndevour" target='_blank'>twitter</a></li>
+                  <li><a href="https://www.linkedin.com/in/crowndevour/" target='_blank'>linkedin</a></li>
                </ul>
             </div>
 

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -8,6 +8,32 @@ import "../../data/plugins/themify-icons/themify-icons.css"
 import "../../data/plugins/bootstrap/bootstrap.min.css"
 import './Contact.css'
 const Contact = () => {
+  const [formData, setFormData] = useState({
+    // Initialize form fields
+    name: '',
+    email: '',
+    message: '',
+    // Add more fields as needed
+  });
+  const handleChange = (e) => {
+    const { name, value } = e.target;
+    setFormData((prevData) => ({
+      ...prevData,
+      [name]: value,
+    }));
+  };
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    // Save form data to JSON file or perform any other desired actions
+    saveFormDataToJson(formData);
+  };
+  const saveFormDataToJson = (data) => {
+    // Convert the form data to JSON and save it
+    const jsonData = JSON.stringify(data);
+    // Use file-saving mechanisms, such as the FileSaver library or server-side logic
+    // to save the JSON data to a file
+  };
+
   return (
     <section className="section-sm">
       <link rel="preload" href="https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWJ0bbck.woff2" />
@@ -42,18 +68,18 @@ const Contact = () => {
             </div>
           </div>
           <div className="col-md-6">
-            <form method="POST" action="#">
+            <form method="POST" onSubmit={handleSubmit}>
               <div className="form-group">
                 <label for="name">Your Name (Required)</label>
-                <input type="text" name="name" id="name" className="form-control" required />
+                <input type="text" name="name" id="name" className="form-control" required value={formData.name} onChange={handleChange} />
               </div>
               <div className="form-group">
                 <label for="email">Your Email Address (Required)</label>
-                <input type="email" name="email" id="email" className="form-control" required />
+                <input type="email" name="email" id="email" className="form-control" required  value={formData.email} onChange={handleChange} />
               </div>
               <div className="form-group">
                 <label for="message">Your Message Here</label>
-                <textarea name="message" id="message" className="form-control"></textarea>
+                <textarea name="message" id="message" className="form-control" value={formData.message} onChange={handleChange}></textarea>
               </div>
               <button type="submit" className="btn btn-primary">Send Now</button>
             </form>

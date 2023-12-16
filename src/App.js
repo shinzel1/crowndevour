@@ -13,10 +13,11 @@ import ThelasNearLocation from './components/pages/ThelasNearLocation/ThelasNear
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/layout/Header/Header'
 import Footer from './components/layout/Footer/Footer'
+import PrivacyPolicy from './components/pages/PrivacyPolicy/PrivacyPolicy';
 
 
 
-function App() {
+function App() {  
   return (
     <Router basename={process.env.PUBLIC_URL}>
   <div className="App">
@@ -32,6 +33,7 @@ function App() {
       <Route path="/about" element={<About />} />
       <Route path="/contact" element={<Contact />} />
       <Route path="/user-profile" element={<UserProfile />} />
+      <Route path="/privacy-policy" element={<PrivacyPolicy />} />
     </Routes>
     <Footer/>
   </div>
