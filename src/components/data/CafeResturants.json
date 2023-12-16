@@ -10,7 +10,7 @@
     ],
     "category":["cafe","restaurant"],
     "description": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-3.18e25b9ea4856ae80194.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
   {
     "title": "gastronomica-kitchen-bar",
