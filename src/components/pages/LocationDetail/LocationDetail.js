@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useEffect} from 'react';
 import './LocationDetail.css';
 import { useLocation } from "react-router-dom";
 import imagse from "../../data/Images/post/post-1.jpg"
@@ -6,6 +6,14 @@ import imagse from "../../data/Images/post/post-1.jpg"
 function LocationDetail() {
 	const location = useLocation();
 	const { loc } = location.state;
+	useEffect(() => {
+		const body = document.querySelector('#root');
+	
+		body.scrollIntoView({
+			behavior: 'smooth'
+		}, 500)
+	
+	}, []);
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
 		<section className="section">
@@ -16,8 +24,6 @@ function LocationDetail() {
 							<div className="col-12">
 								<div className="post-slider">
 									<img loading="lazy" src={loc.image} className="img-fluid" alt="post-thumb" />
-									{/* <img loading="lazy" src="images/post/post-1.jpg" className="img-fluid" alt="post-thumb"/>
-				<img loading="lazy" src="images/post/post-3.jpg" className="img-fluid" alt="post-thumb"/> */}
 								</div>
 							</div>
 							<div className="col-12 mx-auto">

@@ -1,4 +1,4 @@
-import React from 'react';
+import React,{useEffect} from 'react';
 import './BlogPostDetail.css';
 import { useLocation } from "react-router-dom";
 import imagse from "../../data/Images/post/post-1.jpg"
@@ -7,6 +7,14 @@ function BlogPostDetail() {
 	const location = useLocation();
 	const { post } = location.state;
 	const arr = post.sections
+	useEffect(() => {
+		const body = document.querySelector('#root');
+	
+		body.scrollIntoView({
+			behavior: 'smooth'
+		}, 500)
+	
+	}, []);
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
 		<section className="section">
