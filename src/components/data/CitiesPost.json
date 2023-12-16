@@ -47,7 +47,7 @@
       "Marine Drive Food Mumbai",
       "Mumbai Food Blog"
     ],
-    "image":"https://picsum.photos/id/1005/800/450"
+    "image":"https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/satyajeet-mazumdar-fUOMWdwuuvw-unsplash.jpg?raw=true"
   },
   {
     "name": "Bangalore",
@@ -74,5 +74,5 @@
       "Street Food Exploration",
       "Garden City Culinary Journey"
     ],
-    "image":"https://picsum.photos/id/103/800/450"
+    "image":"https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/syed-ali-jHc3lkZDL7k-unsplash.jpg?raw=true"
   }]
