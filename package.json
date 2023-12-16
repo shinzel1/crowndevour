@@ -2,7 +2,7 @@
   "name": "crowndevour",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://crowndevour.com",
+  "homepage": "https://shinzel1.github.io/crowndevour",
   "dependencies": {
     "@coreui/react": "^5.0.0-beta.1",
     "@emotion/react": "^11.11.1",
