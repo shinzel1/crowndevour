@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/crowndevour/static/css/main.46d32fff.css",
-    "main.js": "/crowndevour/static/js/main.424808cb.js",
+    "main.js": "/crowndevour/static/js/main.56913241.js",
     "static/js/787.eb9d0b2d.chunk.js": "/crowndevour/static/js/787.eb9d0b2d.chunk.js",
     "static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg": "/crowndevour/static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.3d0aa9bbb63ea6705678.jpg",
     "static/media/nadine-primeau-n4RrgczkLJM-unsplash.jpg": "/crowndevour/static/media/nadine-primeau-n4RrgczkLJM-unsplash.0ec635291392f0ba63e6.jpg",
@@ -24,11 +24,11 @@
     "static/media/author.jpg": "/crowndevour/static/media/author.2a2b847c1fc5c482598d.jpg",
     "index.html": "/crowndevour/index.html",
     "main.46d32fff.css.map": "/crowndevour/static/css/main.46d32fff.css.map",
-    "main.424808cb.js.map": "/crowndevour/static/js/main.424808cb.js.map",
+    "main.56913241.js.map": "/crowndevour/static/js/main.56913241.js.map",
     "787.eb9d0b2d.chunk.js.map": "/crowndevour/static/js/787.eb9d0b2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.46d32fff.css",
-    "static/js/main.424808cb.js"
+    "static/js/main.56913241.js"
   ]
 }
