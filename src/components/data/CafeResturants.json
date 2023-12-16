@@ -22,7 +22,7 @@
     ],
     "category":["cafe","thelas","restaurant"],
     "description": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "sanadige-goldfinch-hotel",
@@ -59,7 +59,7 @@
     ],
     "category":["cafe","thelas","restaurant"],
     "description": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "social-offline-hauz-khas",
@@ -72,7 +72,7 @@
     ],
     "category":["cafe","thelas","restaurant"],
     "description": "Social Offline is a popular hangout spot in Hauz Khas Village known for its lively ambiance and a diverse menu offering a range of culinary delights.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "yeti-the-himalayan-kitchen",
@@ -84,7 +84,7 @@
     ],
     "category":["cafe","thelas","restaurant"],
     "description": "Yeti - The Himalayan Kitchen offers a cozy atmosphere and specializes in Himalayan cuisine, providing a unique dining experience.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "hauz-khas-social",
@@ -97,7 +97,7 @@
     ],
     "category":["cafe","thelas","restaurant"],
     "description": "Hauz Khas Social is a café with a relaxed setting and a diverse menu, making it a popular spot for the community to gather.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "elmas-bakery-bar-kitchen",
@@ -110,7 +110,7 @@
     ],
     "category":["cafe","restaurant"],
     "description": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "naivedyam",
@@ -122,7 +122,7 @@
     ],
     "category":["cafe","restaurant"],
     "description": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "mia-bella",
@@ -134,7 +134,7 @@
     ],
     "category":["cafe","restaurant"],
     "description": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   },
   {
     "title": "bo-tai-qutub",
@@ -146,6 +146,6 @@
     ],
     "category":["cafe","restaurant"],
     "description": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
-    "image": "https://shinzel1.github.io/crowndevour/static/media/post-6.c5aa3130b2974c340760.jpg"
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
   }
 ]
