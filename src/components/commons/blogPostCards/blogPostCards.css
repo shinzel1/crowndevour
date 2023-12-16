@@ -33,7 +33,7 @@
   figure {
     margin: 0;
     padding: 0;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 1;
     overflow: hidden;
   }
   
@@ -132,7 +132,7 @@
     }
     figure img {
       height: 100%;
-      aspect-ratio: 1;
+      /* aspect-ratio: 1; */
       object-fit: cover;
     }
   }
