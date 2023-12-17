@@ -10,7 +10,6 @@ function BlogPostDetail() {
 	const arr = post.sections
 
 	const lastThreeBlogs = BlogLists.slice(-3)
-	console.log(BlogLists.slice(-3))
 
 	useEffect(() => {
 		const body = document.querySelector('#root');

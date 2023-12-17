@@ -7,9 +7,9 @@ import { Link } from 'react-router-dom';
 function CulinaryJournery() {
   return (
     <section className="articles CulinaryJournery">
-      {CitiesPosts.map((location) => (
-        <Link to={'/location/' + location.title} state={{ loc: location }}>
-          <ArticleCards data={location} />
+      {CitiesPosts.map((location,index) => (
+        <Link to={'/location/' + location.title} state={{ loc: location }} key={location.title+"CurlinaryJourney" + index}>
+          <ArticleCards data={location} key={location.title+"CurlinaryJourney" + index} />
         </Link>
       ))}
     </section>
