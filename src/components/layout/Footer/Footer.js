@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '../../data/Images/WholeImage.png'
-
+import '../Footer/Footer.css'
 
 function Footer() {
     return (
@@ -9,8 +9,8 @@ function Footer() {
       <div className="container">
          <div className="row justify-content-between">
             <div className="col-md-3 mb-4">
-               <a className="mb-4 d-block" href="/crowndevour">
-                  <img className="img-fluid" src={Logo} alt="Crowndevour"/>
+               <a className="mb-4 d-block " href="/crowndevour">
+                  <img className="img-fluid footerLogoImage" src={Logo} alt="Crowndevour" />
                </a>
                {/* <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p> */}
             </div>

@@ -30,7 +30,7 @@ function Homepage() {
         <p>Discover the Best Food Experiences Here</p>
         <div>
           <CulinaryJournery />
-          <JoinUsBanner />
+          {/* <JoinUsBanner /> */}
         </div>
       </section>
     </div>

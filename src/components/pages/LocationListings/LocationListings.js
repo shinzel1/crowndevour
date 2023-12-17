@@ -9,16 +9,19 @@ import { useLocation } from 'react-router-dom';
 import LocationCards from '../../commons/locationCard/locationCard'
 
 function LocationListings() {
-  const [searchQuery, setSearchQuery] = useState('');
+  var [searchQuery, setSearchQuery] = useState('');
   const [filteredLocations, setFilteredLocations] = useState(data);
   const location = useLocation();
-
-
   const search = useLocation().search;
   const id = new URLSearchParams(search).get("keyId");
-  const handleSearch = (e) => {
-    setSearchQuery(e.target.value)
-    const query = searchQuery.toLowerCase();
+  const handleSearch = (val) => {
+    setSearchQuery(val)
+    var query = val.toLowerCase();
+    if(val == ""){
+      searchQuery = val
+    }else if(searchQuery!==""){
+      query = searchQuery.toLowerCase();
+    }
     const filtered = data.filter((location) => {
       const name = location.name.toLowerCase();
       const description = location.description.toLowerCase();
@@ -29,6 +32,7 @@ function LocationListings() {
 
     setFilteredLocations(filtered);
   };
+  
   useEffect(() => {
     // Get the element by ID
     if (id !== null && id !== "null") {
@@ -40,17 +44,20 @@ function LocationListings() {
         window.location.href = "404"
       }
     }
-    if (location?.state?.value) {
-      var searchBar = document.getElementById('searchBar')
-      setSearchQuery(location?.state?.value)
-    } else {
-      setSearchQuery("")
-    }
     const body = document.querySelector('#root');
-
     body.scrollIntoView({
       behavior: 'smooth'
     }, 500)
+
+    setTimeout(() => {
+      if (location?.state?.value) {
+        var searchBar = document.getElementById('searchBar')
+        searchBar.value = location?.state?.value
+        setSearchQuery(location?.state?.value)
+        handleSearch(location?.state?.value)
+      } else {
+        setSearchQuery("")
+      }    }, 1000);
   }, []);
 
   return (
@@ -70,7 +77,7 @@ function LocationListings() {
           type="text"
           placeholder="Search locations by name, description, or location"
           value={searchQuery}
-          onChange={(e) => handleSearch(e)}
+          onChange={(e) => handleSearch(e.target.value)}
         />
       </div>
       <section className="section-sm">

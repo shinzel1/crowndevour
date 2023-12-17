@@ -20,7 +20,7 @@ function SearchBar() {
           id='testText'
           InputProps={{
             endAdornment: (
-              <IconButton color="primary" onClick={(e) => handleSubmit(e)}>
+              <IconButton color="primary" onClick={(e) => handleSubmit(e)} >
                 <SearchIcon/>
               </IconButton>
             ),
