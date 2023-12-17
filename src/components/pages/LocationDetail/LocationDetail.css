@@ -36,6 +36,9 @@
   .locationDetails{
     max-width: 1140px;
   }
+  .media-body{
+    text-align: left;
+  }
   
   /* Add styles for other elements on the location detail page */
   

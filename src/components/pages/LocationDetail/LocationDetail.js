@@ -1,18 +1,21 @@
-import React,{useEffect} from 'react';
+import React, { useEffect } from 'react';
 import './LocationDetail.css';
-import { useLocation } from "react-router-dom";
+import { useLocation,Link } from "react-router-dom";
 import imagse from "../../data/Images/post/post-1.jpg"
+import locationLists from "../../data/CafeResturants.json"
+
 
 function LocationDetail() {
 	const location = useLocation();
 	const { loc } = location.state;
+	const lastThreeLocations = locationLists.slice(-3)
 	useEffect(() => {
 		const body = document.querySelector('#root');
-	
+
 		body.scrollIntoView({
 			behavior: 'smooth'
 		}, 500)
-	
+
 	}, []);
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
@@ -54,19 +57,19 @@ function LocationDetail() {
 						<div className="widget">
 							<h5 className="widget-title"><span>Categories</span></h5>
 							<ul className="list-unstyled widget-list">
-								<li><a href="#!" className="d-flex">Four seasone
+								<li><a href="#!" className="d-flex">Local Eateries
 									<small className="ml-auto">(1)</small></a>
 								</li>
-								<li><a href="#!" className="d-flex">Newyork city
+								<li><a href="#!" className="d-flex">Delhi Specials
 									<small className="ml-auto">(2)</small></a>
 								</li>
-								<li><a href="#!" className="d-flex">Photobooth
+								<li><a href="#!" className="d-flex">Chinese
 									<small className="ml-auto">(1)</small></a>
 								</li>
-								<li><a href="#!" className="d-flex">Photography
+								<li><a href="#!" className="d-flex">Thai
 									<small className="ml-auto">(2)</small></a>
 								</li>
-								<li><a href="#!" className="d-flex">Videography
+								<li><a href="#!" className="d-flex">italian
 									<small className="ml-auto">(1)</small></a>
 								</li>
 							</ul>
@@ -92,42 +95,22 @@ function LocationDetail() {
 						</div>
 						<div className="widget">
 							<h5 className="widget-title"><span>Latest Article</span></h5>
-							<ul className="list-unstyled widget-list">
-								<li className="media widget-post align-items-center">
-									<a href="post-elements.html">
-										<img loading="lazy" className="mr-3" src={imagse} />
-									</a>
-									<div className="media-body">
-										<h5 className="h6 mb-0"><a href="post-elements.html">Elements That You Can Use To Create A New Post On
-											This Template.</a></h5>
-										<small>March 15, 2020</small>
-									</div>
-								</li>
-							</ul>
-							<ul className="list-unstyled widget-list">
-								<li className="media widget-post align-items-center">
-									<a href="post-details-1.html">
-										<img loading="lazy" className="mr-3" src={imagse} />
-									</a>
-									<div className="media-body">
-										<h5 className="h6 mb-0"><a href="post-details-1.html">Cheerful Loving Couple Bakers Drinking Coffee</a>
-										</h5>
-										<small>March 14, 2020</small>
-									</div>
-								</li>
-							</ul>
-							<ul className="list-unstyled widget-list">
-								<li className="media widget-post align-items-center">
-									<a href="post-details-2.html">
-										<img loading="lazy" className="mr-3" src={imagse} />
-									</a>
-									<div className="media-body">
-										<h5 className="h6 mb-0"><a href="post-details-2.html">Cheerful Loving Couple Bakers Drinking Coffee</a>
-										</h5>
-										<small>March 14, 2020</small>
-									</div>
-								</li>
-							</ul>
+
+							{lastThreeLocations.map((location, index) => (
+									<Link to={'/location/' + location.title} state={{ loc: location }}>
+										<ul className="list-unstyled widget-list">
+											<li className="media widget-post align-items-center">
+												<a href="post-elements.html">
+													<img loading="lazy" className="mr-3" src={location.image} />
+												</a>
+												<div className="media-body">
+													<h5 className="h6 mb-0"><a href="post-elements.html">{location.name}</a></h5>
+													<small>March 15, 2020</small>
+												</div>
+											</li>
+										</ul>
+									</Link>
+							))}
 						</div>
 					</aside>
 				</div>

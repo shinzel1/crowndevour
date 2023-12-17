@@ -12,3 +12,12 @@ img.darker {
     filter: brightness(50%);
     cursor: pointer;
   }
+
+  .imageListItem img{
+    box-shadow: 2px 2px 16px 2px rgba(0,0,0,0.5);
+    border-radius: 0.7rem;
+  }
+  .imageListItem div{
+    color: black;
+    font-size: large;
+  }

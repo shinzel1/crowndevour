@@ -13,9 +13,7 @@ function LocationListings() {
   const [filteredLocations, setFilteredLocations] = useState(data);
   const location = useLocation();
 
-  if (location?.state?.value) {
-    // document.getElementById('searchBar').value = "test"
-  }
+
   const search = useLocation().search;
   const id = new URLSearchParams(search).get("keyId");
   const handleSearch = (e) => {
@@ -38,10 +36,21 @@ function LocationListings() {
       // Trigger a click event on the element
       if (element) {
         element.click();
-      }else{
+      } else {
         window.location.href = "404"
       }
     }
+    if (location?.state?.value) {
+      var searchBar = document.getElementById('searchBar')
+      setSearchQuery(location?.state?.value)
+    } else {
+      setSearchQuery("")
+    }
+    const body = document.querySelector('#root');
+
+    body.scrollIntoView({
+      behavior: 'smooth'
+    }, 500)
   }, []);
 
   return (
@@ -72,7 +81,6 @@ function LocationListings() {
                 <h2 className="mb-5">Posted by this author</h2>
               </div>
             </div>
-
             {filteredLocations.map((location, index) => (
               <div className="col-lg-4 col-sm-6 mb-4">
                 <Link to={'/location/' + location.title} state={{ loc: location }}>
@@ -80,7 +88,6 @@ function LocationListings() {
                 </Link>
               </div>
             ))}
-
           </div>
         </div>
       </section>

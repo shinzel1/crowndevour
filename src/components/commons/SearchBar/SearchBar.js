@@ -9,7 +9,7 @@ function SearchBar() {
 
   const handleSubmit = (e) => {
         // 👇️ redirect to /contacts
-    navigate(`/locations`,{state:{value:document.getElementById('testText').value}});
+    navigate(`/location`,{state:{value:document.getElementById('testText').value}});
   };
     return (
       <div className='centerDiv padding-5'>

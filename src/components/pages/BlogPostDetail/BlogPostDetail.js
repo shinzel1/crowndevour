@@ -1,19 +1,24 @@
-import React,{useEffect} from 'react';
+import React, { useEffect } from 'react';
 import './BlogPostDetail.css';
-import { useLocation } from "react-router-dom";
+import { useLocation,Link } from "react-router-dom";
 import imagse from "../../data/Images/post/post-1.jpg"
+import BlogLists from "../../data/BlogPost.json"
 
 function BlogPostDetail() {
 	const location = useLocation();
 	const { post } = location.state;
 	const arr = post.sections
+
+	const lastThreeBlogs = BlogLists.slice(-3)
+	console.log(BlogLists.slice(-3))
+
 	useEffect(() => {
 		const body = document.querySelector('#root');
-	
+
 		body.scrollIntoView({
 			behavior: 'smooth'
 		}, 500)
-	
+
 	}, []);
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
@@ -44,7 +49,7 @@ function BlogPostDetail() {
 								<p>{post.description}</p>
 								{arr.map((sect, index) => (
 									<div>
-										<h3> {index+1}. {sect.name}</h3>
+										<h3> {index + 1}. {sect.name}</h3>
 										<p>{sect.content}</p>
 									</div>
 								))}
@@ -101,42 +106,23 @@ function BlogPostDetail() {
 						</div>
 						<div className="widget">
 							<h5 className="widget-title"><span>Latest Article</span></h5>
-							<ul className="list-unstyled widget-list">
-								<li className="media widget-post align-items-center">
-									<a href="post-elements.html">
-										<img loading="lazy" className="mr-3" src={imagse} />
-									</a>
-									<div className="media-body">
-										<h5 className="h6 mb-0"><a href="post-elements.html">Elements That You Can Use To Create A New Post On
-											This Template.</a></h5>
-										<small>March 15, 2020</small>
-									</div>
-								</li>
-							</ul>
-							<ul className="list-unstyled widget-list">
-								<li className="media widget-post align-items-center">
-									<a href="post-details-1.html">
-										<img loading="lazy" className="mr-3" src={imagse} />
-									</a>
-									<div className="media-body">
-										<h5 className="h6 mb-0"><a href="post-details-1.html">Cheerful Loving Couple Bakers Drinking Coffee</a>
-										</h5>
-										<small>March 14, 2020</small>
-									</div>
-								</li>
-							</ul>
-							<ul className="list-unstyled widget-list">
-								<li className="media widget-post align-items-center">
-									<a href="post-details-2.html">
-										<img loading="lazy" className="mr-3" src={imagse} />
-									</a>
-									<div className="media-body">
-										<h5 className="h6 mb-0"><a href="post-details-2.html">Cheerful Loving Couple Bakers Drinking Coffee</a>
-										</h5>
-										<small>March 14, 2020</small>
-									</div>
-								</li>
-							</ul>
+
+							{lastThreeBlogs.map((post, index) => (
+								<Link to={'/blogs/' + post.title} state={{ post: post }}>
+									<ul className="list-unstyled widget-list">
+										<li className="media widget-post align-items-center">
+											<a href="post-elements.html">
+												<img loading="lazy" className="mr-3" src={imagse} />
+											</a>
+											<div className="media-body">
+												<h5 className="h6 mb-0"><a href="post-elements.html">{post.name}</a></h5>
+												<small>March 15, 2020</small>
+											</div>
+										</li>
+									</ul>
+								</Link>
+
+							))}
 						</div>
 					</aside>
 				</div>
