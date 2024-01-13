@@ -11,6 +11,22 @@ function Footer() {
             <div className="col-md-3 mb-4">
                <a className="mb-4 d-block " href="/crowndevour">
                   <img className="img-fluid footerLogoImage" src={Logo} alt="Crowndevour" />
+                  <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
+              <li className="list-inline-item"><a href="https://www.instagram.com/crowndevour/" target='_blank'><i className="ti-instagram"></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://www.facebook.com/crowndevour98/" target='_blank'><i className="ti-facebook"></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://twitter.com/crowndevour/"  target='_blank'><i className="ti-twitter-alt" ></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://www.linkedin.com/in/crowndevour/" target='_blank'><i className="ti-linkedin"></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://in.pinterest.com/crowndevour/" target='_blank'><i className="ti-pinterest"></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://www.youtube.com/@crowndevour6493/" target='_blank'><i className="ti-youtube"></i></a>
+                </li>
+                {/* <li className="list-inline-item"><a href="" target='_blank'><i className="ti-github"></i></a>
+                </li> */}
+              </ul>
                </a>
                {/* <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p> */}
             </div>
