@@ -62,19 +62,6 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipND-HhzwYjsVjoVBI_2nhiIWEVSYNslNgSIdRTX"
   },
   {
-    "title": "social-offline-hauz-khas",
-    "name": "Social Offline",
-    "location": "9A & 12, Hauz Khas Village",
-    "type": "Hangout Spot",
-    "highlights": [
-      "Lively Ambiance",
-      "Diverse Menu"
-    ],
-    "category":["cafe","thelas","restaurant"],
-    "description": "Social Offline is a popular hangout spot in Hauz Khas Village known for its lively ambiance and a diverse menu offering a range of culinary delights.",
-    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/fernando-santos-DppzIK9TAxY-unsplash.jpg"
-  },
-  {
     "title": "yeti-the-himalayan-kitchen",
     "name": "Yeti - The Himalayan Kitchen",
     "location": "30, Hauz Khas Village",
