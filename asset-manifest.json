@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/crowndevour/static/css/main.c6072542.css",
-    "main.js": "/crowndevour/static/js/main.9b4415ec.js",
+    "main.css": "/crowndevour/static/css/main.6f0d6602.css",
+    "main.js": "/crowndevour/static/js/main.a6951de2.js",
     "static/js/787.eb9d0b2d.chunk.js": "/crowndevour/static/js/787.eb9d0b2d.chunk.js",
     "static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg": "/crowndevour/static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.3d0aa9bbb63ea6705678.jpg",
     "static/media/nadine-primeau-n4RrgczkLJM-unsplash.jpg": "/crowndevour/static/media/nadine-primeau-n4RrgczkLJM-unsplash.0ec635291392f0ba63e6.jpg",
@@ -23,12 +23,12 @@
     "static/media/logoImage.png": "/crowndevour/static/media/logoImage.a8417b889d7424290eb4.png",
     "static/media/author.jpg": "/crowndevour/static/media/author.2a2b847c1fc5c482598d.jpg",
     "index.html": "/crowndevour/index.html",
-    "main.c6072542.css.map": "/crowndevour/static/css/main.c6072542.css.map",
-    "main.9b4415ec.js.map": "/crowndevour/static/js/main.9b4415ec.js.map",
+    "main.6f0d6602.css.map": "/crowndevour/static/css/main.6f0d6602.css.map",
+    "main.a6951de2.js.map": "/crowndevour/static/js/main.a6951de2.js.map",
     "787.eb9d0b2d.chunk.js.map": "/crowndevour/static/js/787.eb9d0b2d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6072542.css",
-    "static/js/main.9b4415ec.js"
+    "static/css/main.6f0d6602.css",
+    "static/js/main.a6951de2.js"
   ]
 }
