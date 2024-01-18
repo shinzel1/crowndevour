@@ -64,3 +64,12 @@ ul {
   text-align: center;
   /* Add any additional styling for your text */
 }
+
+@media screen and (max-width: 640px) {
+  .featured-loc{
+    column-count: 1 !important;
+  }
+  .homepage{
+    padding: 1.5rem;
+  }
+}

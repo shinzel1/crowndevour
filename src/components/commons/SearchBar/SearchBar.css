@@ -1,9 +1,16 @@
-.searchBar{
-    width: 720px;
-}
+
 .centerDiv{
     display: 'flex';
     alignItems: 'center';
     justifyContent: 'center';
     height: '100vh';
 }
+
+.searchBar{
+    width: 720px;
+}
+@media screen and (max-width: 640px) {
+    .searchBar{
+        width: auto;
+    }
+  }
