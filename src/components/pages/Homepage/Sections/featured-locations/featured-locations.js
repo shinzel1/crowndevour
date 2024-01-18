@@ -6,11 +6,19 @@ import './featured-locations.css'
 import itemData from '../../../../data/CafeResturants.json'
 import { Link } from 'react-router-dom'
 export default function MasonryImageList() {
-  function MouseOver(name) {
-    console.log(name)
+  const  MouseOver=(event)=> {
+    // console.log(name)
+    // console.log(this)
+    const triggeringElement = event.target;
+    triggeringElement.classList.add('darker')
+    // console.log(triggeringElement.nextElementSibling.textContent);
   }
-  function MouseOut() {
-    console.log("out")
+  const  MouseOut=(event)=> {
+    // console.log(name)
+    // console.log(this)
+    const triggeringElement = event.target;
+    triggeringElement.classList.remove('darker')
+    // console.log(triggeringElement.nextElementSibling.textContent);
   }
   return (
     <div className='centered '>
@@ -19,14 +27,17 @@ export default function MasonryImageList() {
           {itemData.map((item) => (
             <Link to={'/location/' + item.title} state={{ loc: item }} key={item.title + "ahref"}>
               <ImageListItem key={item.title + "Masonry"} className='imageListItem'>
-                <img className='darker'
+                <div className="image-container">
+                <img
                   srcSet={`${item.image}?w=248&fit=crop&auto=format&dpr=2 2x`}
                   src={`${item.image}?w=248&fit=crop&auto=format`}
                   alt={item.name}
-                  loading="lazy" onMouseOver={()=>MouseOver(`${item.name}`)} onMouseOut={()=> MouseOut()}
+                  loading="lazy" onMouseOver={MouseOver} onMouseOut={MouseOut}
+                  className='image'
                 />
-                <div>
+                <div className="text-overlay">
                   {item.name}
+                </div>
                 </div>
               </ImageListItem>
             </Link>

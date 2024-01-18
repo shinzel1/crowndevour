@@ -150,3 +150,10 @@
     object-fit: cover;
     height: 12rem;
   }
+  .introduction{
+    display:inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  max-width: 22rem;
+  }

@@ -22,9 +22,8 @@ const BlogPostCards = ({ data }) => {
                   className="ml-1">Image </a>
                 </li>
               </ul>
-              <p>Heading example Here is example of hedings. You can use this heading by following markdownify
-                rules. …</p> <a href="post-elements.html" className="btn btn-outline-primary">Continue
-                  Reading</a>
+              <p> <span className='introduction'>{data.introduction}</span></p> 
+              <a href="post-elements.html" className="btn btn-outline-primary">Continue Reading</a>
             </article>
 	);
 };
