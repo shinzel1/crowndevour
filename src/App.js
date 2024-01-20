@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import './App.css';
 import Homepage from './components/pages/Homepage/Homepage';
 import LocationDetail from './components/pages/LocationDetail/LocationDetail';
@@ -22,6 +22,7 @@ function App() {
     <Router basename={process.env.PUBLIC_URL}>
   <div className="App">
   <Header/>
+
     <Routes>
     <Route path="*" element={ <Navigate to="/404" replace />} />
       <Route path="/" Component={Homepage} />

@@ -6,7 +6,7 @@ const ArticleCards = ({ data }) => {
         <article className="curlinaryJourney-article">
         <div className="article-wrapper">
           <figure>
-            <img src={data.image} alt="" />
+            <img src={data.image} alt="image" />
           </figure>
           <div className="article-body">
             <h2>{data.name}</h2>

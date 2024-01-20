@@ -9,9 +9,14 @@ import CulinaryJournery from './Sections/culinary-journey/CulinaryJourney';
 function Homepage() {
   return (
     <div className="homepage">
+        <link rel="canonical" href="https://crowndevour.com" />
       <div>
         <ImageBanner />
       </div>
+      <div className=''>
+        <SearchFilter />
+      </div>
+
       <section className="featured-locations">
         <h2>Featured Locations</h2>
         <p>Explore Our Top Picks</p>
@@ -22,9 +27,6 @@ function Homepage() {
           <FeaturedLocations />
         </div>
       </section>
-
-      <SearchFilter />
-
       <section className="cta">
         <h2>Ready to Embark on a Culinary Journey?</h2>
         <p>Discover the Best Food Experiences Here</p>

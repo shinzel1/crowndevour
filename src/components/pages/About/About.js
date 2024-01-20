@@ -4,21 +4,24 @@ import authorImage from "../../data/Images/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg"
 const About = () => {
   return (
     <section className="section-sm">
+		<link rel="canonical" href="https://crowndevour.com/#/about" />
 	<div className="container">
 		<div className="row">
 			<div className="col-12">
 				<div className="title-bordered mb-5 d-flex align-items-center">
 					<h1 className="h4">Hi, I Am Crowndevour</h1>
 					<ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
-						<li className="list-inline-item"><a href="#"><i className="ti-facebook"></i></a>
-						</li>
-						<li className="list-inline-item"><a href="#"><i className="ti-twitter-alt"></i></a>
-						</li>
-						<li className="list-inline-item"><a href="#"><i className="ti-linkedin"></i></a>
-						</li>
-						<li className="list-inline-item"><a href="#"><i className="ti-github"></i></a>
-						</li>
-					</ul>
+              <li className="list-inline-item"><a href="https://www.instagram.com/crowndevour/" target='_blank'><i className="ti-instagram"></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://www.facebook.com/crowndevour98" target='_blank'><i className="ti-facebook"></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://twitter.com/crowndevour"  target='_blank'><i className="ti-twitter-alt" ></i></a>
+                </li>
+                <li className="list-inline-item"><a href="https://www.linkedin.com/in/crowndevour/" target='_blank'><i className="ti-linkedin"></i></a>
+                </li>
+                {/* <li className="list-inline-item"><a href="" target='_blank'><i className="ti-github"></i></a>
+                </li> */}
+              </ul>
 				</div>
 				<img src={authorImage} className="img-fluid w-100 mb-4 rounded-lg" alt="author"/>
 				<div className="content">

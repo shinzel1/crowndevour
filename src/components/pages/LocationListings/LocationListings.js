@@ -7,6 +7,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import { Link } from 'react-router-dom'
 import { useLocation } from 'react-router-dom';
 import LocationCards from '../../commons/locationCard/locationCard'
+import { Helmet } from 'react-helmet';
 
 function LocationListings() {
   var [searchQuery, setSearchQuery] = useState('');
@@ -17,7 +18,7 @@ function LocationListings() {
   const handleSearch = (val) => {
     setSearchQuery(val)
     var query = val.toLowerCase();
-    if(val == ""){
+    if(val === ""){
       searchQuery = val
     }else if(searchQuery!==""){
       query = searchQuery.toLowerCase();
@@ -50,6 +51,7 @@ function LocationListings() {
     }, 500)
 
     setTimeout(() => {
+      debugger
       if (location?.state?.value) {
         var searchBar = document.getElementById('searchBar')
         searchBar.value = location?.state?.value
@@ -62,6 +64,11 @@ function LocationListings() {
 
   return (
     <div className="location-listings">
+       <Helmet>
+       <link rel="canonical" href="https://crowndevour.com/#/location" />
+        <title>search cafe and restaurants</title>
+        <meta name="description" content="Embark on a culinary journey through our handpicked cafes, restaurants, and food stalls! Discover diverse flavors and settings in this gastronomic exploration. " />
+      </Helmet>
       <div className='centerDiv padding-5'>
         <TextField
           variant="outlined"

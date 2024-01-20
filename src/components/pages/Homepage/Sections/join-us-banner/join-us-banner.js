@@ -23,7 +23,7 @@ function JoinUsBanner(){
                 </div>
              </div>
              <div className="illo">
-                <img className='image' src={image1}/>
+                <img className='image' src={image1} alt='image'/>
                image1
              </div>
           </div>

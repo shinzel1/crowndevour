@@ -28,7 +28,7 @@ const UserProfile = () => {
               </div>
             </div>
             <div className="col-lg-3 col-md-4 mb-4 mb-md-0 text-center text-md-left">
-              <img loading="lazy" className="rounded-lg img-fluid" src={authorImage} />
+              <img loading="lazy" className="rounded-lg img-fluid" src={authorImage}  alt='image'/>
             </div>
             <div className="col-lg-9 col-md-8 content text-center text-md-left">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.</p>

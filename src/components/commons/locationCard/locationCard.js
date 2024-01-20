@@ -1,10 +1,16 @@
 import React from 'react';
+import { Helmet } from 'react-helmet';
 
 const locationCard = ({data }) => {
 	// Sample data for blog listings
 	return (
     
 		<article className="mb-5" id={data.title}>
+      <Helmet>
+       {/* <link rel="canonical" href="https://crowndevour.com/#/location" /> */}
+        {/* <title>search cafe and restaurants</title> */}
+        <meta name="description" content={data.name} />
+      </Helmet>
                 <div className="post-slider slider-sm blogPostCardImage">
                   <img loading="lazy" src={data.image} className="img-fluid" alt="post-thumb" />
                   {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />

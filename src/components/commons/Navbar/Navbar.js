@@ -3,6 +3,7 @@ import { Link, useLocation } from 'react-router-dom';
 import BootstrapNavbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
 import Logo from '../../data/Images/logoImage.png'
+import LogoImage from '../../data/Images/WholeImage.png'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -16,11 +17,13 @@ const Navbar = () => {
       <BootstrapNavbar.Brand as={Link} to="/">
         {' '}
         <img
-          alt=""
+          alt="logo"
           src={Logo}
-          className="d-inline-block align-top"
-        />{' '}
-        <span className='logoName'>Crowndevour</span></BootstrapNavbar.Brand>
+          className="align-top logoImage"/>
+        <img alt='logo' src={LogoImage} className='phonelogoImage'/>
+        {' '}
+        <span className='logoName'>Crowndevour</span>
+        </BootstrapNavbar.Brand>
       <BootstrapNavbar.Toggle aria-controls="basic-navbar-nav" />
       <BootstrapNavbar.Collapse id="basic-navbar-nav">
         <Nav className="">

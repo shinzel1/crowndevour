@@ -33,10 +33,10 @@ function Footer() {
             <div className="col-lg-2 col-md-3 col-6 mb-4">
                <h6 className="mb-4">Quick Links</h6>
                <ul className="list-unstyled footer-list">
-                  <li><a href="/crowndevour/about">About</a></li>
-                  <li><a href="/crowndevour/contact">Contact</a></li>
-                  <li><a href="/crowndevour/privacy-policy">Privacy Policy</a></li>
-                  <li><a href="/crowndevour/terms-conditions">Terms Conditions</a></li>
+                  <li><a href="/#/about">About</a></li>
+                  <li><a href="/#/contact">Contact</a></li>
+                  <li><a href="/#/privacy-policy">Privacy Policy</a></li>
+                  {/* <li><a href="/#/terms-conditions">Terms Conditions</a></li> */}
                </ul>
             </div>
 

@@ -15,7 +15,7 @@
     font-size: 1.2rem !important;
 }
 .navbar-brand img{
-    height: 3rem;
+    width: 4rem;
 }
 .bg-light{
   /* background-image: linear-gradient(#FAC49F, #FFFAF8); */
@@ -38,7 +38,25 @@
     font-weight: bold;
     font-size:1.4rem !important ;
 }
+.phonelogoImage{
+    display:none;
+   }
 @media screen and (min-width: 1000px) {
     #basic-navbar-nav {
 padding-left: 10rem;    }
   }
+  @media screen and (max-width: 640px) {
+   .logoName{
+    display: none;
+   }
+   .logoImage{
+    display: none;
+   }
+   .phonelogoImage{
+    display:block;
+   }
+   .navbar-brand img{
+    width: 3rem;
+}
+  }
+ 

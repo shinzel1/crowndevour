@@ -68,6 +68,7 @@ const ThelasNearLocation = () => {
 
   return (
     <div>
+      <link rel="canonical" href="https://crowndevour.com/#/thelas-near-location" />
       <div className='addIcon' onClick={() => setShow(true)}>
         <Fab color="primary" aria-label="add" >
           <AddIcon />

@@ -7,6 +7,7 @@ import '../../commons/blogPostCards/blogPostCards.css'
 import './BlogListings.css'
 import { Link } from 'react-router-dom'
 import { useLocation } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 const BlogListings = () => {
   // Sample data for blog listings
   const search = useLocation().search;
@@ -28,6 +29,12 @@ const BlogListings = () => {
 
   return (
     <div>
+      <link rel="canonical" href="https://crowndevour.com/#/blogs" />
+      <Helmet>
+       {/* <link rel="canonical" href="https://crowndevour.com/#/location" /> */}
+        {/* <title>search cafe and restaurants</title> */}
+        <meta name="description" content="Embark on a culinary journey through our handpicked cafes, restaurants, and food stalls! Discover diverse flavors and settings in this gastronomic exploration." />
+      </Helmet>
       <div className='BlogListing centered'>
         <Row xs={1} md={4} className="g-4">
           {blogPosts.map((post, index) => (

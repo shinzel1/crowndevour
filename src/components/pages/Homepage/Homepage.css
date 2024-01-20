@@ -30,3 +30,16 @@
   justify-content: center;
   align-items: center;
 }
+.searchFilterPhone{
+  display: none;
+}
+
+@media screen and (max-width: 480px) {
+
+  .searchFilterPhone{
+    display: block;
+  }
+  .searchFilterLaptop{
+    display: none;
+  }
+}

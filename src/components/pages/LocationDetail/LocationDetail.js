@@ -101,7 +101,7 @@ function LocationDetail() {
 										<ul className="list-unstyled widget-list">
 											<li className="media widget-post align-items-center">
 												<a href="post-elements.html">
-													<img loading="lazy" className="mr-3" src={location.image} />
+													<img loading="lazy" className="mr-3" src={location.image} alt='image'/>
 												</a>
 												<div className="media-body">
 													<h5 className="h6 mb-0"><a href="post-elements.html">{location.name}</a></h5>
