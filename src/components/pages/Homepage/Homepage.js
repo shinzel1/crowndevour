@@ -29,7 +29,7 @@ function Homepage() {
       </section>
       <section className="cta">
         <h2>Ready to Embark on a Culinary Journey?</h2>
-        <p>Discover the Best Food Experiences Here</p>
+        <p>Discover the best cafes and restaurants in cities near you! From cozy coffee shops to fine dining, explore diverse culinary experiences. Find your perfect spot for delicious moments in every city.</p>
         <div>
           <CulinaryJournery />
           {/* <JoinUsBanner /> */}

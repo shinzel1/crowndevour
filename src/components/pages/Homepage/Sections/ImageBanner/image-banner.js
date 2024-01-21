@@ -2,7 +2,7 @@ import React from 'react';
 import './image-banner.css'
 function ImageBanner(){
     return(<div className="container imageBanner">
-    <h1 className="title">Crowndevour</h1>
+    <h2 className="title">Crowndevour</h2>
     <h2 className="title title-large"> Welcome to Crowndevour, where you can discover the best places to eat out and enjoy street food in various cities.</h2>
     <div id="img-1" className="img-container">   
       <img className="img" src="https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/Banners/jen-p-FoG8lotg7AA-unsplash.jpg" alt='image' />

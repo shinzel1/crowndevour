@@ -42,7 +42,7 @@
   .img-container {
     display: inline-block;
     overflow: hidden;
-    width: 15rem;
+    width: 12rem;
     vertical-align: top;
     border-radius: 0px 0px 30rem 30rem;
     animation-name: flow;

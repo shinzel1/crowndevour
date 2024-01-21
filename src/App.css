@@ -69,14 +69,14 @@ p, .paragraph {
 
 h1, h2, h3, h4, h5, h6 {
   color: #1c1d1f;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Poppins", sans-serif !important;
   font-weight: 600;
   line-height: 1.2;
 }
 
 h1, .h1 {
   font-size: 45px;
-
+  font-weight: 600 !important;
 }
 
 h2, .h2 {

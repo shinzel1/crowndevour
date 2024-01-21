@@ -51,7 +51,6 @@ function LocationListings() {
     }, 500)
 
     setTimeout(() => {
-      debugger
       if (location?.state?.value) {
         var searchBar = document.getElementById('searchBar')
         searchBar.value = location?.state?.value
