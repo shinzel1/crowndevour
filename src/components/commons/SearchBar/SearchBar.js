@@ -9,7 +9,6 @@ function SearchBar() {
 
   const handleSubmit = (e) => {
         // 👇️ redirect to /contacts
-        debugger
     navigate(`/location`,{state:{value:document.getElementById('testText').value}});
   };
     return (

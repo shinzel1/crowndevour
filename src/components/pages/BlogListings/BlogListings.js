@@ -29,6 +29,7 @@ const BlogListings = () => {
 
   return (
     <div>
+      <h1 className='blogPostHeading'>Read Our Blog Posts</h1>
       <link rel="canonical" href="https://crowndevour.com/#/blogs" />
       <Helmet>
        {/* <link rel="canonical" href="https://crowndevour.com/#/location" /> */}

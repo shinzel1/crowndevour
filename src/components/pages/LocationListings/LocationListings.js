@@ -63,6 +63,7 @@ function LocationListings() {
 
   return (
     <div className="location-listings">
+      <h1>Explore Cafe's And Resturant's</h1>
        <Helmet>
        <link rel="canonical" href="https://crowndevour.com/#/location" />
         <title>search cafe and restaurants</title>
