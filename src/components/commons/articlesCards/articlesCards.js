@@ -11,7 +11,7 @@ const ArticleCards = ({ data }) => {
           <div className="article-body">
             <h2>{data.name}</h2>
             <p>
-             {data.highlights}
+             {data.shortDescription}
             </p>
             <a href="#" className="read-more">
               Read more <span className="sr-only">about this is some title</span>
