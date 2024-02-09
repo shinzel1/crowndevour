@@ -4,7 +4,7 @@ import './search-filter.css'
 function SearchFilter(){
 return(
  <section className="search-filter">
-    <h1 className='search-filter-title'>Find Your Perfect Dining Experience</h1>
+    <h1 className='search-filter-title'>Search Nearby Cafes and Restaurants</h1>
     <SearchBar/>   
   </section>
    

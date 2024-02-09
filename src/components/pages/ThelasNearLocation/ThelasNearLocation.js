@@ -19,8 +19,6 @@ const ThelasNearLocation = () => {
   const id = new URLSearchParams(search).get("keyId");
 
   const thelas = LocationLists.filter(locatione => locatione.category.includes('thelas'));
-
-
   useEffect(() => {
     // Get the element by ID
     if (id !== null && id !== "null") {
@@ -32,6 +30,10 @@ const ThelasNearLocation = () => {
         window.location.href = "404"
       }
     }
+    const body = document.querySelector('#root');
+		body.scrollIntoView({
+			behavior: 'smooth'
+		}, 500)
   }, []);
 
 
@@ -68,7 +70,7 @@ const ThelasNearLocation = () => {
 
   return (
     <div>
-      <h1 className='blogPostHeading'>Check for near by foodstalls</h1>
+      <h1 className='blogPostHeading'>Flavors on Foot: Explore Local Delights Near You</h1>
       <link rel="canonical" href="https://crowndevour.com/#/thelas-near-location" />
       <div className='addIcon' onClick={() => setShow(true)}>
         <Fab color="primary" aria-label="add" >

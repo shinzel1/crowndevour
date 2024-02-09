@@ -5,31 +5,32 @@ import ImageBanner from '../Homepage/Sections/ImageBanner/image-banner';
 import JoinUsBanner from '../Homepage/Sections/join-us-banner/join-us-banner'
 import SearchFilter from '../Homepage/Sections/search-filter/search-filter'
 import CulinaryJournery from './Sections/culinary-journey/CulinaryJourney';
-
+import { Helmet } from 'react-helmet';
 function Homepage() {
   return (
     <div className="homepage">
-        <link rel="canonical" href="https://crowndevour.com" />
+       <Helmet>
+       <link rel="canonical" href="https://crowndevour.com" />
+      </Helmet>
       <div>
         <ImageBanner />
       </div>
       <div className=''>
         <SearchFilter />
       </div>
-
       <section className="featured-locations">
         <h2>Featured Locations</h2>
-        <p>Explore Our Top Picks</p>
-        <p>
+        {/* <p>Explore Our Top Picks</p> */}
+        <h6>
           Discover handpicked restaurants, cozy cafes, and vibrant thelas in the most exciting culinary destinations. From street food gems to fine dining experiences, these places are a must-visit.
-        </p>
+        </h6>
         <div>
           <FeaturedLocations />
         </div>
       </section>
       <section className="cta">
-        <h2>Ready to Embark on a Culinary Journey?</h2>
-        <p>Discover the best cafes and restaurants in cities near you! From cozy coffee shops to fine dining, explore diverse culinary experiences. Find your perfect spot for delicious moments in every city.</p>
+        <h2>Explore Cafes and Restaurants Across Cities</h2>
+        <h6>Indulge in a global culinary adventure as you explore cafes and restaurants, each city a unique chapter in the flavorful story of urban gastronomy.</h6>
         <div>
           <CulinaryJournery />
           {/* <JoinUsBanner /> */}

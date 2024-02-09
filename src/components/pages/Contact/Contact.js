@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState,useEffect } from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
@@ -33,6 +33,15 @@ const Contact = () => {
     // Use file-saving mechanisms, such as the FileSaver library or server-side logic
     // to save the JSON data to a file
   };
+
+  useEffect(() => {
+		const body = document.querySelector('#root');
+
+		body.scrollIntoView({
+			behavior: 'smooth'
+		}, 500)
+
+	}, []);
 
   return (
     <section className="section-sm">

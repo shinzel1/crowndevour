@@ -3,14 +3,19 @@ import './BlogPostDetail.css';
 import { useLocation,Link } from "react-router-dom";
 import imagse from "../../data/Images/post/post-1.jpg"
 import BlogLists from "../../data/BlogPost.json"
+import SchemaOrg from '../../commons/Schema/Schema';
 
 function BlogPostDetail() {
 	const location = useLocation();
-	const { post } = location.state;
+	var { post } = ""
+	if(location.state !=null){
+		post =  location.state.post;
+	}else if(location.pathname.split('/').slice(-1).length>0) {
+		var idex = location.pathname.split('/').slice(-1)[0]
+		post = BlogLists.filter(locatione => locatione.title == idex)[0]
+	}
 	const arr = post.sections
-
 	const lastThreeBlogs = BlogLists.slice(-3)
-
 	useEffect(() => {
 		const body = document.querySelector('#root');
 
@@ -22,6 +27,7 @@ function BlogPostDetail() {
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
 		<section className="section">
+			<SchemaOrg data={post}/>
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-8  mb-5 mb-lg-0">
@@ -34,7 +40,7 @@ function BlogPostDetail() {
 								</div>
 							</div>
 							<div className="col-12 mx-auto">
-								<h3><a className="post-title" href="post-elements.html">{post.name}</a></h3>
+								<h1><a className="post-title" href="post-elements.html">{post.name}</a></h1>
 								<ul className="list-inline post-meta mb-4">
 									<li className="list-inline-item"><i className="ti-user mr-2"></i>
 										<a href="author.html">{post.author}</a>

@@ -5,10 +5,12 @@ import '../Footer/Footer.css'
 function Footer() {
 
    function scrollToTop() {
+      if (typeof document !== 'undefined') {
       const body = document.querySelector('#root');
       body.scrollIntoView({
          behavior: 'smooth'
       }, 500)
+   }
    }
 
 
@@ -18,7 +20,7 @@ function Footer() {
             <div className="container">
                <div className="row justify-content-between">
                   <div className="col-md-3 mb-4">
-                     <a className="mb-4 d-block " href="/crowndevour">
+                     <a className="mb-4 d-block " href="#">
                         <img className="img-fluid footerLogoImage" src={Logo} alt="Crowndevour" />
                         <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
                            <li className="list-inline-item"><a href="https://www.instagram.com/crowndevour/" target='_blank'><i className="ti-instagram"></i></a>
@@ -42,9 +44,9 @@ function Footer() {
                   <div className="col-lg-2 col-md-3 col-6 mb-4">
                      <h6 className="mb-4">Quick Links</h6>
                      <ul className="list-unstyled footer-list">
-                        <li><a href="/#/about">About</a></li>
-                        <li><a href="/#/contact">Contact</a></li>
-                        <li><a href="/#/privacy-policy">Privacy Policy</a></li>
+                        <li><a href="/about">About</a></li>
+                        <li><a href="/contact">Contact</a></li>
+                        <li><a href="/privacy-policy">Privacy Policy</a></li>
                         {/* <li><a href="/#/terms-conditions">Terms Conditions</a></li> */}
                      </ul>
                   </div>
@@ -79,10 +81,10 @@ function Footer() {
             </div>
          </footer>
 
-         <script src="plugins/jQuery/jquery.min.js"></script>
-         <script src="plugins/bootstrap/bootstrap.min.js" async></script>
-         <script src="plugins/slick/slick.min.js"></script>
-         <script src="js/script.js"></script>
+         <script type="text/javascript" src="plugins/jQuery/jquery.min.js"/>
+         <script type="text/javascript" src="plugins/bootstrap/bootstrap.min.js" async/>
+         <script type="text/javascript" src="plugins/slick/slick.min.js"/>
+         <script type="text/javascript" src="js/script.js"/>
       </div>
    );
 }

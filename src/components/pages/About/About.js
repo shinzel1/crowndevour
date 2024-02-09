@@ -1,7 +1,17 @@
-import React from 'react';
+import React,{useEffect} from 'react';
 import authorImage from "../../data/Images/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg"
 
 const About = () => {
+	useEffect(() => {
+		if (typeof document !== 'undefined') {
+		const body = document.querySelector('#root');
+
+		body.scrollIntoView({
+			behavior: 'smooth'
+		}, 500)
+	}
+	}, []);
+
   return (
     <section className="section-sm">
 		<link rel="canonical" href="https://crowndevour.com/#/about" />

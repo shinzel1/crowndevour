@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import './App.css';
 import Homepage from './components/pages/Homepage/Homepage';
 import LocationDetail from './components/pages/LocationDetail/LocationDetail';
@@ -19,12 +19,11 @@ import PrivacyPolicy from './components/pages/PrivacyPolicy/PrivacyPolicy';
 
 function App() {  
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    // <Router basename={process.env.PUBLIC_URL}>
   <div className="App">
   <Header/>
-
     <Routes>
-    <Route path="*" element={ <Navigate to="/404" replace />} />
+    {/* <Route path="*" element={ <Navigate to="/404" replace />} /> */}
       <Route path="/" Component={Homepage} />
       <Route path="/thelas-near-location" Component={ThelasNearLocation} />
       <Route path="/location" element={<SearchAndFilter />} />
@@ -38,7 +37,7 @@ function App() {
     </Routes>
     <Footer/>
   </div>
-</Router>
+// </Router>
   );
 }
 

@@ -17,7 +17,7 @@ function ImageBanner(){
     </div>
   
     <div className="img-container fifth-animation">    
-      <img className="img" src="https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/Banners/monika-grabkowska-jsgJtBOR6jY-unsplash.jpg?raw=true" alt='image'/>
+      <img className="img" src="https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/Banners/chad-montano-eeqbbemH9-c-unsplash.jpg?raw=true" alt='image'/>
     </div>  
     <div className="img-container third-animation">    
       <img className="img" src="https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/Banners/zoe-EqgySSNO2kw-unsplash.jpg?raw=true" alt='image'/>

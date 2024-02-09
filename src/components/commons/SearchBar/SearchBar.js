@@ -9,7 +9,9 @@ function SearchBar() {
 
   const handleSubmit = (e) => {
         // 👇️ redirect to /contacts
+        if (typeof document !== 'undefined') {
     navigate(`/location`,{state:{value:document.getElementById('testText').value}});
+        }
   };
     return (
       <div className='centerDiv padding-5'>

@@ -3,11 +3,17 @@ import './LocationDetail.css';
 import { useLocation,Link } from "react-router-dom";
 import imagse from "../../data/Images/post/post-1.jpg"
 import locationLists from "../../data/CafeResturants.json"
-
+import SchemaOrg from '../../commons/Schema/Schema';
 
 function LocationDetail() {
 	const location = useLocation();
-	const { loc } = location.state;
+	var { loc } = ""
+	if(location.state !=null){
+	loc =  location.state.loc;
+	}else if(location.pathname.split('/').slice(-1).length>0) {
+		var idex = location.pathname.split('/').slice(-1)[0]
+	loc = locationLists.filter(locatione => locatione.title == idex)[0]
+	}
 	const lastThreeLocations = locationLists.slice(-3)
 	useEffect(() => {
 		const body = document.querySelector('#root');
@@ -20,6 +26,7 @@ function LocationDetail() {
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
 		<section className="section">
+			<SchemaOrg data={loc}/>
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-8  mb-5 mb-lg-0">
@@ -30,7 +37,7 @@ function LocationDetail() {
 								</div>
 							</div>
 							<div className="col-12 mx-auto">
-								<h3><a className="post-title" href="#">{loc.name}</a></h3>
+								<h1><a className="post-title" href="#">{loc.name}</a></h1>
 								<ul className="list-inline post-meta mb-4">
 									<li className="list-inline-item"><i className="ti-user mr-2"></i>
 										<a href="author.html">John Doe</a>
