@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.4dfa2b2b.css",
-    "main.js": "/static/js/main.2d1000b5.js",
-    "static/js/787.eb9d0b2d.chunk.js": "/static/js/787.eb9d0b2d.chunk.js",
+    "main.css": "/static/css/main.72e884c9.css",
+    "main.js": "/static/js/main.afa1e1c6.js",
+    "static/js/288.2c5eda1c.chunk.js": "/static/js/288.2c5eda1c.chunk.js",
     "static/media/post-4.jpg": "/static/media/post-4.c59c27cf849c07701e1c.jpg",
     "static/media/post-6.jpg": "/static/media/post-6.c5aa3130b2974c340760.jpg",
     "static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg": "/static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.b5c2f4abb9d7bf934798.jpg",
@@ -18,12 +18,12 @@
     "static/media/logoImage.png": "/static/media/logoImage.a8417b889d7424290eb4.png",
     "static/media/author.jpg": "/static/media/author.2a2b847c1fc5c482598d.jpg",
     "index.html": "/index.html",
-    "main.4dfa2b2b.css.map": "/static/css/main.4dfa2b2b.css.map",
-    "main.2d1000b5.js.map": "/static/js/main.2d1000b5.js.map",
-    "787.eb9d0b2d.chunk.js.map": "/static/js/787.eb9d0b2d.chunk.js.map"
+    "main.72e884c9.css.map": "/static/css/main.72e884c9.css.map",
+    "main.afa1e1c6.js.map": "/static/js/main.afa1e1c6.js.map",
+    "288.2c5eda1c.chunk.js.map": "/static/js/288.2c5eda1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4dfa2b2b.css",
-    "static/js/main.2d1000b5.js"
+    "static/css/main.72e884c9.css",
+    "static/js/main.afa1e1c6.js"
   ]
 }
