@@ -18,7 +18,6 @@
     "cdbreact": "^1.5.18",
     "compression": "^1.7.4",
     "express": "^4.18.2",
-    "google-maps-react": "^2.0.6",
     "ignore-styles": "^5.0.1",
     "react": "^18.2.0",
     "react-bootstrap": "^2.9.1",
@@ -34,7 +33,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "react-scripts build && npm run ssr",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "ssr": "npm run build && node server/index.js"
