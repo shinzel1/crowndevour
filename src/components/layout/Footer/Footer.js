@@ -47,7 +47,7 @@ function Footer() {
                         <li><a href="/about">About</a></li>
                         <li><a href="/contact">Contact</a></li>
                         <li><a href="/privacy-policy">Privacy Policy</a></li>
-                        {/* <li><a href="/#/terms-conditions">Terms Conditions</a></li> */}
+                        {/* <li><a href="/terms-conditions">Terms Conditions</a></li> */}
                      </ul>
                   </div>
 

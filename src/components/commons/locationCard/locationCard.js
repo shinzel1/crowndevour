@@ -7,7 +7,7 @@ const locationCard = ({data }) => {
     
 		<article className="mb-5" id={data.title}>
       <Helmet>
-       {/* <link rel="canonical" href="https://crowndevour.com/#/location" /> */}
+       {/* <link rel="canonical" href="https://crowndevour.com/location" /> */}
         {/* <title>search cafe and restaurants</title> */}
         <meta name="description" content={data.name} />
       </Helmet>

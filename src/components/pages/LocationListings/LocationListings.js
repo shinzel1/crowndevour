@@ -65,7 +65,7 @@ function LocationListings() {
     <div className="location-listings">
       <h1>Explore Cafe's And Resturant's</h1>
        <Helmet>
-       <link rel="canonical" href="https://crowndevour.com/#/location" />
+       <link rel="canonical" href="https://crowndevour.com/location" />
         <title>search cafe and restaurants</title>
         <meta name="description" content="Embark on a culinary journey through our handpicked cafes, restaurants, and food stalls! Discover diverse flavors and settings in this gastronomic exploration. " />
       </Helmet>

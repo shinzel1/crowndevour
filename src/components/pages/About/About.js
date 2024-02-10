@@ -14,7 +14,7 @@ const About = () => {
 
   return (
     <section className="section-sm">
-		<link rel="canonical" href="https://crowndevour.com/#/about" />
+		<link rel="canonical" href="https://crowndevour.com/about" />
 	<div className="container">
 		<div className="row">
 			<div className="col-12">

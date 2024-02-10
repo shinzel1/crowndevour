@@ -45,7 +45,7 @@ const Contact = () => {
 
   return (
     <section className="section-sm">
-      <link rel="canonical" href="https://crowndevour.com/#/contact" />
+      <link rel="canonical" href="https://crowndevour.com/contact" />
       <link rel="preload" href="https://fonts.gstatic.com/s/opensans/v18/mem8YaGs126MiZpBA-UFWJ0bbck.woff2" />
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:600%7cOpen&#43;Sans&amp;display=swap" media="screen" />
       <div className="container">
