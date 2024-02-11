@@ -25,7 +25,7 @@ function LocationListings() {
     }
     const filtered = data.filter((location) => {
       const name = location.name.toLowerCase();
-      const description = location.description.toLowerCase();
+      const description = location.description.toString().toLowerCase();
       const locationName = location.location.toLowerCase();
 
       return name.includes(query) || description.includes(query) || locationName.includes(query);
