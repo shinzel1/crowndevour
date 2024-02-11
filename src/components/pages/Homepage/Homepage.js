@@ -19,11 +19,11 @@ function Homepage() {
         <SearchFilter />
       </div>
       <section className="featured-locations">
-        <h2>Featured Locations</h2>
+        {/* <h2>Featured Locations</h2> */}
         {/* <p>Explore Our Top Picks</p> */}
-        <h6>
+        {/* <h6>
           Discover handpicked restaurants, cozy cafes, and vibrant thelas in the most exciting culinary destinations. From street food gems to fine dining experiences, these places are a must-visit.
-        </h6>
+        </h6> */}
         <div>
           <FeaturedLocations />
         </div>

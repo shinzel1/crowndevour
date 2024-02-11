@@ -27,7 +27,7 @@ const locationCard = ({data }) => {
                     className="ml-1">Image </a>
                   </li>
                 </ul>
-                <p>{data.description}</p> <a href="post-elements.html" className="btn btn-outline-primary">Continue
+                <p>{data.shortDescription}</p> <a href="post-elements.html" className="btn btn-outline-primary">Continue
                     Reading</a>
               </article>
 	);

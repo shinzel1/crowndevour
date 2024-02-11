@@ -9,7 +9,8 @@
       "Diverse Menu"
     ],
     "category":["cafe","restaurant"],
-    "description": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
+    "shortDescription": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
+    "description":"Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/cafe/kaffee-meister-_tc92wGVf60-unsplash.jpg"
   },
   {
@@ -21,6 +22,7 @@
       "Vibrant Ambiance"
     ],
     "category":["cafe","thelas","restaurant"],
+    "shortDescription": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
     "description": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
     "image": "https://images.unsplash.com/photo-1696906594893-e9995c4d7082"
   },
@@ -33,6 +35,7 @@
       "Dishes from Karnataka and Kerala"
     ],
     "category":["cafe","thelas","restaurant"],
+    "shortDescription": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
     "description": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipODVH3nC-Nmff4aLJyhXQphTjezExk0-3NEaCyu=s1360-w1360-h1020"
   },
@@ -46,6 +49,7 @@
       "Café-Style Section"
     ],
     "category":["cafe","thelas","restaurant"],
+    "shortDescription": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
     "description": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipOgxUAv9Tf-vywQ4wTpmCdeRye5Oqdd3ruF3gZI=s1360-w1360-h1020"
   },
@@ -58,6 +62,7 @@
       "Luxurious Dining"
     ],
     "category":["cafe","thelas","restaurant"],
+    "shortDescription": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
     "description": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipND-HhzwYjsVjoVBI_2nhiIWEVSYNslNgSIdRTX"
   },
@@ -70,21 +75,9 @@
       "Cozy Atmosphere"
     ],
     "category":["cafe","thelas","restaurant"],
+    "shortDescription": "Yeti - The Himalayan Kitchen offers a cozy atmosphere and specializes in Himalayan cuisine, providing a unique dining experience.",
     "description": "Yeti - The Himalayan Kitchen offers a cozy atmosphere and specializes in Himalayan cuisine, providing a unique dining experience.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipOsMyWrNPu_Drv2L2EfiLUeBW5Atkvy4N40p34=s1360-w1360-h1020"
-  },
-  {
-    "title": "hauz-khas-social",
-    "name": "Hauz Khas Social",
-    "location": "9A & 12, Hauz Khas Village",
-    "type": "Café",
-    "highlights": [
-      "Relaxed Setting",
-      "Diverse Menu"
-    ],
-    "category":["cafe","thelas","restaurant"],
-    "description": "Hauz Khas Social is a café with a relaxed setting and a diverse menu, making it a popular spot for the community to gather.",
-    "image": "https://lh3.googleusercontent.com/p/AF1QipOwih6GUJREOscBVQ5SwfPteoqyOLMTFCvHNqMf=s1360-w1360-h1020"
   },
   {
     "title": "elmas-bakery-bar-kitchen",
@@ -96,6 +89,7 @@
       "Desserts"
     ],
     "category":["cafe","restaurant"],
+    "shortDescription": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
     "description": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipMAzr4HEnbr5Lk3PX_wPCBC9btUvpHBBPwk-QeC=s1360-w1360-h1020"
   },
@@ -108,6 +102,7 @@
       "South Indian"
     ],
     "category":["cafe","restaurant"],
+    "shortDescription": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
     "description": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipM3h9HuQ0lhIMbniMI1qiYU0Wbzc7hrnlJeW9kN=s1360-w1360-h1020"
   },
@@ -120,6 +115,7 @@
       "Rooftop Seating"
     ],
     "category":["cafe","restaurant"],
+    "shortDescription": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
     "description": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipNumCUNMLZd-Pwu-miwNT4fS4qdh5dC35qexglL=s1360-w1360-h1020"
   },
@@ -132,7 +128,160 @@
       "Modern Twist"
     ],
     "category":["cafe","restaurant"],
+    "shortDescription": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
     "description": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
     "image": "https://lh3.googleusercontent.com/p/AF1QipM6GJ4Lt0PRTOfGmvsVd9VfzQ2f4QPPLlqTAVVW=s1360-w1360-h1020"
+  },
+{
+    "title": "hauz-khas-social",
+    "name": "Hauz Khas Social",
+    "location": "9A & 12, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Relaxed Setting",
+      "Diverse Menu"
+    ],
+    "category":["cafe","thelas","restaurant"],
+    "shortDescription":"Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment.",
+    "description": ["Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment. Located in the cultural hub of Delhi, Hauz Khas Village, the cafe boasts a stunning view of the Hauz Khas lake and the historical monument. The cafe has a unique design that blends rustic and industrial elements with recycled and upcycled furniture. The cafe has a spacious and airy feel, with large windows, high ceilings, and exposed brick walls. The cafe also has a rooftop terrace, where you can enjoy the breeze and the scenery."
+    ,"Hauz Khas Social serves a variety of cuisines, from North Indian, Chinese, and Biryani, to Pasta, Burger, and Pizza. The cafe also has a full bar, where you can sip on cocktails, mocktails, beers, and wines. The cafe is famous for its all-day breakfast, which includes dishes like the Social Shake, the Breakfast Tray, and the Taco Soup. The cafe also has some signature dishes, such as the Grilled Chicken Peri Peri Sizzler, the Chicken Shwarma Platter, and the Jalapeno Cheese Nads. The cafe also caters to different dietary preferences, such as vegetarian, vegan, and gluten-free.",
+  "Hauz Khas Social is not just a cafe, but also a co-working space, where you can rent a desk, a meeting room, or a private cabin. The cafe provides high-speed internet, power outlets, stationery, and printing facilities. The cafe also hosts various events, such as workshops, seminars, art exhibitions, live music, comedy shows, and DJ nights. The cafe is a hub for artists, entrepreneurs, freelancers, and innovators, who come here to share their ideas, skills, and passions.","Hauz Khas Social is open from 12 noon to 1 am, and you can make a reservation online or by phone. The cafe has a friendly and helpful staff, who will make you feel welcome and comfortable. The cafe has a casual dress code, and a couple entry only policy. The cafe is also LGBTQIA friendly, and supports social causes. The cafe has a vibrant and lively atmosphere, where you can have fun, relax, and connect with others.",
+"Hauz Khas Social is a cafe that combines work and play, culture and cuisine, and history and modernity. It is a place where you can experience the best of Delhi, and be part of a community of social and creative people. Hauz Khas Social is more than just a cafe, it is a way of life."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOwih6GUJREOscBVQ5SwfPteoqyOLMTFCvHNqMf=s1360-w1360-h1020"
+  },
+  {
+    "title": "raasta",
+    "name": "Raasta",
+    "location": "30-A, First Floor, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Funky Decor",
+      "Craft Beers"
+    ],
+    "category":["cafe","bar","restaurant"],
+    "shortDescription":"Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience.",
+    "description": ["Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience. The cafe is inspired by the Rastafari culture and the reggae music genre, which originated in Jamaica and spread across the world. The cafe’s decor reflects the vibrant colors, patterns, and symbols of the Caribbean islands, such as the red, green, and yellow of the Rastafari flag, the dreadlocks, the lion, and the cannabis leaf. The cafe also features swing chairs, hammocks, and bean bags for a relaxed and cozy ambiance.","The menu at cafe Raasta is a mix of cuisines from different parts of the world, such as North Indian, Italian, Chinese, Asian, Continental, Pizza, and Fast Food. The cafe also serves a variety of beverages, such as mocktails, smoothies, shakes, teas, and coffees. Some of the popular dishes at cafe Raasta are the creamy mushroom penne, the garden burger, the snicker shake, the darjeeling tea, the corn bhel, and the crispy fried chicken1. The cafe also offers a brunch menu that includes pancakes, waffles, sandwiches, salads, and more","Cafe Raasta is not just a place to eat and drink, but also a place to enjoy live music and entertainment. The cafe hosts live DJ nights, karaoke sessions, and live bands that play reggae, rock, pop, and other genres of music. The cafe also has a rooftop seating area that offers a panoramic view of the city skyline and a romantic setting for couples. The cafe is open 24 hours a day, seven days a week, making it a perfect destination for late-night hangouts, parties, and celebrations","Cafe Raasta is a place where you can taste the islands in Hyderabad, as one of the news articles described it3. It is a place where you can experience the Rastafari spirit of peace, love, and harmony, and enjoy the music, food, and drinks that celebrate the diversity and richness of the Caribbean culture. Cafe Raasta is a place where you can feel the vibes and have a good time."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPU7eBBwGC0uBWsZNHkCDsfQX-XNaZqSixKYERJ=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "yeti",
+    "name": "Yeti",
+    "location": "28 A, Second Floor, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Cosy Ambience",
+      "Himalayan Cuisine"
+    ],
+    "category":["cafe","restaurant"],
+    "shortDescription":"Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city.",
+    "description": ["Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city. The cafe is named after the mythical creature that is said to inhabit the Himalayas, also known as the abominable snowman. The cafe’s logo features a cute and friendly version of the Yeti, inviting the customers to explore the hidden gems of the Himalayan cuisine.","The menu at cafe Yeti is a blend of dishes from Nepal, Tibet, Bhutan, and North India, such as momos, thukpa, shapta, gyathuk, tingmo, and more. The cafe also offers a variety of vegetarian and vegan options, as well as gluten-free and dairy-free choices. Some of the signature dishes at cafe Yeti are the Yeti platter, which includes a selection of momos, pakoras, and salads, the Yeti thali, which consists of rice, dal, curry, pickle, and papad, and the Yeti special, which is a spicy and tangy chicken curry with steamed rice12. The cafe also serves a range of beverages, such as masala tea, butter tea, hot chocolate, and lassi","Cafe Yeti is not just a place to enjoy delicious food, but also a place to experience the Himalayan culture and lifestyle. The cafe’s decor reflects the natural beauty and diversity of the Himalayas, with wooden furniture, colorful cushions, prayer flags, and paintings of the mountains. The cafe also plays soothing and uplifting music from the region, such as folk songs, chants, and instrumental tunes. The cafe also hosts cultural events, such as book readings, poetry sessions, film screenings, and live performances by local artists","Cafe Yeti is a place where you can escape the hustle and bustle of the city and immerse yourself in the serene and spiritual atmosphere of the Himalayas. It is a place where you can savor the authentic and exotic flavors of the Himalayan cuisine and learn more about the history and traditions of the people who live there. Cafe Yeti is a place where you can find your inner Yeti and have a memorable time."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP-ZTPKQWFHnL5FBMP9n6THGhmq3p-x-rfOB_Fn=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "matchbox",
+    "name": "Matchbox",
+    "location": "30, First Floor, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Vibrant Atmosphere",
+      "Live Music"
+    ],
+    "category":["cafe","pub","restaurant"],
+    "shortDescription":"Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create.",
+    "description": ["Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create. The cafe’s logo features a matchstick on fire, representing the passion and enthusiasm of the cafe’s staff and customers.","The menu at cafe Matchbox is a fusion of continental, salad, and fast food, with a variety of dishes to suit different tastes and preferences. The cafe also offers a wide range of beverages, such as cocktails, mocktails, beers, wines, and smoothies. Some of the popular dishes at cafe Matchbox are the pork fry, the chicken lasagna, the honey chilli potato, and the black and white toast1. The cafe also has a brunch menu that includes pancakes, eggs, sandwiches, and more","Cafe Matchbox is not just a place to dine and drink, but also a place to enjoy music and entertainment. The cafe hosts live DJ nights, karaoke sessions, and live bands that play rock, pop, hip hop, and other genres of music. The cafe also has a rooftop seating area that offers a stunning view of the Hauz Khas lake and the historical monuments. The cafe is open from 12 noon to 1 am, making it a perfect destination for day and night outings, parties, and celebrations","Cafe Matchbox is a place where you can experience the matchless vibe and atmosphere of Hauz Khas Village, as one of the travel articles described it3. It is a place where you can indulge in delicious food and drinks, and groove to the music and beats that match your mood. Cafe Matchbox is a place where you can ignite your senses and have a blast."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN99wvKhno9oIYuvOtIEF7j8KZ5XNIws4FgSFnG=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "kunzum-travel-cafe",
+    "name": "Kunzum Travel Cafe",
+    "location": "T-49, GF, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Unique Concept",
+      "Travel Community"
+    ],
+    "category":["cafe"],
+    "shortDescription":"Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals.",
+    "description": ["Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals. The cafe is located in the trendy Hauz Khas Village in New Delhi, and is named after the Kunzum Pass, a high-altitude mountain pass in the Himalayas. The cafe’s founder, Ajay Jain, is a travel writer and photographer who decided to create a space where people can share their travel stories, experiences, and tips.","The cafe offers free wi-fi, a library of travel books and magazines, and a gallery of travel photographs. The cafe also serves fine coffees, teas, and cookies, and guests can pay as much as they want to - there is no fixed price or obligation to buy anything. The cafe also hosts various events, such as book readings, film screenings, poetry sessions, music gigs, and art workshops. The cafe is open from Tuesday to Sunday, from 11 a.m. to 7:30 p.m., and is closed on Mondays","Cafe Kunzum Travel Cafe is a place where you can meet like-minded people, exchange ideas, and get inspired by the beauty and diversity of the world. It is a place where you can escape the hustle and bustle of the city and immerse yourself in the serene and spiritual atmosphere of the Himalayas. It is a place where you can find your inner traveler and have a memorable time."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOFLlmOhoj-8JuzcireBdRE9ayHt4YY-UJPM_WH=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "coast-cafe",
+    "name": "Coast Cafe",
+    "location": "H-2, Second Floor & Third Floor, Above Ogaan, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Soothing Ambience",
+      "Coastal Delicacies"
+    ],
+    "category":["cafe","restaurant"],
+    "shortDescription":"Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients.",
+    "description": ["Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients. The menu features a range of international cuisines, from Mediterranean to Asian, as well as authentic coastal delicacies from Kerala and Goa.","The cafe has a contemporary and elegant ambience, with a spacious seating area and a terrace overlooking the lake. The decor is minimalist and chic, with white walls, wooden furniture, and colorful cushions. The cafe also has a boutique store, Ogaan, on the ground floor, where customers can shop for designer clothes and accessories.","Coast Cafe is known for its impeccable service and hospitality. The staff is friendly, attentive, and professional, and always ready to assist the customers with their orders and preferences. The manager, Rajinder, is especially helpful and makes the customers feel at home. The cafe also hosts live music events and art exhibitions on weekends, adding to the lively and vibrant atmosphere.","Some of the must-try dishes at Coast Cafe are the prawn moilee, a creamy coconut-based curry with succulent prawns, served with appam, a soft and fluffy rice pancake; the veg tacos, crispy tortillas stuffed with spicy vegetables and cheese, topped with salsa and sour cream; and the sundal, a tangy and crunchy salad made with chickpeas, coconut, and curry leaves. The cafe also serves a variety of beverages, such as smoothies, juices, teas, and coffees, as well as desserts, such as cakes, pies, and ice creams.","Coast Cafe is a perfect place to enjoy a leisurely meal with family or friends, or to have a romantic date with a stunning view of the lake. It is open from 11 am to 11 pm, and accepts online reservations through Zomato and Dineout. The average cost for two people is around Rs. 1500, excluding taxes and charges. Coast Cafe is rated 4.5 out of 5 on Tripadvisor, and has received rave reviews from customers for its food, service, value, and atmosphere. It is one of the best restaurants in Delhi, and a must-visit for anyone who loves coastal cuisine and culture."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP3PLKA9LrV3fLVxQXKDte2cgYYPCL5R01buS-i=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "gyspy-cafe",
+    "name": "Gyspy Cafe",
+    "location": "13 A, Ground Floor, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Bohemian Vibe",
+      "Middle Eastern Cuisine"
+    ],
+    "category":["cafe","restaurant"],
+    "shortDescription":"Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music.",
+    "description": ["Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music. The cafe has a rustic and artistic decor, with colorful cushions, paintings, and board games. The cafe also offers a stunning view of the lake and the historical monuments nearby.","The menu of Gypsy Cafe is diverse and affordable, featuring a variety of cuisines such as pizza, pasta, sandwich, burger, and fast food. The cafe also serves tea, coffee, juice, and other beverages. Some of the popular dishes are the mushroom pizza, the chicken sandwich, and the cold coffee. The portions are generous and the service is friendly and attentive.","Gypsy Cafe is a great spot to hang out with friends, have a romantic date, or work on your laptop. The cafe has a vibe of peace and tranquility, and attracts a young and creative crowd. The owner of the cafe is a hospitable and warm person, who makes sure that the guests feel comfortable and relaxed. The cafe also hosts live music events in the evening, featuring talented local artists.","Gypsy Cafe is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves good food, good music, and good ambiance. It is a place where you can escape the hustle and bustle of the city, and enjoy a gypsy lifestyle. Gypsy Cafe is open from 12 noon to 11 pm, and you can book a table online or call them at +91 9999999999. You can also follow them on Zomato1 or Facebook2 for more updates and offers."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN50kPQq-mxJgV9Lga0QHuA31RmYExF3lU3-Umy=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "the-tea-room",
+    "name": "The Tea Room",
+    "location": "1, Hauz Khas Tank, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Tea Speciality",
+      "Snacks and Desserts"
+    ],
+    "category":["cafe","bakery"],
+    "shortDescription":"The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand.",
+    "description": ["The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand. The cafe offers a serene and soothing ambiance, with a view of the lake and the deer park. The cafe has a vintage and classy decor, with wooden furniture, floral curtains, and antique crockery.","The menu of The Tea Room is diverse and exquisite, featuring a variety of teas, coffees, juices, and other beverages. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, salads, and pastas. The cafe specializes in organic and healthy food, using fresh and natural ingredients. Some of the popular items are the white tea, the ginger tea, the masala chai, and the hot chocolate","The Tea Room is a great place to relax, rejuvenate, and indulge in some self-care. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The staff of the cafe is courteous and attentive, and the owner is a friendly and hospitable person.","The Tea Room is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves tea, coffee, and wellness. It is a place where you can experience the benefits of aromatherapy, enjoy a delicious meal, and admire the beauty of nature. The Tea Room is open from 9 am to 7 pm, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Tripadvisor2 for more reviews and ratings."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM6GJ4Lt0PRTOfGmvsVd9VfzQ2f4QPPLlqTAVVW=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "cafe-mafioso",
+    "name": "Cafe Mafioso",
+    "location": "2nd Floor, Building No. 28, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Chic and Modern",
+      "Italian and Mediterranean Cuisine"
+    ],
+    "category":["cafe","restaurant"],
+    "shortDescription":"Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience.",
+    "description": ["Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience. The cafe has a modern and stylish decor, with black and white furniture, red accents, and mafia-themed posters. The cafe also has a spacious terrace that overlooks the lake and the greenery.","The menu of Cafe Mafioso is diverse and delicious, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves drinks, cocktails, mocktails, and hookah. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka1. The portions are decent and the service is quick and courteous.","Cafe Mafioso is a great place to chill, party, and have fun with your friends, family, or date. The cafe has a vibe of excitement and entertainment, and attracts a young and hip crowd. The cafe also hosts live music events, DJ nights, and theme parties. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.","Cafe Mafioso is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a mafia-style adventure, with a touch of class and glamour. Cafe Mafioso is open from 11:30 am to 1 am, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Restaurant Guru2 for more information and reviews."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMyUdEhIfoff-Y9ldcaIua77lCqLs2uwAugvvQ0=s1360-w1360-h1020"
+
+  },
+  {
+    "title": "cafe-6",
+    "name": "Cafe 6",
+    "location": "6, Hauz Khas Village",
+    "type": "Café",
+    "highlights": [
+      "Delicious Food and Drinks",
+      "Relaxed and Inviting"
+    ],
+    "category":["cafe","restaurant"],
+    "shortDescription":"Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife.",
+    "description": ["Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife. The cafe has a relaxed and inviting atmosphere, with comfortable seating and a friendly staff. The cafe also offers a full bar, with a selection of craft beers, wines, and cocktails. The cafe also has a variety of special events, such as live music, trivia nights, and karaoke1.","The menu of Cafe 6 is diverse and affordable, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, burgers, pizzas, pastas, and desserts. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka2. The portions are decent and the service is quick and courteous.","Cafe 6 is a great place to enjoy a meal with friends and family, or to just relax and unwind. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.","Cafe 6 is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of class and style. Cafe 6 is open from 10 am to 9:30 pm, and you can book a table online or call them at +91 93137 00550. You can also follow them on Zomato1 or Restaurant Guru3 for more information and reviews."],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN3ShWUW0t6ovOIrdkMpFsfsZFCfdazy3UgcQQt=s1360-w1360-h1020"
+
   }
 ]

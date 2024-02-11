@@ -43,8 +43,8 @@ function LocationDetail() {
 										<a href="author.html">John Doe</a>
 									</li>
 									<li className="list-inline-item">Date : March 15, 2020</li>
-									<li className="list-inline-item">Categories : <a href="#!" className="ml-1">Photography </a>
-									</li>
+									{/* <li className="list-inline-item">Categories : <a href="#!" className="ml-1">{loc.category} </a> */}
+									{/* </li> */}
 									<li className="list-inline-item">Tags : <a href="#!" className="ml-1">Photo </a> ,<a href="#!" className="ml-1">Image </a>
 									</li>
 								</ul>

@@ -24,7 +24,7 @@ export default function MasonryImageList() {
     <div className='centered'>
       <Box sx={{ width: '80%', overflowY: 'scroll' }}>
         <ImageList variant="masonry" cols={3} gap={20} className='featured-loc' style={{ padding: 20 }}>
-          {itemData.map((item) => (
+          {itemData.slice(0, 11).map((item) => (
             <Link to={'/location/' + item.title} state={{ loc: item }} key={item.title + "ahref"}>
               <ImageListItem key={item.title + "Masonry"} className='imageListItem'>
                 <div className="image-container">
