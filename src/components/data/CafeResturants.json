@@ -507,7 +507,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipOpYGLIRGS2CKcJKHLh_WnRdFQxT3M_p9tk357e=s1360-w1360-h1020"
   },
   {
-    "title": "The Big House Cafe",
+    "title": "The-Big-House-Cafe",
     "name": "The Big House",
     "location": "Satya Niketan, New Delhi",
     "type": "Chinese Cafe cum Restaurant",
@@ -573,7 +573,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipNoXs0gT9B2GGYde16KTakRKaj4jFOSrF8Dec4l=s1360-w1360-h1020"
   },
   {
-    "title": "Wood Box Cafe",
+    "title": "Wood-Box-Cafe",
     "name": "Wood Box",
     "location": "Hudson Lane, New Delhi",
     "type": "Cafe, Fast Food, Italian, Chinese",
@@ -597,7 +597,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipMiZEqBxIbjM0V2eMDp0TgFMEBuEqSvOX_SF2jB=s1360-w1360-h1020"
   },
   {
-    "title": "Big Yellow Door",
+    "title": "Big-Yellow-Door",
     "name": "Big Yellow Door",
     "location": "Hudson Lane, Delhi",
     "type": "Cafe",
@@ -620,7 +620,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipP0HofRH7ZlBIF4lHOqYbFPoLdHerBVEfNRJmcd=s1360-w1360-h1020"
   },
   {
-    "title": "Waffle O'Clock",
+    "title": "Waffle-O-Clock",
     "name": "Waffle O'Clock",
     "location": "Rajinder Nagar, Delhi",
     "type": "Waffle, Desserts, Shake, Beverages",
@@ -647,7 +647,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipNAST2z7DwsWNgA96ltfCXMjxTODnIwThl23vqg=s1360-w1360-h1020"
   },
   {
-    "title": "Shawarma Point",
+    "title": "Shawarma-Point",
     "name": "Shawarma Point",
     "location": "Hudson Lane, Delhi",
     "type": "Shawarma, Kebab",
@@ -671,7 +671,7 @@
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
   {
-    "title": "Desi Fukrey Cafe",
+    "title": "Desi-Fukrey-Cafe",
     "name": "Desi Fukrey Cafe",
     "location": "Satyaniketan, New Delhi",
     "type": "Cafe",
@@ -695,7 +695,7 @@
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
   {
-    "title": "Sinsa Seoul Cafe",
+    "title": "Sinsa-Seoul-Cafe",
     "name": "Sinsa Seoul Cafe",
     "location": "Satyaniketan, New Delhi",
     "type": "Cafe",
@@ -719,8 +719,8 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipM50unPzVGZ0fX1AiZSP1qaA1ch3Zdy0-oYUZ3g=s1360-w1360-h1020"
   },
   {
-    "title": "Cafe Kev's: Your Quirky Delhi Haven for Global Flavors & Local Vibes",
-    "name": "Cafe Kev's",
+    "title": "Cafe-Kev-s",
+    "name": "Cafe Kev's: Your Quirky Delhi Haven for Global Flavors & Local Vibes",
     "location": "(Fill in the specific address - e.g., Satya Niketan, Dlf Cyber City)",
     "type": "Cafe, Coffee Shop, Restaurant",
     "highlights": [
@@ -750,7 +750,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipNXgbe8gBSDMG4KSxlvRIjdr_BKjWuqjzsGWQZE=s1360-w1360-h1020"
   },
   {
-    "title": "The Amigo’s Hub",
+    "title": "The-Amigo-s-Hub",
     "name": "The Amigo’s Hub",
     "location": "Satyaniketan, Delhi",
     "type": "Cafe and Fast Food",
@@ -773,7 +773,7 @@
     "image": "https://lh5.googleusercontent.com/p/AF1QipNfWAGGkXgSvvWf9Jm1DIMcvOVJtUWOM58dzVb3=w284-h160-k-no"
   },
   {
-    "title": "China Bowl",
+    "title": "China-Bowl",
     "name": "China Bowl",
     "location": "Satyaniketan, New Delhi",
     "type": "Chinese, Asian, Japanese, and Seafood",
@@ -819,7 +819,7 @@
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
   {
-    "title": "Friends Cafe and Lounge",
+    "title": "Friends-Cafe-and-Lounge",
     "name": "Friends Cafe and Lounge",
     "location": "Satya Niketan, New Delhi",
     "type": "North Indian, Chinese, Asian, Continental, Italian, American, and Fast Food",
@@ -842,7 +842,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipMUtafTlHEToaXV2R05YkKxWwrebhGfKpzOwE5C=s1360-w1360-h1020"
   },
   {
-    "title": "Crazy Kitchen Rooftop & Lounge",
+    "title": "Crazy-Kitchen-Rooftop-and-Lounge",
     "name": "Crazy Kitchen Rooftop & Lounge",
     "location": "Satyaniketan, New Delhi",
     "type": "North Indian, Chinese, Italian, and Fast Food",
@@ -865,7 +865,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipOuHe6RIvVFJwW56_x5wwHmym-w09a_tm7Diie5=s1360-w1360-h1020"
   },
   {
-    "title": "The Biryani Co.",
+    "title": "The-Biryani-Co",
     "name": "The Biryani Co.",
     "location": "DLF Phase 4, Gurgaon",
     "type": "North Indian and Biryani",
@@ -888,7 +888,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipNEnqDA3MYbEqmwMNnXZDs2uW1m0nLQ0CPh8mcz=s1360-w1360-h1020"
   },
   {
-    "title": "Emoji's",
+    "title": "Emoji-s",
     "name": "Emoji's",
     "location": "Connaught Place, Delhi",
     "type": "Cafe and Fast Food",
@@ -911,7 +911,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipNRMWvueYiWgIS8hV78_xgHmXzmF-_JNhZtvbQ1=s1360-w1360-h1020"
   },
   {
-    "title": "Cafe Diaries",
+    "title": "Cafe-Diaries",
     "name": "Cafe Diaries",
     "location": "Lajpat Nagar 4, New Delhi",
     "type": "Cafe and Continental",
@@ -935,7 +935,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipMWk9ZZtszNy_zkpEIJi7FHdsqp8UQdqB7fjFGD=s1360-w1360-h1020"
   },
   {
-    "title": "PL Pizzeria",
+    "title": "PL-Pizzeria",
     "name": "PL Pizzeria",
     "location": "Satya Niketan, New Delhi",
     "type": "Fast Food and Italian",
@@ -958,7 +958,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipPrk4uoDE4MnQ0KCAjVO9IeIJKjYE_EGLm0hW4C=s1360-w1360-h1020"
   },
   {
-    "title": "Xero Degrees",
+    "title": "Xero-Degrees",
     "name": "Xero Degrees",
     "location": "Connaught Place, New Delhi",
     "type": "Cafe and Fast Food",
@@ -981,7 +981,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipNrq0kCTfnjATGtSpHsc__8LyQGuaJLPXVKq5qe=s1360-w1360-h1020"
   },
   {
-    "title": "KC Restaurant",
+    "title": "KC-restaurant",
     "name": "KC Restaurant",
     "location": "Sector 7, Dwarka, New Delhi",
     "type": "Chinese, Momos, North Indian, Sichuan",
@@ -1006,7 +1006,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipMvM1U2X-DRbHmjgJfRp8guqd1q5u7iimmWU4fX=s1360-w1360-h1020"
   },
   {
-    "title": "Bottle House",
+    "title": "bottle-house",
     "name": "Bottle House",
     "location": "Satyaniketan, New Delhi",
     "type": "Chinese, Asian, Pizza, Italian, Pasta, Continental, North Indian, Beverages",
@@ -1035,7 +1035,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipMfxZtVYapkwrnqG9E_NesDesd8UENCaHMnGU-G=s1360-w1360-h1020"
   },
   {
-    "title": "Pirates of Dilli Campus",
+    "title": "pirates-of-dilli-campus",
     "name": "Pirates of Dilli Campus",
     "location": "Satyaniketan, New Delhi",
     "type": "North Indian, Chinese, Italian, Pizza",
@@ -1059,7 +1059,7 @@
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipPqg3SUCGW2kEHxOqVylzsZsf9VDVvtgTARURJ6=s1360-w1360-h1020"
   },{
-    "title": "Rustic Cafe",
+    "title": "rustic-cafe",
     "name": "Rustic Cafe",
     "location": "Adchini, New Delhi",
     "type": "Cafe, Fast Food, Chinese, Italian, Beverages, Asian",
@@ -1086,7 +1086,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipMuxdMGWldXByy77nV7DDqlfuqfWwSjKIfHFRyn=s1360-w1360-h1020"
   },
   {
-    "title": "Pipeline Pizzeria",
+    "title": "pipeline-pizzeria",
     "name": "Pipeline Pizzeria",
     "location": "Satya Niketan, New Delhi",
     "type": "Fast Food and Italian",
@@ -1109,7 +1109,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipORY349F0QVHKRvvnl-3wsWXiqts8_Zc56_9-_d=s1360-w1360-h1020"
   },
   {
-    "title": "ROYCE' Chocolate",
+    "title": "royce-chocolate",
     "name": "ROYCE' Chocolate",
     "location": "DLF Promenade, Vasant Kunj, New Delhi",
     "type": "Chocolate, Desserts, Beverages",
@@ -1134,7 +1134,7 @@
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
   {
-    "title": "Monster Cookies",
+    "title": "monster-cookies",
     "name": "Monster Cookies",
     "location": "Koramangala, Bangalore",
     "type": "Bakery and Desserts",
@@ -1157,7 +1157,7 @@
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
   {
-    "title": "NIC Ice Creams",
+    "title": "NIC-Ice-Creams",
     "name": "NIC Ice Creams",
     "location": "Vile Parle East, Mumbai",
     "type": "Ice Cream and Desserts",
@@ -1204,7 +1204,7 @@
     "image": "https://lh5.googleusercontent.com/p/AF1QipNeTrlXE50WIV86kGRsENJl8eqeZv27xbtSj32C=w260-h175-n-k-no"
   },
   {
-    "title": "Theobroma",
+    "title": "theobroma",
     "name": "Theobroma",
     "location": "DLF Mall of India, Sector 18, Noida",
     "type": "Bakery and Desserts",
@@ -1227,7 +1227,7 @@
     "image": "https://lh5.googleusercontent.com/p/AF1QipMaAQryTND0Oc6AhB6lY8KQiDQ6oR7KR7UF2wO_=w260-h175-n-k-no"
   },
   {
-    "title": "Yum Yum Cha",
+    "title": "yum-yum-cha",
     "name": "Yum Yum Cha",
     "location": "Khan Market, New Delhi",
     "type": "Asian, Chinese, Thai, Japanese, Sushi, Oriental, Ice Cream, Desserts",
@@ -1256,7 +1256,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipO2cWLH058N5WuADRvEBxanzcfioTfqreU2vmFP=s1360-w1360-h1020"
   },
   {
-    "title": "Got Tea",
+    "title": "got-tea",
     "name": "Got Tea",
     "location": "Galleria Market, Gurgaon",
     "type": "Bubble Tea and Beverages",
