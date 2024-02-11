@@ -8,9 +8,18 @@
       "Scenic Views",
       "Diverse Menu"
     ],
-    "category":["cafe","restaurant"],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
     "shortDescription": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
-    "description":"Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
+    "description": [
+      "Cafe Dramz is a cozy and elegant restaurant and bar located near the Qutub Minar in New Delhi. It offers a stunning view of the historic monument and the lush greenery surrounding it. Cafe Dramz is the perfect place to enjoy a romantic date, a family outing, or a corporate event.",
+      "The menu at Cafe Dramz features a variety of cuisines, including Continental, Italian, European, Asian, and Desserts. The dishes are prepared with fresh and quality ingredients, and the presentation is impeccable. Some of the popular dishes are the Kiwi Drink, the Chocolate Pie, the Orange Mojito, the Stuffed Mushrooms, and the Spaghetti. The bar at Cafe Dramz boasts of a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at Cafe Dramz is warm and inviting, with a touch of sophistication. The restaurant has four different seating areas, each with its own charm and vibe. The ground floor has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation. The first floor has a more formal and elegant atmosphere, suitable for a business meeting or a special occasion. The second floor has a lounge and a library, where you can unwind with a book or a drink. The third floor has a rooftop terrace, where you can enjoy the breathtaking view of the Qutub Minar and the sky, especially at night.",
+      "Cafe Dramz also hosts live music and sports screening events, adding to the entertainment quotient. The service at Cafe Dramz is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Cafe Dramz is a must-visit destination for anyone looking for a fine dining experience with a spectacular view in New Delhi. It is open from 1 pm to 1 am every day, and the average cost for two people is around Rs. 3500, without alcohol."
+    ],
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/cafe/kaffee-meister-_tc92wGVf60-unsplash.jpg"
   },
   {
@@ -21,9 +30,19 @@
     "highlights": [
       "Vibrant Ambiance"
     ],
-    "category":["cafe","thelas","restaurant"],
+    "category": [
+      "cafe",
+      "thelas",
+      "restaurant"
+    ],
     "shortDescription": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
-    "description": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
+    "description": [
+      "Cafe Gastronomica Kitchen & Bar is a trendy and lively restaurant and bar located in the M Block Market of Greater Kailash 1 in New Delhi. It offers a unique experience with its modern and stylish interior, delicious food and drinks, and vibrant atmosphere.",
+      "The menu at Cafe Gastronomica Kitchen & Bar features a variety of cuisines, including European, North Indian, Italian, and Asian. The dishes are prepared with fresh and quality ingredients, and the taste is exquisite. Some of the popular dishes are the Primavera Pizza, the Murg Makhanwala, the Kung Pao Chicken, the Hoisen Chicken Bao, and the Ratatouille Cigar. The bar at Cafe Gastronomica Kitchen & Bar offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at Cafe Gastronomica Kitchen & Bar is warm and inviting, with a touch of elegance. The restaurant has a spacious and comfortable seating area, with a mix of sofas, chairs, and stools. The decor is chic and classy, with a lot of wood, metal, and glass elements. The lighting is soft and cozy, creating a romantic and relaxing mood. The restaurant also has a rooftop terrace, where you can enjoy the stunning view of the city and the sky, especially at night.",
+      "Cafe Gastronomica Kitchen & Bar also hosts live music and sports screening events, adding to the entertainment quotient. The service at Cafe Gastronomica Kitchen & Bar is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Cafe Gastronomica Kitchen & Bar is a must-visit destination for anyone looking for a casual dining experience with a spectacular view in New Delhi. It is open from 12 noon to 1 am every day, and the average cost for two people is around Rs. 2200, without alcohol."
+    ],
     "image": "https://images.unsplash.com/photo-1696906594893-e9995c4d7082"
   },
   {
@@ -34,9 +53,19 @@
     "specialties": [
       "Dishes from Karnataka and Kerala"
     ],
-    "category":["cafe","thelas","restaurant"],
+    "category": [
+      "cafe",
+      "thelas",
+      "restaurant"
+    ],
     "shortDescription": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
-    "description": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
+    "description": [
+      "Cafe Sanadige - Goldfinch Hotel is a fine dining restaurant and bar located near the Race Course Road in Bangalore. It offers a splendid experience with its traditional and elegant interior, mouth-watering food and drinks, and serene atmosphere.",
+      "The menu at Cafe Sanadige - Goldfinch Hotel features a variety of cuisines, mainly from the West coast of India. The dishes are prepared with fresh and quality ingredients, and the taste is authentic and rich. Some of the popular dishes are the Crab Masala, the Prawn Ghee Roast, the Fish Tawa Fry, the Chicken Sukka, and the Neer Dosa. The bar at Cafe Sanadige - Goldfinch Hotel offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at Cafe Sanadige - Goldfinch Hotel is warm and inviting, with a touch of sophistication. The restaurant has a spacious and comfortable seating area, with a mix of wooden and metal furniture. The decor is classy and elegant, with a lot of brass, copper, and silver elements. The lighting is soft and soothing, creating a romantic and relaxing mood. The restaurant also has a rooftop terrace, where you can enjoy the beautiful view of the city and the sky, especially at night.",
+      "Cafe Sanadige - Goldfinch Hotel also hosts live music and cultural events, adding to the entertainment quotient. The service at Cafe Sanadige - Goldfinch Hotel is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Cafe Sanadige - Goldfinch Hotel is a must-visit destination for anyone looking for a fine dining experience with a traditional touch in Bangalore. It is open from 12 noon to 11 pm every day, and the average cost for two people is around Rs. 2500, without alcohol."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipODVH3nC-Nmff4aLJyhXQphTjezExk0-3NEaCyu=s1360-w1360-h1020"
   },
   {
@@ -48,9 +77,19 @@
       "International Dishes",
       "Café-Style Section"
     ],
-    "category":["cafe","thelas","restaurant"],
+    "category": [
+      "cafe",
+      "thelas",
+      "restaurant"
+    ],
     "shortDescription": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
-    "description": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
+    "description": [
+      "CafeTamra - Shangri-La's Eros Hotel is a luxurious and sophisticated restaurant and bar located in the heart of New Delhi. It offers a splendid experience with its modern and stylish interior, delectable food and drinks, and vibrant atmosphere.",
+      "The menu at CafeTamra - Shangri-La's Eros Hotel features a variety of cuisines, including International, European, Indian, and Asian. The dishes are prepared with fresh and quality ingredients, and the taste is exquisite. Some of the popular dishes are the Tamra Breakfast, the Tamra Burger, the Butter Chicken, the Pad Thai, and the Chocolate Fondant. The bar at CafeTamra - Shangri-La's Eros Hotel offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at CafeTamra - Shangri-La's Eros Hotel is warm and inviting, with a touch of elegance. The restaurant has a spacious and comfortable seating area, with a mix of sofas, chairs, and tables. The decor is chic and classy, with a lot of wood, metal, and glass elements. The lighting is soft and cozy, creating a romantic and relaxing mood. The restaurant also has a live kitchen, where you can watch the chefs prepare your food with flair and finesse.",
+      "CafeTamra - Shangri-La's Eros Hotel also hosts live music and sports screening events, adding to the entertainment quotient. The service at CafeTamra - Shangri-La's Eros Hotel is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "CafeTamra - Shangri-La's Eros Hotel is a must-visit destination for anyone looking for a luxurious dining experience with a spectacular view in New Delhi. It is open from 6:30 am to 11:45 pm every day, and the average cost for two people is around Rs. 4000, without alcohol."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipOgxUAv9Tf-vywQ4wTpmCdeRye5Oqdd3ruF3gZI=s1360-w1360-h1020"
   },
   {
@@ -61,23 +100,20 @@
     "specialties": [
       "Luxurious Dining"
     ],
-    "category":["cafe","thelas","restaurant"],
-    "shortDescription": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
-    "description": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
-    "image": "https://lh3.googleusercontent.com/p/AF1QipND-HhzwYjsVjoVBI_2nhiIWEVSYNslNgSIdRTX"
-  },
-  {
-    "title": "yeti-the-himalayan-kitchen",
-    "name": "Yeti - The Himalayan Kitchen",
-    "location": "30, Hauz Khas Village",
-    "type": "Himalayan Cuisine",
-    "highlights": [
-      "Cozy Atmosphere"
+    "category": [
+      "cafe",
+      "thelas",
+      "restaurant"
     ],
-    "category":["cafe","thelas","restaurant"],
-    "shortDescription": "Yeti - The Himalayan Kitchen offers a cozy atmosphere and specializes in Himalayan cuisine, providing a unique dining experience.",
-    "description": "Yeti - The Himalayan Kitchen offers a cozy atmosphere and specializes in Himalayan cuisine, providing a unique dining experience.",
-    "image": "https://lh3.googleusercontent.com/p/AF1QipOsMyWrNPu_Drv2L2EfiLUeBW5Atkvy4N40p34=s1360-w1360-h1020"
+    "shortDescription": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
+    "description": [
+      "CafeTamra - Shangri-La's Eros Hotel is a luxurious and sophisticated restaurant and bar located in the heart of New Delhi. It offers a splendid experience with its modern and stylish interior, delectable food and drinks, and vibrant atmosphere.",
+      "The menu at CafeTamra - Shangri-La's Eros Hotel features a variety of cuisines, including International, European, Indian, and Asian. The dishes are prepared with fresh and quality ingredients, and the taste is exquisite. Some of the popular dishes are the Tamra Breakfast, the Tamra Burger, the Butter Chicken, the Pad Thai, and the Chocolate Fondant. The bar at CafeTamra - Shangri-La's Eros Hotel offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at CafeTamra - Shangri-La's Eros Hotel is warm and inviting, with a touch of elegance. The restaurant has a spacious and comfortable seating area, with a mix of sofas, chairs, and tables. The decor is chic and classy, with a lot of wood, metal, and glass elements. The lighting is soft and cozy, creating a romantic and relaxing mood. The restaurant also has a live kitchen, where you can watch the chefs prepare your food with flair and finesse.",
+      "CafeTamra - Shangri-La's Eros Hotel also hosts live music and sports screening events, adding to the entertainment quotient. The service at CafeTamra - Shangri-La's Eros Hotel is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "CafeTamra - Shangri-La's Eros Hotel is a must-visit destination for anyone looking for a luxurious dining experience with a spectacular view in New Delhi. It is open from 6:30 am to 11:45 pm every day, and the average cost for two people is around Rs. 4000, without alcohol."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipND-HhzwYjsVjoVBI_2nhiIWEVSYNslNgSIdRTX"
   },
   {
     "title": "elmas-bakery-bar-kitchen",
@@ -88,9 +124,18 @@
       "Cozy Atmosphere",
       "Desserts"
     ],
-    "category":["cafe","restaurant"],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
     "shortDescription": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
-    "description": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
+    "description": [
+      "Cafe Elma's Bakery, Bar, and Kitchen is a charming and cozy restaurant and bar located in the Hauz Khas Village in New Delhi. It offers a delightful experience with its English style interior, scrumptious food and drinks, and quaint atmosphere.",
+      "The menu at Cafe Elma's Bakery, Bar, and Kitchen features a variety of cuisines, including Bakery, Italian, Continental, and Beverages. The dishes are prepared with fresh and quality ingredients, and the taste is heavenly. Some of the popular dishes are the Scones, the Cheese Crepe, the Rose Tea, the French Press Coffee, and the Eggs Benedict. The bar at Cafe Elma's Bakery, Bar, and Kitchen offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at Cafe Elma's Bakery, Bar, and Kitchen is warm and inviting, with a touch of elegance. The restaurant has a spacious and comfortable seating area, with a mix of sofas, chairs, and tables. The decor is chic and classy, with a lot of wood, metal, and glass elements. The lighting is soft and cozy, creating a romantic and relaxing mood. The restaurant also has a live bakery, where you can watch the bakers prepare your desserts with skill and passion.",
+      "Cafe Elma's Bakery, Bar, and Kitchen also hosts live music and sports screening events, adding to the entertainment quotient. The service at Cafe Elma's Bakery, Bar, and Kitchen is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Cafe Elma's Bakery, Bar, and Kitchen is a must-visit destination for anyone looking for a casual dining experience with a spectacular view in New Delhi. It is open from 10 am to 9:30 pm every day, and the average cost for two people is around Rs. 1800, without alcohol. "
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMAzr4HEnbr5Lk3PX_wPCBC9btUvpHBBPwk-QeC=s1360-w1360-h1020"
   },
   {
@@ -101,9 +146,18 @@
     "cuisines": [
       "South Indian"
     ],
-    "category":["cafe","restaurant"],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
     "shortDescription": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
-    "description": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
+    "description": [
+      "Cafe Naivedyam is a traditional and authentic restaurant and bar located in various locations in Delhi/NCR. It offers a delightful experience with its South Indian style interior, mouth-watering food and drinks, and serene atmosphere.",
+      "The menu at Cafe Naivedyam features a variety of cuisines, mainly from the Karnataka region of South India. The dishes are prepared with fresh and quality ingredients, and the taste is authentic and rich. Some of the popular dishes are the Rava Idli, the Mysore Masala Dosa, the Bisi Bele Bath, the Filter Coffee, and the Rasmalai. The bar at Cafe Naivedyam offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at Cafe Naivedyam is warm and inviting, with a touch of elegance. The restaurant has a spacious and comfortable seating area, with a mix of wooden and metal furniture. The decor is classy and elegant, with a lot of brass, copper, and silver elements. The lighting is soft and soothing, creating a romantic and relaxing mood. The restaurant also has a live music and cultural events, adding to the entertainment quotient.",
+      "The service at Cafe Naivedyam is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Cafe Naivedyam is a must-visit destination for anyone looking for a traditional dining experience with a spectacular view in Delhi/NCR. It is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 800, without alcohol."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipM3h9HuQ0lhIMbniMI1qiYU0Wbzc7hrnlJeW9kN=s1360-w1360-h1020"
   },
   {
@@ -114,9 +168,18 @@
     "highlights": [
       "Rooftop Seating"
     ],
-    "category":["cafe","restaurant"],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
     "shortDescription": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
-    "description": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
+    "description": [
+      "Cafe Mia Bella is a romantic and lively restaurant and bar located in the Hauz Khas Village in New Delhi. It offers a splendid experience with its European style interior, delicious food and drinks, and stunning view.",
+      "The menu at Cafe Mia Bella features a variety of cuisines, including Mediterranean, Italian, Continental, and Beverages. The dishes are prepared with fresh and quality ingredients, and the taste is heavenly. Some of the popular dishes are the Chicken Cordon Bleu, the Spaghetti Carbonara, the Lamb Chops, the Sangria, and the Tiramisu. The bar at Cafe Mia Bella offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at Cafe Mia Bella is warm and inviting, with a touch of elegance. The restaurant has a spacious and comfortable seating area, with a mix of sofas, chairs, and tables. The decor is chic and classy, with a lot of wood, metal, and glass elements. The lighting is soft and cozy, creating a romantic and relaxing mood. The restaurant also has a rooftop terrace, where you can enjoy the breathtaking view of the lake and the sky, especially at night.",
+      "Cafe Mia Bella also hosts live music and sports screening events, adding to the entertainment quotient. The service at Cafe Mia Bella is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Cafe Mia Bella is a must-visit destination for anyone looking for a romantic dining experience with a spectacular view in New Delhi. It is open from 12 noon to 1 am every day, and the average cost for two people is around Rs. 2000, without alcohol."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNumCUNMLZd-Pwu-miwNT4fS4qdh5dC35qexglL=s1360-w1360-h1020"
   },
   {
@@ -127,12 +190,21 @@
     "highlights": [
       "Modern Twist"
     ],
-    "category":["cafe","restaurant"],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
     "shortDescription": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
-    "description": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
+    "description": [
+      "Cafe Bo Tai Qutub is a trendy and elegant restaurant and bar located near the Qutub Minar in New Delhi. It offers a splendid experience with its Thai cuisine, delicious cocktails, and stunning view.",
+      "The menu at Cafe Bo Tai Qutub features a variety of dishes from the Thai cuisine, with a twist of modernity and innovation. The dishes are prepared with fresh and quality ingredients, and the taste is exquisite. Some of the popular dishes are the Kanomjin Noodles, the Tamarind Fish, the Thai Green Curry, the Lemongrass Chicken, and the Kobocha Custard. The bar at Cafe Bo Tai Qutub offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
+      "The ambiance at Cafe Bo Tai Qutub is warm and inviting, with a touch of sophistication. The restaurant has a spacious and comfortable seating area, with a mix of sofas, chairs, and tables. The decor is chic and classy, with a lot of wood, metal, and glass elements. The lighting is soft and cozy, creating a romantic and relaxing mood. The restaurant also has a rooftop terrace, where you can enjoy the breathtaking view of the Qutub Minar and the sky, especially at night.",
+      "Cafe Bo Tai Qutub also hosts live music and sports screening events, adding to the entertainment quotient. The service at Cafe Bo Tai Qutub is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Cafe Bo Tai Qutub is a must-visit destination for anyone looking for a trendy dining experience with a spectacular view in New Delhi. It is open from 12 noon to 1 am every day, and the average cost for two people is around Rs. 2500, without alcohol."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipM6GJ4Lt0PRTOfGmvsVd9VfzQ2f4QPPLlqTAVVW=s1360-w1360-h1020"
   },
-{
+  {
     "title": "hauz-khas-social",
     "name": "Hauz Khas Social",
     "location": "9A & 12, Hauz Khas Village",
@@ -141,12 +213,19 @@
       "Relaxed Setting",
       "Diverse Menu"
     ],
-    "category":["cafe","thelas","restaurant"],
-    "shortDescription":"Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment.",
-    "description": ["Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment. Located in the cultural hub of Delhi, Hauz Khas Village, the cafe boasts a stunning view of the Hauz Khas lake and the historical monument. The cafe has a unique design that blends rustic and industrial elements with recycled and upcycled furniture. The cafe has a spacious and airy feel, with large windows, high ceilings, and exposed brick walls. The cafe also has a rooftop terrace, where you can enjoy the breeze and the scenery."
-    ,"Hauz Khas Social serves a variety of cuisines, from North Indian, Chinese, and Biryani, to Pasta, Burger, and Pizza. The cafe also has a full bar, where you can sip on cocktails, mocktails, beers, and wines. The cafe is famous for its all-day breakfast, which includes dishes like the Social Shake, the Breakfast Tray, and the Taco Soup. The cafe also has some signature dishes, such as the Grilled Chicken Peri Peri Sizzler, the Chicken Shwarma Platter, and the Jalapeno Cheese Nads. The cafe also caters to different dietary preferences, such as vegetarian, vegan, and gluten-free.",
-  "Hauz Khas Social is not just a cafe, but also a co-working space, where you can rent a desk, a meeting room, or a private cabin. The cafe provides high-speed internet, power outlets, stationery, and printing facilities. The cafe also hosts various events, such as workshops, seminars, art exhibitions, live music, comedy shows, and DJ nights. The cafe is a hub for artists, entrepreneurs, freelancers, and innovators, who come here to share their ideas, skills, and passions.","Hauz Khas Social is open from 12 noon to 1 am, and you can make a reservation online or by phone. The cafe has a friendly and helpful staff, who will make you feel welcome and comfortable. The cafe has a casual dress code, and a couple entry only policy. The cafe is also LGBTQIA friendly, and supports social causes. The cafe has a vibrant and lively atmosphere, where you can have fun, relax, and connect with others.",
-"Hauz Khas Social is a cafe that combines work and play, culture and cuisine, and history and modernity. It is a place where you can experience the best of Delhi, and be part of a community of social and creative people. Hauz Khas Social is more than just a cafe, it is a way of life."],
+    "category": [
+      "cafe",
+      "thelas",
+      "restaurant"
+    ],
+    "shortDescription": "Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment.",
+    "description": [
+      "Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment. Located in the cultural hub of Delhi, Hauz Khas Village, the cafe boasts a stunning view of the Hauz Khas lake and the historical monument. The cafe has a unique design that blends rustic and industrial elements with recycled and upcycled furniture. The cafe has a spacious and airy feel, with large windows, high ceilings, and exposed brick walls. The cafe also has a rooftop terrace, where you can enjoy the breeze and the scenery.",
+      "Hauz Khas Social serves a variety of cuisines, from North Indian, Chinese, and Biryani, to Pasta, Burger, and Pizza. The cafe also has a full bar, where you can sip on cocktails, mocktails, beers, and wines. The cafe is famous for its all-day breakfast, which includes dishes like the Social Shake, the Breakfast Tray, and the Taco Soup. The cafe also has some signature dishes, such as the Grilled Chicken Peri Peri Sizzler, the Chicken Shwarma Platter, and the Jalapeno Cheese Nads. The cafe also caters to different dietary preferences, such as vegetarian, vegan, and gluten-free.",
+      "Hauz Khas Social is not just a cafe, but also a co-working space, where you can rent a desk, a meeting room, or a private cabin. The cafe provides high-speed internet, power outlets, stationery, and printing facilities. The cafe also hosts various events, such as workshops, seminars, art exhibitions, live music, comedy shows, and DJ nights. The cafe is a hub for artists, entrepreneurs, freelancers, and innovators, who come here to share their ideas, skills, and passions.",
+      "Hauz Khas Social is open from 12 noon to 1 am, and you can make a reservation online or by phone. The cafe has a friendly and helpful staff, who will make you feel welcome and comfortable. The cafe has a casual dress code, and a couple entry only policy. The cafe is also LGBTQIA friendly, and supports social causes. The cafe has a vibrant and lively atmosphere, where you can have fun, relax, and connect with others.",
+      "Hauz Khas Social is a cafe that combines work and play, culture and cuisine, and history and modernity. It is a place where you can experience the best of Delhi, and be part of a community of social and creative people. Hauz Khas Social is more than just a cafe, it is a way of life."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipOwih6GUJREOscBVQ5SwfPteoqyOLMTFCvHNqMf=s1360-w1360-h1020"
   },
   {
@@ -158,26 +237,41 @@
       "Funky Decor",
       "Craft Beers"
     ],
-    "category":["cafe","bar","restaurant"],
-    "shortDescription":"Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience.",
-    "description": ["Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience. The cafe is inspired by the Rastafari culture and the reggae music genre, which originated in Jamaica and spread across the world. The cafe’s decor reflects the vibrant colors, patterns, and symbols of the Caribbean islands, such as the red, green, and yellow of the Rastafari flag, the dreadlocks, the lion, and the cannabis leaf. The cafe also features swing chairs, hammocks, and bean bags for a relaxed and cozy ambiance.","The menu at cafe Raasta is a mix of cuisines from different parts of the world, such as North Indian, Italian, Chinese, Asian, Continental, Pizza, and Fast Food. The cafe also serves a variety of beverages, such as mocktails, smoothies, shakes, teas, and coffees. Some of the popular dishes at cafe Raasta are the creamy mushroom penne, the garden burger, the snicker shake, the darjeeling tea, the corn bhel, and the crispy fried chicken1. The cafe also offers a brunch menu that includes pancakes, waffles, sandwiches, salads, and more","Cafe Raasta is not just a place to eat and drink, but also a place to enjoy live music and entertainment. The cafe hosts live DJ nights, karaoke sessions, and live bands that play reggae, rock, pop, and other genres of music. The cafe also has a rooftop seating area that offers a panoramic view of the city skyline and a romantic setting for couples. The cafe is open 24 hours a day, seven days a week, making it a perfect destination for late-night hangouts, parties, and celebrations","Cafe Raasta is a place where you can taste the islands in Hyderabad, as one of the news articles described it3. It is a place where you can experience the Rastafari spirit of peace, love, and harmony, and enjoy the music, food, and drinks that celebrate the diversity and richness of the Caribbean culture. Cafe Raasta is a place where you can feel the vibes and have a good time."],
+    "category": [
+      "cafe",
+      "bar",
+      "restaurant"
+    ],
+    "shortDescription": "Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience.",
+    "description": [
+      "Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience. The cafe is inspired by the Rastafari culture and the reggae music genre, which originated in Jamaica and spread across the world. The cafe’s decor reflects the vibrant colors, patterns, and symbols of the Caribbean islands, such as the red, green, and yellow of the Rastafari flag, the dreadlocks, the lion, and the cannabis leaf. The cafe also features swing chairs, hammocks, and bean bags for a relaxed and cozy ambiance.",
+      "The menu at cafe Raasta is a mix of cuisines from different parts of the world, such as North Indian, Italian, Chinese, Asian, Continental, Pizza, and Fast Food. The cafe also serves a variety of beverages, such as mocktails, smoothies, shakes, teas, and coffees. Some of the popular dishes at cafe Raasta are the creamy mushroom penne, the garden burger, the snicker shake, the darjeeling tea, the corn bhel, and the crispy fried chicken1. The cafe also offers a brunch menu that includes pancakes, waffles, sandwiches, salads, and more",
+      "Cafe Raasta is not just a place to eat and drink, but also a place to enjoy live music and entertainment. The cafe hosts live DJ nights, karaoke sessions, and live bands that play reggae, rock, pop, and other genres of music. The cafe also has a rooftop seating area that offers a panoramic view of the city skyline and a romantic setting for couples. The cafe is open 24 hours a day, seven days a week, making it a perfect destination for late-night hangouts, parties, and celebrations",
+      "Cafe Raasta is a place where you can taste the islands in Hyderabad, as one of the news articles described it3. It is a place where you can experience the Rastafari spirit of peace, love, and harmony, and enjoy the music, food, and drinks that celebrate the diversity and richness of the Caribbean culture. Cafe Raasta is a place where you can feel the vibes and have a good time."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipPU7eBBwGC0uBWsZNHkCDsfQX-XNaZqSixKYERJ=s1360-w1360-h1020"
-
   },
   {
     "title": "yeti",
-    "name": "Yeti",
+    "name": "Yeti - The Himalayan Kitchen",
     "location": "28 A, Second Floor, Hauz Khas Village",
     "type": "Café",
     "highlights": [
       "Cosy Ambience",
       "Himalayan Cuisine"
     ],
-    "category":["cafe","restaurant"],
-    "shortDescription":"Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city.",
-    "description": ["Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city. The cafe is named after the mythical creature that is said to inhabit the Himalayas, also known as the abominable snowman. The cafe’s logo features a cute and friendly version of the Yeti, inviting the customers to explore the hidden gems of the Himalayan cuisine.","The menu at cafe Yeti is a blend of dishes from Nepal, Tibet, Bhutan, and North India, such as momos, thukpa, shapta, gyathuk, tingmo, and more. The cafe also offers a variety of vegetarian and vegan options, as well as gluten-free and dairy-free choices. Some of the signature dishes at cafe Yeti are the Yeti platter, which includes a selection of momos, pakoras, and salads, the Yeti thali, which consists of rice, dal, curry, pickle, and papad, and the Yeti special, which is a spicy and tangy chicken curry with steamed rice12. The cafe also serves a range of beverages, such as masala tea, butter tea, hot chocolate, and lassi","Cafe Yeti is not just a place to enjoy delicious food, but also a place to experience the Himalayan culture and lifestyle. The cafe’s decor reflects the natural beauty and diversity of the Himalayas, with wooden furniture, colorful cushions, prayer flags, and paintings of the mountains. The cafe also plays soothing and uplifting music from the region, such as folk songs, chants, and instrumental tunes. The cafe also hosts cultural events, such as book readings, poetry sessions, film screenings, and live performances by local artists","Cafe Yeti is a place where you can escape the hustle and bustle of the city and immerse yourself in the serene and spiritual atmosphere of the Himalayas. It is a place where you can savor the authentic and exotic flavors of the Himalayan cuisine and learn more about the history and traditions of the people who live there. Cafe Yeti is a place where you can find your inner Yeti and have a memorable time."],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city.",
+    "description": [
+      "Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city. The cafe is named after the mythical creature that is said to inhabit the Himalayas, also known as the abominable snowman. The cafe’s logo features a cute and friendly version of the Yeti, inviting the customers to explore the hidden gems of the Himalayan cuisine.",
+      "The menu at cafe Yeti is a blend of dishes from Nepal, Tibet, Bhutan, and North India, such as momos, thukpa, shapta, gyathuk, tingmo, and more. The cafe also offers a variety of vegetarian and vegan options, as well as gluten-free and dairy-free choices. Some of the signature dishes at cafe Yeti are the Yeti platter, which includes a selection of momos, pakoras, and salads, the Yeti thali, which consists of rice, dal, curry, pickle, and papad, and the Yeti special, which is a spicy and tangy chicken curry with steamed rice12. The cafe also serves a range of beverages, such as masala tea, butter tea, hot chocolate, and lassi",
+      "Cafe Yeti is not just a place to enjoy delicious food, but also a place to experience the Himalayan culture and lifestyle. The cafe’s decor reflects the natural beauty and diversity of the Himalayas, with wooden furniture, colorful cushions, prayer flags, and paintings of the mountains. The cafe also plays soothing and uplifting music from the region, such as folk songs, chants, and instrumental tunes. The cafe also hosts cultural events, such as book readings, poetry sessions, film screenings, and live performances by local artists",
+      "Cafe Yeti is a place where you can escape the hustle and bustle of the city and immerse yourself in the serene and spiritual atmosphere of the Himalayas. It is a place where you can savor the authentic and exotic flavors of the Himalayan cuisine and learn more about the history and traditions of the people who live there. Cafe Yeti is a place where you can find your inner Yeti and have a memorable time."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipP-ZTPKQWFHnL5FBMP9n6THGhmq3p-x-rfOB_Fn=s1360-w1360-h1020"
-
   },
   {
     "title": "matchbox",
@@ -188,11 +282,19 @@
       "Vibrant Atmosphere",
       "Live Music"
     ],
-    "category":["cafe","pub","restaurant"],
-    "shortDescription":"Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create.",
-    "description": ["Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create. The cafe’s logo features a matchstick on fire, representing the passion and enthusiasm of the cafe’s staff and customers.","The menu at cafe Matchbox is a fusion of continental, salad, and fast food, with a variety of dishes to suit different tastes and preferences. The cafe also offers a wide range of beverages, such as cocktails, mocktails, beers, wines, and smoothies. Some of the popular dishes at cafe Matchbox are the pork fry, the chicken lasagna, the honey chilli potato, and the black and white toast1. The cafe also has a brunch menu that includes pancakes, eggs, sandwiches, and more","Cafe Matchbox is not just a place to dine and drink, but also a place to enjoy music and entertainment. The cafe hosts live DJ nights, karaoke sessions, and live bands that play rock, pop, hip hop, and other genres of music. The cafe also has a rooftop seating area that offers a stunning view of the Hauz Khas lake and the historical monuments. The cafe is open from 12 noon to 1 am, making it a perfect destination for day and night outings, parties, and celebrations","Cafe Matchbox is a place where you can experience the matchless vibe and atmosphere of Hauz Khas Village, as one of the travel articles described it3. It is a place where you can indulge in delicious food and drinks, and groove to the music and beats that match your mood. Cafe Matchbox is a place where you can ignite your senses and have a blast."],
+    "category": [
+      "cafe",
+      "pub",
+      "restaurant"
+    ],
+    "shortDescription": "Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create.",
+    "description": [
+      "Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create. The cafe’s logo features a matchstick on fire, representing the passion and enthusiasm of the cafe’s staff and customers.",
+      "The menu at cafe Matchbox is a fusion of continental, salad, and fast food, with a variety of dishes to suit different tastes and preferences. The cafe also offers a wide range of beverages, such as cocktails, mocktails, beers, wines, and smoothies. Some of the popular dishes at cafe Matchbox are the pork fry, the chicken lasagna, the honey chilli potato, and the black and white toast1. The cafe also has a brunch menu that includes pancakes, eggs, sandwiches, and more",
+      "Cafe Matchbox is not just a place to dine and drink, but also a place to enjoy music and entertainment. The cafe hosts live DJ nights, karaoke sessions, and live bands that play rock, pop, hip hop, and other genres of music. The cafe also has a rooftop seating area that offers a stunning view of the Hauz Khas lake and the historical monuments. The cafe is open from 12 noon to 1 am, making it a perfect destination for day and night outings, parties, and celebrations",
+      "Cafe Matchbox is a place where you can experience the matchless vibe and atmosphere of Hauz Khas Village, as one of the travel articles described it3. It is a place where you can indulge in delicious food and drinks, and groove to the music and beats that match your mood. Cafe Matchbox is a place where you can ignite your senses and have a blast."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipN99wvKhno9oIYuvOtIEF7j8KZ5XNIws4FgSFnG=s1360-w1360-h1020"
-
   },
   {
     "title": "kunzum-travel-cafe",
@@ -203,11 +305,16 @@
       "Unique Concept",
       "Travel Community"
     ],
-    "category":["cafe"],
-    "shortDescription":"Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals.",
-    "description": ["Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals. The cafe is located in the trendy Hauz Khas Village in New Delhi, and is named after the Kunzum Pass, a high-altitude mountain pass in the Himalayas. The cafe’s founder, Ajay Jain, is a travel writer and photographer who decided to create a space where people can share their travel stories, experiences, and tips.","The cafe offers free wi-fi, a library of travel books and magazines, and a gallery of travel photographs. The cafe also serves fine coffees, teas, and cookies, and guests can pay as much as they want to - there is no fixed price or obligation to buy anything. The cafe also hosts various events, such as book readings, film screenings, poetry sessions, music gigs, and art workshops. The cafe is open from Tuesday to Sunday, from 11 a.m. to 7:30 p.m., and is closed on Mondays","Cafe Kunzum Travel Cafe is a place where you can meet like-minded people, exchange ideas, and get inspired by the beauty and diversity of the world. It is a place where you can escape the hustle and bustle of the city and immerse yourself in the serene and spiritual atmosphere of the Himalayas. It is a place where you can find your inner traveler and have a memorable time."],
+    "category": [
+      "cafe"
+    ],
+    "shortDescription": "Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals.",
+    "description": [
+      "Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals. The cafe is located in the trendy Hauz Khas Village in New Delhi, and is named after the Kunzum Pass, a high-altitude mountain pass in the Himalayas. The cafe’s founder, Ajay Jain, is a travel writer and photographer who decided to create a space where people can share their travel stories, experiences, and tips.",
+      "The cafe offers free wi-fi, a library of travel books and magazines, and a gallery of travel photographs. The cafe also serves fine coffees, teas, and cookies, and guests can pay as much as they want to - there is no fixed price or obligation to buy anything. The cafe also hosts various events, such as book readings, film screenings, poetry sessions, music gigs, and art workshops. The cafe is open from Tuesday to Sunday, from 11 a.m. to 7:30 p.m., and is closed on Mondays",
+      "Cafe Kunzum Travel Cafe is a place where you can meet like-minded people, exchange ideas, and get inspired by the beauty and diversity of the world. It is a place where you can escape the hustle and bustle of the city and immerse yourself in the serene and spiritual atmosphere of the Himalayas. It is a place where you can find your inner traveler and have a memorable time."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipOFLlmOhoj-8JuzcireBdRE9ayHt4YY-UJPM_WH=s1360-w1360-h1020"
-
   },
   {
     "title": "coast-cafe",
@@ -218,11 +325,19 @@
       "Soothing Ambience",
       "Coastal Delicacies"
     ],
-    "category":["cafe","restaurant"],
-    "shortDescription":"Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients.",
-    "description": ["Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients. The menu features a range of international cuisines, from Mediterranean to Asian, as well as authentic coastal delicacies from Kerala and Goa.","The cafe has a contemporary and elegant ambience, with a spacious seating area and a terrace overlooking the lake. The decor is minimalist and chic, with white walls, wooden furniture, and colorful cushions. The cafe also has a boutique store, Ogaan, on the ground floor, where customers can shop for designer clothes and accessories.","Coast Cafe is known for its impeccable service and hospitality. The staff is friendly, attentive, and professional, and always ready to assist the customers with their orders and preferences. The manager, Rajinder, is especially helpful and makes the customers feel at home. The cafe also hosts live music events and art exhibitions on weekends, adding to the lively and vibrant atmosphere.","Some of the must-try dishes at Coast Cafe are the prawn moilee, a creamy coconut-based curry with succulent prawns, served with appam, a soft and fluffy rice pancake; the veg tacos, crispy tortillas stuffed with spicy vegetables and cheese, topped with salsa and sour cream; and the sundal, a tangy and crunchy salad made with chickpeas, coconut, and curry leaves. The cafe also serves a variety of beverages, such as smoothies, juices, teas, and coffees, as well as desserts, such as cakes, pies, and ice creams.","Coast Cafe is a perfect place to enjoy a leisurely meal with family or friends, or to have a romantic date with a stunning view of the lake. It is open from 11 am to 11 pm, and accepts online reservations through Zomato and Dineout. The average cost for two people is around Rs. 1500, excluding taxes and charges. Coast Cafe is rated 4.5 out of 5 on Tripadvisor, and has received rave reviews from customers for its food, service, value, and atmosphere. It is one of the best restaurants in Delhi, and a must-visit for anyone who loves coastal cuisine and culture."],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients.",
+    "description": [
+      "Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients. The menu features a range of international cuisines, from Mediterranean to Asian, as well as authentic coastal delicacies from Kerala and Goa.",
+      "The cafe has a contemporary and elegant ambience, with a spacious seating area and a terrace overlooking the lake. The decor is minimalist and chic, with white walls, wooden furniture, and colorful cushions. The cafe also has a boutique store, Ogaan, on the ground floor, where customers can shop for designer clothes and accessories.",
+      "Coast Cafe is known for its impeccable service and hospitality. The staff is friendly, attentive, and professional, and always ready to assist the customers with their orders and preferences. The manager, Rajinder, is especially helpful and makes the customers feel at home. The cafe also hosts live music events and art exhibitions on weekends, adding to the lively and vibrant atmosphere.",
+      "Some of the must-try dishes at Coast Cafe are the prawn moilee, a creamy coconut-based curry with succulent prawns, served with appam, a soft and fluffy rice pancake; the veg tacos, crispy tortillas stuffed with spicy vegetables and cheese, topped with salsa and sour cream; and the sundal, a tangy and crunchy salad made with chickpeas, coconut, and curry leaves. The cafe also serves a variety of beverages, such as smoothies, juices, teas, and coffees, as well as desserts, such as cakes, pies, and ice creams.",
+      "Coast Cafe is a perfect place to enjoy a leisurely meal with family or friends, or to have a romantic date with a stunning view of the lake. It is open from 11 am to 11 pm, and accepts online reservations through Zomato and Dineout. The average cost for two people is around Rs. 1500, excluding taxes and charges. Coast Cafe is rated 4.5 out of 5 on Tripadvisor, and has received rave reviews from customers for its food, service, value, and atmosphere. It is one of the best restaurants in Delhi, and a must-visit for anyone who loves coastal cuisine and culture."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipP3PLKA9LrV3fLVxQXKDte2cgYYPCL5R01buS-i=s1360-w1360-h1020"
-
   },
   {
     "title": "gyspy-cafe",
@@ -233,11 +348,18 @@
       "Bohemian Vibe",
       "Middle Eastern Cuisine"
     ],
-    "category":["cafe","restaurant"],
-    "shortDescription":"Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music.",
-    "description": ["Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music. The cafe has a rustic and artistic decor, with colorful cushions, paintings, and board games. The cafe also offers a stunning view of the lake and the historical monuments nearby.","The menu of Gypsy Cafe is diverse and affordable, featuring a variety of cuisines such as pizza, pasta, sandwich, burger, and fast food. The cafe also serves tea, coffee, juice, and other beverages. Some of the popular dishes are the mushroom pizza, the chicken sandwich, and the cold coffee. The portions are generous and the service is friendly and attentive.","Gypsy Cafe is a great spot to hang out with friends, have a romantic date, or work on your laptop. The cafe has a vibe of peace and tranquility, and attracts a young and creative crowd. The owner of the cafe is a hospitable and warm person, who makes sure that the guests feel comfortable and relaxed. The cafe also hosts live music events in the evening, featuring talented local artists.","Gypsy Cafe is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves good food, good music, and good ambiance. It is a place where you can escape the hustle and bustle of the city, and enjoy a gypsy lifestyle. Gypsy Cafe is open from 12 noon to 11 pm, and you can book a table online or call them at +91 9999999999. You can also follow them on Zomato1 or Facebook2 for more updates and offers."],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music.",
+    "description": [
+      "Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music. The cafe has a rustic and artistic decor, with colorful cushions, paintings, and board games. The cafe also offers a stunning view of the lake and the historical monuments nearby.",
+      "The menu of Gypsy Cafe is diverse and affordable, featuring a variety of cuisines such as pizza, pasta, sandwich, burger, and fast food. The cafe also serves tea, coffee, juice, and other beverages. Some of the popular dishes are the mushroom pizza, the chicken sandwich, and the cold coffee. The portions are generous and the service is friendly and attentive.",
+      "Gypsy Cafe is a great spot to hang out with friends, have a romantic date, or work on your laptop. The cafe has a vibe of peace and tranquility, and attracts a young and creative crowd. The owner of the cafe is a hospitable and warm person, who makes sure that the guests feel comfortable and relaxed. The cafe also hosts live music events in the evening, featuring talented local artists.",
+      "Gypsy Cafe is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves good food, good music, and good ambiance. It is a place where you can escape the hustle and bustle of the city, and enjoy a gypsy lifestyle. Gypsy Cafe is open from 12 noon to 11 pm, and you can book a table online or call them at +91 9999999999. You can also follow them on Zomato1 or Facebook2 for more updates and offers."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipN50kPQq-mxJgV9Lga0QHuA31RmYExF3lU3-Umy=s1360-w1360-h1020"
-
   },
   {
     "title": "the-tea-room",
@@ -248,11 +370,18 @@
       "Tea Speciality",
       "Snacks and Desserts"
     ],
-    "category":["cafe","bakery"],
-    "shortDescription":"The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand.",
-    "description": ["The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand. The cafe offers a serene and soothing ambiance, with a view of the lake and the deer park. The cafe has a vintage and classy decor, with wooden furniture, floral curtains, and antique crockery.","The menu of The Tea Room is diverse and exquisite, featuring a variety of teas, coffees, juices, and other beverages. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, salads, and pastas. The cafe specializes in organic and healthy food, using fresh and natural ingredients. Some of the popular items are the white tea, the ginger tea, the masala chai, and the hot chocolate","The Tea Room is a great place to relax, rejuvenate, and indulge in some self-care. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The staff of the cafe is courteous and attentive, and the owner is a friendly and hospitable person.","The Tea Room is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves tea, coffee, and wellness. It is a place where you can experience the benefits of aromatherapy, enjoy a delicious meal, and admire the beauty of nature. The Tea Room is open from 9 am to 7 pm, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Tripadvisor2 for more reviews and ratings."],
+    "category": [
+      "cafe",
+      "bakery"
+    ],
+    "shortDescription": "The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand.",
+    "description": [
+      "The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand. The cafe offers a serene and soothing ambiance, with a view of the lake and the deer park. The cafe has a vintage and classy decor, with wooden furniture, floral curtains, and antique crockery.",
+      "The menu of The Tea Room is diverse and exquisite, featuring a variety of teas, coffees, juices, and other beverages. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, salads, and pastas. The cafe specializes in organic and healthy food, using fresh and natural ingredients. Some of the popular items are the white tea, the ginger tea, the masala chai, and the hot chocolate",
+      "The Tea Room is a great place to relax, rejuvenate, and indulge in some self-care. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The staff of the cafe is courteous and attentive, and the owner is a friendly and hospitable person.",
+      "The Tea Room is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves tea, coffee, and wellness. It is a place where you can experience the benefits of aromatherapy, enjoy a delicious meal, and admire the beauty of nature. The Tea Room is open from 9 am to 7 pm, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Tripadvisor2 for more reviews and ratings."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipM6GJ4Lt0PRTOfGmvsVd9VfzQ2f4QPPLlqTAVVW=s1360-w1360-h1020"
-
   },
   {
     "title": "cafe-mafioso",
@@ -263,11 +392,18 @@
       "Chic and Modern",
       "Italian and Mediterranean Cuisine"
     ],
-    "category":["cafe","restaurant"],
-    "shortDescription":"Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience.",
-    "description": ["Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience. The cafe has a modern and stylish decor, with black and white furniture, red accents, and mafia-themed posters. The cafe also has a spacious terrace that overlooks the lake and the greenery.","The menu of Cafe Mafioso is diverse and delicious, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves drinks, cocktails, mocktails, and hookah. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka1. The portions are decent and the service is quick and courteous.","Cafe Mafioso is a great place to chill, party, and have fun with your friends, family, or date. The cafe has a vibe of excitement and entertainment, and attracts a young and hip crowd. The cafe also hosts live music events, DJ nights, and theme parties. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.","Cafe Mafioso is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a mafia-style adventure, with a touch of class and glamour. Cafe Mafioso is open from 11:30 am to 1 am, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Restaurant Guru2 for more information and reviews."],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience.",
+    "description": [
+      "Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience. The cafe has a modern and stylish decor, with black and white furniture, red accents, and mafia-themed posters. The cafe also has a spacious terrace that overlooks the lake and the greenery.",
+      "The menu of Cafe Mafioso is diverse and delicious, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves drinks, cocktails, mocktails, and hookah. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka1. The portions are decent and the service is quick and courteous.",
+      "Cafe Mafioso is a great place to chill, party, and have fun with your friends, family, or date. The cafe has a vibe of excitement and entertainment, and attracts a young and hip crowd. The cafe also hosts live music events, DJ nights, and theme parties. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.",
+      "Cafe Mafioso is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a mafia-style adventure, with a touch of class and glamour. Cafe Mafioso is open from 11:30 am to 1 am, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Restaurant Guru2 for more information and reviews."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMyUdEhIfoff-Y9ldcaIua77lCqLs2uwAugvvQ0=s1360-w1360-h1020"
-
   },
   {
     "title": "cafe-6",
@@ -278,10 +414,868 @@
       "Delicious Food and Drinks",
       "Relaxed and Inviting"
     ],
-    "category":["cafe","restaurant"],
-    "shortDescription":"Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife.",
-    "description": ["Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife. The cafe has a relaxed and inviting atmosphere, with comfortable seating and a friendly staff. The cafe also offers a full bar, with a selection of craft beers, wines, and cocktails. The cafe also has a variety of special events, such as live music, trivia nights, and karaoke1.","The menu of Cafe 6 is diverse and affordable, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, burgers, pizzas, pastas, and desserts. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka2. The portions are decent and the service is quick and courteous.","Cafe 6 is a great place to enjoy a meal with friends and family, or to just relax and unwind. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.","Cafe 6 is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of class and style. Cafe 6 is open from 10 am to 9:30 pm, and you can book a table online or call them at +91 93137 00550. You can also follow them on Zomato1 or Restaurant Guru3 for more information and reviews."],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife.",
+    "description": [
+      "Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife. The cafe has a relaxed and inviting atmosphere, with comfortable seating and a friendly staff. The cafe also offers a full bar, with a selection of craft beers, wines, and cocktails. The cafe also has a variety of special events, such as live music, trivia nights, and karaoke1.",
+      "The menu of Cafe 6 is diverse and affordable, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, burgers, pizzas, pastas, and desserts. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka2. The portions are decent and the service is quick and courteous.",
+      "Cafe 6 is a great place to enjoy a meal with friends and family, or to just relax and unwind. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.",
+      "Cafe 6 is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of class and style. Cafe 6 is open from 10 am to 9:30 pm, and you can book a table online or call them at +91 93137 00550. You can also follow them on Zomato1 or Restaurant Guru3 for more information and reviews."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipN3ShWUW0t6ovOIrdkMpFsfsZFCfdazy3UgcQQt=s1360-w1360-h1020"
-
+  },
+  {
+    "title": "cafeteria-and-co",
+    "name": "Cafeteria & Co.",
+    "location": "293, Near Moti Bagh, Satyaniketan, New Delhi",
+    "type": "Fine Dining Restaurant",
+    "highlights": [
+      "Authentic Mexican Dishes",
+      "Chic Decor and Warm Ambience"
+    ],
+    "category": [
+      "Continental",
+      "Pizza",
+      "Italian",
+      "Burger",
+      "Fast Food",
+      "Rolls",
+      "Mexican",
+      "Beverages",
+      "Sushi"
+    ],
+    "shortDescription": "Cafeteria & Co. is a fine dining restaurant that offers a unique and exquisite dining experience. The restaurant serves a variety of dishes from around the world, prepared with fresh ingredients and cooked to perfection. The restaurant also offers a wide selection of drinks, from classic cocktails to craft beers.",
+    "description": [
+      "Cafeteria & Co. is a fine dining restaurant that offers a unique and exquisite dining experience. The restaurant serves a variety of dishes from around the world, prepared with fresh ingredients and cooked to perfection. The atmosphere is warm and inviting, with a modern and stylish decor. The staff is friendly and attentive, providing excellent service. The restaurant also offers a wide selection of drinks, from classic cocktails to craft beers. Whether you're looking for a romantic dinner or a casual lunch, Cafeteria & Co. is the perfect place to enjoy a delicious meal[^1^][1] [^2^][2].",
+      "The menu of Cafeteria & Co. is diverse and affordable, featuring a variety of cuisines such as Continental, Pizza, Italian, Burger, Fast Food, Rolls, Mexican, Beverages, and Sushi. The restaurant also serves breakfast, lunch, brunch, and snacks, with dishes such as cheese jalapeno bombs, banana nutella crepe, veg cannelloni, loaded cheese fries, chicken burritos, and berry blast. Some of the popular dishes are the peri peri chicken, the chicken pizza, and the paneer. The portions are generous and the presentation is appealing[^3^][3] [^4^][4] [^5^][5].",
+      "Cafeteria & Co. is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a chic decor and a warm ambience, with comfortable seating and a lively vibe. The restaurant also has a full bar, with a variety of drinks to choose from, such as sangria, beer, wine, chocolate frappe, chocolate shake, and rose lemonade. The restaurant also has a variety of special events, such as live music, trivia nights, and karaoke[^2^][2] [^6^][6].",
+      "Cafeteria & Co. is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a fine and fun dining experience, with a touch of class and style. Cafeteria & Co. is open from 11:30 am to 11:30 pm, and you can book a table online or call them at 088020 26423. You can also follow them on Instagram[^2^][2] or Zomato[^5^][5] for more information and reviews."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPJHhpZ16EK_o5AcMgSbdmGsqxxk_BHope3yX9y=s1360-w1360-h1020"
+  },
+  {
+    "title": "cafe-coffee-day",
+    "name": "Cafe Coffee Day",
+    "location": "283, DDA Market, Opposite Venketeswara College, Satyaniketan, New Delhi",
+    "type": "Coffee Shop",
+    "highlights": [
+      "Delicious Cakes and Pastries",
+      "Friendly and Polite Staff"
+    ],
+    "category": [
+      "Cafe",
+      "Fast Food",
+      "Coffee",
+      "Desserts",
+      "Beverages"
+    ],
+    "shortDescription": "Cafe Coffee Day is a popular coffee chain that offers a variety of hot and cold coffee brews, refreshing beverages, sweet and savoury bakery items, burgers, sandwiches, and more. The cafe is a cosy and comfortable place to unwind with friends, have business meetings, or just enjoy some quality time by yourself.",
+    "description": [
+      "Cafe Coffee Day is a popular coffee chain that offers a variety of hot and cold coffee brews, refreshing beverages, sweet and savoury bakery items, burgers, sandwiches, and more. The cafe is a cosy and comfortable place to unwind with friends, have business meetings, or just enjoy some quality time by yourself. The cafe has a warm and inviting atmosphere, with a modern and stylish decor. The staff is friendly and polite, providing excellent service. The cafe also offers home delivery and online ordering options[^1^][1] [^2^][2].",
+      "The menu of Cafe Coffee Day is diverse and affordable, featuring a range of cuisines such as Cafe, Fast Food, Coffee, Desserts, and Beverages. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as cheese jalapeno bombs, banana nutella crepe, veg cannelloni, loaded cheese fries, chicken burritos, and berry blast. Some of the popular dishes are the dutch truffle cake, the cappuccino, and the paneer tikka sandwich. The portions are decent and the presentation is appealing[^3^][3] [^4^][4] [^5^][5].",
+      "Cafe Coffee Day is a great place to hang out with friends and family, or to just chill and relax. The cafe has a lively and vibrant vibe, with comfortable seating and a soothing music. The cafe also offers a wide selection of drinks, from classic cocktails to craft beers. The cafe also hosts events such as live music, trivia nights, and karaoke[^2^][2] [^6^][6].",
+      "Cafe Coffee Day is one of the best cafes in Satyaniketan, and a must-visit for anyone who loves coffee, cakes, and music. It is a place where you can enjoy a casual and fun coffee experience, with a touch of class and style. Cafe Coffee Day is open from 9 am to 11 pm, and you can book a table online or call them at 1800 102 5093. You can also follow them on Facebook[^2^][2] or Zomato[^5^][5] for more information and reviews."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN-ojJAzZ4NcCHMALH0AaLeB3rjD-Io4j4SjQBS=s1360-w1360-h1020"
+  },
+  {
+    "title": "madira-cafe",
+    "name": "Madira Cafe",
+    "location": "289, 2nd Floor, South Moti Bagh, Satyaniketan, New Delhi",
+    "type": "Casual Dining Restaurant",
+    "highlights": [
+      "Authentic Mughlai Dishes",
+      "Lively Dance Floor and Music"
+    ],
+    "category": [
+      "Continental",
+      "North Indian",
+      "Chinese",
+      "Mughlai",
+      "Fast Food"
+    ],
+    "shortDescription": "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time.",
+    "description": [
+      "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant has a cosy and comfortable atmosphere, with a colourful and funky decor. The staff is courteous and helpful, providing prompt service. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time[^1^][1] [^2^][2].",
+      "The menu of Madira Cafe is diverse and reasonable, featuring a range of cuisines such as Continental, North Indian, Chinese, Mughlai, and Fast Food. The restaurant also serves breakfast, lunch, dinner, and snacks, with dishes such as cheese balls, chicken lollipop, veg hakka noodles, chicken biryani, and chocolate brownie. Some of the popular dishes are the chicken tikka, the paneer butter masala, and the veg momos. The portions are generous and the taste is delicious[^3^][3] [^4^][4].",
+      "Madira Cafe is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a vibrant and energetic vibe, with comfortable seating and a dim lighting. The restaurant also offers a wide selection of drinks, from mocktails to shakes. The restaurant also hosts events such as live music, trivia nights, and karaoke[^2^][2] .",
+      "Madira Cafe is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of spice and style. Madira Cafe is open from 11 am to 11 pm, and you can book a table online or call them at +91 98111 73459 or +91 99998 73459. You can also follow them on Zomato[^1^][1] or Swiggy[^3^][3] for more information and reviews."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOpYGLIRGS2CKcJKHLh_WnRdFQxT3M_p9tk357e=s1360-w1360-h1020"
+  },
+  {
+    "title": "The Big House Cafe",
+    "name": "The Big House",
+    "location": "Satya Niketan, New Delhi",
+    "type": "Chinese Cafe cum Restaurant",
+    "highlights": [
+      "BBQ Pizza",
+      "Margaritas"
+    ],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "The Big House is a Chinese cafe cum restaurant with a variety of coffee and tea and a range of continental food. It also offers food delivery and online booking services.",
+    "description": [
+      "The Big House is a modern and stylish cafe and restaurant located in Satya Niketan, a vibrant and youthful neighborhood in South Delhi. The Big House serves delicious Chinese cuisine, as well as continental food such as pizza, pasta, burgers, and sandwiches. The cafe is popular for its BBQ pizza, chilli chicken, and white sauce pasta1. The restaurant also has a bar that serves refreshing margaritas, cold coffee, lemonade, and chocolate shake1.",
+      "The ambiance at The Big House is cozy and lively, with bricked walls, wooden furniture, and colorful cushions. The cafe is decorated with paintings, sculptures, and other artworks by local artists1. The restaurant has a spacious and comfortable seating area, ideal for a casual meal or a social gathering. The Big House also has a large screen that shows live sports and music events, adding to the fun and entertainment factor2.",
+      "The service at The Big House is courteous and prompt, ensuring a satisfying and enjoyable experience for the customers. The restaurant also offers food delivery and takeaway options, as well as online booking facilities through Dineout3. The restaurant is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1000, without alcohol4.",
+      "The Big House is a great destination for anyone looking for a tasty and affordable Chinese and continental food in New Delhi. It is especially suitable for students, youngsters, and sports lovers who want to have a fun and relaxing time with their friends and family."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM0uM70Zr27aV3pEZICE66NANcsILqOkcxSckZT=s1360-w1360-h1020"
+  },
+  {
+    "title": "Echoes",
+    "name": "Echoes",
+    "location": "Satya Niketan, New Delhi",
+    "type": "Cafe run by deaf and mute staff",
+    "highlights": [
+      "Unique concept of service",
+      "Tandoori momos"
+    ],
+    "category": [
+      "cafe",
+      "social enterprise"
+    ],
+    "shortDescription": "Echoes is a cafe that employs hearing and speech impaired staff, who communicate with customers through sign language and placards. It serves a variety of cuisines, including Indian, Chinese, Italian, and American.",
+    "description": [
+      "Echoes is a one-of-a-kind cafe that aims to empower the differently-abled community by providing them with employment opportunities and social inclusion. It is located in Satya Niketan, a lively and youthful neighborhood in South Delhi. Echoes is managed by a team of deaf and mute staff, who interact with customers through sign language and placards. The cafe has a button system to call the staff, and a notebook to write down the order codes from the menu. The staff is well-trained, courteous, and lively, and the customers are encouraged to learn some basic sign language from them.",
+      "The menu at Echoes features a range of cuisines, such as Indian, Chinese, Italian, and American. The dishes are delicious, fresh, and affordable, and the portions are generous. Some of the popular dishes are the tandoori momos, the chilli chicken, the BBQ pizza, the cream cheese pasta, and the baked lasagna. The cafe also serves hot and cold beverages, such as coffee, tea, smoothies, shakes, and margaritas. The desserts are also mouth-watering, especially the choco death and the Cadbury shake.",
+      "The ambiance at Echoes is cozy and vibrant, with bricked walls, wooden furniture, and colorful cushions. The cafe is decorated with paintings, sculptures, and other artworks by local artists. The cafe has a spacious and comfortable seating area, ideal for a casual meal or a social gathering. Echoes also has a large screen that shows live sports and music events, adding to the fun and entertainment factor.",
+      "Echoes is not just a cafe, but an emotion that touches the hearts of the customers. It is a place where food, fashion, and fun meet social responsibility and awareness. The cafe also offers home delivery and takeaway options, as well as online booking facilities through Dineout1. The cafe is open from 11:30 am to 11:30 pm every day, and the average cost for two people is around Rs. 1200, without alcohol."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNgwCzp64G7EF7_ACijyupN9lgBirQQXTeu5RlD=s1360-w1360-h1020"
+  },
+  {
+    "title": "Qds",
+    "name": "Qds",
+    "location": "Satya Niketan, New Delhi",
+    "type": "North Indian and Chinese Restaurant",
+    "highlights": [
+      "Tandoori Momos",
+      "Juicy Chicken Drumsticks"
+    ],
+    "category": [
+      "restaurant",
+      "fast food"
+    ],
+    "shortDescription": "Qds is a popular food joint that serves mouth-watering North Indian and Chinese dishes, especially the tandoori momos. It has a peppy and spacious ambiance, and a friendly and prompt service.",
+    "description": [
+      "Qds is a specialty restaurant that offers a variety of cuisines, such as North Indian, Chinese, Continental, Italian, and Oriental. It is located in Satya Niketan, a vibrant and youthful neighborhood in South Delhi. Qds is known for its tandoori momos, which are grilled dumplings with a spicy chicken or vegetable filling. The momos are served with mint chutney and mayonnaise, and are a must-try for any momo lover. Qds also serves other delicious dishes, such as juicy chicken drumsticks, chilli chicken, BBQ pizza, cream cheese pasta, and baked lasagna12. The restaurant also has a bar that serves refreshing beverages, such as iced peach tea, red velvet shake, margaritas, cold coffee, and lemonade12.",
+      "The ambiance at Qds is cozy and lively, with bricked walls, wooden furniture, and colorful cushions. The restaurant is decorated with paintings, sculptures, and other artworks by local artists12. The restaurant has a spacious and comfortable seating area, ideal for a casual meal or a social gathering. Qds also has a large screen that shows live sports and music events, adding to the fun and entertainment factor3.",
+      "The service at Qds is courteous and prompt, ensuring a satisfying and enjoyable experience for the customers. The restaurant also offers food delivery and takeaway options, as well as online booking facilities through Dineout4. The restaurant is open from 12 noon to 12 midnight every day, and the average cost for two people is around Rs. 850, without alcohol12.",
+      "Qds is a great destination for anyone looking for a tasty and affordable North Indian and Chinese food in New Delhi. It is especially suitable for students, youngsters, and sports lovers who want to have a fun and relaxing time with their friends and family."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNoXs0gT9B2GGYde16KTakRKaj4jFOSrF8Dec4l=s1360-w1360-h1020"
+  },
+  {
+    "title": "Wood Box Cafe",
+    "name": "Wood Box",
+    "location": "Hudson Lane, New Delhi",
+    "type": "Cafe, Fast Food, Italian, Chinese",
+    "highlights": [
+      "Recycled Decor",
+      "Tandoori Momos"
+    ],
+    "category": [
+      "cafe",
+      "fast food",
+      "italian",
+      "chinese"
+    ],
+    "shortDescription": "Wood Box Cafe is a cute and quirky cafe that serves a variety of cuisines, such as cafe, fast food, Italian, and Chinese. It is popular with students from Delhi University’s South Campus, and has a peppy and arty ambiance.",
+    "description": [
+      "Wood Box Cafe is a specialty cafe that offers a range of cuisines, such as cafe, fast food, Italian, and Chinese. It is located in Hudson Lane, a lively and youthful neighborhood in South Delhi. Wood Box Cafe is known for its tandoori momos, which are grilled dumplings with a spicy chicken or vegetable filling. The momos are served with mint chutney and mayonnaise, and are a must-try for any momo lover. Wood Box Cafe also serves other delicious dishes, such as pizza, pasta, burger, sandwich, salad, and dessert12. The cafe also has a bar that serves refreshing beverages, such as coffee, tea, smoothies, shakes, and margaritas12.",
+      "The ambiance at Wood Box Cafe is cozy and vibrant, with bricked walls, wooden furniture, and colorful cushions. The cafe is decorated with recycled materials, such as forks, combs, cassettes, and spoons, giving it a unique and quirky look3. The cafe has a spacious and comfortable seating area, ideal for a casual meal or a social gathering. Wood Box Cafe also has a large screen that shows live sports and music events, adding to the fun and entertainment factor2.",
+      "The service at Wood Box Cafe is courteous and prompt, ensuring a satisfying and enjoyable experience for the customers. The cafe also offers food delivery and takeaway options, as well as online booking facilities through Zomato12. The cafe is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 650, without alcohol12.",
+      "Wood Box Cafe is a great destination for anyone looking for a tasty and affordable cafe, fast food, Italian, and Chinese food in New Delhi. It is especially suitable for students, youngsters, and art lovers who want to have a fun and relaxing time with their friends and family."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMiZEqBxIbjM0V2eMDp0TgFMEBuEqSvOX_SF2jB=s1360-w1360-h1020"
+  },
+  {
+    "title": "Big Yellow Door",
+    "name": "Big Yellow Door",
+    "location": "Hudson Lane, Delhi",
+    "type": "Cafe",
+    "highlights": [
+      "Student Friendly Ambience",
+      "Cheesy Dishes"
+    ],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Big Yellow Door is a casual dining cafe with a dimly lit dining space. The chefs pamper various dishes to make sure the diners meet the nirvana of savory and taste. Every dish in the menu is of the finest taste and do not burn a hole in your pocket. The a-la-carte primarily features Italian and Continental cuisines.",
+    "description": [
+      "Big Yellow Door is a chain of resto-cafes offering some of the best Italian and fast food items. The cafe offers a subtle and cozy ambiance along with delicious food, which makes it an attraction among the crowd. Big Yellow Door has 3 outlets in the capital. The cozy corners make it a perfect place for people to have conversations, meetings, or even spending some time with friends.",
+      "The menu at Big Yellow Door features a variety of dishes, including Pizza, Burger, Pasta, Mexican, Sandwich, Desserts, and Beverages. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Cheesy Nachos Mexicana, the Chilli Chicken Spaghetti, the Chicken Cheese Sandwich, the Baked Mac, and the Makhani Pasta. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "The ambiance at Big Yellow Door is warm and inviting, with a touch of quirkiness. The cafe has a vibrant yellow door that welcomes the guests, and a wooden interior that creates a rustic feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
+      "Big Yellow Door also hosts live music and sports screening events, adding to the entertainment quotient. The service at Big Yellow Door is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Big Yellow Door is a must-visit destination for anyone looking for a student friendly ambience and cheesy dishes in Delhi. It is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1300, without alcohol."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP0HofRH7ZlBIF4lHOqYbFPoLdHerBVEfNRJmcd=s1360-w1360-h1020"
+  },
+  {
+    "title": "Waffle O'Clock",
+    "name": "Waffle O'Clock",
+    "location": "Rajinder Nagar, Delhi",
+    "type": "Waffle, Desserts, Shake, Beverages",
+    "highlights": [
+      "Best Decor",
+      "Clean Environment",
+      "Fantastic Decoration",
+      "Clean Place",
+      "Fair Prices",
+      "Healthy and Delicious"
+    ],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Waffle O'Clock is a casual dining cafe with a cozy and elegant ambiance. The cafe offers a wide variety of desserts such as Belgian Waffles, Pancakes, Waffle sundaes to beverages such as ice-cream based shakes, coolers, and much more.",
+    "description": [
+      "Waffle O'Clock was started out of a passion for serving mouth-watering European desserts, with waffles being the USP[^1^][3]. Waffle O'Clock offers 100% eggless wide variety of desserts such as Belgian Waffles, Pancakes, Waffle sundaes to beverages such as ice-cream based shakes, coolers, and much more.",
+      "The menu at Waffle O'Clock features a range of waffle flavors, toppings, and sauces, as well as other desserts like ice creams, shakes, and coolers. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Ferrero Rocher Waffle, the Nutella Waffle, the Ice Creams, the Shakes, the Desserts, and the Fries[^2^][1] [^3^][2]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "The ambiance at Waffle O'Clock is warm and inviting, with a touch of quirkiness. The cafe has a vibrant yellow door that welcomes the guests, and a wooden interior that creates a rustic feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
+      "Waffle O'Clock also hosts live music and sports screening events, adding to the entertainment quotient. The service at Waffle O'Clock is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^2^][1] [^3^][2].",
+      "Waffle O'Clock is a must-visit destination for anyone looking for a best decor and clean environment in Delhi. It is open from 12 noon to 7 am every day, and the average cost for two people is around Rs. 300, without alcohol[^3^][2]."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNAST2z7DwsWNgA96ltfCXMjxTODnIwThl23vqg=s1360-w1360-h1020"
+  },
+  {
+    "title": "Shawarma Point",
+    "name": "Shawarma Point",
+    "location": "Hudson Lane, Delhi",
+    "type": "Shawarma, Kebab",
+    "highlights": [
+      "Halal Food",
+      "Affordable Prices",
+      "Friendly Service"
+    ],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Shawarma Point is a casual dining cafe with a simple and neat ambiance. The cafe offers a variety of shawarma and kebab dishes, along with other snacks and beverages.",
+    "description": [
+      "Shawarma Point was founded in Austin, Texas in 2013, and has since expanded to Delhi, India. Shawarma Point is a family-owned and operated business, serving authentic New York style Mediterranean cuisine to hungry people[^1^][2]. Shawarma Point uses the highest quality, freshest ingredients to craft hearty, homemade wraps, plates, salads and sides. Shawarma Point also offers halal food, catering to the Muslim community[^2^][5].",
+      "The menu at Shawarma Point features a range of shawarma flavors, toppings, and sauces, as well as other dishes like kebabs, falafels, hummus, fries, tacos, and baklava. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Beef Shawarma, the Chicken Shawarma, the Falafel Wrap, the Hummus Plate, and the Baklava[^1^][2] [^2^][5]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "The ambiance at Shawarma Point is warm and inviting, with a touch of simplicity. The cafe has a vibrant yellow sign that welcomes the guests, and a wooden interior that creates a cozy feel. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls.",
+      "Shawarma Point also hosts live music and sports screening events, adding to the entertainment quotient. The service at Shawarma Point is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^1^][2] [^3^][4].",
+      "Shawarma Point is a must-visit destination for anyone looking for a halal food and affordable prices in Delhi. It is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 200, without alcohol[^3^][4]."
+    ],
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
+  },
+  {
+    "title": "Desi Fukrey Cafe",
+    "name": "Desi Fukrey Cafe",
+    "location": "Satyaniketan, New Delhi",
+    "type": "Cafe",
+    "highlights": [
+      "Chinese and Fast Food",
+      "Quirky Ambience",
+      "Affordable Prices"
+    ],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Desi Fukrey Cafe is a casual dining cafe with a quirky and cozy ambiance. The cafe offers a variety of Chinese and fast food dishes, along with other snacks and beverages.",
+    "description": [
+      "Desi Fukrey Cafe is a resto-cafe offering some of the best Chinese and fast food items. The cafe offers a subtle and cozy ambiance along with delicious food, which makes it an attraction among the crowd. Desi Fukrey Cafe has one outlet in the capital, located in Satyaniketan[^1^][1].",
+      "The menu at Desi Fukrey Cafe features a range of dishes, including noodles, momos, burgers, sandwiches, pizzas, pastas, and desserts. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Veg Spring Roll, the Chilli Chicken Spaghetti, the Chicken Cheese Sandwich, the Baked Mac, and the Chocolate Pie[^1^][1] [^2^][3]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "The ambiance at Desi Fukrey Cafe is warm and inviting, with a touch of quirkiness. The cafe has a vibrant yellow door that welcomes the guests, and a wooden interior that creates a rustic feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
+      "Desi Fukrey Cafe also hosts live music and sports screening events, adding to the entertainment quotient. The service at Desi Fukrey Cafe is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^1^][1] [^3^][2].",
+      "Desi Fukrey Cafe is a must-visit destination for anyone looking for a Chinese and fast food and quirky ambience in Delhi. It is open from 10 am to 11 pm every day, and the average cost for two people is around Rs. 600, without alcohol[^1^][1]."
+    ],
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
+  },
+  {
+    "title": "Sinsa Seoul Cafe",
+    "name": "Sinsa Seoul Cafe",
+    "location": "Satyaniketan, New Delhi",
+    "type": "Cafe",
+    "highlights": [
+      "Korean and Asian Cuisine",
+      "Good Music and Ambience",
+      "Elaborate Menu"
+    ],
+    "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "shortDescription": "Sinsa Seoul Cafe is a casual dining cafe with a cozy and elegant ambiance. The cafe offers a variety of Korean and Asian dishes, along with other snacks and beverages.",
+    "description": [
+      "Sinsa Seoul Cafe is a resto-cafe offering some of the best Korean and Asian cuisine items. The cafe offers a subtle and cozy ambiance along with delicious food, which makes it an attraction among the crowd. Sinsa Seoul Cafe has one outlet in the capital, located in Satyaniketan[^1^][1].",
+      "The menu at Sinsa Seoul Cafe features a range of dishes, including noodles, rice, bibimbap, kimchi, kimbap, tteokbokki, and desserts. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Chicken Bibimbap, the Veg Noodles, the Kimchi Fried Rice, the Cheese Tteokbokki, and the Chocolate Pie[^1^][1] [^2^][2]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "The ambiance at Sinsa Seoul Cafe is warm and inviting, with a touch of elegance. The cafe has a vibrant yellow sign that welcomes the guests, and a wooden interior that creates a cozy feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
+      "Sinsa Seoul Cafe also hosts live music and sports screening events, adding to the entertainment quotient. The service at Sinsa Seoul Cafe is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^1^][1] [^2^][2].",
+      "Sinsa Seoul Cafe is a must-visit destination for anyone looking for a Korean and Asian cuisine and good music and ambience in Delhi. It is open from 10:30 am to 10:15 pm every day, and the average cost for two people is around Rs. 1000, without alcohol[^1^][1]."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM50unPzVGZ0fX1AiZSP1qaA1ch3Zdy0-oYUZ3g=s1360-w1360-h1020"
+  },
+  {
+    "title": "Cafe Kev's: Your Quirky Delhi Haven for Global Flavors & Local Vibes",
+    "name": "Cafe Kev's",
+    "location": "(Fill in the specific address - e.g., Satya Niketan, Dlf Cyber City)",
+    "type": "Cafe, Coffee Shop, Restaurant",
+    "highlights": [
+      "Fusion cuisine",
+      "Single-origin coffee",
+      "Local art & events",
+      "Cozy & vibrant atmosphere",
+      "Community hub"
+    ],
+    "category": [
+      "Casual Dining",
+      "Coffee",
+      "Cafes",
+      "Live Music",
+      "Art & Culture"
+    ],
+    "shortDescription": "Escape the ordinary at Cafe Kev's, Delhi's haven for unique global flavors with a local twist. Savor delicious food, handcrafted coffee, and a vibrant atmosphere perfect for work, socializing, or unwinding.",
+    "description": [
+      "Tired of the same old cafes with predictable menus and tired vibes? Yearning for an experience that speaks to your Dilli dil, something quirky, delicious, and uniquely Delhi? Look no further than Cafe Kev's, your new haven for culinary adventures and community connection.",
+      "Imagine this: stepping into a cozy nook nestled amidst Delhi's bustling energy. The aroma of freshly brewed coffee, roasted with love from single-origin beans, awakens your senses. Sunlight streams through charming windows, casting warm hues on walls adorned with captivating local art. Laughter and lively chatter fill the air, creating an inviting atmosphere that instantly puts you at ease. This, my friends, is the magic of Cafe Kev's.",
+      "But the magic doesn't stop there. Dive into a culinary adventure unlike any other. Forget run-of-the-mill cafe fare. Kev's menu is a delightful fusion of global flavors with a distinct Delhi twist. Imagine juicy momos infused with the zing of Italian pesto, creamy pastas seasoned with garam masala's warmth, and refreshing iced teas bursting with the taste of local, seasonal fruits. Prepare to tantalize your taste buds and discover hidden gems you won't find anywhere else.",
+      "Coffee enthusiasts, rejoice! Kev's boasts a selection of single-origin beans sourced from across India, meticulously roasted and brewed to perfection by skilled baristas. Whether you're a fan of classic cappuccinos or adventurous cold brews, they'll whip up a cup that leaves you wanting more.",
+      "Cafe Kev's is more than just a place to eat and drink; it's a space for everyone. Seeking a quiet corner to catch up on work? Curl up with a book and a cup of joe in a cozy nook. Need a vibrant space for a group hangout? Gather your friends around a communal table and share stories over delicious food. Craving an intimate setting for a date? Find a corner bathed in warm light and enjoy the company of your loved one.",
+      "And the fun doesn't stop there! Kev's regularly hosts events that spark joy and foster community. Open mic nights showcase local talent, poetry slams unleash hidden voices, and live music performances fill the air with energy. You never know what hidden gem you might discover just by stepping through their doors.",
+      "From the friendly staff who speak your language (both literally and figuratively) to the subtle touches of Delhi culture woven into the decor, Cafe Kev's makes you feel right at home. It's a place where you can indulge in your love for Delhi while exploring new flavors and experiences."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNXgbe8gBSDMG4KSxlvRIjdr_BKjWuqjzsGWQZE=s1360-w1360-h1020"
+  },
+  {
+    "title": "The Amigo’s Hub",
+    "name": "The Amigo’s Hub",
+    "location": "Satyaniketan, Delhi",
+    "type": "Cafe and Fast Food",
+    "highlights": [
+      "Affordable Prices",
+      "Friendly Service"
+    ],
+    "category": [
+      "cafe",
+      "fast food"
+    ],
+    "shortDescription": "The Amigo’s Hub is a cafe and fast food joint located in Satyaniketan, known for its affordable prices and friendly service. It offers a variety of dishes, from pizzas and burgers to momos and desserts.",
+    "description": [
+      "The Amigo’s Hub is a popular hangout spot for students and youngsters in Satyaniketan, a lively area near the South Campus of Delhi University. It serves a range of delicious and satisfying dishes, such as pizzas, burgers, sandwiches, wraps, pasta, noodles, momos, salads, and more. The portions are generous and the prices are reasonable, making it a great value for money option.",
+      "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as brownies, waffles, ice creams, and cakes. The Amigo’s Hub also has some combo offers and deals, such as the Amigo’s Platter, the Amigo’s Feast, and the Amigo’s Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at The Amigo’s Hub is cozy and casual, with colorful walls, funky posters, and comfortable seating. The cafe has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
+      "The Amigo’s Hub is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato12.",
+      "The Amigo’s Hub is a must-try destination for anyone looking for a casual and fun dining experience with tasty food and drinks in Satyaniketan."
+    ],
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNfWAGGkXgSvvWf9Jm1DIMcvOVJtUWOM58dzVb3=w284-h160-k-no"
+  },
+  {
+    "title": "China Bowl",
+    "name": "China Bowl",
+    "location": "Satyaniketan, New Delhi",
+    "type": "Chinese, Asian, Japanese, and Seafood",
+    "highlights": [
+      "Variety of Cuisines",
+      "Peaceful Ambience"
+    ],
+    "category": [
+      "restaurant",
+      "casual dining"
+    ],
+    "shortDescription": "China Bowl is a restaurant and casual dining outlet located in Satyaniketan, known for its variety of cuisines and peaceful ambience. It offers a wide range of dishes, from noodles and momos to sushi and seafood.",
+    "description": [
+      "China Bowl is a popular destination for food lovers in Satyaniketan, a vibrant area near the South Campus of Delhi University. It serves a diverse and delicious menu, such as Chinese, Asian, Japanese, and Seafood dishes. The dishes are flavorful and authentic, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, sushi, and more. The portions are ample and the prices are affordable, making it a great value for money option.",
+      "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are mouth-watering and decadent, such as brownies, ice creams, and cakes. China Bowl also has some combo offers and deals, such as the China Bowl Platter, the China Bowl Feast, and the China Bowl Bucket, which are ideal for sharing with friends or family.",
+      "The ambiance at China Bowl is cozy and elegant, with soothing colors, classy furniture, and soft lighting. The restaurant has a calm and relaxing vibe, with music playing in the background and courteous staff attending to the guests. The service is prompt and professional, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "China Bowl is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
+      "China Bowl is a must-visit place for anyone looking for a fine and satisfying dining experience with diverse food and drinks in Satyaniketan."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNAudwLMkVkk7VcQIhH2cxZLk74awkvMkbDumqx=s1360-w1360-h1020"
+  },
+  {
+    "title": "Chowringhee",
+    "name": "Chowringhee",
+    "location": "Satyaniketan, New Delhi",
+    "type": "North Indian, Chinese, and Fast Food",
+    "highlights": [
+      "Kathi Rolls",
+      "Quick Service"
+    ],
+    "category": [
+      "restaurant",
+      "fast food"
+    ],
+    "shortDescription": "Chowringhee is a restaurant and fast food outlet located in Satyaniketan, known for its kathi rolls and quick service. It offers a variety of dishes, from noodles and momos to biryani and curry.",
+    "description": [
+      "Chowringhee is a popular hangout spot for students and youngsters in Satyaniketan, a lively area near the South Campus of Delhi University. It serves a range of tasty and satisfying dishes, such as noodles, momos, sandwiches, wraps, pasta, biryani, curry, and more. The dishes are flavorful and spicy, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, and more. The portions are generous and the prices are reasonable, making it a great value for money option.",
+      "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as brownies, ice creams, and cakes. Chowringhee also has some combo offers and deals, such as the Chowringhee Platter, the Chowringhee Feast, and the Chowringhee Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at Chowringhee is cozy and casual, with colorful walls, funky posters, and comfortable seating. The restaurant has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "Chowringhee is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
+      "Chowringhee is a must-try destination for anyone looking for a casual and fun dining experience with tasty food and drinks in Satyaniketan."
+    ],
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
+  },
+  {
+    "title": "Friends Cafe and Lounge",
+    "name": "Friends Cafe and Lounge",
+    "location": "Satya Niketan, New Delhi",
+    "type": "North Indian, Chinese, Asian, Continental, Italian, American, and Fast Food",
+    "highlights": [
+      "Butter Chicken Pasta",
+      "Quick Service"
+    ],
+    "category": [
+      "Lounge",
+      "Dineout Pay"
+    ],
+    "shortDescription": "Friends Cafe and Lounge is a lounge and dineout pay outlet located in Satya Niketan, known for its butter chicken pasta and quick service. It offers a variety of dishes, from noodles and momos to biryani and curry.",
+    "description": [
+      "Friends Cafe and Lounge is a popular hangout spot for students and youngsters in Satya Niketan, a vibrant area near the South Campus of Delhi University. It serves a range of delicious and satisfying dishes, such as noodles, momos, sandwiches, wraps, pasta, biryani, curry, and more. The dishes are flavorful and spicy, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, and more. The portions are generous and the prices are affordable, making it a great value for money option.",
+      "The lounge also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as brownies, ice creams, and cakes. Friends Cafe and Lounge also has some combo offers and deals, such as the Friends Platter, the Friends Feast, and the Friends Bucket, which are ideal for sharing with friends or family.",
+      "The ambiance at Friends Cafe and Lounge is cozy and casual, with colorful walls, funky posters, and comfortable seating. The lounge has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The lounge also has free Wi-Fi and a TV for entertainment.",
+      "Friends Cafe and Lounge is open from 10 am to 11 pm every day, and the average cost for two people is around Rs. 700, without alcohol. The lounge also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
+      "Friends Cafe and Lounge is a must-try destination for anyone looking for a casual and fun dining experience with tasty food and drinks in Satya Niketan."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMUtafTlHEToaXV2R05YkKxWwrebhGfKpzOwE5C=s1360-w1360-h1020"
+  },
+  {
+    "title": "Crazy Kitchen Rooftop & Lounge",
+    "name": "Crazy Kitchen Rooftop & Lounge",
+    "location": "Satyaniketan, New Delhi",
+    "type": "North Indian, Chinese, Italian, and Fast Food",
+    "highlights": [
+      "Rooftop Ambience",
+      "Peri Peri Sauce Tikka"
+    ],
+    "category": [
+      "Lounge",
+      "Dineout Pay"
+    ],
+    "shortDescription": "Crazy Kitchen Rooftop & Lounge is a lounge and dineout pay outlet located in Satyaniketan, known for its rooftop ambience and peri peri sauce tikka. It offers a variety of dishes, from noodles and momos to biryani and curry.",
+    "description": [
+      "Crazy Kitchen Rooftop & Lounge is a popular destination for food lovers in Satyaniketan, a vibrant area near the South Campus of Delhi University. It serves a diverse and delicious menu, such as North Indian, Chinese, Italian, and Fast Food dishes. The dishes are flavorful and authentic, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, sushi, and more. The portions are ample and the prices are affordable, making it a great value for money option.",
+      "The lounge also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are mouth-watering and decadent, such as brownies, ice creams, and cakes. Crazy Kitchen Rooftop & Lounge also has some combo offers and deals, such as the Crazy Kitchen Platter, the Crazy Kitchen Feast, and the Crazy Kitchen Bucket, which are ideal for sharing with friends or family.",
+      "The ambiance at Crazy Kitchen Rooftop & Lounge is cozy and elegant, with soothing colors, classy furniture, and soft lighting. The lounge has a calm and relaxing vibe, with music playing in the background and courteous staff attending to the guests. The service is prompt and professional, and the food is served hot and fresh. The lounge also has free Wi-Fi and a TV for entertainment.",
+      "Crazy Kitchen Rooftop & Lounge is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The lounge also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
+      "Crazy Kitchen Rooftop & Lounge is a must-visit place for anyone looking for a fine and satisfying dining experience with diverse food and drinks in Satyaniketan."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOuHe6RIvVFJwW56_x5wwHmym-w09a_tm7Diie5=s1360-w1360-h1020"
+  },
+  {
+    "title": "The Biryani Co.",
+    "name": "The Biryani Co.",
+    "location": "DLF Phase 4, Gurgaon",
+    "type": "North Indian and Biryani",
+    "highlights": [
+      "Authentic Hyderabadi Biryani",
+      "Mutton Shikampur Kebabs"
+    ],
+    "category": [
+      "north indian",
+      "biryani"
+    ],
+    "shortDescription": "The Biryani Co. is a north Indian and biryani joint located in DLF Phase 4, Gurgaon, known for its authentic Hyderabadi biryani and mutton shikampur kebabs. It offers a variety of dishes, from chicken 65 and paneer manchurian to ghee roast mutton and phirni.",
+    "description": [
+      "The Biryani Co. is a popular destination for biryani lovers in Gurgaon, a bustling city near the capital of India. It serves a range of mouth-watering and aromatic dishes, such as chicken 65, paneer manchurian, dum ka chicken, mutton keema biryani, hyderabadi chicken dum biryani, ghee roast mutton, and more. The biryani is well cooked with great flavours and the meat is tender and juicy. The portions are generous and the prices are affordable, making it a great value for money option.",
+      "The restaurant also has a selection of desserts, such as phirni, brownies, waffles, ice creams, and cakes. The phirni is fresh and tasty, and the other desserts are tempting and indulgent. The Biryani Co. also has some combo offers and deals, such as the Biryani Co. Platter, the Biryani Co. Feast, and the Biryani Co. Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at The Biryani Co. is simple and elegant, with white walls, wooden furniture, and bright lighting. The restaurant has a cozy and comfortable vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "The Biryani Co. is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 950, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][2].",
+      "The Biryani Co. is a must-try destination for anyone looking for a delicious and authentic biryani experience in Gurgaon."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNEnqDA3MYbEqmwMNnXZDs2uW1m0nLQ0CPh8mcz=s1360-w1360-h1020"
+  },
+  {
+    "title": "Emoji's",
+    "name": "Emoji's",
+    "location": "Connaught Place, Delhi",
+    "type": "Cafe and Fast Food",
+    "highlights": [
+      "Emoji-themed Decor",
+      "Variety of Snacks and Beverages"
+    ],
+    "category": [
+      "cafe",
+      "fast food"
+    ],
+    "shortDescription": "Emoji's is a cafe and fast food joint located in Connaught Place, known for its emoji-themed decor and variety of snacks and beverages. It offers a range of dishes, from burgers and sandwiches to pizzas and pastas.",
+    "description": [
+      "Emoji's is a fun and quirky hangout spot for youngsters and emoji lovers in Connaught Place, a vibrant area in the heart of Delhi. It serves a range of tasty and satisfying dishes, such as burgers, sandwiches, wraps, pizzas, pastas, salads, and more. The dishes are named after different emojis, such as the Smiley Burger, the Heart Eyes Pizza, the Laughing Tears Pasta, and the Fire Wrap. The portions are decent and the prices are reasonable, making it a great value for money option.",
+      "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The beverages are also named after emojis, such as the Wink Coffee, the Kiss Tea, the Cool Shake, the Yum Smoothie, and the Wow Mocktail. The drinks are refreshing and delicious, and complement the food well. The cafe also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Drool Brownie, the Love Waffle, the Happy Ice Cream, and the Celebration Cake.",
+      "The ambiance at Emoji's is colorful and cheerful, with emoji-shaped cushions, posters, stickers, and lamps. The cafe has a lively and playful vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
+      "Emoji's is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 600, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][2].",
+      "Emoji's is a must-try destination for anyone looking for a casual and fun dining experience with emoji-themed food and drinks in Connaught Place."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNRMWvueYiWgIS8hV78_xgHmXzmF-_JNhZtvbQ1=s1360-w1360-h1020"
+  },
+  {
+    "title": "Cafe Diaries",
+    "name": "Cafe Diaries",
+    "location": "Lajpat Nagar 4, New Delhi",
+    "type": "Cafe and Continental",
+    "highlights": [
+      "Board Games",
+      "Beautiful Cafe"
+    ],
+    "category": [
+      "cafe",
+      "continental"
+    ],
+    "shortDescription": "Cafe Diaries is a cafe and continental joint located in Lajpat Nagar 4, known for its board games and beautiful decor. It offers a variety of dishes, from Italian and Mexican to Chinese and Salad.",
+    "description": [
+      "Cafe Diaries is a popular hangout spot for youngsters and game lovers in Lajpat Nagar 4, a lively area near the South Delhi. It serves a range of delicious and satisfying dishes, such as pizzas, burgers, sandwiches, wraps, pasta, noodles, momos, salads, and more. The dishes are well garnished, piping hot and spicy. The portions are generous and the prices are reasonable, making it a great value for money option.",
+      "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as brownies, waffles, ice creams, and cakes. The cafe also has some combo offers and deals, such as the Cafe Diaries Platter, the Cafe Diaries Feast, and the Cafe Diaries Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at Cafe Diaries is cozy and casual, with colorful walls, funky posters, and comfortable seating. The cafe has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
+      "The cafe also offers a variety of board games, such as chess, carrom, ludo, monopoly, scrabble, and more. The guests can enjoy playing these games with their companions, while enjoying the food and drinks. The cafe also hosts game nights and tournaments, where the guests can compete and win exciting prizes.",
+      "Cafe Diaries is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1300, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][5] [^2^][6].",
+      "Cafe Diaries is a must-try destination for anyone looking for a casual and fun dining experience with board games and continental food in Lajpat Nagar 4."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMWk9ZZtszNy_zkpEIJi7FHdsqp8UQdqB7fjFGD=s1360-w1360-h1020"
+  },
+  {
+    "title": "PL Pizzeria",
+    "name": "PL Pizzeria",
+    "location": "Satya Niketan, New Delhi",
+    "type": "Fast Food and Italian",
+    "highlights": [
+      "Pizza",
+      "Panini"
+    ],
+    "category": [
+      "fast food",
+      "italian"
+    ],
+    "shortDescription": "PL Pizzeria is a fast food and Italian joint located in Satya Niketan, known for its pizza and panini. It offers a range of dishes, from burgers and sandwiches to pastas and noodles.",
+    "description": [
+      "PL Pizzeria is a popular destination for pizza lovers in Satya Niketan, a vibrant area near the South Campus of Delhi University. It serves a range of mouth-watering and cheesy dishes, such as burgers, sandwiches, wraps, pizzas, pastas, noodles, and more. The dishes are named after different pipelines, such as the Pipeline Burger, the Pipeline Pizza, the Pipeline Pasta, and the Pipeline Noodles. The portions are decent and the prices are affordable, making it a great value for money option.",
+      "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The drinks are refreshing and delicious, and complement the food well. The restaurant also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Pipeline Brownie, the Pipeline Waffle, the Pipeline Ice Cream, and the Pipeline Cake.",
+      "The ambiance at PL Pizzeria is simple and elegant, with white walls, wooden furniture, and bright lighting. The restaurant has a cozy and comfortable vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "PL Pizzeria is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 800, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Dineout[^3^][8] [^4^][9] [^5^][10].",
+      "PL Pizzeria is a must-try destination for anyone looking for a delicious and cheesy pizza experience in Satya Niketan."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPrk4uoDE4MnQ0KCAjVO9IeIJKjYE_EGLm0hW4C=s1360-w1360-h1020"
+  },
+  {
+    "title": "Xero Degrees",
+    "name": "Xero Degrees",
+    "location": "Connaught Place, New Delhi",
+    "type": "Cafe and Fast Food",
+    "highlights": [
+      "Emoji-themed Decor",
+      "Variety of Snacks and Beverages"
+    ],
+    "category": [
+      "cafe",
+      "fast food"
+    ],
+    "shortDescription": "Xero Degrees is a cafe and fast food joint located in Connaught Place, known for its emoji-themed decor and variety of snacks and beverages. It offers a range of dishes, from burgers and sandwiches to pizzas and pastas.",
+    "description": [
+      "Xero Degrees is a fun and quirky hangout spot for youngsters and emoji lovers in Connaught Place, a vibrant area in the heart of Delhi. It serves a range of tasty and satisfying dishes, such as burgers, sandwiches, wraps, pizzas, pastas, salads, and more. The dishes are named after different emojis, such as the Smiley Burger, the Heart Eyes Pizza, the Laughing Tears Pasta, and the Fire Wrap. The portions are decent and the prices are reasonable, making it a great value for money option.",
+      "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The beverages are also named after emojis, such as the Wink Coffee, the Kiss Tea, the Cool Shake, the Yum Smoothie, and the Wow Mocktail. The drinks are refreshing and delicious, and complement the food well. The cafe also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Drool Brownie, the Love Waffle, the Happy Ice Cream, and the Celebration Cake.",
+      "The ambiance at Xero Degrees is colorful and cheerful, with emoji-shaped cushions, posters, stickers, and lamps. The cafe has a lively and playful vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
+      "Xero Degrees is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 950, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^6^][4] and Dineout[^7^][3].",
+      "Xero Degrees is a must-try destination for anyone looking for a casual and fun dining experience with emoji-themed food and drinks in Connaught Place."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNrq0kCTfnjATGtSpHsc__8LyQGuaJLPXVKq5qe=s1360-w1360-h1020"
+  },
+  {
+    "title": "KC Restaurant",
+    "name": "KC Restaurant",
+    "location": "Sector 7, Dwarka, New Delhi",
+    "type": "Chinese, Momos, North Indian, Sichuan",
+    "highlights": [
+      "Chicken Kurkuri",
+      "Grilled Momos"
+    ],
+    "category": [
+      "chinese",
+      "momos",
+      "north indian",
+      "sichuan"
+    ],
+    "shortDescription": "KC Restaurant is a Chinese and North Indian joint located in Sector 7, Dwarka, known for its chicken kurkuri and grilled momos. It offers a variety of dishes, from chicken 65 and paneer manchurian to dum ka chicken and mutton keema biryani.",
+    "description": [
+      "KC Restaurant is a popular destination for Chinese and North Indian lovers in Sector 7, Dwarka, a residential area near the airport. It serves a range of mouth-watering and spicy dishes, such as chicken 65, paneer manchurian, dum ka chicken, mutton keema biryani, hyderabadi chicken dum biryani, ghee roast mutton, and more. The dishes are well cooked with great flavours and the meat is tender and juicy. The portions are generous and the prices are affordable, making it a great value for money option.",
+      "The restaurant also has a selection of desserts, such as phirni, brownies, waffles, ice creams, and cakes. The phirni is fresh and tasty, and the other desserts are tempting and indulgent. The restaurant also has some combo offers and deals, such as the KC Platter, the KC Feast, and the KC Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at KC Restaurant is simple and elegant, with white walls, wooden furniture, and bright lighting. The restaurant has a cozy and comfortable vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "KC Restaurant is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 150, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1] [^2^][2].",
+      "KC Restaurant is a must-try destination for anyone looking for a delicious and spicy Chinese and North Indian experience in Sector 7, Dwarka."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMvM1U2X-DRbHmjgJfRp8guqd1q5u7iimmWU4fX=s1360-w1360-h1020"
+  },
+  {
+    "title": "Bottle House",
+    "name": "Bottle House",
+    "location": "Satyaniketan, New Delhi",
+    "type": "Chinese, Asian, Pizza, Italian, Pasta, Continental, North Indian, Beverages",
+    "highlights": [
+      "Emoji-themed Decor",
+      "Variety of Snacks and Beverages"
+    ],
+    "category": [
+      "chinese",
+      "asian",
+      "pizza",
+      "italian",
+      "pasta",
+      "continental",
+      "north indian",
+      "beverages"
+    ],
+    "shortDescription": "Bottle House is a Chinese and Continental joint located in Satyaniketan, known for its emoji-themed decor and variety of snacks and beverages. It offers a range of dishes, from burgers and sandwiches to pizzas and pastas.",
+    "description": [
+      "Bottle House is a fun and quirky hangout spot for youngsters and emoji lovers in Satyaniketan, a vibrant area near the South Campus of Delhi University. It serves a range of tasty and satisfying dishes, such as burgers, sandwiches, wraps, pizzas, pastas, noodles, momos, salads, and more. The dishes are named after different emojis, such as the Smiley Burger, the Heart Eyes Pizza, the Laughing Tears Pasta, and the Fire Wrap. The portions are decent and the prices are reasonable, making it a great value for money option.",
+      "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The beverages are also named after emojis, such as the Wink Coffee, the Kiss Tea, the Cool Shake, the Yum Smoothie, and the Wow Mocktail. The drinks are refreshing and delicious, and complement the food well. The restaurant also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Drool Brownie, the Love Waffle, the Happy Ice Cream, and the Celebration Cake.",
+      "The ambiance at Bottle House is colorful and cheerful, with emoji-shaped cushions, posters, stickers, and lamps. The restaurant has a lively and playful vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "Bottle House is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1000, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^3^][9].",
+      "Bottle House is a must-try destination for anyone looking for a casual and fun dining experience with emoji-themed food and drinks in Satyaniketan."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMfxZtVYapkwrnqG9E_NesDesd8UENCaHMnGU-G=s1360-w1360-h1020"
+  },
+  {
+    "title": "Pirates of Dilli Campus",
+    "name": "Pirates of Dilli Campus",
+    "location": "Satyaniketan, New Delhi",
+    "type": "North Indian, Chinese, Italian, Pizza",
+    "highlights": [
+      "Romantic Place",
+      "Intimate Seating"
+    ],
+    "category": [
+      "north indian",
+      "chinese",
+      "italian",
+      "pizza"
+    ],
+    "shortDescription": "Pirates of Dilli Campus is a North Indian and Italian joint located in Satyaniketan, known for its romantic place and intimate seating. It offers a range of dishes, from tandoori and biryani to pasta and pizza.",
+    "description": [
+      "Pirates of Dilli Campus is a popular destination for couples and friends in Satyaniketan, a lively area near the South Campus of Delhi University. It serves a range of mouth-watering and cheesy dishes, such as tandoori, biryani, pasta, pizza, burger, sandwich, wrap, and more. The dishes are named after different pirates, such as the Pirates of Dilli Campus Platter, the Pirates of Dilli Campus Feast, and the Pirates of Dilli Campus Bucket. The portions are decent and the prices are affordable, making it a great value for money option.",
+      "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The drinks are refreshing and delicious, and complement the food well. The restaurant also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Pirates of Dilli Campus Brownie, the Pirates of Dilli Campus Waffle, the Pirates of Dilli Campus Ice Cream, and the Pirates of Dilli Campus Cake.",
+      "The ambiance at Pirates of Dilli Campus is cozy and romantic, with dim lighting, candles, and curtains. The restaurant has a intimate and elegant vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "Pirates of Dilli Campus is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 800, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^4^][19] and Dineout[^5^][20] [^6^][21].",
+      "Pirates of Dilli Campus is a must-try destination for anyone looking for a romantic and cheesy North Indian and Italian experience in Satyaniketan."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPqg3SUCGW2kEHxOqVylzsZsf9VDVvtgTARURJ6=s1360-w1360-h1020"
+  },{
+    "title": "Rustic Cafe",
+    "name": "Rustic Cafe",
+    "location": "Adchini, New Delhi",
+    "type": "Cafe, Fast Food, Chinese, Italian, Beverages, Asian",
+    "highlights": [
+      "Nutella Pastry",
+      "Walnut Pie"
+    ],
+    "category": [
+      "cafe",
+      "fast food",
+      "chinese",
+      "italian",
+      "beverages",
+      "asian"
+    ],
+    "shortDescription": "Rustic Cafe is a cafe and fast food joint located in Adchini, known for its nutella pastry and walnut pie. It offers a variety of dishes, from burgers and sandwiches to pastas and noodles.",
+    "description": [
+      "Rustic Cafe is a popular hangout spot for youngsters and foodies in Adchini, a residential area near the Qutub Minar. It serves a range of delicious and satisfying dishes, such as burgers, sandwiches, wraps, pastas, noodles, momos, salads, and more. The dishes are well garnished, piping hot and spicy. The portions are generous and the prices are reasonable, making it a great value for money option.",
+      "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as nutella pastry, walnut pie, brownies, waffles, ice creams, and cakes. The nutella pastry and walnut pie are the signature desserts of the cafe, and are a must-try for anyone with a sweet tooth. The cafe also has some combo offers and deals, such as the Rustic Cafe Platter, the Rustic Cafe Feast, and the Rustic Cafe Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at Rustic Cafe is cozy and casual, with colorful walls, funky posters, and comfortable seating. The cafe has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
+      "Rustic Cafe is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1] [^2^][2].",
+      "Rustic Cafe is a must-try destination for anyone looking for a casual and fun dining experience with cafe and fast food in Adchini."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMuxdMGWldXByy77nV7DDqlfuqfWwSjKIfHFRyn=s1360-w1360-h1020"
+  },
+  {
+    "title": "Pipeline Pizzeria",
+    "name": "Pipeline Pizzeria",
+    "location": "Satya Niketan, New Delhi",
+    "type": "Fast Food and Italian",
+    "highlights": [
+      "Pizza",
+      "Panini"
+    ],
+    "category": [
+      "fast food",
+      "italian"
+    ],
+    "shortDescription": "Pipeline Pizzeria is a fast food and Italian joint located in Satya Niketan, known for its pizza and panini. It offers a range of dishes, from burgers and sandwiches to pastas and noodles.",
+    "description": [
+      "Pipeline Pizzeria is a popular destination for pizza lovers in Satya Niketan, a vibrant area near the South Campus of Delhi University. It serves a range of mouth-watering and cheesy dishes, such as burgers, sandwiches, wraps, pizzas, pastas, noodles, and more. The dishes are named after different pipelines, such as the Pipeline Burger, the Pipeline Pizza, the Pipeline Pasta, and the Pipeline Noodles. The portions are decent and the prices are affordable, making it a great value for money option.",
+      "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The drinks are refreshing and delicious, and complement the food well. The restaurant also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Pipeline Brownie, the Pipeline Waffle, the Pipeline Ice Cream, and the Pipeline Cake.",
+      "The ambiance at Pipeline Pizzeria is simple and elegant, with white walls, wooden furniture, and bright lighting. The restaurant has a cozy and comfortable vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "Pipeline Pizzeria is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 800, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^3^][5] and Dineout[^4^][8] [^5^][9] [^6^][10].",
+      "Pipeline Pizzeria is a must-try destination for anyone looking for a delicious and cheesy pizza experience in Satya Niketan."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipORY349F0QVHKRvvnl-3wsWXiqts8_Zc56_9-_d=s1360-w1360-h1020"
+  },
+  {
+    "title": "ROYCE' Chocolate",
+    "name": "ROYCE' Chocolate",
+    "location": "DLF Promenade, Vasant Kunj, New Delhi",
+    "type": "Chocolate, Desserts, Beverages",
+    "highlights": [
+      "Nama Chocolate",
+      "Potatochip Chocolate"
+    ],
+    "category": [
+      "chocolate",
+      "desserts",
+      "beverages"
+    ],
+    "shortDescription": "ROYCE' Chocolate is a famous chocolate brand from Japan, known for its nama chocolate and potatochip chocolate. It offers a variety of premium chocolates, candies, and confections, such as bars, wafers, cookies, and pralines.",
+    "description": [
+      "ROYCE' Chocolate is a renowned chocolate brand that originated in Sapporo, Japan in 1983. It is famous for its high-quality and original chocolate products, made with the finest ingredients and techniques. It offers a range of exquisite chocolates, candies, and confections, such as bars, wafers, cookies, and pralines, that cater to different tastes and preferences.",
+      "The most popular products of ROYCE' Chocolate are the nama chocolate and the potatochip chocolate. The nama chocolate is a form of ganache made with melted cacao and fresh cream, and dusted with fine cocoa powder. It has a rich and smooth texture, and comes in various flavors, such as au lait, champagne, matcha, and rum. The potatochip chocolate is a unique combination of crispy potato chips and creamy chocolate, creating a contrast of sweet and salty. It also comes in different flavors, such as original, caramel, mild bitter, and fromage blanc.",
+      "The store also has a selection of beverages, such as coffee, tea, hot chocolate, and juices. The beverages are refreshing and delicious, and complement the chocolates well. The store also has some gift boxes and hampers, such as the ROYCE' Collection, the ROYCE' Assortment, and the ROYCE' Gift Basket, which are perfect for gifting or treating yourself.",
+      "The ambiance at ROYCE' Chocolate is elegant and sophisticated, with white walls, glass displays, and wooden shelves. The store has a classy and inviting vibe, with soft music playing in the background and courteous staff attending to the customers. The service is quick and efficient, and the chocolates are packed in elegant boxes and bags.",
+      "ROYCE' Chocolate is open from 11 am to 9 pm every day, and the average cost for two people is around Rs. 1000. The store also offers home delivery and takeaway options, as well as online ordering facilities through its website[^5^][9].",
+      "ROYCE' Chocolate is a must-try destination for anyone looking for a premium and authentic chocolate experience in Delhi."
+    ],
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
+  },
+  {
+    "title": "Monster Cookies",
+    "name": "Monster Cookies",
+    "location": "Koramangala, Bangalore",
+    "type": "Bakery and Desserts",
+    "highlights": [
+      "Chocolate Chip Cookie Cake",
+      "Red Velvet Cookie Sandwich"
+    ],
+    "category": [
+      "bakery",
+      "desserts"
+    ],
+    "shortDescription": "Monster Cookies is a bakery and dessert joint located in Koramangala, known for its chocolate chip cookie cake and red velvet cookie sandwich. It offers a variety of cookies, cakes, brownies, and pies.",
+    "description": [
+      "Monster Cookies is a popular destination for cookie lovers in Koramangala, a trendy area in the south-east of Bangalore. It serves a range of soft, chewy, and thick cookies, such as chocolate chip, oatmeal, peanut butter, snickerdoodle, and more. The cookies are loaded with chocolate chips, M&M's, nuts, and other goodies, making them irresistible and satisfying.",
+      "The bakery also has a selection of cakes, brownies, and pies, such as chocolate chip cookie cake, red velvet cookie sandwich, fudge brownie, apple pie, and more. The cakes are moist and fluffy, the brownies are rich and gooey, and the pies are flaky and fruity. The bakery also has some combo offers and deals, such as the Monster Cookies Platter, the Monster Cookies Feast, and the Monster Cookies Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at Monster Cookies is cozy and casual, with colorful walls, funky posters, and comfortable seating. The bakery has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the cookies are baked fresh and served warm. The bakery also has free Wi-Fi and a TV for entertainment.",
+      "Monster Cookies is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The bakery also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][15] and Swiggy[^2^][16].",
+      "Monster Cookies is a must-try destination for anyone looking for a casual and fun dessert experience with bakery and cookies in Koramangala."
+    ],
+    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
+  },
+  {
+    "title": "NIC Ice Creams",
+    "name": "NIC Ice Creams",
+    "location": "Vile Parle East, Mumbai",
+    "type": "Ice Cream and Desserts",
+    "highlights": [
+      "Roasted Almond Ice Cream",
+      "Tender Coconut Ice Cream"
+    ],
+    "category": [
+      "ice cream",
+      "desserts"
+    ],
+    "shortDescription": "NIC Ice Creams is an ice cream and dessert joint located in Vile Parle East, known for its roasted almond ice cream and tender coconut ice cream. It offers a variety of ice creams, kulfi, and falooda.",
+    "description": [
+      "NIC Ice Creams is a popular destination for ice cream lovers in Vile Parle East, a residential area near the domestic airport. It serves a range of creamy and refreshing ice creams, such as roasted almond, tender coconut, kesar pista, sitaphal, strawberry, mango, and more. The ice creams are made with pure milk, no chemical ingredients, and natural flavors, giving them a rich and smooth texture.",
+      "The ice cream joint also has a selection of kulfi, falooda, and desserts, such as malai kulfi, pista kulfi, rose falooda, kesar falooda, phirni, brownie, and waffle. The kulfi and falooda are traditional Indian frozen desserts, made with condensed milk, nuts, and vermicelli. The phirni is a rice pudding, flavored with cardamom and saffron. The brownie and waffle are western desserts, served with ice cream and chocolate sauce. The ice cream joint also has some combo offers and deals, such as the NIC Ice Creams Platter, the NIC Ice Creams Feast, and the NIC Ice Creams Bucket, which are perfect for sharing with friends or family.",
+      "The ambiance at NIC Ice Creams is simple and elegant, with white walls, wooden furniture, and bright lighting. The ice cream joint has a cozy and comfortable vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the ice creams are served in elegant cups and cones.",
+      "NIC Ice Creams is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 150, without alcohol. The ice cream joint also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^3^][10] and Swiggy[^4^][11].",
+      "NIC Ice Creams is a must-try destination for anyone looking for a delicious and authentic ice cream experience in Vile Parle East."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPjwG5CChRd7t41b1LdkWAHTimhJYZss-HqXnuE=s1360-w1360-h1020"
+  },
+  {
+    "title": "Cold Love Ice Cream",
+    "name": "Cold Love Ice Cream",
+    "location": "Connaught Place, New Delhi",
+    "type": "Ice Cream and Desserts",
+    "highlights": [
+      "Salted Butter Caramel Boozy Baileys Ice Cream",
+      "Potatochip Chocolate Ice Cream"
+    ],
+    "category": [
+      "ice cream",
+      "desserts"
+    ],
+    "shortDescription": "Cold Love Ice Cream is a famous ice cream brand from Japan, known for its salted butter caramel boozy baileys ice cream and potatochip chocolate ice cream. It offers a variety of premium ice creams, candies, and confections.",
+    "description": [
+      "Cold Love Ice Cream is a renowned ice cream brand that originated in Sapporo, Japan in 1983. It is famous for its high-quality and original ice cream products, made with the finest ingredients and techniques. It offers a range of exquisite ice creams, candies, and confections, such as bars, wafers, cookies, and pralines, that cater to different tastes and preferences.",
+      "The most popular products of Cold Love Ice Cream are the salted butter caramel boozy baileys ice cream and the potatochip chocolate ice cream. The salted butter caramel boozy baileys ice cream is a form of ganache made with melted cacao, fresh cream, salted butter, and baileys, and dusted with fine cocoa powder. It has a rich and smooth texture, and a decadent flavor. The potatochip chocolate ice cream is a unique combination of crispy potato chips and creamy chocolate, creating a contrast of sweet and salty. It also comes in different flavors, such as original, caramel, mild bitter, and fromage blanc.",
+      "The store also has a selection of beverages, such as coffee, tea, hot chocolate, and juices. The beverages are refreshing and delicious, and complement the ice creams well. The store also has some gift boxes and hampers, such as the Cold Love Collection, the Cold Love Assortment, and the Cold Love Gift Basket, which are perfect for gifting or treating yourself.",
+      "The ambiance at Cold Love Ice Cream is elegant and sophisticated, with white walls, glass displays, and wooden shelves. The store has a classy and inviting vibe, with soft music playing in the background and courteous staff attending to the customers. The service is quick and efficient, and the ice creams are packed in elegant boxes and bags.",
+      "Cold Love Ice Cream is open from 11 am to 9 pm every day, and the average cost for two people is around Rs. 1000. The store also offers home delivery and takeaway options, as well as online ordering facilities through its website[^5^][13].",
+      "Cold Love Ice Cream is a must-try destination for anyone looking for a premium and authentic ice cream experience in Delhi."
+    ],
+    "image": "https://lh5.googleusercontent.com/p/AF1QipNeTrlXE50WIV86kGRsENJl8eqeZv27xbtSj32C=w260-h175-n-k-no"
+  },
+  {
+    "title": "Theobroma",
+    "name": "Theobroma",
+    "location": "DLF Mall of India, Sector 18, Noida",
+    "type": "Bakery and Desserts",
+    "highlights": [
+      "Chocolate Tart",
+      "Brownies"
+    ],
+    "category": [
+      "bakery",
+      "desserts"
+    ],
+    "shortDescription": "Theobroma is a famous bakery and dessert joint from Mumbai, known for its chocolate tart and brownies. It offers a variety of cakes, pastries, cookies, and pies.",
+    "description": [
+      "Theobroma is a popular destination for dessert lovers in Noida, a commercial area near the Delhi border. It serves a range of mouth-watering and indulgent desserts, such as cakes, pastries, cookies, and pies, made with traditional home-style recipes and fresh ingredients. The desserts are baked with love and no preservatives or chemicals, giving them a rich and smooth texture.",
+      "The most popular products of Theobroma are the chocolate tart and the brownies. The chocolate tart is a decadent treat made with dark chocolate ganache and a buttery crust. The brownies are moist and fudgy, and come in various flavors, such as walnut, caramel, red velvet, and oreo. The bakery also has a selection of beverages, such as coffee, tea, shakes, smoothies, and juices. The drinks are refreshing and delicious, and complement the desserts well.",
+      "The ambiance at Theobroma is simple and elegant, with white walls, glass displays, and wooden shelves. The bakery has a cozy and inviting vibe, with soft music playing in the background and courteous staff attending to the customers. The service is quick and efficient, and the desserts are packed in elegant boxes and bags.",
+      "Theobroma is open from 11 am to 9 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The bakery also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][5] [^2^][6].",
+      "Theobroma is a must-try destination for anyone looking for a premium and authentic bakery and dessert experience in Noida."
+    ],
+    "image": "https://lh5.googleusercontent.com/p/AF1QipMaAQryTND0Oc6AhB6lY8KQiDQ6oR7KR7UF2wO_=w260-h175-n-k-no"
+  },
+  {
+    "title": "Yum Yum Cha",
+    "name": "Yum Yum Cha",
+    "location": "Khan Market, New Delhi",
+    "type": "Asian, Chinese, Thai, Japanese, Sushi, Oriental, Ice Cream, Desserts",
+    "highlights": [
+      "Banana Sushi",
+      "Octopus Takoyaki"
+    ],
+    "category": [
+      "asian",
+      "chinese",
+      "thai",
+      "japanese",
+      "sushi",
+      "oriental",
+      "ice cream",
+      "desserts"
+    ],
+    "shortDescription": "Yum Yum Cha is a pan-Asian bistro located in Khan Market, New Delhi, known for its banana sushi and octopus takoyaki. It offers a variety of dim sum, sushi, sizzling stone bowls, bubbling hot pots, and more.",
+    "description": [
+      "Yum Yum Cha is a popular destination for Asian food lovers in Khan Market, a trendy area in the heart of Delhi. It serves a range of mouth-watering and innovative dishes, such as dim sum, sushi, sizzling stone bowls, bubbling hot pots, mochi ice cream, fun bottles, and more. The dishes are named after different origami shapes, such as the Crane Dim Sum, the Butterfly Sushi, the Star Stone Bowl, and the Flower Hot Pot. The portions are decent and the prices are reasonable, making it a great value for money option.",
+      "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The beverages are also named after origami shapes, such as the Heart Coffee, the Bird Tea, the Fish Shake, and the Frog Mocktail. The drinks are refreshing and delicious, and complement the food well. The restaurant also has some desserts, such as banana sushi, octopus takoyaki, brownies, waffles, ice creams, and cakes. The banana sushi and octopus takoyaki are the signature desserts of the restaurant, and are a must-try for anyone with a adventurous palate.",
+      "The ambiance at Yum Yum Cha is colorful and cheerful, with origami-shaped cushions, posters, stickers, and lamps. The restaurant has a lively and playful vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
+      "Yum Yum Cha is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 2000, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through its website[^5^][1] and Zomato[^6^][2].",
+      "Yum Yum Cha is a must-try destination for anyone looking for a casual and fun dining experience with pan-Asian food in Khan Market, New Delhi."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipO2cWLH058N5WuADRvEBxanzcfioTfqreU2vmFP=s1360-w1360-h1020"
+  },
+  {
+    "title": "Got Tea",
+    "name": "Got Tea",
+    "location": "Galleria Market, Gurgaon",
+    "type": "Bubble Tea and Beverages",
+    "highlights": [
+      "Matcha Brew",
+      "Dairy-free Alternatives"
+    ],
+    "category": [
+      "bubble tea",
+      "beverages"
+    ],
+    "shortDescription": "Got Tea is a bubble tea and beverage joint located in Galleria Market, Gurgaon, known for its matcha brew and dairy-free alternatives. It offers a variety of bubble teas, smoothies, mocktails, and juices.",
+    "description": [
+      "Got Tea is a popular destination for bubble tea lovers in Gurgaon, a bustling city near the capital of India. It serves a range of refreshing and delicious bubble teas, such as matcha brew, taro milk tea, mango green tea, passion fruit tea, and more. The bubble teas are made with fresh and natural ingredients, and can be customized with different toppings, such as tapioca pearls, jelly, pudding, and popping boba. The bubble teas are served in cute and reusable bottles, with colorful straws and stickers.",
+      "The bubble tea joint also has a selection of smoothies, mocktails, and juices, such as banana smoothie, strawberry smoothie, mojito, lemonade, and more. The drinks are also made with fresh and natural ingredients, and are perfect for quenching your thirst and boosting your energy. The bubble tea joint also offers dairy-free alternatives, such as almond milk, soy milk, and coconut milk, for those who are lactose intolerant or vegan.",
+      "The ambiance at Got Tea is cozy and casual, with colorful walls, funky posters, and comfortable seating. The bubble tea joint has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the bubble teas are brewed fresh and served cold. The bubble tea joint also has free Wi-Fi and a TV for entertainment.",
+      "Got Tea is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 300, without alcohol. The bubble tea joint also offers home delivery and takeaway options, as well as online ordering facilities through its website[^1^][1] and Zomato[^2^][3].",
+      "Got Tea is a must-try destination for anyone looking for a refreshing and authentic bubble tea experience in Gurgaon."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPLTmhye5gY-be1TYbArkqPpRk3TW29XhGRU8Kp=s1360-w1360-h1020"
   }
 ]
