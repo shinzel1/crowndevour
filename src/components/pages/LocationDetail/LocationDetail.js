@@ -26,7 +26,7 @@ function MyVerticallyCenteredModal(props) {
 			</Modal.Header>
 			<Modal.Body>
 				{menuImage?.map((item, index) => (
-				<img loading="lazy" src={item} className="img-fluid" alt="post-thumb" />
+					<img loading="lazy" src={item} className="img-fluid" alt="post-thumb" />
 				))}
 			</Modal.Body>
 			<Modal.Footer>
@@ -64,6 +64,7 @@ function LocationDetail() {
 		bestInMenu = loc.bestInMenu
 	}
 	menuImage = loc.menuImage
+	const canonical = "https://crowndevour.com/location/" + loc.title
 	const lastThreeLocations = locationLists.slice(-3)
 	const [modalShow, setModalShow] = React.useState(false);
 	useEffect(() => {
@@ -72,7 +73,6 @@ function LocationDetail() {
 		body.scrollIntoView({
 			behavior: 'smooth'
 		}, 500)
-
 	}, []);
 
 
@@ -99,6 +99,7 @@ function LocationDetail() {
 	return (
 		<section className="section">
 			<SchemaOrg data={loc} />
+			<link rel="canonical" href={canonical} />
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-8  mb-5 mb-lg-0">
