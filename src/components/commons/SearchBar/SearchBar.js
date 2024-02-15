@@ -10,7 +10,7 @@ function SearchBar() {
   const handleSubmit = (e) => {
         // 👇️ redirect to /contacts
         if (typeof document !== 'undefined') {
-    navigate(`/location`,{state:{value:document.getElementById('testText').value}});
+    navigate(`/location`,{state:{value:document.getElementById('Text').value}});
         }
   };
     return (
@@ -19,10 +19,10 @@ function SearchBar() {
           variant="outlined"
           className='searchBar'
           placeholder="Search Locations for Cafe and Resturants..."
-          id='testText'
+          id='Text'
           InputProps={{
             endAdornment: (
-              <IconButton color="primary" onClick={(e) => handleSubmit(e)} >
+              <IconButton color="primary" onClick={(e) => handleSubmit(e)}  type="submit">
                 <SearchIcon/>
               </IconButton>
             ),

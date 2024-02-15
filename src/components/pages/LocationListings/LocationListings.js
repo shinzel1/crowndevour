@@ -15,25 +15,32 @@ function LocationListings() {
   const location = useLocation();
   const search = useLocation().search;
   const id = new URLSearchParams(search).get("keyId");
-  const handleSearch = (val) => {
+  const handleSearch = (val, filterVal) => {
     setSearchQuery(val)
     var query = val.toLowerCase();
-    if(val === ""){
+    if (val === "") {
       searchQuery = val
-    }else if(searchQuery!==""){
+    } else if (searchQuery !== "") {
       query = searchQuery.toLowerCase();
     }
     const filtered = data.filter((location) => {
-      const name = location.name.toLowerCase();
-      const description = location.description.toString().toLowerCase();
-      const locationName = location.location.toLowerCase();
-
-      return name.includes(query) || description.includes(query) || locationName.includes(query);
+      const name = location?.name?.toLowerCase();
+      const description = location?.description?.toString()?.toLowerCase();
+      const locationName = location?.location?.toLowerCase();
+      const category = location?.category?.toString()?.toLowerCase()
+      const tags = location?.tags?.toString()?.toLowerCase()
+      if (filterVal === "category") {
+        if (category != null) {return category?.includes(query); }
+      } else if (filterVal === "tags") {
+        if (tags != null) { return tags?.includes(query); }
+      } else {
+        return name?.includes(query) || description?.includes(query) || locationName?.includes(query)|| category?.includes(query) || tags?.includes(query);;
+      }
     });
 
     setFilteredLocations(filtered);
   };
-  
+
   useEffect(() => {
     // Get the element by ID
     if (id !== null && id !== "null") {
@@ -55,17 +62,28 @@ function LocationListings() {
         var searchBar = document.getElementById('searchBar')
         searchBar.value = location?.state?.value
         setSearchQuery(location?.state?.value)
-        handleSearch(location?.state?.value)
+        handleSearch(location?.state?.value, "")
+      } else if (location?.state?.category) {
+        var searchBar = document.getElementById('searchBar')
+        searchBar.value = location?.state?.category
+        setSearchQuery(location?.state?.category)
+        handleSearch(location?.state?.category, "category")
+      } else if (location?.state?.tags) {
+        var searchBar = document.getElementById('searchBar')
+        searchBar.value = location?.state?.tags
+        setSearchQuery(location?.state?.tags)
+        handleSearch(location?.state?.tags, "tags")
       } else {
         setSearchQuery("")
-      }    }, 1000);
+      }
+    }, 1000);
   }, []);
 
   return (
     <div className="location-listings">
       <h1>Explore Cafe's And Resturant's</h1>
-       <Helmet>
-       <link rel="canonical" href="https://crowndevour.com/location" />
+      <Helmet>
+        <link rel="canonical" href="https://crowndevour.com/location" />
         <title>search cafe and restaurants</title>
         <meta name="description" content="Embark on a culinary journey through our handpicked cafes, restaurants, and food stalls! Discover diverse flavors and settings in this gastronomic exploration. " />
       </Helmet>

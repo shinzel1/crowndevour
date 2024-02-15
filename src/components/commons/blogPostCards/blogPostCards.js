@@ -12,8 +12,7 @@ const BlogPostCards = ({ data }) => {
               </div>
               <h3 className="h5"><a className="post-title" href="post-elements.html">{data.name}</a></h3>
               <ul className="list-inline post-meta mb-2">
-                <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
-                  Doe</a>
+                <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">Shinzel</a>
                 </li>
                 <li className="list-inline-item">Date : March 15, 2020</li>
                 <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Photography </a>

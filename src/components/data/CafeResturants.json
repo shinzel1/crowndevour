@@ -12,6 +12,25 @@
       "cafe",
       "restaurant"
     ],
+    "tags":["Italian","Asian"],
+    "menuImage":["https://lh3.googleusercontent.com/p/AF1QipPQeXJ_APDoAtbarqEn8za5O_UHkAu0tBP8O8lJ=s1360-w1360-h1020","https://lh3.googleusercontent.com/p/AF1QipP-lnEqdjrusMpDcZ3RSm03jsqtVD2Ws98c6CCq=s1360-w1360-h1020","https://lh3.googleusercontent.com/p/AF1QipMnzgsLvNBJ7ONlo_g1JF0u3gx2Xi8N0fkLWCf5=s1360-w1360-h1020"],
+    "rating":4,
+    "locationUrl":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14022.038274770724!2d77.1836545!3d28.5243996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e0624f73219%3A0x4a782bdeb6e724a2!2sDramz%20Delhi!5e0!3m2!1sen!2sin!4v1707967220529!5m2!1sen!2sin",
+    "bestInMenu":[
+      {
+        "name":"Kiwi Drink",
+        "description":"",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Stuffed Mushrooms",
+        "description":"",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Spaghetti",
+        "description":"",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
     "description": [
       "Cafe Dramz is a cozy and elegant restaurant and bar located near the Qutub Minar in New Delhi. It offers a stunning view of the historic monument and the lush greenery surrounding it. Cafe Dramz is the perfect place to enjoy a romantic date, a family outing, or a corporate event.",
@@ -35,6 +54,21 @@
       "thelas",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
     "description": [
       "Cafe Gastronomica Kitchen & Bar is a trendy and lively restaurant and bar located in the M Block Market of Greater Kailash 1 in New Delhi. It offers a unique experience with its modern and stylish interior, delicious food and drinks, and vibrant atmosphere.",
@@ -57,6 +91,21 @@
       "cafe",
       "thelas",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
     "description": [
@@ -82,6 +131,21 @@
       "thelas",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
     "description": [
       "CafeTamra - Shangri-La's Eros Hotel is a luxurious and sophisticated restaurant and bar located in the heart of New Delhi. It offers a splendid experience with its modern and stylish interior, delectable food and drinks, and vibrant atmosphere.",
@@ -104,6 +168,21 @@
       "cafe",
       "thelas",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
     "description": [
@@ -128,6 +207,21 @@
       "cafe",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
     "description": [
       "Cafe Elma's Bakery, Bar, and Kitchen is a charming and cozy restaurant and bar located in the Hauz Khas Village in New Delhi. It offers a delightful experience with its English style interior, scrumptious food and drinks, and quaint atmosphere.",
@@ -149,6 +243,21 @@
     "category": [
       "cafe",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
     "description": [
@@ -172,6 +281,21 @@
       "cafe",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
     "description": [
       "Cafe Mia Bella is a romantic and lively restaurant and bar located in the Hauz Khas Village in New Delhi. It offers a splendid experience with its European style interior, delicious food and drinks, and stunning view.",
@@ -193,6 +317,21 @@
     "category": [
       "cafe",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
     "description": [
@@ -218,6 +357,21 @@
       "thelas",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment.",
     "description": [
       "Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment. Located in the cultural hub of Delhi, Hauz Khas Village, the cafe boasts a stunning view of the Hauz Khas lake and the historical monument. The cafe has a unique design that blends rustic and industrial elements with recycled and upcycled furniture. The cafe has a spacious and airy feel, with large windows, high ceilings, and exposed brick walls. The cafe also has a rooftop terrace, where you can enjoy the breeze and the scenery.",
@@ -242,6 +396,21 @@
       "bar",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience.",
     "description": [
       "Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience. The cafe is inspired by the Rastafari culture and the reggae music genre, which originated in Jamaica and spread across the world. The cafe’s decor reflects the vibrant colors, patterns, and symbols of the Caribbean islands, such as the red, green, and yellow of the Rastafari flag, the dreadlocks, the lion, and the cannabis leaf. The cafe also features swing chairs, hammocks, and bean bags for a relaxed and cozy ambiance.",
@@ -263,6 +432,21 @@
     "category": [
       "cafe",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city.",
     "description": [
@@ -287,6 +471,21 @@
       "pub",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create.",
     "description": [
       "Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create. The cafe’s logo features a matchstick on fire, representing the passion and enthusiasm of the cafe’s staff and customers.",
@@ -308,6 +507,21 @@
     "category": [
       "cafe"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals.",
     "description": [
       "Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals. The cafe is located in the trendy Hauz Khas Village in New Delhi, and is named after the Kunzum Pass, a high-altitude mountain pass in the Himalayas. The cafe’s founder, Ajay Jain, is a travel writer and photographer who decided to create a space where people can share their travel stories, experiences, and tips.",
@@ -328,6 +542,21 @@
     "category": [
       "cafe",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients.",
     "description": [
@@ -352,12 +581,27 @@
       "cafe",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music.",
     "description": [
       "Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music. The cafe has a rustic and artistic decor, with colorful cushions, paintings, and board games. The cafe also offers a stunning view of the lake and the historical monuments nearby.",
       "The menu of Gypsy Cafe is diverse and affordable, featuring a variety of cuisines such as pizza, pasta, sandwich, burger, and fast food. The cafe also serves tea, coffee, juice, and other beverages. Some of the popular dishes are the mushroom pizza, the chicken sandwich, and the cold coffee. The portions are generous and the service is friendly and attentive.",
       "Gypsy Cafe is a great spot to hang out with friends, have a romantic date, or work on your laptop. The cafe has a vibe of peace and tranquility, and attracts a young and creative crowd. The owner of the cafe is a hospitable and warm person, who makes sure that the guests feel comfortable and relaxed. The cafe also hosts live music events in the evening, featuring talented local artists.",
-      "Gypsy Cafe is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves good food, good music, and good ambiance. It is a place where you can escape the hustle and bustle of the city, and enjoy a gypsy lifestyle. Gypsy Cafe is open from 12 noon to 11 pm, and you can book a table online or call them at +91 9999999999. You can also follow them on Zomato1 or Facebook2 for more updates and offers."
+      "Gypsy Cafe is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves good food, good music, and good ambiance. It is a place where you can escape the hustle and bustle of the city, and enjoy a gypsy lifestyle. Gypsy Cafe is open from 12 noon to 11 pm, and you can book a table online or call them at +91 9999999999."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipN50kPQq-mxJgV9Lga0QHuA31RmYExF3lU3-Umy=s1360-w1360-h1020"
   },
@@ -374,12 +618,27 @@
       "cafe",
       "bakery"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand.",
     "description": [
       "The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand. The cafe offers a serene and soothing ambiance, with a view of the lake and the deer park. The cafe has a vintage and classy decor, with wooden furniture, floral curtains, and antique crockery.",
       "The menu of The Tea Room is diverse and exquisite, featuring a variety of teas, coffees, juices, and other beverages. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, salads, and pastas. The cafe specializes in organic and healthy food, using fresh and natural ingredients. Some of the popular items are the white tea, the ginger tea, the masala chai, and the hot chocolate",
       "The Tea Room is a great place to relax, rejuvenate, and indulge in some self-care. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The staff of the cafe is courteous and attentive, and the owner is a friendly and hospitable person.",
-      "The Tea Room is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves tea, coffee, and wellness. It is a place where you can experience the benefits of aromatherapy, enjoy a delicious meal, and admire the beauty of nature. The Tea Room is open from 9 am to 7 pm, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Tripadvisor2 for more reviews and ratings."
+      "The Tea Room is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves tea, coffee, and wellness. It is a place where you can experience the benefits of aromatherapy, enjoy a delicious meal, and admire the beauty of nature. The Tea Room is open from 9 am to 7 pm, and you can book a table online or call them at +91 11 4081 7655."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipM6GJ4Lt0PRTOfGmvsVd9VfzQ2f4QPPLlqTAVVW=s1360-w1360-h1020"
   },
@@ -396,12 +655,27 @@
       "cafe",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience.",
     "description": [
       "Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience. The cafe has a modern and stylish decor, with black and white furniture, red accents, and mafia-themed posters. The cafe also has a spacious terrace that overlooks the lake and the greenery.",
       "The menu of Cafe Mafioso is diverse and delicious, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves drinks, cocktails, mocktails, and hookah. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka1. The portions are decent and the service is quick and courteous.",
       "Cafe Mafioso is a great place to chill, party, and have fun with your friends, family, or date. The cafe has a vibe of excitement and entertainment, and attracts a young and hip crowd. The cafe also hosts live music events, DJ nights, and theme parties. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.",
-      "Cafe Mafioso is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a mafia-style adventure, with a touch of class and glamour. Cafe Mafioso is open from 11:30 am to 1 am, and you can book a table online or call them at +91 11 4081 7655. You can also follow them on Zomato1 or Restaurant Guru2 for more information and reviews."
+      "Cafe Mafioso is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a mafia-style adventure, with a touch of class and glamour. Cafe Mafioso is open from 11:30 am to 1 am, and you can book a table online or call them at +91 11 4081 7655. them on Zomato1 or Restaurant Guru2 for more information and reviews."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMyUdEhIfoff-Y9ldcaIua77lCqLs2uwAugvvQ0=s1360-w1360-h1020"
   },
@@ -418,12 +692,27 @@
       "cafe",
       "restaurant"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife.",
     "description": [
       "Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife. The cafe has a relaxed and inviting atmosphere, with comfortable seating and a friendly staff. The cafe also offers a full bar, with a selection of craft beers, wines, and cocktails. The cafe also has a variety of special events, such as live music, trivia nights, and karaoke1.",
       "The menu of Cafe 6 is diverse and affordable, featuring a variety of cuisines such as Italian, Continental, North Indian, and Chinese. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as scones, pancakes, sandwiches, burgers, pizzas, pastas, and desserts. Some of the popular dishes are the beer, the chilli paneer, the white sauce pasta, and the chicken tikka2. The portions are decent and the service is quick and courteous.",
       "Cafe 6 is a great place to enjoy a meal with friends and family, or to just relax and unwind. The cafe is ideal for spending some quality time with your loved ones, reading a book, playing board games, or working on your laptop. The cafe also hosts events such as book readings, poetry sessions, and live music performances. The owner of the cafe is a cool and friendly person, who makes sure that the guests have a memorable time.",
-      "Cafe 6 is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of class and style. Cafe 6 is open from 10 am to 9:30 pm, and you can book a table online or call them at +91 93137 00550. You can also follow them on Zomato1 or Restaurant Guru3 for more information and reviews."
+      "Cafe 6 is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of class and style. Cafe 6 is open from 10 am to 9:30 pm, and you can book a table online or call them at +91 93137 00550."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipN3ShWUW0t6ovOIrdkMpFsfsZFCfdazy3UgcQQt=s1360-w1360-h1020"
   },
@@ -447,12 +736,27 @@
       "Beverages",
       "Sushi"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafeteria & Co. is a fine dining restaurant that offers a unique and exquisite dining experience. The restaurant serves a variety of dishes from around the world, prepared with fresh ingredients and cooked to perfection. The restaurant also offers a wide selection of drinks, from classic cocktails to craft beers.",
     "description": [
-      "Cafeteria & Co. is a fine dining restaurant that offers a unique and exquisite dining experience. The restaurant serves a variety of dishes from around the world, prepared with fresh ingredients and cooked to perfection. The atmosphere is warm and inviting, with a modern and stylish decor. The staff is friendly and attentive, providing excellent service. The restaurant also offers a wide selection of drinks, from classic cocktails to craft beers. Whether you're looking for a romantic dinner or a casual lunch, Cafeteria & Co. is the perfect place to enjoy a delicious meal[^1^][1] [^2^][2].",
-      "The menu of Cafeteria & Co. is diverse and affordable, featuring a variety of cuisines such as Continental, Pizza, Italian, Burger, Fast Food, Rolls, Mexican, Beverages, and Sushi. The restaurant also serves breakfast, lunch, brunch, and snacks, with dishes such as cheese jalapeno bombs, banana nutella crepe, veg cannelloni, loaded cheese fries, chicken burritos, and berry blast. Some of the popular dishes are the peri peri chicken, the chicken pizza, and the paneer. The portions are generous and the presentation is appealing[^3^][3] [^4^][4] [^5^][5].",
-      "Cafeteria & Co. is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a chic decor and a warm ambience, with comfortable seating and a lively vibe. The restaurant also has a full bar, with a variety of drinks to choose from, such as sangria, beer, wine, chocolate frappe, chocolate shake, and rose lemonade. The restaurant also has a variety of special events, such as live music, trivia nights, and karaoke[^2^][2] [^6^][6].",
-      "Cafeteria & Co. is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a fine and fun dining experience, with a touch of class and style. Cafeteria & Co. is open from 11:30 am to 11:30 pm, and you can book a table online or call them at 088020 26423. You can also follow them on Instagram[^2^][2] or Zomato[^5^][5] for more information and reviews."
+      "Cafeteria & Co. is a fine dining restaurant that offers a unique and exquisite dining experience. The restaurant serves a variety of dishes from around the world, prepared with fresh ingredients and cooked to perfection. The atmosphere is warm and inviting, with a modern and stylish decor. The staff is friendly and attentive, providing excellent service. The restaurant also offers a wide selection of drinks, from classic cocktails to craft beers. Whether you're looking for a romantic dinner or a casual lunch, Cafeteria & Co. is the perfect place to enjoy a delicious meal.",
+      "The menu of Cafeteria & Co. is diverse and affordable, featuring a variety of cuisines such as Continental, Pizza, Italian, Burger, Fast Food, Rolls, Mexican, Beverages, and Sushi. The restaurant also serves breakfast, lunch, brunch, and snacks, with dishes such as cheese jalapeno bombs, banana nutella crepe, veg cannelloni, loaded cheese fries, chicken burritos, and berry blast. Some of the popular dishes are the peri peri chicken, the chicken pizza, and the paneer. The portions are generous and the presentation is appealing.",
+      "Cafeteria & Co. is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a chic decor and a warm ambience, with comfortable seating and a lively vibe. The restaurant also has a full bar, with a variety of drinks to choose from, such as sangria, beer, wine, chocolate frappe, chocolate shake, and rose lemonade. The restaurant also has a variety of special events, such as live music, trivia nights, and karaoke.",
+      "Cafeteria & Co. is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a fine and fun dining experience, with a touch of class and style. Cafeteria & Co. is open from 11:30 am to 11:30 pm, and you can book a table online or call them at 088020 26423."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipPJHhpZ16EK_o5AcMgSbdmGsqxxk_BHope3yX9y=s1360-w1360-h1020"
   },
@@ -472,12 +776,27 @@
       "Desserts",
       "Beverages"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafe Coffee Day is a popular coffee chain that offers a variety of hot and cold coffee brews, refreshing beverages, sweet and savoury bakery items, burgers, sandwiches, and more. The cafe is a cosy and comfortable place to unwind with friends, have business meetings, or just enjoy some quality time by yourself.",
     "description": [
-      "Cafe Coffee Day is a popular coffee chain that offers a variety of hot and cold coffee brews, refreshing beverages, sweet and savoury bakery items, burgers, sandwiches, and more. The cafe is a cosy and comfortable place to unwind with friends, have business meetings, or just enjoy some quality time by yourself. The cafe has a warm and inviting atmosphere, with a modern and stylish decor. The staff is friendly and polite, providing excellent service. The cafe also offers home delivery and online ordering options[^1^][1] [^2^][2].",
-      "The menu of Cafe Coffee Day is diverse and affordable, featuring a range of cuisines such as Cafe, Fast Food, Coffee, Desserts, and Beverages. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as cheese jalapeno bombs, banana nutella crepe, veg cannelloni, loaded cheese fries, chicken burritos, and berry blast. Some of the popular dishes are the dutch truffle cake, the cappuccino, and the paneer tikka sandwich. The portions are decent and the presentation is appealing[^3^][3] [^4^][4] [^5^][5].",
-      "Cafe Coffee Day is a great place to hang out with friends and family, or to just chill and relax. The cafe has a lively and vibrant vibe, with comfortable seating and a soothing music. The cafe also offers a wide selection of drinks, from classic cocktails to craft beers. The cafe also hosts events such as live music, trivia nights, and karaoke[^2^][2] [^6^][6].",
-      "Cafe Coffee Day is one of the best cafes in Satyaniketan, and a must-visit for anyone who loves coffee, cakes, and music. It is a place where you can enjoy a casual and fun coffee experience, with a touch of class and style. Cafe Coffee Day is open from 9 am to 11 pm, and you can book a table online or call them at 1800 102 5093. You can also follow them on Facebook[^2^][2] or Zomato[^5^][5] for more information and reviews."
+      "Cafe Coffee Day is a popular coffee chain that offers a variety of hot and cold coffee brews, refreshing beverages, sweet and savoury bakery items, burgers, sandwiches, and more. The cafe is a cosy and comfortable place to unwind with friends, have business meetings, or just enjoy some quality time by yourself. The cafe has a warm and inviting atmosphere, with a modern and stylish decor. The staff is friendly and polite, providing excellent service. The cafe also offers home delivery and online ordering options.",
+      "The menu of Cafe Coffee Day is diverse and affordable, featuring a range of cuisines such as Cafe, Fast Food, Coffee, Desserts, and Beverages. The cafe also serves breakfast, lunch, brunch, and snacks, with dishes such as cheese jalapeno bombs, banana nutella crepe, veg cannelloni, loaded cheese fries, chicken burritos, and berry blast. Some of the popular dishes are the dutch truffle cake, the cappuccino, and the paneer tikka sandwich. The portions are decent and the presentation is appealing.",
+      "Cafe Coffee Day is a great place to hang out with friends and family, or to just chill and relax. The cafe has a lively and vibrant vibe, with comfortable seating and a soothing music. The cafe also offers a wide selection of drinks, from classic cocktails to craft beers. The cafe also hosts events such as live music, trivia nights, and karaoke.",
+      "Cafe Coffee Day is one of the best cafes in Satyaniketan, and a must-visit for anyone who loves coffee, cakes, and music. It is a place where you can enjoy a casual and fun coffee experience, with a touch of class and style. Cafe Coffee Day is open from 9 am to 11 pm, and you can book a table online or call them at 1800 102 5093."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipN-ojJAzZ4NcCHMALH0AaLeB3rjD-Io4j4SjQBS=s1360-w1360-h1020"
   },
@@ -497,12 +816,27 @@
       "Mughlai",
       "Fast Food"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time.",
     "description": [
-      "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant has a cosy and comfortable atmosphere, with a colourful and funky decor. The staff is courteous and helpful, providing prompt service. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time[^1^][1] [^2^][2].",
+      "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant has a cosy and comfortable atmosphere, with a colourful and funky decor. The staff is courteous and helpful, providing prompt service. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time.",
       "The menu of Madira Cafe is diverse and reasonable, featuring a range of cuisines such as Continental, North Indian, Chinese, Mughlai, and Fast Food. The restaurant also serves breakfast, lunch, dinner, and snacks, with dishes such as cheese balls, chicken lollipop, veg hakka noodles, chicken biryani, and chocolate brownie. Some of the popular dishes are the chicken tikka, the paneer butter masala, and the veg momos. The portions are generous and the taste is delicious[^3^][3] [^4^][4].",
-      "Madira Cafe is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a vibrant and energetic vibe, with comfortable seating and a dim lighting. The restaurant also offers a wide selection of drinks, from mocktails to shakes. The restaurant also hosts events such as live music, trivia nights, and karaoke[^2^][2] .",
-      "Madira Cafe is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of spice and style. Madira Cafe is open from 11 am to 11 pm, and you can book a table online or call them at +91 98111 73459 or +91 99998 73459. You can also follow them on Zomato[^1^][1] or Swiggy[^3^][3] for more information and reviews."
+      "Madira Cafe is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a vibrant and energetic vibe, with comfortable seating and a dim lighting. The restaurant also offers a wide selection of drinks, from mocktails to shakes. The restaurant also hosts events such as live music, trivia nights, and karaoke.",
+      "Madira Cafe is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of spice and style. Madira Cafe is open from 11 am to 11 pm, and you can book a table online or call them at +91 98111 73459 or +91 99998 73459."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipOpYGLIRGS2CKcJKHLh_WnRdFQxT3M_p9tk357e=s1360-w1360-h1020"
   },
@@ -518,6 +852,21 @@
     "category": [
       "cafe",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "The Big House is a Chinese cafe cum restaurant with a variety of coffee and tea and a range of continental food. It also offers food delivery and online booking services.",
     "description": [
@@ -541,6 +890,21 @@
       "cafe",
       "social enterprise"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Echoes is a cafe that employs hearing and speech impaired staff, who communicate with customers through sign language and placards. It serves a variety of cuisines, including Indian, Chinese, Italian, and American.",
     "description": [
       "Echoes is a one-of-a-kind cafe that aims to empower the differently-abled community by providing them with employment opportunities and social inclusion. It is located in Satya Niketan, a lively and youthful neighborhood in South Delhi. Echoes is managed by a team of deaf and mute staff, who interact with customers through sign language and placards. The cafe has a button system to call the staff, and a notebook to write down the order codes from the menu. The staff is well-trained, courteous, and lively, and the customers are encouraged to learn some basic sign language from them.",
@@ -562,6 +926,21 @@
     "category": [
       "restaurant",
       "fast food"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Qds is a popular food joint that serves mouth-watering North Indian and Chinese dishes, especially the tandoori momos. It has a peppy and spacious ambiance, and a friendly and prompt service.",
     "description": [
@@ -587,6 +966,21 @@
       "italian",
       "chinese"
     ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Wood Box Cafe is a cute and quirky cafe that serves a variety of cuisines, such as cafe, fast food, Italian, and Chinese. It is popular with students from Delhi University’s South Campus, and has a peppy and arty ambiance.",
     "description": [
       "Wood Box Cafe is a specialty cafe that offers a range of cuisines, such as cafe, fast food, Italian, and Chinese. It is located in Hudson Lane, a lively and youthful neighborhood in South Delhi. Wood Box Cafe is known for its tandoori momos, which are grilled dumplings with a spicy chicken or vegetable filling. The momos are served with mint chutney and mayonnaise, and are a must-try for any momo lover. Wood Box Cafe also serves other delicious dishes, such as pizza, pasta, burger, sandwich, salad, and dessert12. The cafe also has a bar that serves refreshing beverages, such as coffee, tea, smoothies, shakes, and margaritas12.",
@@ -608,6 +1002,21 @@
     "category": [
       "cafe",
       "restaurant"
+    ],
+    "bestInMenu":[
+      {
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },{
+        "name":"Délicieux Bénédicte",
+        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Big Yellow Door is a casual dining cafe with a dimly lit dining space. The chefs pamper various dishes to make sure the diners meet the nirvana of savory and taste. Every dish in the menu is of the finest taste and do not burn a hole in your pocket. The a-la-carte primarily features Italian and Continental cuisines.",
     "description": [
@@ -639,10 +1048,10 @@
     "shortDescription": "Waffle O'Clock is a casual dining cafe with a cozy and elegant ambiance. The cafe offers a wide variety of desserts such as Belgian Waffles, Pancakes, Waffle sundaes to beverages such as ice-cream based shakes, coolers, and much more.",
     "description": [
       "Waffle O'Clock was started out of a passion for serving mouth-watering European desserts, with waffles being the USP[^1^][3]. Waffle O'Clock offers 100% eggless wide variety of desserts such as Belgian Waffles, Pancakes, Waffle sundaes to beverages such as ice-cream based shakes, coolers, and much more.",
-      "The menu at Waffle O'Clock features a range of waffle flavors, toppings, and sauces, as well as other desserts like ice creams, shakes, and coolers. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Ferrero Rocher Waffle, the Nutella Waffle, the Ice Creams, the Shakes, the Desserts, and the Fries[^2^][1] [^3^][2]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "The menu at Waffle O'Clock features a range of waffle flavors, toppings, and sauces, as well as other desserts like ice creams, shakes, and coolers. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Ferrero Rocher Waffle, the Nutella Waffle, the Ice Creams, the Shakes, the Desserts, and the Fries. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
       "The ambiance at Waffle O'Clock is warm and inviting, with a touch of quirkiness. The cafe has a vibrant yellow door that welcomes the guests, and a wooden interior that creates a rustic feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
-      "Waffle O'Clock also hosts live music and sports screening events, adding to the entertainment quotient. The service at Waffle O'Clock is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^2^][1] [^3^][2].",
-      "Waffle O'Clock is a must-visit destination for anyone looking for a best decor and clean environment in Delhi. It is open from 12 noon to 7 am every day, and the average cost for two people is around Rs. 300, without alcohol[^3^][2]."
+      "Waffle O'Clock also hosts live music and sports screening events, adding to the entertainment quotient. The service at Waffle O'Clock is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Waffle O'Clock is a must-visit destination for anyone looking for a best decor and clean environment in Delhi. It is open from 12 noon to 7 am every day, and the average cost for two people is around Rs. 300, without alcohol."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNAST2z7DwsWNgA96ltfCXMjxTODnIwThl23vqg=s1360-w1360-h1020"
   },
@@ -662,11 +1071,11 @@
     ],
     "shortDescription": "Shawarma Point is a casual dining cafe with a simple and neat ambiance. The cafe offers a variety of shawarma and kebab dishes, along with other snacks and beverages.",
     "description": [
-      "Shawarma Point was founded in Austin, Texas in 2013, and has since expanded to Delhi, India. Shawarma Point is a family-owned and operated business, serving authentic New York style Mediterranean cuisine to hungry people[^1^][2]. Shawarma Point uses the highest quality, freshest ingredients to craft hearty, homemade wraps, plates, salads and sides. Shawarma Point also offers halal food, catering to the Muslim community[^2^][5].",
-      "The menu at Shawarma Point features a range of shawarma flavors, toppings, and sauces, as well as other dishes like kebabs, falafels, hummus, fries, tacos, and baklava. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Beef Shawarma, the Chicken Shawarma, the Falafel Wrap, the Hummus Plate, and the Baklava[^1^][2] [^2^][5]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "Shawarma Point was founded in Austin, Texas in 2013, and has since expanded to Delhi, India. Shawarma Point is a family-owned and operated business, serving authentic New York style Mediterranean cuisine to hungry people. Shawarma Point uses the highest quality, freshest ingredients to craft hearty, homemade wraps, plates, salads and sides. Shawarma Point also offers halal food, catering to the Muslim community[^2^][5].",
+      "The menu at Shawarma Point features a range of shawarma flavors, toppings, and sauces, as well as other dishes like kebabs, falafels, hummus, fries, tacos, and baklava. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Beef Shawarma, the Chicken Shawarma, the Falafel Wrap, the Hummus Plate, and the Baklava. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
       "The ambiance at Shawarma Point is warm and inviting, with a touch of simplicity. The cafe has a vibrant yellow sign that welcomes the guests, and a wooden interior that creates a cozy feel. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls.",
-      "Shawarma Point also hosts live music and sports screening events, adding to the entertainment quotient. The service at Shawarma Point is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^1^][2] [^3^][4].",
-      "Shawarma Point is a must-visit destination for anyone looking for a halal food and affordable prices in Delhi. It is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 200, without alcohol[^3^][4]."
+      "Shawarma Point also hosts live music and sports screening events, adding to the entertainment quotient. The service at Shawarma Point is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities.",
+      "Shawarma Point is a must-visit destination for anyone looking for a halal food and affordable prices in Delhi. It is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 200, without alcohol."
     ],
     "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
@@ -1103,7 +1512,7 @@
       "Pipeline Pizzeria is a popular destination for pizza lovers in Satya Niketan, a vibrant area near the South Campus of Delhi University. It serves a range of mouth-watering and cheesy dishes, such as burgers, sandwiches, wraps, pizzas, pastas, noodles, and more. The dishes are named after different pipelines, such as the Pipeline Burger, the Pipeline Pizza, the Pipeline Pasta, and the Pipeline Noodles. The portions are decent and the prices are affordable, making it a great value for money option.",
       "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The drinks are refreshing and delicious, and complement the food well. The restaurant also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Pipeline Brownie, the Pipeline Waffle, the Pipeline Ice Cream, and the Pipeline Cake.",
       "The ambiance at Pipeline Pizzeria is simple and elegant, with white walls, wooden furniture, and bright lighting. The restaurant has a cozy and comfortable vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
-      "Pipeline Pizzeria is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 800, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^3^][5] and Dineout[^4^][8] [^5^][9] [^6^][10].",
+      "Pipeline Pizzeria is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 800, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^3^][5] and Dineout.",
       "Pipeline Pizzeria is a must-try destination for anyone looking for a delicious and cheesy pizza experience in Satya Niketan."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipORY349F0QVHKRvvnl-3wsWXiqts8_Zc56_9-_d=s1360-w1360-h1020"
