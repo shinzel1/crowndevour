@@ -12,23 +12,32 @@
       "cafe",
       "restaurant"
     ],
-    "tags":["Italian","Asian"],
-    "menuImage":["https://lh3.googleusercontent.com/p/AF1QipPQeXJ_APDoAtbarqEn8za5O_UHkAu0tBP8O8lJ=s1360-w1360-h1020","https://lh3.googleusercontent.com/p/AF1QipP-lnEqdjrusMpDcZ3RSm03jsqtVD2Ws98c6CCq=s1360-w1360-h1020","https://lh3.googleusercontent.com/p/AF1QipMnzgsLvNBJ7ONlo_g1JF0u3gx2Xi8N0fkLWCf5=s1360-w1360-h1020"],
-    "rating":4,
-    "locationUrl":"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14022.038274770724!2d77.1836545!3d28.5243996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e0624f73219%3A0x4a782bdeb6e724a2!2sDramz%20Delhi!5e0!3m2!1sen!2sin!4v1707967220529!5m2!1sen!2sin",
-    "bestInMenu":[
+    "tags": [
+      "Italian",
+      "Asian"
+    ],
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipPQeXJ_APDoAtbarqEn8za5O_UHkAu0tBP8O8lJ=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipP-lnEqdjrusMpDcZ3RSm03jsqtVD2Ws98c6CCq=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipMnzgsLvNBJ7ONlo_g1JF0u3gx2Xi8N0fkLWCf5=s1360-w1360-h1020"
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14022.038274770724!2d77.1836545!3d28.5243996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e0624f73219%3A0x4a782bdeb6e724a2!2sDramz%20Delhi!5e0!3m2!1sen!2sin!4v1707967220529!5m2!1sen!2sin",
+    "bestInMenu": [
       {
-        "name":"Kiwi Drink",
-        "description":"",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Stuffed Mushrooms",
-        "description":"",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Spaghetti",
-        "description":"",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Kiwi Drink",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Stuffed Mushrooms",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Spaghetti",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Dramz is a rooftop restaurant located in Chanakyapuri, known for its breathtaking scenic views and a diverse menu offering a range of culinary delights.",
@@ -54,19 +63,42 @@
       "thelas",
       "restaurant"
     ],
-    "bestInMenu":[
+    "tags": [
+      "European",
+      " North Indian",
+      "Italian",
+      "Asian"
+    ],
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipNBk3pJdY9awaw4UUw9PEqii8J9Q1DbCPnlCFkq=s1360-w1360-h1020"
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14018.570055119395!2d77.2351054!3d28.550463!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce23408cf78ed%3A0xbb078eaebd6fd65a!2sGastronomica!5e0!3m2!1sen!2sin!4v1708012104187!5m2!1sen!2sin",
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Primavera Pizza",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Murg Makhanwala",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Kung Pao Chicken",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Hoisen Chicken Bao",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Ratatouille Cigar",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Gastronomica Kitchen & Bar in Chanakyapuri is a hub for global cuisines, providing a vibrant ambiance and a culinary journey that spans across various parts of the world.",
@@ -92,19 +124,40 @@
       "thelas",
       "restaurant"
     ],
-    "bestInMenu":[
+    "tags": [
+      "fish",
+      "North Indian"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 3.9,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14026.931838741373!2d77.2901806!3d28.4875877!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce72b903f42e3%3A0x8ee8917bb615ecb0!2sGoldfinch%20Hotel%20Delhi%20NCR!5e0!3m2!1sen!2sin!4v1708012654314!5m2!1sen!2sin",
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Crab Masala",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Prawn Ghee Roast",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Fish Tawa Fry",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Sukka",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Neer Dosa",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Sanadige, situated in Goldfinch Hotel, specializes in coastal cuisine, bringing the flavors of Karnataka and Kerala to the heart of Chanakyapuri, Delhi.",
@@ -131,19 +184,42 @@
       "thelas",
       "restaurant"
     ],
-    "bestInMenu":[
+    "tags": [
+      "International",
+      "European",
+      "Indian",
+      "Asian"
+    ],
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipNjMHk_rhxdiD_eNRV7ZWXMMG3QN5k0Zq37jLqs=s1360-w1360-h1020"
+    ],
+    "rating": 3.9,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14009.17458698285!2d77.218162!3d28.62096!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd375c42903b%3A0xee81c91f1df72220!2sTamra%20Restaurant!5e0!3m2!1sen!2sin!4v1708012832141!5m2!1sen!2sin",
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "the Tamra Breakfast",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Tamra Burger",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Butter Chicken",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Pad Thai",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chocolate Fondant",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Tamra at Shangri-La's Eros Hotel is a multi-cuisine restaurant with an international flair. It features a café-style section, offering a diverse range of culinary delights.",
@@ -169,28 +245,35 @@
       "thelas",
       "restaurant"
     ],
-    "bestInMenu":[
+    "tags": [
+      "culinary heritage",
+      "North-West Frontier flavors",
+      "aromatic kebabs"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 3.9,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d56014.59000839533!2d77.3020918!3d28.6623572!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfb6eec83bfab%3A0x9ea4b1f4c3b370f7!2sThe%20Leela%20Ambience%20Convention%20Hotel%20Delhi!5e0!3m2!1sen!2sin!4v1708013571680!5m2!1sen!2sin",
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Kashmiri Rogan Josh",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Lahori Chicken Tikka",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Dilli 32 at The Leela Palace is renowned for its luxurious dining experience, specializing in North Indian and Mughlai cuisine. Indulge in a regal culinary journey.",
     "description": [
-      "CafeTamra - Shangri-La's Eros Hotel is a luxurious and sophisticated restaurant and bar located in the heart of New Delhi. It offers a splendid experience with its modern and stylish interior, delectable food and drinks, and vibrant atmosphere.",
-      "The menu at CafeTamra - Shangri-La's Eros Hotel features a variety of cuisines, including International, European, Indian, and Asian. The dishes are prepared with fresh and quality ingredients, and the taste is exquisite. Some of the popular dishes are the Tamra Breakfast, the Tamra Burger, the Butter Chicken, the Pad Thai, and the Chocolate Fondant. The bar at CafeTamra - Shangri-La's Eros Hotel offers a wide range of whiskies, wines, cocktails, and other beverages to suit every taste and mood.",
-      "The ambiance at CafeTamra - Shangri-La's Eros Hotel is warm and inviting, with a touch of elegance. The restaurant has a spacious and comfortable seating area, with a mix of sofas, chairs, and tables. The decor is chic and classy, with a lot of wood, metal, and glass elements. The lighting is soft and cozy, creating a romantic and relaxing mood. The restaurant also has a live kitchen, where you can watch the chefs prepare your food with flair and finesse.",
-      "CafeTamra - Shangri-La's Eros Hotel also hosts live music and sports screening events, adding to the entertainment quotient. The service at CafeTamra - Shangri-La's Eros Hotel is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The restaurant also offers home delivery and takeaway options, as well as online booking facilities.",
-      "CafeTamra - Shangri-La's Eros Hotel is a must-visit destination for anyone looking for a luxurious dining experience with a spectacular view in New Delhi. It is open from 6:30 am to 11:45 pm every day, and the average cost for two people is around Rs. 4000, without alcohol."
+      "Dilli 32, nestled within the opulent surroundings of The Leela Palace, Delhi, isn't just a restaurant, it's a portal to India's rich culinary heritage. More than just a name, Dilli 32 pays homage to the city's historical significance, referencing its 32nd Mughal emperor, Akbar. Step inside, and be transported to a confluence of eras: Mughal grandeur meets modern artistry, creating an ambiance that's both regal and elegant.",
+      "The live kitchen takes center stage, a fiery spectacle where chefs weave magic with age-old recipes and local ingredients. Awadhi and North-West Frontier flavors dominate the menu, offering a symphony of aromatic kebabs, succulent curries, and melt-in-your-mouth breads. Imagine savoring the delicate notes of saffron in a Kashmiri Rogan Josh, the smoky depth of a Dal Makhani simmered to perfection, or the fiery zing of a Lahori Chicken Tikka. Each dish is a testament to culinary traditions passed down through generations, presented with a touch of contemporary finesse.",
+      "But Dilli 32 isn't just about the food. The experience extends to the very air you breathe. The restaurant's décor is a tapestry of intricate carvings, vibrant murals, and warm lighting, evoking the grandeur of bygone eras. The attentive staff, adorned in traditional attire, add another layer of authenticity, their warm smiles and personalized service making you feel like royalty.",
+      "And no royal feast is complete without a fitting conclusion. Dilli 32's dessert menu is an ode to India's sweet tooth. Indulge in creamy Rasmalai, decadent Kulfi, or a selection of regional specialties like the melt-in-your-mouth Peshwari with its signature dry fruit filling. Wash it all down with a Shahi Shikanji, a modern twist on the classic Indian lemonade, or a selection of traditional coolers like Thandai and Lassi.",
+      "Dilli 32 is more than just a meal; it's an experience that lingers long after your last bite. It's a journey through the diverse flavors of India, a celebration of cultural heritage, and a testament to the timeless art of hospitality. So, whether you're a seasoned foodie or simply seeking a taste of authentic India, Dilli 32 awaits, ready to enchant your senses and create memories that will last a lifetime."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipND-HhzwYjsVjoVBI_2nhiIWEVSYNslNgSIdRTX"
   },
@@ -207,19 +290,42 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "tags": [
+      "Bakery",
+      "Italian",
+      "Continental",
+      "Beverages"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 3.9,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28036.044824903078!2d77.15980627910155!3d28.554576499999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8a867441ab%3A0xf8cf0cd9f9521f32!2zRWxtYeKAmXM!5e0!3m2!1sen!2sin!4v1708013782376!5m2!1sen!2sin",
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "the Scones",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Cheese Crepe",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Rose Tea",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the French Press Coffee",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Eggs Benedict",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Elma's Bakery, Bar, and Kitchen is a cozy bakery known for its delightful atmosphere and a variety of delicious desserts.",
@@ -244,19 +350,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Naivedyam specializes in South Indian vegetarian cuisine, offering a diverse range of authentic flavors in the heart of Hauz Khas Village.",
@@ -281,19 +389,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Mia Bella is a Mediterranean restaurant with a rooftop seating area, providing a charming ambiance and a taste of Mediterranean flavors.",
@@ -318,19 +428,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Bo Tai Qutub offers a modern twist to Thai cuisine, creating a unique and flavorful dining experience near Qutub Minar.",
@@ -357,19 +469,21 @@
       "thelas",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Hauz Khas Social is a cafe that offers more than just food and drinks. It is a place where you can work, collaborate, network, and socialize with like-minded people in a creative and inspiring environment.",
@@ -396,19 +510,21 @@
       "bar",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafe Raasta is a Caribbean-themed restaurant that offers a fusion of delectable food, exceptional drinks, and an immersive musical experience.",
@@ -433,19 +549,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafe Yeti is a Himalayan-themed restaurant that brings the flavors and culture of the mountainous region to the city.",
@@ -471,19 +589,21 @@
       "pub",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafe Matchbox is a trendy and lively cafe and pub in Hauz Khas Village, New Delhi. The cafe is named after the small and colorful boxes that contain matches, symbolizing the spark and energy that the cafe aims to create.",
@@ -507,19 +627,21 @@
     "category": [
       "cafe"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals.",
@@ -543,19 +665,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Coast Cafe is a fine dining outlet located in Hauz Khas Village, New Delhi. It offers a unique dining experience with a variety of delicious dishes prepared with fresh ingredients.",
@@ -581,19 +705,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music.",
@@ -618,19 +744,21 @@
       "cafe",
       "bakery"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "The Tea Room is a quaint and elegant cafe located in Hauz Khas Village, New Delhi. It is a part of Blossom Kochhar, a renowned spa and aromatherapy brand.",
@@ -655,19 +783,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafe Mafioso is a lively and trendy cafe located in Hauz Khas Village, New Delhi. It is a part of Mafioso, a popular club and lounge that offers a thrilling nightlife experience.",
@@ -692,19 +822,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafe 6 is a casual dining outlet that offers a wide variety of delicious food and drinks. The cafe is located in Hauz Khas Village, New Delhi, a popular destination for art, culture, and nightlife.",
@@ -736,19 +868,21 @@
       "Beverages",
       "Sushi"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafeteria & Co. is a fine dining restaurant that offers a unique and exquisite dining experience. The restaurant serves a variety of dishes from around the world, prepared with fresh ingredients and cooked to perfection. The restaurant also offers a wide selection of drinks, from classic cocktails to craft beers.",
@@ -776,19 +910,21 @@
       "Desserts",
       "Beverages"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Cafe Coffee Day is a popular coffee chain that offers a variety of hot and cold coffee brews, refreshing beverages, sweet and savoury bakery items, burgers, sandwiches, and more. The cafe is a cosy and comfortable place to unwind with friends, have business meetings, or just enjoy some quality time by yourself.",
@@ -816,19 +952,21 @@
       "Mughlai",
       "Fast Food"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time.",
@@ -853,19 +991,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "The Big House is a Chinese cafe cum restaurant with a variety of coffee and tea and a range of continental food. It also offers food delivery and online booking services.",
@@ -890,19 +1030,21 @@
       "cafe",
       "social enterprise"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Echoes is a cafe that employs hearing and speech impaired staff, who communicate with customers through sign language and placards. It serves a variety of cuisines, including Indian, Chinese, Italian, and American.",
@@ -927,19 +1069,21 @@
       "restaurant",
       "fast food"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Qds is a popular food joint that serves mouth-watering North Indian and Chinese dishes, especially the tandoori momos. It has a peppy and spacious ambiance, and a friendly and prompt service.",
@@ -966,19 +1110,21 @@
       "italian",
       "chinese"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Wood Box Cafe is a cute and quirky cafe that serves a variety of cuisines, such as cafe, fast food, Italian, and Chinese. It is popular with students from Delhi University’s South Campus, and has a peppy and arty ambiance.",
@@ -1003,19 +1149,21 @@
       "cafe",
       "restaurant"
     ],
-    "bestInMenu":[
+    "bestInMenu": [
       {
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },{
-        "name":"Délicieux Bénédicte",
-        "description":"Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image":"https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Délicieux Bénédicte",
+        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Big Yellow Door is a casual dining cafe with a dimly lit dining space. The chefs pamper various dishes to make sure the diners meet the nirvana of savory and taste. Every dish in the menu is of the finest taste and do not burn a hole in your pocket. The a-la-carte primarily features Italian and Continental cuisines.",
@@ -1467,7 +1615,8 @@
       "Pirates of Dilli Campus is a must-try destination for anyone looking for a romantic and cheesy North Indian and Italian experience in Satyaniketan."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipPqg3SUCGW2kEHxOqVylzsZsf9VDVvtgTARURJ6=s1360-w1360-h1020"
-  },{
+  },
+  {
     "title": "rustic-cafe",
     "name": "Rustic Cafe",
     "location": "Adchini, New Delhi",
@@ -1708,8 +1857,8 @@
       "Step through the arched doorway of United Coffee House, and journey back to a bygone era. Established in 1942, this iconic cafe in the heart of Connaught Place whispers tales of Delhi's rich past. Its colonial-era charm, adorned with antique furniture, warm lighting, and sepia-toned photographs, transports you to a world of timeless elegance.",
       "Indulge in the aroma of freshly brewed filter coffee, a tradition meticulously followed for decades. Each cup, a symphony of flavor, promises to awaken your senses and invigorate your spirit. Savor the aroma as it mingles with the delightful fragrance of freshly baked pastries and traditional Indian snacks.",
       "Beyond the coffee, embark on a culinary adventure through the diverse flavors of India. Bite into crispy samosas and melt-in-your-mouth pakoras, their spices dancing on your palate. Treat yourself to the sweetness of jalebis, their golden syrup a delightful contrast to the creamy indulgence of gulab jamuns. Each bite, a testament to the culinary heritage that resonates within these walls.",
-    "United Coffee House is more than just a cafe; it's a living testament to Delhi's history. Witness the changing landscape through its windows, where bustling crowds have gathered for decades, sharing stories, dreams, and laughter. Immerse yourself in the vibrant atmosphere, where the aroma of coffee mingles with the buzz of conversation, creating a symphony of life.",
-    "Whether you're a history buff, a coffee connoisseur, or simply seeking a slice of authentic Delhi, United Coffee House welcomes you with open arms. It's a place to linger over conversations, savor the flavors of India, and create memories that will last a lifetime. So, step into this timeless haven, let the aroma of coffee guide you, and discover a taste of history in every cup."
+      "United Coffee House is more than just a cafe; it's a living testament to Delhi's history. Witness the changing landscape through its windows, where bustling crowds have gathered for decades, sharing stories, dreams, and laughter. Immerse yourself in the vibrant atmosphere, where the aroma of coffee mingles with the buzz of conversation, creating a symphony of life.",
+      "Whether you're a history buff, a coffee connoisseur, or simply seeking a slice of authentic Delhi, United Coffee House welcomes you with open arms. It's a place to linger over conversations, savor the flavors of India, and create memories that will last a lifetime. So, step into this timeless haven, let the aroma of coffee guide you, and discover a taste of history in every cup."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMNRMkst1wbBAwOWQ1oDbdvZbk3yonsfRs4JBNL=s1360-w1360-h1020"
   },
@@ -1763,7 +1912,7 @@
       "Whether you're a coffee connoisseur or simply seeking a relaxed atmosphere, Barista Lavazza welcomes you with open arms. Their friendly staff and comfortable seating make it a perfect spot to unwind, work remotely, or enjoy a casual social gathering.",
       "So, take a break from the bustling streets of Connaught Place and step into Barista Lavazza. Immerse yourself in the aroma of coffee, savor delicious treats, and create memories that will leave you wanting more."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipPodz2XQJqbSN3bTTK5Z2XPY7Aen3pOqDXdCEhA=s1360-w1360-h1020" 
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPodz2XQJqbSN3bTTK5Z2XPY7Aen3pOqDXdCEhA=s1360-w1360-h1020"
   },
   {
     "title": "CAARA-cafe",
@@ -1875,7 +2024,7 @@
       "Beyond smoothies, the cafe offers a delightful selection of salads, sandwiches, and all-day breakfast and brunch options to satisfy your savory cravings. Their dishes are crafted with fresh and wholesome ingredients, ensuring a balanced and delicious meal. The charming cottage-style décor and comfortable seating create an inviting atmosphere for a healthy and enjoyable break.",
       "**Please note:** This information is based on online sources and might not be entirely accurate. It's recommended to visit the cafe's website or social media pages for the latest menu and details."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipOKYl9PArbiizU1G3oNHk1LbOc5JlVpe1nTuC48=s1360-w1360-h1020" 
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOKYl9PArbiizU1G3oNHk1LbOc5JlVpe1nTuC48=s1360-w1360-h1020"
   },
   {
     "title": "Cafe-Saravana-Bhavan",
