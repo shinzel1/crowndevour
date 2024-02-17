@@ -155,7 +155,7 @@ function LocationDetail() {
 													<div className="card-text">
 														{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
 														<h2 className="card-title">{item.name}</h2>
-														<p className="card-body">{item.description}</p>
+														{/* <p className="card-body">{item.description}</p> */}
 													</div>
 													{/* <div className="card-price">$56</div> */}
 												</div>

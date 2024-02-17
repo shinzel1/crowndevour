@@ -350,20 +350,36 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [],
+    "menuImage": [
+      ""
+    ],
+    "rating": 3.9,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14017.965627085337!2d77.194958!3d28.555003!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275793f696d%3A0x2c3e01c06083c8e8!2sNaivedyam!5e0!3m2!1sen!2sin!4v1708069898302!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Rava Idli",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Mysore Masala Dosa",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Bisi Bele Bath",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Filter Coffee",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Rasmalai",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -389,20 +405,41 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "Mediterranean",
+      "Italian",
+      "Continental",
+      "Beverages"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14018.14653869619!2d77.1943483!3d28.5536442!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8aa2237655%3A0x47c455b61148be22!2sMIABELLA!5e0!3m2!1sen!2sin!4v1708070276842!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Chicken Cordon Bleu",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Spaghetti Carbonara,",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Lamb Chops",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Sangria",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Tiramisu",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -428,20 +465,39 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "Thai cuisine",
+      "delicious cocktails"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14018.14653869619!2d77.1943483!3d28.5536442!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8aa2237655%3A0x47c455b61148be22!2sMIABELLA!5e0!3m2!1sen!2sin!4v1708070276842!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Chicken Cordon Bleu",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Spaghetti Carbonara,",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Lamb Chops",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Sangria",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Tiramisu",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -469,20 +525,48 @@
       "thelas",
       "restaurant"
     ],
+    "tags": [
+      "North Indian",
+      "Chinese",
+      "Biryani",
+      "Pasta",
+      "Burger",
+      "Pizza"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14018.049360264455!2d77.1939877!3d28.5543741!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce20fdb584417%3A0x1f893fe3f6203e0b!2sHauz%20Khas%20Social!5e0!3m2!1sen!2sin!4v1708097749884!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Social Shake",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Breakfast Tray",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -510,20 +594,43 @@
       "bar",
       "restaurant"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Social Shake",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Breakfast Tray",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -549,20 +656,30 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "Nepal",
+      "Tibet",
+      "Bhutan",
+      "North India",
+      "momos",
+      "thukpa",
+      "shapta",
+      "gyathuk"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448239.5649188052!2d76.65796906562497!3d28.6336101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfddd9d96bf45%3A0x94e69d3a8844c0e6!2sYeti%20-%20The%20Himalayan%20Kitchen%2C%20Connaught%20Place!5e0!3m2!1sen!2sin!4v1708140723916!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Yeti platter",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Yeti thali",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -589,20 +706,36 @@
       "pub",
       "restaurant"
     ],
+    "tags": [
+      "continental",
+      "salad",
+      "fast food",
+      "beverages"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d136775.30815003105!2d77.04732792433397!3d28.57017037883708!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d89cee0eff9%3A0xa5a6fbf50bcba919!2sMatchbox%20Pub%20%26%20Grub!5e0!3m2!1sen!2sin!4v1708140922745!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "pork fry",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the chicken lasagna",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the honey chilli potato",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": " the black and white toast",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -627,23 +760,17 @@
     "category": [
       "cafe"
     ],
-    "bestInMenu": [
-      {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
+    "tags": [
+      "travelers",
+      "artists",
+      "creative professionals"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.5399156823646!2d77.18945207926177!3d28.553545625048944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8a9cc8b757%3A0x1fe57f9bb019ebed!2sKunzum%20-%20Hauz%20Khas%20Village!5e0!3m2!1sen!2sin!4v1708141288305!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals.",
     "description": [
       "Cafe Kunzum Travel Cafe is a unique and cozy cafe that caters to travelers, artists, and creative professionals. The cafe is located in the trendy Hauz Khas Village in New Delhi, and is named after the Kunzum Pass, a high-altitude mountain pass in the Himalayas. The cafe’s founder, Ajay Jain, is a travel writer and photographer who decided to create a space where people can share their travel stories, experiences, and tips.",
@@ -665,20 +792,30 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "Mediterranean",
+      "Asian",
+      "coastal delicacies"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.4974652009623!2d77.1926195749539!3d28.554820987606405!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2757a715595%3A0xed48c1e0d569e3d0!2sCoast%20Caf%C3%A9!5e0!3m2!1sen!2sin!4v1708141471523!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "prawn moilee",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "sundal",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": " the veg tacos",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -705,20 +842,32 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "pizza",
+      "pasta",
+      "sandwich",
+      "burger",
+      "fast food"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.510769413802!2d77.1914754749539!3d28.55442128762449!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8a843af0fb%3A0x8fe97d6dd9444d5a!2sGypsy%20Caf%C3%A9!5e0!3m2!1sen!2sin!4v1708142340051!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Mushroom pizza",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "The chicken sandwich",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "The cold coffee",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -727,7 +876,7 @@
       "Gypsy Cafe is a cozy and charming cafe located in Hauz Khas Village, New Delhi. It is a perfect place to relax, enjoy some delicious food and beverages, and listen to some soft music. The cafe has a rustic and artistic decor, with colorful cushions, paintings, and board games. The cafe also offers a stunning view of the lake and the historical monuments nearby.",
       "The menu of Gypsy Cafe is diverse and affordable, featuring a variety of cuisines such as pizza, pasta, sandwich, burger, and fast food. The cafe also serves tea, coffee, juice, and other beverages. Some of the popular dishes are the mushroom pizza, the chicken sandwich, and the cold coffee. The portions are generous and the service is friendly and attentive.",
       "Gypsy Cafe is a great spot to hang out with friends, have a romantic date, or work on your laptop. The cafe has a vibe of peace and tranquility, and attracts a young and creative crowd. The owner of the cafe is a hospitable and warm person, who makes sure that the guests feel comfortable and relaxed. The cafe also hosts live music events in the evening, featuring talented local artists.",
-      "Gypsy Cafe is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves good food, good music, and good ambiance. It is a place where you can escape the hustle and bustle of the city, and enjoy a gypsy lifestyle. Gypsy Cafe is open from 12 noon to 11 pm, and you can book a table online or call them at +91 9999999999."
+      "Gypsy Cafe is one of the best cafes in Hauz Khas Village, and a must-visit for anyone who loves good food, good music, and good ambiance. It is a place where you can escape the hustle and bustle of the city, and enjoy a gypsy lifestyle. Gypsy Cafe is open from 12 noon to 11 pm"
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipN50kPQq-mxJgV9Lga0QHuA31RmYExF3lU3-Umy=s1360-w1360-h1020"
   },
@@ -744,20 +893,35 @@
       "cafe",
       "bakery"
     ],
+    "tags": [
+      "lunch",
+      "brunch",
+      "snacks"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56072.13297484161!2d77.15285054395257!3d28.554495148591435!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce27581822f33%3A0x9da15247af3922f1!2sThe%20Tea%20Room%20from%20Blossom%20Kochhar!5e0!3m2!1sen!2sin!4v1708142587350!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "white tea",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the ginger tea",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the masala chai",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the hot chocolate",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -783,20 +947,41 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "club",
+      "lounge",
+      "Italian",
+      "Continental",
+      "North Indian",
+      "Chinese",
+      "cocktails",
+      "mocktails",
+      "hookah"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.5189142905488!2d77.19174917495393!3d28.55417658763565!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8a9c2de6d7%3A0xb85a396978bc0993!2sCaf%C3%A9%20Mafioso!5e0!3m2!1sen!2sin!4v1708142821305!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "beer",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the chilli paneer",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "white sauce pasta",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": " chicken tikka",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -820,22 +1005,44 @@
     ],
     "category": [
       "cafe",
-      "restaurant"
+      "bar"
     ],
+    "tags": [
+      "craft beers",
+      "wines",
+      "cocktails",
+      "live music",
+      "trivia nights",
+      "karaoke",
+      "Italian",
+      "Continental",
+      "North Indian",
+      "Chinese"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13091.037300034264!2d77.20049008372027!3d28.551166280538112!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2115554ffff%3A0x29bda03d82a30f3!2sCafe%206!5e0!3m2!1sen!2sin!4v1708143402463!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "beer",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "chilli paneer",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "white sauce pasta",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the chicken tikka",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -858,6 +1065,10 @@
       "Chic Decor and Warm Ambience"
     ],
     "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "tags": [
       "Continental",
       "Pizza",
       "Italian",
@@ -868,20 +1079,40 @@
       "Beverages",
       "Sushi"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112147.65895360036!2d77.12770644716663!3d28.551309460373858!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d890e9de16b%3A0x6a15e24130dfd3e0!2sCafeteria%20%26%20Co.!5e0!3m2!1sen!2sin!4v1708144042649!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "cheese jalapeno bombs",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "banana nutella crepe",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "veg cannelloni",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": " loaded cheese fries",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "chicken burritos",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "berry blast",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -904,26 +1135,34 @@
       "Friendly and Polite Staff"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "Cafe",
       "Fast Food",
       "Coffee",
       "Desserts",
       "Beverages"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28461.121340338115!2d77.1617112239255!3d28.581827083847642!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d9ba2b9b7c7%3A0xa1d29b87a6872ba6!2sCafe%20Coffee%20Day!5e0!3m2!1sen!2sin!4v1708144347929!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "dutch truffle cake",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the cappuccino",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the paneer tikka sandwich",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -952,27 +1191,39 @@
       "Mughlai",
       "Fast Food"
     ],
+    "tags": [
+      "Continental",
+      "North Indian",
+      "Chinese",
+      "Mughlai",
+      "Fast Food"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8351.837670300712!2d77.16727580279802!3d28.587435453470725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d130b25aae5%3A0x12126ab1fbfb2728!2sMadira%20Cafe!5e0!3m2!1sen!2sin!4v1708144633255!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "chicken tikka",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "paneer butter masala",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the veg momos",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
     "shortDescription": "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time.",
     "description": [
       "Madira Cafe is a casual dining restaurant that offers a variety of dishes from different cuisines, prepared with fresh and quality ingredients. The restaurant has a cosy and comfortable atmosphere, with a colourful and funky decor. The staff is courteous and helpful, providing prompt service. The restaurant also has a lively dance floor and music, where you can enjoy with your friends and have a fun time.",
-      "The menu of Madira Cafe is diverse and reasonable, featuring a range of cuisines such as Continental, North Indian, Chinese, Mughlai, and Fast Food. The restaurant also serves breakfast, lunch, dinner, and snacks, with dishes such as cheese balls, chicken lollipop, veg hakka noodles, chicken biryani, and chocolate brownie. Some of the popular dishes are the chicken tikka, the paneer butter masala, and the veg momos. The portions are generous and the taste is delicious[^3^][3] [^4^][4].",
+      "The menu of Madira Cafe is diverse and reasonable, featuring a range of cuisines such as Continental, North Indian, Chinese, Mughlai, and Fast Food. The restaurant also serves breakfast, lunch, dinner, and snacks, with dishes such as cheese balls, chicken lollipop, veg hakka noodles, chicken biryani, and chocolate brownie. Some of the popular dishes are the chicken tikka, the paneer butter masala, and the veg momos. The portions are generous and the taste is delicious.",
       "Madira Cafe is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a vibrant and energetic vibe, with comfortable seating and a dim lighting. The restaurant also offers a wide selection of drinks, from mocktails to shakes. The restaurant also hosts events such as live music, trivia nights, and karaoke.",
       "Madira Cafe is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of spice and style. Madira Cafe is open from 11 am to 11 pm, and you can book a table online or call them at +91 98111 73459 or +91 99998 73459."
     ],
@@ -991,20 +1242,38 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "Chinese cuisine",
+      "pizza",
+      "pasta",
+      "burgers",
+      "sandwiches",
+      "continental"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.4011445712777!2d77.16513107495508!3d28.5877402861143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d1300bfb88d%3A0x3eeeb478c82e56fb!2sThe%20Big%20House%20Cafe!5e0!3m2!1sen!2sin!4v1708145007859!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "margaritas",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "cold coffee",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "lemonade",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "chocolate shake",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -1030,20 +1299,51 @@
       "cafe",
       "social enterprise"
     ],
+    "tags": [
+      "Indian",
+      "Chinese",
+      "Italian",
+      "American"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.404366692134!2d77.16441837495513!3d28.58764358611882!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d13c8f06bb1%3A0x5a7b99fe064ccfa5!2sEchoes%20-Satyaniketan!5e0!3m2!1sen!2sin!4v1708145197886!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "tandoori momos",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the chilli chicken",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the BBQ pizza",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the cream cheese pasta",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the baked lasagna",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "choco death",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Cadbury shake",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -1058,7 +1358,7 @@
   },
   {
     "title": "Qds",
-    "name": "Qds",
+    "name": "QD's Multicuisine Restaurant",
     "location": "Satya Niketan, New Delhi",
     "type": "North Indian and Chinese Restaurant",
     "highlights": [
@@ -1069,20 +1369,47 @@
       "restaurant",
       "fast food"
     ],
+    "tags": [
+      "North Indian",
+      "Chinese",
+      "Continental",
+      "Italian",
+      "Oriental"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112108.80055356899!2d77.08459133384893!3d28.58777411693511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d130a34c0cb%3A0xdd4407c491edab29!2sQD&#39;s%20Multicuisine%20Restaurant!5e0!3m2!1sen!2sin!4v1708145671119!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "tandoori momos",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "juicy chicken drumsticks",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "chilli chicken",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "BBQ pizza",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "cream cheese pasta",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "baked lasagna",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -1105,25 +1432,33 @@
       "Tandoori Momos"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "cafe",
       "fast food",
       "italian",
       "chinese"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.8760768542147!2d77.20198127495905!3d28.693353381317056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfdf266cbe6ef%3A0x3753cc88a48c797a!2sWoodbox%20Cafe!5e0!3m2!1sen!2sin!4v1708145908433!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "tandoori momos",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Platters",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Breverages",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -1149,20 +1484,39 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "Italian",
+      "fast food"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112109.03389477689!2d77.02703475952147!3d28.587555277051887!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d12330a5cdd%3A0x5d45380a8d93f53a!2sBig%20Yellow%20Door!5e0!3m2!1sen!2sin!4v1708146153211!5m2!1sen!2sin",
     "bestInMenu": [
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "Cheesy Nachos Mexicana",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Chilli Chicken Spaghetti",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       },
       {
-        "name": "Délicieux Bénédicte",
-        "description": "Eggs Benedict with hollandaise sauce, crispy bacon and an assortment of garden herbs.",
+        "name": "the Chicken Cheese Sandwich",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Baked Mac",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Makhani Pasta",
+        "description": "",
         "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
       }
     ],
@@ -1193,63 +1547,56 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "European",
+      "desserts"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52306.14953984588!2d77.11771089997232!3d28.576634475704857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d13bb0be5a1%3A0x439fa3cd99ad278a!2sWaffle%20O&#39;Clock!5e0!3m2!1sen!2sin!4v1708150142454!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Waffle O'Clock is a casual dining cafe with a cozy and elegant ambiance. The cafe offers a wide variety of desserts such as Belgian Waffles, Pancakes, Waffle sundaes to beverages such as ice-cream based shakes, coolers, and much more.",
     "description": [
-      "Waffle O'Clock was started out of a passion for serving mouth-watering European desserts, with waffles being the USP[^1^][3]. Waffle O'Clock offers 100% eggless wide variety of desserts such as Belgian Waffles, Pancakes, Waffle sundaes to beverages such as ice-cream based shakes, coolers, and much more.",
+      "Waffle O'Clock was started out of a passion for serving mouth-watering European desserts, with waffles being the USP. Waffle O'Clock offers 100% eggless wide variety of desserts such as Belgian Waffles, Pancakes, Waffle sundaes to beverages such as ice-cream based shakes, coolers, and much more.",
       "The menu at Waffle O'Clock features a range of waffle flavors, toppings, and sauces, as well as other desserts like ice creams, shakes, and coolers. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Ferrero Rocher Waffle, the Nutella Waffle, the Ice Creams, the Shakes, the Desserts, and the Fries. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
       "The ambiance at Waffle O'Clock is warm and inviting, with a touch of quirkiness. The cafe has a vibrant yellow door that welcomes the guests, and a wooden interior that creates a rustic feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
       "Waffle O'Clock also hosts live music and sports screening events, adding to the entertainment quotient. The service at Waffle O'Clock is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities.",
       "Waffle O'Clock is a must-visit destination for anyone looking for a best decor and clean environment in Delhi. It is open from 12 noon to 7 am every day, and the average cost for two people is around Rs. 300, without alcohol."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNAST2z7DwsWNgA96ltfCXMjxTODnIwThl23vqg=s1360-w1360-h1020"
-  },
-  {
-    "title": "Shawarma-Point",
-    "name": "Shawarma Point",
-    "location": "Hudson Lane, Delhi",
-    "type": "Shawarma, Kebab",
-    "highlights": [
-      "Halal Food",
-      "Affordable Prices",
-      "Friendly Service"
-    ],
-    "category": [
-      "cafe",
-      "restaurant"
-    ],
-    "shortDescription": "Shawarma Point is a casual dining cafe with a simple and neat ambiance. The cafe offers a variety of shawarma and kebab dishes, along with other snacks and beverages.",
-    "description": [
-      "Shawarma Point was founded in Austin, Texas in 2013, and has since expanded to Delhi, India. Shawarma Point is a family-owned and operated business, serving authentic New York style Mediterranean cuisine to hungry people. Shawarma Point uses the highest quality, freshest ingredients to craft hearty, homemade wraps, plates, salads and sides. Shawarma Point also offers halal food, catering to the Muslim community[^2^][5].",
-      "The menu at Shawarma Point features a range of shawarma flavors, toppings, and sauces, as well as other dishes like kebabs, falafels, hummus, fries, tacos, and baklava. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Beef Shawarma, the Chicken Shawarma, the Falafel Wrap, the Hummus Plate, and the Baklava. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
-      "The ambiance at Shawarma Point is warm and inviting, with a touch of simplicity. The cafe has a vibrant yellow sign that welcomes the guests, and a wooden interior that creates a cozy feel. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls.",
-      "Shawarma Point also hosts live music and sports screening events, adding to the entertainment quotient. The service at Shawarma Point is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities.",
-      "Shawarma Point is a must-visit destination for anyone looking for a halal food and affordable prices in Delhi. It is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 200, without alcohol."
-    ],
-    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
-  },
-  {
-    "title": "Desi-Fukrey-Cafe",
-    "name": "Desi Fukrey Cafe",
-    "location": "Satyaniketan, New Delhi",
-    "type": "Cafe",
-    "highlights": [
-      "Chinese and Fast Food",
-      "Quirky Ambience",
-      "Affordable Prices"
-    ],
-    "category": [
-      "cafe",
-      "restaurant"
-    ],
-    "shortDescription": "Desi Fukrey Cafe is a casual dining cafe with a quirky and cozy ambiance. The cafe offers a variety of Chinese and fast food dishes, along with other snacks and beverages.",
-    "description": [
-      "Desi Fukrey Cafe is a resto-cafe offering some of the best Chinese and fast food items. The cafe offers a subtle and cozy ambiance along with delicious food, which makes it an attraction among the crowd. Desi Fukrey Cafe has one outlet in the capital, located in Satyaniketan[^1^][1].",
-      "The menu at Desi Fukrey Cafe features a range of dishes, including noodles, momos, burgers, sandwiches, pizzas, pastas, and desserts. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Veg Spring Roll, the Chilli Chicken Spaghetti, the Chicken Cheese Sandwich, the Baked Mac, and the Chocolate Pie[^1^][1] [^2^][3]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
-      "The ambiance at Desi Fukrey Cafe is warm and inviting, with a touch of quirkiness. The cafe has a vibrant yellow door that welcomes the guests, and a wooden interior that creates a rustic feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
-      "Desi Fukrey Cafe also hosts live music and sports screening events, adding to the entertainment quotient. The service at Desi Fukrey Cafe is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^1^][1] [^3^][2].",
-      "Desi Fukrey Cafe is a must-visit destination for anyone looking for a Chinese and fast food and quirky ambience in Delhi. It is open from 10 am to 11 pm every day, and the average cost for two people is around Rs. 600, without alcohol[^1^][1]."
-    ],
-    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
   },
   {
     "title": "Sinsa-Seoul-Cafe",
@@ -1265,20 +1612,56 @@
       "cafe",
       "restaurant"
     ],
+    "tags": [
+      "Korean",
+      "Asian cuisine"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6015.698040556546!2d77.16651392754592!3d28.589489836983567!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1daf55790f79%3A0x8096394c9f8be0d0!2sSinsa%20Seoul%20Cafe!5e0!3m2!1sen!2sin!4v1708152358980!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Chicken Bibimbap",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Veg Noodles",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Kimchi Fried Rice",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Cheese Tteokbokki",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chocolate Pie",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Sinsa Seoul Cafe is a casual dining cafe with a cozy and elegant ambiance. The cafe offers a variety of Korean and Asian dishes, along with other snacks and beverages.",
     "description": [
-      "Sinsa Seoul Cafe is a resto-cafe offering some of the best Korean and Asian cuisine items. The cafe offers a subtle and cozy ambiance along with delicious food, which makes it an attraction among the crowd. Sinsa Seoul Cafe has one outlet in the capital, located in Satyaniketan[^1^][1].",
-      "The menu at Sinsa Seoul Cafe features a range of dishes, including noodles, rice, bibimbap, kimchi, kimbap, tteokbokki, and desserts. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Chicken Bibimbap, the Veg Noodles, the Kimchi Fried Rice, the Cheese Tteokbokki, and the Chocolate Pie[^1^][1] [^2^][2]. The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
+      "Sinsa Seoul Cafe is a resto-cafe offering some of the best Korean and Asian cuisine items. The cafe offers a subtle and cozy ambiance along with delicious food, which makes it an attraction among the crowd. Sinsa Seoul Cafe has one outlet in the capital, located in Satyaniketan.",
+      "The menu at Sinsa Seoul Cafe features a range of dishes, including noodles, rice, bibimbap, kimchi, kimbap, tteokbokki, and desserts. The dishes are prepared with fresh and quality ingredients, and the presentation is appealing. Some of the popular dishes are the Chicken Bibimbap, the Veg Noodles, the Kimchi Fried Rice, the Cheese Tteokbokki, and the Chocolate Pie . The cafe also serves refreshing drinks like Mint Drink, Orange Mojito, and Kiwi Drink.",
       "The ambiance at Sinsa Seoul Cafe is warm and inviting, with a touch of elegance. The cafe has a vibrant yellow sign that welcomes the guests, and a wooden interior that creates a cozy feel. The cafe also has a music and feel theme, with posters of famous bands and singers adorning the walls. The cafe has a casual and comfortable setting, ideal for a quick bite or a relaxed conversation.",
-      "Sinsa Seoul Cafe also hosts live music and sports screening events, adding to the entertainment quotient. The service at Sinsa Seoul Cafe is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities[^1^][1] [^2^][2].",
-      "Sinsa Seoul Cafe is a must-visit destination for anyone looking for a Korean and Asian cuisine and good music and ambience in Delhi. It is open from 10:30 am to 10:15 pm every day, and the average cost for two people is around Rs. 1000, without alcohol[^1^][1]."
+      "Sinsa Seoul Cafe also hosts live music and sports screening events, adding to the entertainment quotient. The service at Sinsa Seoul Cafe is friendly and attentive, ensuring a pleasant and memorable experience for the guests. The cafe also offers home delivery and takeaway options, as well as online booking facilities .",
+      "Sinsa Seoul Cafe is a must-visit destination for anyone looking for a Korean and Asian cuisine and good music and ambience in Delhi. It is open from 10:30 am to 10:15 pm every day, and the average cost for two people is around Rs. 1000, without alcohol."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipM50unPzVGZ0fX1AiZSP1qaA1ch3Zdy0-oYUZ3g=s1360-w1360-h1020"
   },
   {
     "title": "Cafe-Kev-s",
     "name": "Cafe Kev's: Your Quirky Delhi Haven for Global Flavors & Local Vibes",
-    "location": "(Fill in the specific address - e.g., Satya Niketan, Dlf Cyber City)",
+    "location": " Satya Niketan",
     "type": "Cafe, Coffee Shop, Restaurant",
     "highlights": [
       "Fusion cuisine",
@@ -1287,13 +1670,20 @@
       "Cozy & vibrant atmosphere",
       "Community hub"
     ],
-    "category": [
+    "category": [],
+    "tags": [
       "Casual Dining",
       "Coffee",
       "Cafes",
       "Live Music",
       "Art & Culture"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112045.20238363632!2d77.06319893635231!3d28.647362825829497!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d1372c4ba33%3A0xee74e6e8bb9f39c8!2sKev&#39;s!5e0!3m2!1sen!2sin!4v1708152565198!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Escape the ordinary at Cafe Kev's, Delhi's haven for unique global flavors with a local twist. Savor delicious food, handcrafted coffee, and a vibrant atmosphere perfect for work, socializing, or unwinding.",
     "description": [
       "Tired of the same old cafes with predictable menus and tired vibes? Yearning for an experience that speaks to your Dilli dil, something quirky, delicious, and uniquely Delhi? Look no further than Cafe Kev's, your new haven for culinary adventures and community connection.",
@@ -1319,6 +1709,33 @@
       "cafe",
       "fast food"
     ],
+    "tags": [
+      "continental",
+      "North Indian",
+      "Beverages"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56054.20851635675!2d77.09817725820311!3d28.58813380000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d13ba16effd%3A0x8a8bf40e8b80a3be!2sAmigo&#39;s%20Hub!5e0!3m2!1sen!2sin!4v1708153072937!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Shakes",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Breverages",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "desserts",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "The Amigo’s Hub is a cafe and fast food joint located in Satyaniketan, known for its affordable prices and friendly service. It offers a variety of dishes, from pizzas and burgers to momos and desserts.",
     "description": [
       "The Amigo’s Hub is a popular hangout spot for students and youngsters in Satyaniketan, a lively area near the South Campus of Delhi University. It serves a range of delicious and satisfying dishes, such as pizzas, burgers, sandwiches, wraps, pasta, noodles, momos, salads, and more. The portions are generous and the prices are reasonable, making it a great value for money option.",
@@ -1342,12 +1759,40 @@
       "restaurant",
       "casual dining"
     ],
+    "tags": [
+      "Chinese",
+      "Asian",
+      "Japanese",
+      "Seafood dishes"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24036.848242473763!2d77.15356667697188!3d28.58148408369855!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d1235279cef%3A0xc8edd7db61b0e4e6!2sChina%20Bowl!5e0!3m2!1sen!2sin!4v1708166302529!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "chicken Thai curry",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "chicken Hakka noodles",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "thukpa",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "China Bowl is a restaurant and casual dining outlet located in Satyaniketan, known for its variety of cuisines and peaceful ambience. It offers a wide range of dishes, from noodles and momos to sushi and seafood.",
     "description": [
       "China Bowl is a popular destination for food lovers in Satyaniketan, a vibrant area near the South Campus of Delhi University. It serves a diverse and delicious menu, such as Chinese, Asian, Japanese, and Seafood dishes. The dishes are flavorful and authentic, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, sushi, and more. The portions are ample and the prices are affordable, making it a great value for money option.",
       "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are mouth-watering and decadent, such as brownies, ice creams, and cakes. China Bowl also has some combo offers and deals, such as the China Bowl Platter, the China Bowl Feast, and the China Bowl Bucket, which are ideal for sharing with friends or family.",
       "The ambiance at China Bowl is cozy and elegant, with soothing colors, classy furniture, and soft lighting. The restaurant has a calm and relaxing vibe, with music playing in the background and courteous staff attending to the guests. The service is prompt and professional, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
-      "China Bowl is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
+      "China Bowl is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato.",
       "China Bowl is a must-visit place for anyone looking for a fine and satisfying dining experience with diverse food and drinks in Satyaniketan."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNAudwLMkVkk7VcQIhH2cxZLk74awkvMkbDumqx=s1360-w1360-h1020"
@@ -1365,38 +1810,41 @@
       "restaurant",
       "fast food"
     ],
+    "tags": [
+      "chinese",
+      "fast food"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14013.5325094804!2d77.1684689!3d28.588281!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5ad3d337c62d59%3A0xc6ba03165949aaba!2sChowringhee!5e0!3m2!1sen!2sin!4v1708167694007!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "chicken Thai curry",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "chicken Hakka noodles",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "thukpa",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Chowringhee is a restaurant and fast food outlet located in Satyaniketan, known for its kathi rolls and quick service. It offers a variety of dishes, from noodles and momos to biryani and curry.",
     "description": [
       "Chowringhee is a popular hangout spot for students and youngsters in Satyaniketan, a lively area near the South Campus of Delhi University. It serves a range of tasty and satisfying dishes, such as noodles, momos, sandwiches, wraps, pasta, biryani, curry, and more. The dishes are flavorful and spicy, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, and more. The portions are generous and the prices are reasonable, making it a great value for money option.",
       "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as brownies, ice creams, and cakes. Chowringhee also has some combo offers and deals, such as the Chowringhee Platter, the Chowringhee Feast, and the Chowringhee Bucket, which are perfect for sharing with friends or family.",
       "The ambiance at Chowringhee is cozy and casual, with colorful walls, funky posters, and comfortable seating. The restaurant has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
-      "Chowringhee is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
+      "Chowringhee is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato.",
       "Chowringhee is a must-try destination for anyone looking for a casual and fun dining experience with tasty food and drinks in Satyaniketan."
     ],
-    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
-  },
-  {
-    "title": "Friends-Cafe-and-Lounge",
-    "name": "Friends Cafe and Lounge",
-    "location": "Satya Niketan, New Delhi",
-    "type": "North Indian, Chinese, Asian, Continental, Italian, American, and Fast Food",
-    "highlights": [
-      "Butter Chicken Pasta",
-      "Quick Service"
-    ],
-    "category": [
-      "Lounge",
-      "Dineout Pay"
-    ],
-    "shortDescription": "Friends Cafe and Lounge is a lounge and dineout pay outlet located in Satya Niketan, known for its butter chicken pasta and quick service. It offers a variety of dishes, from noodles and momos to biryani and curry.",
-    "description": [
-      "Friends Cafe and Lounge is a popular hangout spot for students and youngsters in Satya Niketan, a vibrant area near the South Campus of Delhi University. It serves a range of delicious and satisfying dishes, such as noodles, momos, sandwiches, wraps, pasta, biryani, curry, and more. The dishes are flavorful and spicy, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, and more. The portions are generous and the prices are affordable, making it a great value for money option.",
-      "The lounge also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as brownies, ice creams, and cakes. Friends Cafe and Lounge also has some combo offers and deals, such as the Friends Platter, the Friends Feast, and the Friends Bucket, which are ideal for sharing with friends or family.",
-      "The ambiance at Friends Cafe and Lounge is cozy and casual, with colorful walls, funky posters, and comfortable seating. The lounge has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The lounge also has free Wi-Fi and a TV for entertainment.",
-      "Friends Cafe and Lounge is open from 10 am to 11 pm every day, and the average cost for two people is around Rs. 700, without alcohol. The lounge also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
-      "Friends Cafe and Lounge is a must-try destination for anyone looking for a casual and fun dining experience with tasty food and drinks in Satya Niketan."
-    ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipMUtafTlHEToaXV2R05YkKxWwrebhGfKpzOwE5C=s1360-w1360-h1020"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNv5HS4nE-6E4M29TSZUMr-COn3RY2rZwJnyqfT=s1360-w1360-h1020"
   },
   {
     "title": "Crazy-Kitchen-Rooftop-and-Lounge",
@@ -1411,12 +1859,40 @@
       "Lounge",
       "Dineout Pay"
     ],
+    "tags": [
+      "North Indian",
+      "Chinese",
+      "Italian",
+      "Fast Food dishes"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1751.7006161829217!2d77.16663704884395!3d28.587737651290308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d13a4ca77a9%3A0xbb3504b5b08ac240!2sCrazy%20Kitchen%20Roof%20Top%20Cafe!5e0!3m2!1sen!2sin!4v1708167916987!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Crazy Kitchen Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Crazy Kitchen Feast",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": " the Crazy Kitchen Bucket",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Crazy Kitchen Rooftop & Lounge is a lounge and dineout pay outlet located in Satyaniketan, known for its rooftop ambience and peri peri sauce tikka. It offers a variety of dishes, from noodles and momos to biryani and curry.",
     "description": [
       "Crazy Kitchen Rooftop & Lounge is a popular destination for food lovers in Satyaniketan, a vibrant area near the South Campus of Delhi University. It serves a diverse and delicious menu, such as North Indian, Chinese, Italian, and Fast Food dishes. The dishes are flavorful and authentic, such as chicken Thai curry, chicken Hakka noodles, chilly chicken, thukpa, momos, sushi, and more. The portions are ample and the prices are affordable, making it a great value for money option.",
       "The lounge also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are mouth-watering and decadent, such as brownies, ice creams, and cakes. Crazy Kitchen Rooftop & Lounge also has some combo offers and deals, such as the Crazy Kitchen Platter, the Crazy Kitchen Feast, and the Crazy Kitchen Bucket, which are ideal for sharing with friends or family.",
       "The ambiance at Crazy Kitchen Rooftop & Lounge is cozy and elegant, with soothing colors, classy furniture, and soft lighting. The lounge has a calm and relaxing vibe, with music playing in the background and courteous staff attending to the guests. The service is prompt and professional, and the food is served hot and fresh. The lounge also has free Wi-Fi and a TV for entertainment.",
-      "Crazy Kitchen Rooftop & Lounge is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The lounge also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1].",
+      "Crazy Kitchen Rooftop & Lounge is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The lounge also offers home delivery and takeaway options, as well as online ordering facilities through Zomato.",
       "Crazy Kitchen Rooftop & Lounge is a must-visit place for anyone looking for a fine and satisfying dining experience with diverse food and drinks in Satyaniketan."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipOuHe6RIvVFJwW56_x5wwHmym-w09a_tm7Diie5=s1360-w1360-h1020"
@@ -1433,6 +1909,46 @@
     "category": [
       "north indian",
       "biryani"
+    ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56121.61688515547!2d77.01868135820311!3d28.4614402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dc634e5c5b%3A0xe7c10a3706a48070!2sThe%20Biryani%20Co.!5e0!3m2!1sen!2sin!4v1708168210042!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "chicken 65",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "paneer manchurian",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "dum ka chicken",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": " mutton keema biryani",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "hyderabadi chicken dum biryani",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "The Biryani Co. is a north Indian and biryani joint located in DLF Phase 4, Gurgaon, known for its authentic Hyderabadi biryani and mutton shikampur kebabs. It offers a variety of dishes, from chicken 65 and paneer manchurian to ghee roast mutton and phirni.",
     "description": [
@@ -1457,6 +1973,36 @@
       "cafe",
       "fast food"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14013.575640509405!2d77.15732131839381!3d28.587957400000008!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1dff9ae97359%3A0x93a5b15215be3fc6!2sCafe%20Emojis!5e0!3m2!1sen!2sin!4v1708168534484!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Smiley Burger",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Heart Eyes Pizza",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": " Laughing Tears Pasta",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Fire Wrap",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Emoji's is a cafe and fast food joint located in Connaught Place, known for its emoji-themed decor and variety of snacks and beverages. It offers a range of dishes, from burgers and sandwiches to pizzas and pastas.",
     "description": [
       "Emoji's is a fun and quirky hangout spot for youngsters and emoji lovers in Connaught Place, a vibrant area in the heart of Delhi. It serves a range of tasty and satisfying dishes, such as burgers, sandwiches, wraps, pizzas, pastas, salads, and more. The dishes are named after different emojis, such as the Smiley Burger, the Heart Eyes Pizza, the Laughing Tears Pasta, and the Fire Wrap. The portions are decent and the prices are reasonable, making it a great value for money option.",
@@ -1480,13 +2026,38 @@
       "cafe",
       "continental"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d49981.28010437977!2d77.23033099296549!3d28.5894394262631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce334c74a3b81%3A0xb3ec6c61fdf005be!2sCafe%20Diaries!5e0!3m2!1sen!2sin!4v1708168684677!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "the Cafe Diaries Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Cafe Diaries Feast",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Cafe Diaries Bucket",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cafe Diaries is a cafe and continental joint located in Lajpat Nagar 4, known for its board games and beautiful decor. It offers a variety of dishes, from Italian and Mexican to Chinese and Salad.",
     "description": [
       "Cafe Diaries is a popular hangout spot for youngsters and game lovers in Lajpat Nagar 4, a lively area near the South Delhi. It serves a range of delicious and satisfying dishes, such as pizzas, burgers, sandwiches, wraps, pasta, noodles, momos, salads, and more. The dishes are well garnished, piping hot and spicy. The portions are generous and the prices are reasonable, making it a great value for money option.",
       "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as brownies, waffles, ice creams, and cakes. The cafe also has some combo offers and deals, such as the Cafe Diaries Platter, the Cafe Diaries Feast, and the Cafe Diaries Bucket, which are perfect for sharing with friends or family.",
       "The ambiance at Cafe Diaries is cozy and casual, with colorful walls, funky posters, and comfortable seating. The cafe has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
       "The cafe also offers a variety of board games, such as chess, carrom, ludo, monopoly, scrabble, and more. The guests can enjoy playing these games with their companions, while enjoying the food and drinks. The cafe also hosts game nights and tournaments, where the guests can compete and win exciting prizes.",
-      "Cafe Diaries is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1300, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][5] [^2^][6].",
+      "Cafe Diaries is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1300, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato.",
       "Cafe Diaries is a must-try destination for anyone looking for a casual and fun dining experience with board games and continental food in Lajpat Nagar 4."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMWk9ZZtszNy_zkpEIJi7FHdsqp8UQdqB7fjFGD=s1360-w1360-h1020"
@@ -1503,6 +2074,41 @@
     "category": [
       "fast food",
       "italian"
+    ],
+    "tags": [
+      "burgers",
+      "sandwiches",
+      "wraps",
+      "pizzas",
+      "pastas",
+      "noodles"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1751.6940161361485!2d77.166946!3d28.5881338!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d13bb4a489d%3A0xd620d9fc8fdc85d!2sPipeline%20Cafe!5e0!3m2!1sen!2sin!4v1708168994556!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Pipeline Burger",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Pipeline Pizza",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Pipeline Pasta",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Pipeline Noodles",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "PL Pizzeria is a fast food and Italian joint located in Satya Niketan, known for its pizza and panini. It offers a range of dishes, from burgers and sandwiches to pastas and noodles.",
     "description": [
@@ -1527,12 +2133,21 @@
       "cafe",
       "fast food"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.8643768769193!2d77.2144554749568!3d28.633826584022852!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd064e414a65%3A0x7c420da64349130c!2sXero%20Degrees!5e0!3m2!1sen!2sin!4v1708169259775!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Xero Degrees is a cafe and fast food joint located in Connaught Place, known for its emoji-themed decor and variety of snacks and beverages. It offers a range of dishes, from burgers and sandwiches to pizzas and pastas.",
     "description": [
       "Xero Degrees is a fun and quirky hangout spot for youngsters and emoji lovers in Connaught Place, a vibrant area in the heart of Delhi. It serves a range of tasty and satisfying dishes, such as burgers, sandwiches, wraps, pizzas, pastas, salads, and more. The dishes are named after different emojis, such as the Smiley Burger, the Heart Eyes Pizza, the Laughing Tears Pasta, and the Fire Wrap. The portions are decent and the prices are reasonable, making it a great value for money option.",
       "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The beverages are also named after emojis, such as the Wink Coffee, the Kiss Tea, the Cool Shake, the Yum Smoothie, and the Wow Mocktail. The drinks are refreshing and delicious, and complement the food well. The cafe also has some desserts, such as brownies, waffles, ice creams, and cakes. The desserts are tempting and indulgent, such as the Drool Brownie, the Love Waffle, the Happy Ice Cream, and the Celebration Cake.",
       "The ambiance at Xero Degrees is colorful and cheerful, with emoji-shaped cushions, posters, stickers, and lamps. The cafe has a lively and playful vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
-      "Xero Degrees is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 950, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^6^][4] and Dineout[^7^][3].",
+      "Xero Degrees is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 950, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato and Dineout.",
       "Xero Degrees is a must-try destination for anyone looking for a casual and fun dining experience with emoji-themed food and drinks in Connaught Place."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNrq0kCTfnjATGtSpHsc__8LyQGuaJLPXVKq5qe=s1360-w1360-h1020"
@@ -1552,12 +2167,42 @@
       "north indian",
       "sichuan"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "KC Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the KC Feast",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the KC Bucket",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "desserts",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "KC Restaurant is a Chinese and North Indian joint located in Sector 7, Dwarka, known for its chicken kurkuri and grilled momos. It offers a variety of dishes, from chicken 65 and paneer manchurian to dum ka chicken and mutton keema biryani.",
     "description": [
       "KC Restaurant is a popular destination for Chinese and North Indian lovers in Sector 7, Dwarka, a residential area near the airport. It serves a range of mouth-watering and spicy dishes, such as chicken 65, paneer manchurian, dum ka chicken, mutton keema biryani, hyderabadi chicken dum biryani, ghee roast mutton, and more. The dishes are well cooked with great flavours and the meat is tender and juicy. The portions are generous and the prices are affordable, making it a great value for money option.",
       "The restaurant also has a selection of desserts, such as phirni, brownies, waffles, ice creams, and cakes. The phirni is fresh and tasty, and the other desserts are tempting and indulgent. The restaurant also has some combo offers and deals, such as the KC Platter, the KC Feast, and the KC Bucket, which are perfect for sharing with friends or family.",
       "The ambiance at KC Restaurant is simple and elegant, with white walls, wooden furniture, and bright lighting. The restaurant has a cozy and comfortable vibe, with soft music playing in the background and courteous staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
-      "KC Restaurant is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 150, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1] [^2^][2].",
+      "KC Restaurant is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 150, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through Zomato .",
       "KC Restaurant is a must-try destination for anyone looking for a delicious and spicy Chinese and North Indian experience in Sector 7, Dwarka."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMvM1U2X-DRbHmjgJfRp8guqd1q5u7iimmWU4fX=s1360-w1360-h1020"
@@ -1572,6 +2217,10 @@
       "Variety of Snacks and Beverages"
     ],
     "category": [
+      "restaurant",
+      "cafe"
+    ],
+    "tags": [
       "chinese",
       "asian",
       "pizza",
@@ -1580,6 +2229,18 @@
       "continental",
       "north indian",
       "beverages"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56054.3512029244!2d77.13113841845119!3d28.587866164664987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d2519b09785%3A0xe5bc7e362b8e7562!2sBottle%20House!5e0!3m2!1sen!2sin!4v1708169610443!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "beverages",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Bottle House is a Chinese and Continental joint located in Satyaniketan, known for its emoji-themed decor and variety of snacks and beverages. It offers a range of dishes, from burgers and sandwiches to pizzas and pastas.",
     "description": [
@@ -1601,10 +2262,36 @@
       "Intimate Seating"
     ],
     "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "tags": [
       "north indian",
       "chinese",
       "italian",
       "pizza"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.398858758694!2d77.16478807495517!3d28.587808886111144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d130dac4dc5%3A0x460364feca6e842a!2sPirates%20of%20Delhi%20Campus!5e0!3m2!1sen!2sin!4v1708170141681!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Pirates of Dilli Campus Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Pirates of Dilli Campus Feast",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Pirates of Dilli Campus Bucket",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Pirates of Dilli Campus is a North Indian and Italian joint located in Satyaniketan, known for its romantic place and intimate seating. It offers a range of dishes, from tandoori and biryani to pasta and pizza.",
     "description": [
@@ -1627,18 +2314,44 @@
     ],
     "category": [
       "cafe",
+      "restaurant"
+    ],
+    "tags": [
+      "cafe",
       "fast food",
       "chinese",
       "italian",
       "beverages",
       "asian"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.389365585385!2d77.16527247495515!3d28.588093786098202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1db8267d4143%3A0xb081a1b71b4fdce7!2sRustic%20Cafe!5e0!3m2!1sen!2sin!4v1708170491847!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Rustic Cafe Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Rustic Cafe Feast",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Rustic Cafe Bucket",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Rustic Cafe is a cafe and fast food joint located in Adchini, known for its nutella pastry and walnut pie. It offers a variety of dishes, from burgers and sandwiches to pastas and noodles.",
     "description": [
       "Rustic Cafe is a popular hangout spot for youngsters and foodies in Adchini, a residential area near the Qutub Minar. It serves a range of delicious and satisfying dishes, such as burgers, sandwiches, wraps, pastas, noodles, momos, salads, and more. The dishes are well garnished, piping hot and spicy. The portions are generous and the prices are reasonable, making it a great value for money option.",
       "The cafe also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The desserts are tempting and indulgent, such as nutella pastry, walnut pie, brownies, waffles, ice creams, and cakes. The nutella pastry and walnut pie are the signature desserts of the cafe, and are a must-try for anyone with a sweet tooth. The cafe also has some combo offers and deals, such as the Rustic Cafe Platter, the Rustic Cafe Feast, and the Rustic Cafe Bucket, which are perfect for sharing with friends or family.",
       "The ambiance at Rustic Cafe is cozy and casual, with colorful walls, funky posters, and comfortable seating. The cafe has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The cafe also has free Wi-Fi and a TV for entertainment.",
-      "Rustic Cafe is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][1] [^2^][2].",
+      "Rustic Cafe is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 1200, without alcohol. The cafe also offers home delivery and takeaway options, as well as online ordering facilities through Zomato .",
       "Rustic Cafe is a must-try destination for anyone looking for a casual and fun dining experience with cafe and fast food in Adchini."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMuxdMGWldXByy77nV7DDqlfuqfWwSjKIfHFRyn=s1360-w1360-h1020"
@@ -1653,9 +2366,18 @@
       "Panini"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "fast food",
       "italian"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1751.6940161361485!2d77.166946!3d28.5881338!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d13bb4a489d%3A0xd620d9fc8fdc85d!2sPipeline%20Cafe!5e0!3m2!1sen!2sin!4v1708170856217!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Pipeline Pizzeria is a fast food and Italian joint located in Satya Niketan, known for its pizza and panini. It offers a range of dishes, from burgers and sandwiches to pastas and noodles.",
     "description": [
       "Pipeline Pizzeria is a popular destination for pizza lovers in Satya Niketan, a vibrant area near the South Campus of Delhi University. It serves a range of mouth-watering and cheesy dishes, such as burgers, sandwiches, wraps, pizzas, pastas, noodles, and more. The dishes are named after different pipelines, such as the Pipeline Burger, the Pipeline Pizza, the Pipeline Pasta, and the Pipeline Noodles. The portions are decent and the prices are affordable, making it a great value for money option.",
@@ -1676,9 +2398,50 @@
       "Potatochip Chocolate"
     ],
     "category": [
+      "cafe",
+      "bakery"
+    ],
+    "tags": [
       "chocolate",
       "desserts",
       "beverages"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56079.054392096376!2d77.10736417682443!3d28.541496078312758!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1dce98326c99%3A0x513f3881e38c2b56!2sROYCE&#39;%20Chocolate%2C%20Vasant%20Kunj%20%7C%20Gourmet%20Chocolate%20Shop!5e0!3m2!1sen!2sin!4v1708171095193!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "ROYCE' Chocolate is a famous chocolate brand from Japan, known for its nama chocolate and potatochip chocolate. It offers a variety of premium chocolates, candies, and confections, such as bars, wafers, cookies, and pralines.",
     "description": [
@@ -1689,30 +2452,7 @@
       "ROYCE' Chocolate is open from 11 am to 9 pm every day, and the average cost for two people is around Rs. 1000. The store also offers home delivery and takeaway options, as well as online ordering facilities through its website[^5^][9].",
       "ROYCE' Chocolate is a must-try destination for anyone looking for a premium and authentic chocolate experience in Delhi."
     ],
-    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
-  },
-  {
-    "title": "monster-cookies",
-    "name": "Monster Cookies",
-    "location": "Koramangala, Bangalore",
-    "type": "Bakery and Desserts",
-    "highlights": [
-      "Chocolate Chip Cookie Cake",
-      "Red Velvet Cookie Sandwich"
-    ],
-    "category": [
-      "bakery",
-      "desserts"
-    ],
-    "shortDescription": "Monster Cookies is a bakery and dessert joint located in Koramangala, known for its chocolate chip cookie cake and red velvet cookie sandwich. It offers a variety of cookies, cakes, brownies, and pies.",
-    "description": [
-      "Monster Cookies is a popular destination for cookie lovers in Koramangala, a trendy area in the south-east of Bangalore. It serves a range of soft, chewy, and thick cookies, such as chocolate chip, oatmeal, peanut butter, snickerdoodle, and more. The cookies are loaded with chocolate chips, M&M's, nuts, and other goodies, making them irresistible and satisfying.",
-      "The bakery also has a selection of cakes, brownies, and pies, such as chocolate chip cookie cake, red velvet cookie sandwich, fudge brownie, apple pie, and more. The cakes are moist and fluffy, the brownies are rich and gooey, and the pies are flaky and fruity. The bakery also has some combo offers and deals, such as the Monster Cookies Platter, the Monster Cookies Feast, and the Monster Cookies Bucket, which are perfect for sharing with friends or family.",
-      "The ambiance at Monster Cookies is cozy and casual, with colorful walls, funky posters, and comfortable seating. The bakery has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the cookies are baked fresh and served warm. The bakery also has free Wi-Fi and a TV for entertainment.",
-      "Monster Cookies is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The bakery also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][15] and Swiggy[^2^][16].",
-      "Monster Cookies is a must-try destination for anyone looking for a casual and fun dessert experience with bakery and cookies in Koramangala."
-    ],
-    "image": "https://raw.githubusercontent.com/shinzel1/crowndevour/main/src/components/data/Images/backgroundImage-1.jpg"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP7aa8TEz--47cgs_x7Nt9gTw2CfaFL2P1pmY8p=s1360-w1360-h1020"
   },
   {
     "title": "NIC-Ice-Creams",
@@ -1724,9 +2464,19 @@
       "Tender Coconut Ice Cream"
     ],
     "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "tags": [
       "ice cream",
       "desserts"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3500.3657932891088!2d77.30666747495849!3d28.678702481983404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfbd4c8b7740d%3A0xb976d390438e4030!2sNIC%20ice%20creams!5e0!3m2!1sen!2sin!4v1708172627901!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "NIC Ice Creams is an ice cream and dessert joint located in Vile Parle East, known for its roasted almond ice cream and tender coconut ice cream. It offers a variety of ice creams, kulfi, and falooda.",
     "description": [
       "NIC Ice Creams is a popular destination for ice cream lovers in Vile Parle East, a residential area near the domestic airport. It serves a range of creamy and refreshing ice creams, such as roasted almond, tender coconut, kesar pista, sitaphal, strawberry, mango, and more. The ice creams are made with pure milk, no chemical ingredients, and natural flavors, giving them a rich and smooth texture.",
@@ -1738,7 +2488,7 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipPjwG5CChRd7t41b1LdkWAHTimhJYZss-HqXnuE=s1360-w1360-h1020"
   },
   {
-    "title": "Cold Love Ice Cream",
+    "title": "Cold-Love-Ice-Cream",
     "name": "Cold Love Ice Cream",
     "location": "Connaught Place, New Delhi",
     "type": "Ice Cream and Desserts",
@@ -1750,6 +2500,16 @@
       "ice cream",
       "desserts"
     ],
+    "tags": [
+      "ice cream",
+      "desserts"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.987328143643!2d77.21714267495668!3d28.63014188419019!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd8bb4dc2ca9%3A0x65e5e1a32bd03309!2sCold%20Love%20Ice%20Cream%20-%20Cold%20Love%20Cafe%20-%20Connaught%20Place!5e0!3m2!1sen!2sin!4v1708172790616!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Cold Love Ice Cream is a famous ice cream brand from Japan, known for its salted butter caramel boozy baileys ice cream and potatochip chocolate ice cream. It offers a variety of premium ice creams, candies, and confections.",
     "description": [
       "Cold Love Ice Cream is a renowned ice cream brand that originated in Sapporo, Japan in 1983. It is famous for its high-quality and original ice cream products, made with the finest ingredients and techniques. It offers a range of exquisite ice creams, candies, and confections, such as bars, wafers, cookies, and pralines, that cater to different tastes and preferences.",
@@ -1772,14 +2532,55 @@
     ],
     "category": [
       "bakery",
+      "cafe"
+    ],
+    "tags": [
+      "bakery",
       "desserts"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d55491.87235108884!2d77.1705896372924!3d28.615770464067577!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sTheobroma!5e0!3m2!1sen!2sin!4v1708172942255!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Theobroma is a famous bakery and dessert joint from Mumbai, known for its chocolate tart and brownies. It offers a variety of cakes, pastries, cookies, and pies.",
     "description": [
       "Theobroma is a popular destination for dessert lovers in Noida, a commercial area near the Delhi border. It serves a range of mouth-watering and indulgent desserts, such as cakes, pastries, cookies, and pies, made with traditional home-style recipes and fresh ingredients. The desserts are baked with love and no preservatives or chemicals, giving them a rich and smooth texture.",
       "The most popular products of Theobroma are the chocolate tart and the brownies. The chocolate tart is a decadent treat made with dark chocolate ganache and a buttery crust. The brownies are moist and fudgy, and come in various flavors, such as walnut, caramel, red velvet, and oreo. The bakery also has a selection of beverages, such as coffee, tea, shakes, smoothies, and juices. The drinks are refreshing and delicious, and complement the desserts well.",
       "The ambiance at Theobroma is simple and elegant, with white walls, glass displays, and wooden shelves. The bakery has a cozy and inviting vibe, with soft music playing in the background and courteous staff attending to the customers. The service is quick and efficient, and the desserts are packed in elegant boxes and bags.",
-      "Theobroma is open from 11 am to 9 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The bakery also offers home delivery and takeaway options, as well as online ordering facilities through Zomato[^1^][5] [^2^][6].",
+      "Theobroma is open from 11 am to 9 pm every day, and the average cost for two people is around Rs. 500, without alcohol. The bakery also offers home delivery and takeaway options, as well as online ordering facilities through Zomato.",
       "Theobroma is a must-try destination for anyone looking for a premium and authentic bakery and dessert experience in Noida."
     ],
     "image": "https://lh5.googleusercontent.com/p/AF1QipMaAQryTND0Oc6AhB6lY8KQiDQ6oR7KR7UF2wO_=w260-h175-n-k-no"
@@ -1794,6 +2595,10 @@
       "Octopus Takoyaki"
     ],
     "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "tags": [
       "asian",
       "chinese",
       "thai",
@@ -1803,12 +2608,39 @@
       "ice cream",
       "desserts"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.9986729740117!2d77.22153207927417!3d28.59981662288592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2e83582fcfd%3A0xc71fb8b6a8db679c!2sYum%20Yum%20Cha%20Khan%20Market!5e0!3m2!1sen!2sin!4v1708173135620!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Crane Dim Sum",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Butterfly Sushi",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Star Stone Bowl",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Flower Hot Pot",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Yum Yum Cha is a pan-Asian bistro located in Khan Market, New Delhi, known for its banana sushi and octopus takoyaki. It offers a variety of dim sum, sushi, sizzling stone bowls, bubbling hot pots, and more.",
     "description": [
       "Yum Yum Cha is a popular destination for Asian food lovers in Khan Market, a trendy area in the heart of Delhi. It serves a range of mouth-watering and innovative dishes, such as dim sum, sushi, sizzling stone bowls, bubbling hot pots, mochi ice cream, fun bottles, and more. The dishes are named after different origami shapes, such as the Crane Dim Sum, the Butterfly Sushi, the Star Stone Bowl, and the Flower Hot Pot. The portions are decent and the prices are reasonable, making it a great value for money option.",
       "The restaurant also has a selection of beverages, including coffee, tea, shakes, smoothies, mocktails, and juices. The beverages are also named after origami shapes, such as the Heart Coffee, the Bird Tea, the Fish Shake, and the Frog Mocktail. The drinks are refreshing and delicious, and complement the food well. The restaurant also has some desserts, such as banana sushi, octopus takoyaki, brownies, waffles, ice creams, and cakes. The banana sushi and octopus takoyaki are the signature desserts of the restaurant, and are a must-try for anyone with a adventurous palate.",
       "The ambiance at Yum Yum Cha is colorful and cheerful, with origami-shaped cushions, posters, stickers, and lamps. The restaurant has a lively and playful vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the food is served hot and fresh. The restaurant also has free Wi-Fi and a TV for entertainment.",
-      "Yum Yum Cha is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 2000, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through its website[^5^][1] and Zomato[^6^][2].",
+      "Yum Yum Cha is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 2000, without alcohol. The restaurant also offers home delivery and takeaway options, as well as online ordering facilities through its website and Zomato.",
       "Yum Yum Cha is a must-try destination for anyone looking for a casual and fun dining experience with pan-Asian food in Khan Market, New Delhi."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipO2cWLH058N5WuADRvEBxanzcfioTfqreU2vmFP=s1360-w1360-h1020"
@@ -1823,15 +2655,24 @@
       "Dairy-free Alternatives"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "bubble tea",
       "beverages"
     ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3507.58157523986!2d77.04765687495052!3d28.462027191804054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19beed8af2c1%3A0xbcfffbdc83879d54!2sGot%20Tea%20%7C%2032nd%20Ave%2C%20Gurgaon!5e0!3m2!1sen!2sin!4v1708173351854!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Got Tea is a bubble tea and beverage joint located in Galleria Market, Gurgaon, known for its matcha brew and dairy-free alternatives. It offers a variety of bubble teas, smoothies, mocktails, and juices.",
     "description": [
       "Got Tea is a popular destination for bubble tea lovers in Gurgaon, a bustling city near the capital of India. It serves a range of refreshing and delicious bubble teas, such as matcha brew, taro milk tea, mango green tea, passion fruit tea, and more. The bubble teas are made with fresh and natural ingredients, and can be customized with different toppings, such as tapioca pearls, jelly, pudding, and popping boba. The bubble teas are served in cute and reusable bottles, with colorful straws and stickers.",
       "The bubble tea joint also has a selection of smoothies, mocktails, and juices, such as banana smoothie, strawberry smoothie, mojito, lemonade, and more. The drinks are also made with fresh and natural ingredients, and are perfect for quenching your thirst and boosting your energy. The bubble tea joint also offers dairy-free alternatives, such as almond milk, soy milk, and coconut milk, for those who are lactose intolerant or vegan.",
       "The ambiance at Got Tea is cozy and casual, with colorful walls, funky posters, and comfortable seating. The bubble tea joint has a cheerful and lively vibe, with music playing in the background and friendly staff attending to the guests. The service is quick and efficient, and the bubble teas are brewed fresh and served cold. The bubble tea joint also has free Wi-Fi and a TV for entertainment.",
-      "Got Tea is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 300, without alcohol. The bubble tea joint also offers home delivery and takeaway options, as well as online ordering facilities through its website[^1^][1] and Zomato[^2^][3].",
+      "Got Tea is open from 11 am to 11 pm every day, and the average cost for two people is around Rs. 300, without alcohol. The bubble tea joint also offers home delivery and takeaway options, as well as online ordering facilities through its website and Zomato[^2^][3].",
       "Got Tea is a must-try destination for anyone looking for a refreshing and authentic bubble tea experience in Gurgaon."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipPLTmhye5gY-be1TYbArkqPpRk3TW29XhGRU8Kp=s1360-w1360-h1020"
@@ -1847,10 +2688,20 @@
       "Delicious Indian snacks"
     ],
     "category": [
+   "cafe"
+    ],
+    "tags": [
       "Indian",
       "Coffee",
       "Snacks",
-      "Beverages"
+      "Beverages"    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.9099059376745!2d77.21880867495676!3d28.632462184084783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd371dc27e85%3A0x485ece2292ffa9f3!2sUnited%20Coffee%20House!5e0!3m2!1sen!2sin!4v1708173501025!5m2!1sen!2sin",
+    "bestInMenu": [
+     
     ],
     "shortDescription": "Established in 1942, United Coffee House is a historic cafe in Connaught Place offering a unique experience with its old-world charm, delicious filter coffee, and authentic Indian snacks.",
     "description": [
@@ -1878,6 +2729,46 @@
       "Desserts",
       "Beverages"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "The Big Chill Cafe offers a unique dining experience with its American movie-themed decor, delicious Italian homestyle cooking, and an extensive selection of decadent desserts.",
     "description": [
       "Step into a world of cinematic nostalgia at The Big Chill Cafe, a casual dining haven in Connaught Place. Transport yourself to your favorite Hollywood classics as you're greeted by movie posters, memorabilia, and quotes adorning the walls. The vibrant ambiance sets the stage for a delightful culinary journey through the comfort food of Italy.",
@@ -1903,6 +2794,46 @@
       "Beverages",
       "Snacks",
       "Pastries"
+    ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Barista Lavazza offers a modern and inviting space to enjoy a wide variety of Italian coffee beverages, alongside delicious snacks and pastries.",
     "description": [
@@ -1934,6 +2865,46 @@
       "Coffee",
       "Tea"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "CAARA Cafe offers a peaceful retreat within the British Council Library, serving fresh, seasonal dishes with a focus on healthy and wholesome ingredients.",
     "description": [
       "Escape the bustling streets of Connaught Place and find solace in the peaceful haven of CAARA Cafe, nestled within the iconic British Council Library. This cafe prioritizes fresh, seasonal ingredients, sourcing many directly from their own farms, resulting in dishes that are not only delicious but also sustainable.",
@@ -1960,6 +2931,46 @@
       "Pastries",
       "Snacks",
       "High Tea"
+    ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Lord William Tea Lounge offers a luxurious tea experience in the heart of Connaught Place, featuring a vast selection of teas and elegant ambiance within a five-star hotel.",
     "description": [
@@ -1991,6 +3002,46 @@
       "Beverages",
       "Cocktails"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Openhouse Cafe offers a lively and entertaining experience with multi-cuisine food, live music, DJ nights, a rooftop terrace, and sports screenings, all in the heart of Connaught Place.",
     "description": [
       "Embrace the vibrant energy of Connaught Place at Openhouse Cafe, a multi-faceted venue offering a unique blend of delicious food, lively entertainment, and stunning views. Whether you're craving a casual meal, a fun night out with friends, or a relaxing evening under the stars, Openhouse has something for everyone.",
@@ -2018,6 +3069,46 @@
       "Breakfast",
       "Brunch"
     ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
+    ],
     "shortDescription": "Cottage Cafe by Smoothie Valley combines delicious smoothies with healthy meals, catering to those seeking a refreshing and nourishing experience.",
     "description": [
       "Indulge in a vibrant blend of health and taste at Cottage Cafe by Smoothie Valley, located in Connaught Place. Their extensive menu features a symphony of flavors in unique smoothie combinations, like the Tropical Tango or the Green Detox, each brimming with fresh fruits and vitamins. Refresh your senses and nourish your body with every sip.",
@@ -2039,6 +3130,46 @@
     "category": [
       "South Indian",
       "Vegetarian"
+    ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Cafe Saravana Bhavan offers a delightful South Indian dining experience in Connaught Place, with a focus on flavorful dosas and other vegetarian dishes at affordable prices.",
     "description": [
@@ -2065,6 +3196,46 @@
       "Tea",
       "Snacks",
       "Desserts"
+    ],
+    "tags": [
+      "Caribbean-themed restaurant"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Social Shake",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Breakfast Tray",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Taco Soup",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Grilled Chicken Peri Peri Sizzler",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "the Chicken Shwarma Platter",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      },
+      {
+        "name": "Jalapeno Cheese Nads",
+        "description": "",
+        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
+      }
     ],
     "shortDescription": "Mister Chai at the Shangri-La Eros Hotel offers a unique blend of regional Indian street food with a modern twist, an extensive tea selection, and a luxurious ambiance in the heart of Connaught Place.",
     "description": [

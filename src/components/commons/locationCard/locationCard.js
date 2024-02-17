@@ -30,7 +30,7 @@ function LocationCard({ data }){
         {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
       </div>
-      <h3 className="h5"><a className="post-title" href="post-elements.html">{data.name}</a></h3>
+      <h3 className="h5"><a className="post-title" href={"/location/"+data.title}>{data.name}</a></h3>
       <ul className="list-inline post-meta mb-2">
         <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">{data.author}</a>
         </li>
@@ -44,7 +44,7 @@ function LocationCard({ data }){
         <li className="list-inline-item">Tags :
         
         {data?.tags?.slice(0, 3).map((item) => (
-          <a href="#!" className="ml-1" onClick={() => fetchTags(item)}>{item} </a>
+          <a href className="ml-1" onClick={() => fetchTags(item)}>{item} </a>
           ))}
          
         </li>
