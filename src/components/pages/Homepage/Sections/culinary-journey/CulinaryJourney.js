@@ -8,7 +8,7 @@ function CulinaryJournery() {
   return (
     <section className="articles CulinaryJournery">
       {CitiesPosts.map((location,index) => (
-        <Link to={'/location/' + location.title} state={{ loc: location }} key={location.title+"CurlinaryJourney" + index}>
+        <Link to={'/city/' + location.title} state={{ loc: location }} key={location.title+"CurlinaryJourney" + index}>
           <ArticleCards data={location} key={location.title+"CurlinaryJourney" + index} />
         </Link>
       ))}

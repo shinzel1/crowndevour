@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import './LocationDetail.css';
+import './CityDetails';
 import { useLocation, Link } from "react-router-dom";
 import imagse from "../../data/Images/post/post-1.jpg"
 import locationLists from "../../data/CafeResturants.json"
@@ -64,7 +64,7 @@ function LocationDetail() {
 		bestInMenu = loc.bestInMenu
 	}
 	menuImage = loc.menuImage
-	const canonical = "https://crowndevour.com/location/" + loc.title
+	const canonical = "https://crowndevour.com/CityDetails/" + loc.title
 	const lastThreeLocations = locationLists.slice(-3)
 	const [modalShow, setModalShow] = React.useState(false);
 	useEffect(() => {
@@ -139,30 +139,11 @@ function LocationDetail() {
 								/>
 
 								<div className='description'>
-									{loc?.description?.map((item, index) => (
+                                {loc?.description}
+									{loc?.sections?.map((item, index) => (
 										<p>{item}</p>
 									))}
-								</div>
-								<h2 style={{ textAlign: "left" }}>Best In Menu</h2>
-								<div className='container'>
-									<div className='row'>
-										{bestInMenu.map((item, index) => (
-											<div className="col-lg-4 col-sm-4 mb-4">
-												<div className="card">
-													<div className="card-image">
-														<img src={item.image} />
-													</div>
-													<div className="card-text">
-														{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
-														<h2 className="card-title">{item.name}</h2>
-														{/* <p className="card-body">{item.description}</p> */}
-													</div>
-													{/* <div className="card-price">$56</div> */}
-												</div>
-											</div>
-										))}
-									</div>
-								</div>
+								</div>								
 							</div>
 						</article>
 					</div>

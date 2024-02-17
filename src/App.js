@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-d
 import './App.css';
 import Homepage from './components/pages/Homepage/Homepage';
 import LocationDetail from './components/pages/LocationDetail/LocationDetail';
+import CityDetails from './components/pages/CityDetails/CityDetails';
+
 import SearchAndFilter from './components/pages/SearchAndFilter/SearchAndFilter';
 import BlogListings from './components/pages/BlogListings/BlogListings';
 import BlogPostDetail from './components/pages/BlogPostDetail/BlogPostDetail';
@@ -28,6 +30,7 @@ function App() {
       <Route path="/thelas-near-location" Component={ThelasNearLocation} />
       <Route path="/location" element={<SearchAndFilter />} />
       <Route path="/location/:id" element={<LocationDetail />} />
+      <Route path="/city/:id" element={<CityDetails />} />
       <Route path="/blogs" element={<BlogListings />} />
       <Route path="/blogs/:id" element={<BlogPostDetail />} />
       <Route path="/about" element={<About />} />

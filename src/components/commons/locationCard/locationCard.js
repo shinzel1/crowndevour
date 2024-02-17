@@ -38,13 +38,13 @@ function LocationCard({ data }){
         <li className="list-inline-item">
           Categories :
           {data.category.slice(0, 3).map((item) => (
-            <a href="#!" className="ml-1" onClick={() => fetchCategory(item)}>{item}</a>
+            <a href="#" className="ml-1" onClick={() => fetchCategory(item)}>{item}</a>
           ))}
         </li>
         <li className="list-inline-item">Tags :
         
         {data?.tags?.slice(0, 3).map((item) => (
-          <a href className="ml-1" onClick={() => fetchTags(item)}>{item} </a>
+          <a href="#" className="ml-1" onClick={() => fetchTags(item)}>{item} </a>
           ))}
          
         </li>
