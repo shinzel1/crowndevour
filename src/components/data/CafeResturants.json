@@ -2688,21 +2688,20 @@
       "Delicious Indian snacks"
     ],
     "category": [
-   "cafe"
+      "cafe"
     ],
     "tags": [
       "Indian",
       "Coffee",
       "Snacks",
-      "Beverages"    ],
+      "Beverages"
+    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.9099059376745!2d77.21880867495676!3d28.632462184084783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd371dc27e85%3A0x485ece2292ffa9f3!2sUnited%20Coffee%20House!5e0!3m2!1sen!2sin!4v1708173501025!5m2!1sen!2sin",
-    "bestInMenu": [
-     
-    ],
+    "bestInMenu": [],
     "shortDescription": "Established in 1942, United Coffee House is a historic cafe in Connaught Place offering a unique experience with its old-world charm, delicious filter coffee, and authentic Indian snacks.",
     "description": [
       "Step through the arched doorway of United Coffee House, and journey back to a bygone era. Established in 1942, this iconic cafe in the heart of Connaught Place whispers tales of Delhi's rich past. Its colonial-era charm, adorned with antique furniture, warm lighting, and sepia-toned photographs, transports you to a world of timeless elegance.",
@@ -2724,51 +2723,21 @@
       "Wide selection of desserts"
     ],
     "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "tags": [
       "Italian",
       "Continental",
       "Desserts",
       "Beverages"
     ],
-    "tags": [
-      "Caribbean-themed restaurant"
-    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
-    "bestInMenu": [
-      {
-        "name": "Social Shake",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Breakfast Tray",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Taco Soup",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Grilled Chicken Peri Peri Sizzler",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Chicken Shwarma Platter",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Jalapeno Cheese Nads",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
-    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14007.39797283438!2d77.2191116!3d28.6342726!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd00b23055f3%3A0x1463b101bfd6198a!2sThe%20Big%20Chill%20Cafe!5e0!3m2!1sen!2sin!4v1708173759853!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "The Big Chill Cafe offers a unique dining experience with its American movie-themed decor, delicious Italian homestyle cooking, and an extensive selection of decadent desserts.",
     "description": [
       "Step into a world of cinematic nostalgia at The Big Chill Cafe, a casual dining haven in Connaught Place. Transport yourself to your favorite Hollywood classics as you're greeted by movie posters, memorabilia, and quotes adorning the walls. The vibrant ambiance sets the stage for a delightful culinary journey through the comfort food of Italy.",
@@ -2790,51 +2759,20 @@
       "Relaxed and modern ambiance"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "Coffee",
       "Beverages",
       "Snacks",
       "Pastries"
     ],
-    "tags": [
-      "Caribbean-themed restaurant"
-    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
-    "bestInMenu": [
-      {
-        "name": "Social Shake",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Breakfast Tray",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Taco Soup",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Grilled Chicken Peri Peri Sizzler",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Chicken Shwarma Platter",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Jalapeno Cheese Nads",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
-    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14007.9785790958!2d77.2172946!3d28.6299226!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd49c17a856d%3A0x8c8d5f2fd1830efa!2sBarista!5e0!3m2!1sen!2sin!4v1708173916923!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Barista Lavazza offers a modern and inviting space to enjoy a wide variety of Italian coffee beverages, alongside delicious snacks and pastries.",
     "description": [
       "Craving a caffeine fix or a cozy spot to catch up with friends? Look no further than Barista Lavazza, a popular coffee chain with multiple locations in the heart of Connaught Place. Step into a contemporary and warm ambiance, where the aroma of freshly brewed coffee greets you at the door.",
@@ -2856,6 +2794,9 @@
       "Vegetarian and vegan options available"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "Healthy",
       "Vegetarian",
       "Vegan",
@@ -2865,46 +2806,12 @@
       "Coffee",
       "Tea"
     ],
-    "tags": [
-      "Caribbean-themed restaurant"
-    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
-    "bestInMenu": [
-      {
-        "name": "Social Shake",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Breakfast Tray",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Taco Soup",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Grilled Chicken Peri Peri Sizzler",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Chicken Shwarma Platter",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Jalapeno Cheese Nads",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
-    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14008.375894142477!2d77.2223622!3d28.6269455!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd347034955d%3A0x2eb7b7b69943f17a!2sThe%20Tin%20Whistle%2C%20The%20British%20Council!5e0!3m2!1sen!2sin!4v1708173990172!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "CAARA Cafe offers a peaceful retreat within the British Council Library, serving fresh, seasonal dishes with a focus on healthy and wholesome ingredients.",
     "description": [
       "Escape the bustling streets of Connaught Place and find solace in the peaceful haven of CAARA Cafe, nestled within the iconic British Council Library. This cafe prioritizes fresh, seasonal ingredients, sourcing many directly from their own farms, resulting in dishes that are not only delicious but also sustainable.",
@@ -2926,52 +2833,21 @@
       "High tea experience with classic finger foods"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "Tea",
       "Coffee",
       "Pastries",
       "Snacks",
       "High Tea"
     ],
-    "tags": [
-      "Caribbean-themed restaurant"
-    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
-    "bestInMenu": [
-      {
-        "name": "Social Shake",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Breakfast Tray",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Taco Soup",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Grilled Chicken Peri Peri Sizzler",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Chicken Shwarma Platter",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Jalapeno Cheese Nads",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
-    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.267108654966!2d77.21443397495632!3d28.621755584570984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2b5670432b7%3A0x903da568f69a8f8c!2sLord%20William%20Tea%20Lounge%20-%20Hotel%20Royal%20Plaza!5e0!3m2!1sen!2sin!4v1708174195865!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Lord William Tea Lounge offers a luxurious tea experience in the heart of Connaught Place, featuring a vast selection of teas and elegant ambiance within a five-star hotel.",
     "description": [
       "Step into a world of refined elegance at Lord William Tea Lounge, located within the opulent Hotel The Royal Plaza in Connaught Place. This luxurious tea lounge transports you to a bygone era with its plush velvet seating, marble statues, and warm lighting, creating an atmosphere fit for royalty.",
@@ -2994,6 +2870,10 @@
       "Sports screenings on large screens"
     ],
     "category": [
+      "cafe",
+      "restaurant"
+    ],
+    "tags": [
       "Pan-Asian",
       "Italian",
       "North Indian",
@@ -3002,46 +2882,12 @@
       "Beverages",
       "Cocktails"
     ],
-    "tags": [
-      "Caribbean-themed restaurant"
-    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
-    "bestInMenu": [
-      {
-        "name": "Social Shake",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Breakfast Tray",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Taco Soup",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Grilled Chicken Peri Peri Sizzler",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Chicken Shwarma Platter",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Jalapeno Cheese Nads",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
-    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.267108654966!2d77.21443397495632!3d28.621755584570984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2b5670432b7%3A0x903da568f69a8f8c!2sLord%20William%20Tea%20Lounge%20-%20Hotel%20Royal%20Plaza!5e0!3m2!1sen!2sin!4v1708174195865!5m2!1sen!2sin",
+    "bestInMenu": [],
     "shortDescription": "Openhouse Cafe offers a lively and entertaining experience with multi-cuisine food, live music, DJ nights, a rooftop terrace, and sports screenings, all in the heart of Connaught Place.",
     "description": [
       "Embrace the vibrant energy of Connaught Place at Openhouse Cafe, a multi-faceted venue offering a unique blend of delicious food, lively entertainment, and stunning views. Whether you're craving a casual meal, a fun night out with friends, or a relaxing evening under the stars, Openhouse has something for everyone.",
@@ -3063,20 +2909,20 @@
       "All-day breakfast and brunch options"
     ],
     "category": [
+      "cafe"
+    ],
+    "tags": [
       "Smoothies",
       "Salads",
       "Sandwiches",
       "Breakfast",
       "Brunch"
     ],
-    "tags": [
-      "Caribbean-themed restaurant"
-    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8212.169764609274!2d77.21594507328582!3d28.629688254103154!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd350e09204f%3A0xe3e504de73446613!2sCottage%20Cafe%20by%20Smoothie%20Factory!5e0!3m2!1sen!2sin!4v1708174409551!5m2!1sen!2sin",
     "bestInMenu": [
       {
         "name": "Social Shake",
@@ -3128,48 +2974,19 @@
       "Affordable and casual dining experience"
     ],
     "category": [
-      "South Indian",
-      "Vegetarian"
+     "cafe","restaurant"
     ],
     "tags": [
-      "Caribbean-themed restaurant"
+      "South Indian",
+      "Vegetarian"
     ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28016.007160591267!2d77.20138361979603!3d28.62973527320921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd35a5050ac9%3A0x9ff61a521b9fd13f!2sSaravana%20Bhavan!5e0!3m2!1sen!2sin!4v1708174483406!5m2!1sen!2sin",
     "bestInMenu": [
-      {
-        "name": "Social Shake",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Breakfast Tray",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Taco Soup",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Grilled Chicken Peri Peri Sizzler",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Chicken Shwarma Platter",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Jalapeno Cheese Nads",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
+      
     ],
     "shortDescription": "Cafe Saravana Bhavan offers a delightful South Indian dining experience in Connaught Place, with a focus on flavorful dosas and other vegetarian dishes at affordable prices.",
     "description": [
@@ -3191,51 +3008,21 @@
       "Luxurious and modern ambiance within the Shangri-La Eros Hotel"
     ],
     "category": [
+    "cafe"
+    ],
+    "tags": [
       "Indian",
       "Cafe",
       "Tea",
       "Snacks",
       "Desserts"
     ],
-    "tags": [
-      "Caribbean-themed restaurant"
-    ],
     "menuImage": [
       ""
     ],
     "rating": 4,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9728.350100742782!2d77.19069960498358!3d28.54966110044483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce275607ef595%3A0x2029d7dad9deb941!2sRaasta!5e0!3m2!1sen!2sin!4v1708098164588!5m2!1sen!2sin",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.293492576362!2d77.21329107927993!3d28.620964621896476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2ca85e71fcf%3A0x6cb7ac18d24eec4f!2sMister%20Chai!5e0!3m2!1sen!2sin!4v1708174615662!5m2!1sen!2sin",
     "bestInMenu": [
-      {
-        "name": "Social Shake",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Breakfast Tray",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Taco Soup",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Grilled Chicken Peri Peri Sizzler",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "the Chicken Shwarma Platter",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      },
-      {
-        "name": "Jalapeno Cheese Nads",
-        "description": "",
-        "image": "https://images.unsplash.com/photo-1604135307399-86c6ce0aba8e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1374&q=80"
-      }
     ],
     "shortDescription": "Mister Chai at the Shangri-La Eros Hotel offers a unique blend of regional Indian street food with a modern twist, an extensive tea selection, and a luxurious ambiance in the heart of Connaught Place.",
     "description": [
