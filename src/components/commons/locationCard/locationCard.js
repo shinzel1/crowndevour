@@ -49,7 +49,7 @@ function LocationCard({ data }){
          
         </li>
       </ul>
-      <p>{data.shortDescription}</p> <a href="post-elements.html" className="btn btn-outline-primary">Continue
+      <p>{data.shortDescription}</p> <a href={'/location/' + data.title} className="btn btn-outline-primary">Continue
         Reading</a>
     </article>
   );

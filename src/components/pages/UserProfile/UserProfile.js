@@ -52,7 +52,7 @@ const UserProfile = () => {
                   {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
                 </div>
-                <h3 className="h5"><a className="post-title" href="post-elements.html">Elements That You Can Use To
+                <h3 className="h5"><a className="post-title" href="#">Elements That You Can Use To
                   Create A New Post
                   On This Template.</a></h3>
                 <ul className="list-inline post-meta mb-2">
@@ -66,7 +66,7 @@ const UserProfile = () => {
                   </li>
                 </ul>
                 <p>Heading example Here is example of hedings. You can use this heading by following markdownify
-                  rules. …</p> <a href="post-elements.html" className="btn btn-outline-primary">Continue
+                  rules. …</p> <a href="#" className="btn btn-outline-primary">Continue
                     Reading</a>
               </article>
             </div>

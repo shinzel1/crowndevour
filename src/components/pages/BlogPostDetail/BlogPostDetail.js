@@ -40,7 +40,7 @@ function BlogPostDetail() {
 								</div>
 							</div>
 							<div className="col-12 mx-auto">
-								<h1><a className="post-title" href="post-elements.html">{post.name}</a></h1>
+								<h1><a className="post-title" href="#">{post.name}</a></h1>
 								<ul className="list-inline post-meta mb-4">
 									<li className="list-inline-item"><i className="ti-user mr-2"></i>
 										<a href="author.html">{post.author}</a>
@@ -116,11 +116,11 @@ function BlogPostDetail() {
 								<Link to={'/blogs/' + post.title} state={{ post: post }}>
 									<ul className="list-unstyled widget-list">
 										<li className="media widget-post align-items-center">
-											<a href="post-elements.html">
+											<a href="#">
 												<img loading="lazy" className="mr-3" src={imagse} alt='image'/>
 											</a>
 											<div className="media-body">
-												<h5 className="h6 mb-0"><a href="post-elements.html">{post.name}</a></h5>
+												<h5 className="h6 mb-0"><a href="#">{post.name}</a></h5>
 												<small>March 15, 2020</small>
 											</div>
 										</li>

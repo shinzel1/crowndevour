@@ -10,7 +10,7 @@ const BlogPostCards = ({ data }) => {
                 {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
               </div>
-              <h3 className="h5"><a className="post-title" href="post-elements.html">{data.name}</a></h3>
+              <h3 className="h5"><a className="post-title" href={'/blogs/' + data.title}>{data.name}</a></h3>
               <ul className="list-inline post-meta mb-2">
                 <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">Shinzel</a>
                 </li>
@@ -22,7 +22,7 @@ const BlogPostCards = ({ data }) => {
                 </li>
               </ul>
               <p> <span className='introduction'>{data.introduction}</span></p> 
-              <a href="post-elements.html" className="btn btn-outline-primary">Continue Reading</a>
+              <a href={'/blogs/' + data.title} className="btn btn-outline-primary">Continue Reading</a>
             </article>
 	);
 };

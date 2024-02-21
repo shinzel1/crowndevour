@@ -189,11 +189,11 @@ function LocationDetail() {
 								<Link to={'/location/' + location.title} state={{ loc: location }}>
 									<ul className="list-unstyled widget-list">
 										<li className="media widget-post align-items-center">
-											<a href="post-elements.html">
+											<a href="#">
 												<img loading="lazy" className="mr-3" src={location.image} alt='image' />
 											</a>
 											<div className="media-body">
-												<h5 className="h6 mb-0"><a href="post-elements.html">{location.name}</a></h5>
+												<h5 className="h6 mb-0"><a href="#">{location.name}</a></h5>
 												<small>{location.date}</small>
 											</div>
 										</li>
