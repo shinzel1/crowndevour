@@ -9,7 +9,7 @@ import Modal from 'react-bootstrap/Modal';
 import RestaurantMenuIcon from '@mui/icons-material/RestaurantMenu';
 import Rating from '@mui/material/Rating';
 import { useNavigate } from 'react-router-dom';
-
+import { Helmet } from 'react-helmet';
 var menuImage = [];
 function MyVerticallyCenteredModal(props) {
 	return (
@@ -64,7 +64,6 @@ function LocationDetail() {
 		bestInMenu = loc.bestInMenu
 	}
 	menuImage = loc.menuImage
-	const canonical = "https://crowndevour.com/CityDetails/" + loc.title
 	const lastThreeLocations = locationLists.slice(-3)
 	const [modalShow, setModalShow] = React.useState(false);
 	useEffect(() => {
@@ -98,8 +97,12 @@ function LocationDetail() {
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
 		<section className="section">
+		
+			<Helmet>
 			<SchemaOrg data={loc} />
-			<link rel="canonical" href={canonical} />
+			<link rel="canonical" href={"https://crowndevour.com/CityDetails/" + loc.title} />
+				<title>{loc.name}</title>
+			</Helmet>
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-8  mb-5 mb-lg-0">

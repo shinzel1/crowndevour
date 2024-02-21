@@ -34,10 +34,9 @@ const BlogListings = () => {
   return (
     <div>
       <h1 className='blogPostHeading'>Read Our Latest Blog Posts!</h1>
-      <link rel="canonical" href="https://crowndevour.com/blogs" />
       <Helmet>
-       {/* <link rel="canonical" href="https://crowndevour.com/location" /> */}
-        {/* <title>search cafe and restaurants</title> */}
+      <link rel="canonical" href="https://crowndevour.com/blogs" />
+        <title>Blog Posts</title>
         <meta name="description" content="Embark on a culinary journey through our handpicked cafes, restaurants, and food stalls! Discover diverse flavors and settings in this gastronomic exploration." />
       </Helmet>
       <div className='BlogListing centered'>

@@ -11,6 +11,7 @@ import { Link } from 'react-router-dom';
 import LocationLists from '../../data/CafeResturants.json'
 import LocationCards from '../../commons/locationCard/locationCard'
 import { useLocation } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 
 const ThelasNearLocation = () => {
   const [show, setShow] = useState(false);
@@ -71,7 +72,11 @@ const ThelasNearLocation = () => {
   return (
     <div>
       <h1 className='blogPostHeading'>Flavors on Foot: Explore Local Delights Near You</h1>
+      <Helmet>
       <link rel="canonical" href="https://crowndevour.com/thelas-near-location" />
+        <title>Street Outlets</title>
+        <meta name="description" content="Register your street outlets ,here at crowndevour" />
+      </Helmet>
       <div className='addIcon' onClick={() => setShow(true)}>
         <Fab color="primary" aria-label="add" >
           <AddIcon />

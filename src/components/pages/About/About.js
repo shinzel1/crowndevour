@@ -1,5 +1,6 @@
 import React,{useEffect} from 'react';
 import authorImage from "../../data/Images/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg"
+import { Helmet } from 'react-helmet';
 
 const About = () => {
 	useEffect(() => {
@@ -14,7 +15,10 @@ const About = () => {
 
   return (
     <section className="section-sm">
+		<Helmet>
 		<link rel="canonical" href="https://crowndevour.com/about" />
+        <title>About Us</title>
+      </Helmet>
 	<div className="container">
 		<div className="row">
 			<div className="col-12">
