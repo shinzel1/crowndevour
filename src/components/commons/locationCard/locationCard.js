@@ -37,7 +37,7 @@ function LocationCard({ data }){
         <li className="list-inline-item">Date : March 15, 2020</li>
         <li className="list-inline-item">
           Categories :
-          {data.category.slice(0, 3).map((item) => (
+          {data?.category?.slice(0, 3).map((item) => (
             <a href="#" className="ml-1" onClick={() => fetchCategory(item)}>{item}</a>
           ))}
         </li>
