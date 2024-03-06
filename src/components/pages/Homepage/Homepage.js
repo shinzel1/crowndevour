@@ -9,9 +9,6 @@ import { Helmet } from 'react-helmet';
 function Homepage() {
   return (
     <div className="homepage">
-       <Helmet>
-       <link rel="canonical" href="https://crowndevour.com" />
-      </Helmet>
       <div>
         <ImageBanner />
       </div>

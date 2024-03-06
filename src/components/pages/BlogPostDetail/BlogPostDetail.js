@@ -55,7 +55,7 @@ function BlogPostDetail() {
 									<li className="list-inline-item">Categories : <a href="#!" className="ml-1">Photography </a>
 									</li>
 									<li className="list-inline-item">Tags :
-										{post?.tags?.slice(0, 3).map((item) => (
+										{post?.tags?.slice(0, 3)?.map((item) => (
 											<a href="#!" className="ml-1" onClick={() => fetchTags(item)}>{item} </a>
 										))}
 									</li>
@@ -117,7 +117,7 @@ function BlogPostDetail() {
 										<h2>Must-Try Dishes</h2>
 										<div className='container'>
 											<div className='row'>
-												{post?.must_try_dishes.map((item, index) => (
+												{post?.must_try_dishes?.map((item, index) => (
 													<div className="col-lg-4 col-sm-4 mb-4">
 														<div className="card">
 															<div className="card-image">
