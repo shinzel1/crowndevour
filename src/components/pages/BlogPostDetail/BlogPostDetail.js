@@ -9,6 +9,19 @@ import LocationCards from '../../commons/locationCard/locationCard'
 function BlogPostDetail() {
 	const location = useLocation();
 	var { post } = ""
+	var category = ["Continental", "Pizza", "Italian", "Burger", "Fast Food", "Rolls", "Mexican", "Beverages", "Sushi", "North Indian", "Chinese", "Mughlai", "Casual Dining", "Coffee", "Cafes", "Live Music", "Art & Culture"]
+	var cuisine_tags = [
+		"Italian", "Pasta", "Pizza", "Risotto", "Tiramisu", "Caprese Salad",
+		"Mexican", "Tacos", "Enchiladas", "Guacamole", "Salsa", "Chiles Rellenos",
+		"Asian", "Chinese", "Japanese", "Thai", "Indian", "Sushi", "Curry", "Stir-fry",
+		"Mediterranean", "Greek", "Hummus", "Falafel", "Tabbouleh", "Kebabs",
+		"Middle Eastern", "Lebanese", "Turkish", "Shawarma", "Baba Ganoush", "Kofta",
+		"French", "Croissants", "Quiche", "Coq au Vin", "Ratatouille", "Crème Brûlée",
+		"American", "Burgers", "BBQ", "Mac and Cheese", "Apple Pie", "Pancakes",
+		"Latin American", "Brazilian", "Argentinian", "Empanadas", "Ceviche", "Tamales",
+		"Caribbean", "Jamaican", "Cuban", "Ackee and Saltfish", "Plantains", "Rice and Beans",
+		"African", "Moroccan", "Ethiopian", "Tagine", "Injera", "Bobotie"
+	]
 	if (location.state != null) {
 		post = location.state.post;
 	} else if (location.pathname.split('/').slice(-1).length > 0) {
@@ -25,6 +38,18 @@ function BlogPostDetail() {
 
 	}, []);
 	const navigate = useNavigate();
+
+	const handleSubmit = (e) => {
+		// 👇️ redirect to /contacts
+		if (typeof document !== 'undefined') {
+			navigate(`/location`, { state: { value: document.getElementById('search-query').value } });
+		}
+	}
+	const fetchCategory = (item) => {
+		if (typeof document !== 'undefined') {
+			navigate(`/location`, { state: { category: item } });
+		}
+	}
 	const fetchTags = (item) => {
 		if (typeof document !== 'undefined') {
 			navigate(`/location`, { state: { tags: item } });
@@ -46,10 +71,10 @@ function BlogPostDetail() {
 								</div>
 							</div>
 							<div className="col-12 mx-auto">
-								<h1><a className="post-title" href="#">{post.name}</a></h1>
+								<h1><a className="post-title" href="#">{post?.name}</a></h1>
 								<ul className="list-inline post-meta mb-4">
 									<li className="list-inline-item"><i className="ti-user mr-2"></i>
-										<a href="author.html">{post.author}</a>
+										<a href="author.html">{post?.author?.name}</a>
 									</li>
 									<li className="list-inline-item">Date : March 15, 2020</li>
 									<li className="list-inline-item">Categories : <a href="#!" className="ml-1">Photography </a>
@@ -69,24 +94,24 @@ function BlogPostDetail() {
 									<section className='blogSection'>
 										<h2>About the Location</h2>
 										<p>
-											{post.about_location}
+											{post.aboutTheLocation}
 										</p>
 									</section>
-									<section className='blogSection'>
+									{/* <section className='blogSection'>
 										<h2>Local Food Experiences</h2>
 										<ul>
-											{post?.local_food_experiences?.map((sect, index) => (
+											{post?.localFoodExperiences?.map((sect, index) => (
 												<div>
 													<li><b>{sect.name}</b></li>
 													<p>{sect.description}</p>
 												</div>
 											))}
 										</ul>
-									</section>
+									</section> */}
 									<section className='blogSection'>
 										<h2>Tips for Foodies</h2>
 										<ul>
-											{post?.tips_for_foodies?.map((sect, index) => (
+											{post?.tipsForFoodies?.map((sect, index) => (
 												<li>{sect}</li>
 											))}
 										</ul>
@@ -94,7 +119,7 @@ function BlogPostDetail() {
 									<section className='blogSection'>
 										<h2>Personal Recommendations</h2>
 										<p>
-											{post.personal_recommendations}
+											{post.personalRecommendations}
 										</p>
 									</section>
 									<section className='blogSection'>
@@ -117,7 +142,7 @@ function BlogPostDetail() {
 										<h2>Must-Try Dishes</h2>
 										<div className='container'>
 											<div className='row'>
-												{post?.must_try_dishes?.map((item, index) => (
+												{post?.mustTryDishes?.map((item, index) => (
 													<div className="col-lg-4 col-sm-4 mb-4">
 														<div className="card">
 															<div className="card-image">
@@ -160,73 +185,57 @@ function BlogPostDetail() {
 						</article>
 					</div>
 					<aside className="col-lg-4">
+						<div className='widget'>
+							<iframe src={post?.locationUrl} width="400" height="300" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+						</div>
 						<div className="widget">
 							<h5 className="widget-title"><span>Search</span></h5>
 							<form action="/logbook-hugo/search" className="widget-search">
 								<input id="search-query" name="s" type="search" placeholder="Type &amp; Hit Enter..." />
-								<button type="submit"><i className="ti-search"></i>
+								<button type="submit" onClick={(e) => handleSubmit(e)}><i className="ti-search"></i>
 								</button>
 							</form>
 						</div>
 						<div className="widget">
+							<h5 className="widget-title"><span>Latest Article</span></h5>
+
+							{lastThreeBlogs.map((location, index) => (
+								<Link to={'/location/' + location.title} state={{ loc: location }}>
+									<ul className="list-unstyled widget-list">
+										<li className="media widget-post align-items-center">
+											<a href="#">
+												<img loading="lazy" className="mr-3" src={location.image} alt='image' />
+											</a>
+											<div className="media-body">
+												<h5 className="h6 mb-0"><a href="#">{location.name}</a></h5>
+												<small>{location.date}</small>
+											</div>
+										</li>
+									</ul>
+								</Link>
+							))}
+						</div>
+						<div className="widget">
 							<h5 className="widget-title"><span>Categories</span></h5>
 							<ul className="list-unstyled widget-list">
-								<li><a href="#!" className="d-flex">Four seasone
-									<small className="ml-auto">(1)</small></a>
-								</li>
-								<li><a href="#!" className="d-flex">Newyork city
-									<small className="ml-auto">(2)</small></a>
-								</li>
-								<li><a href="#!" className="d-flex">Photobooth
-									<small className="ml-auto">(1)</small></a>
-								</li>
-								<li><a href="#!" className="d-flex">Photography
-									<small className="ml-auto">(2)</small></a>
-								</li>
-								<li><a href="#!" className="d-flex">Videography
-									<small className="ml-auto">(1)</small></a>
-								</li>
+								{category.slice(0, 3).map((item, index) => (
+									<li><a href="#!" className="d-flex" onClick={() => fetchCategory(item)}>{item}
+										<small className="ml-auto">({index})</small>
+									</a>
+									</li>
+								))}
 							</ul>
 						</div>
 						<div className="widget">
 							<h5 className="widget-title"><span>Tags</span></h5>
 							<ul className="list-inline widget-list-inline">
-								<li className="list-inline-item"><a href="#!">Booth</a>
-								</li>
-								<li className="list-inline-item"><a href="#!">City</a>
-								</li>
-								<li className="list-inline-item"><a href="#!">Image</a>
-								</li>
-								<li className="list-inline-item"><a href="#!">New</a>
-								</li>
-								<li className="list-inline-item"><a href="#!">Photo</a>
-								</li>
-								<li className="list-inline-item"><a href="#!">Seasone</a>
-								</li>
-								<li className="list-inline-item"><a href="#!">Video</a>
-								</li>
+								{cuisine_tags.map((item, index) => (
+									<li className="list-inline-item" onClick={() => fetchTags(item)}><a href="#!">{item}</a>
+									</li>
+								))}
 							</ul>
 						</div>
-						<div className="widget">
-							<h5 className="widget-title"><span>Latest Article</span></h5>
 
-							{lastThreeBlogs.map((post, index) => (
-								<Link to={'/blogs/' + post.title} state={{ post: post }}>
-									<ul className="list-unstyled widget-list">
-										<li className="media widget-post align-items-center">
-											<a href="#">
-												<img loading="lazy" className="mr-3" src={imagse} alt='image' />
-											</a>
-											<div className="media-body">
-												<h5 className="h6 mb-0"><a href="#">{post.name}</a></h5>
-												<small>March 15, 2020</small>
-											</div>
-										</li>
-									</ul>
-								</Link>
-
-							))}
-						</div>
 					</aside>
 				</div>
 			</div>
