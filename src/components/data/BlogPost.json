@@ -1177,10 +1177,7 @@
       "Plan your transportation: While some eateries are within walking distance of Qutub Minar, others might require a taxi or rickshaw ride.",
       "Carry water: Sightseeing can be thirsty work. Carry a reusable water bottle to stay hydrated, especially during the hot months."
     ],
-    "personalRecommendations": {
-      "favorite_dish": "Khan Market Tandoori Chicken's kebabs",
-      "recommendation": "Explore the Khan Market for its diverse culinary options. You might stumble upon a hidden gem!"
-    },
+    "personalRecommendations": "Khan Market Tandoori Chicken's kebabs and Explore the Khan Market for its diverse culinary options. You might stumble upon a hidden gem!",
     "conclusion": "Qutub Minar offers more than just a historical experience. Take a break from sightseeing and embark on a delicious adventure. From iconic street food to innovative cafes, the area caters to every taste bud. So, explore the flavors around Qutub Minar and create memories that go beyond the historical sights!",
     "author": {
       "name": "shinzel",
@@ -1319,10 +1316,7 @@
       "Don't be afraid to ask: Locals are happy to recommend their hidden gems. Ask shopkeepers or fellow shoppers for their favorite food stalls.",
       "Come hungry: Portions can be generous, so plan your meals accordingly or share with friends to try a wider variety."
     ],
-    "personalRecommendations": {
-      "favorite_dish": "Chole Bhature at Nagpal Chole Bhature",
-      "recommendation": "Don't miss the refreshing lassi at Giani di Hatti for a perfect end to your street food adventure."
-    },
+    "personalRecommendations": "Chole Bhature at Nagpal Chole Bhature and Don't miss the refreshing lassi at Giani di Hatti for a perfect end to your street food adventure.",
     "conclusion": "Lajpat Nagar isn't just a shopping paradise – it's a foodie's delight. From iconic street food experiences to hidden cafes, there's something for every palate and budget. So, take a break from shopping, grab a delicious bite, and discover the hidden flavors of Lajpat Nagar!",
     "author": {
       "name": "shinzel",
@@ -1885,14 +1879,8 @@
       "Cash is King: While some restaurants accept cards, it's always a good idea to carry cash when exploring Majnu-ka-Tilla, especially for street food vendors."
     ],
     "personalRecommendations": [
-      {
-        "name": "Himalayan Restaurant",
-        "description": "A popular spot known for its delicious momos and friendly service. Their Thukpa and Apple Beer are also highly recommended."
-      },
-      {
-        "name": "Lhapsang Cafe",
-        "description": "This small cafe offers a cozy ambiance and a great selection of Tibetan teas, including the traditional yak butter tea. They also serve delicious Tibetan snacks and pastries."
-      }
+      "Himalayan Restaurant: A popular spot known for its delicious momos and friendly service. Their Thukpa and Apple Beer are also highly recommended.",
+      "Lhapsang Cafe: This small cafe offers a cozy ambiance and a great selection of Tibetan teas, including the traditional yak butter tea. They also serve delicious Tibetan snacks and pastries."
     ],
     "conclusion": "Majnu-ka-Tilla offers a unique and unforgettable culinary experience. From the heartwarming flavors of Tibetan cuisine to the vibrant atmosphere of the streets, this hidden gem is a must-visit for any foodie or explorer in Delhi. So, grab your sense of adventure and embark on a delightful journey through the heart of Majnu-ka-Tilla!",
     "author": {
@@ -2036,14 +2024,8 @@
       "Be Open to Experimentation: With its diverse culinary scene, Vasant Kunj encourages exploration. Don't be afraid to try new flavors and cuisines."
     ],
     "personalRecommendations": [
-      {
-        "name": "Ambience Mall",
-        "description": "A one-stop shop for global culinary delights. La Cucina offers a delightful Italian escape, while Kylin takes you on a Pan-Asian journey."
-      },
-      {
-        "name": "Nelson Mandela Road",
-        "description": "For a taste of international flavors, explore the cafes and restaurants lining this chic street. Sample Pho at Pho House or indulge in a hearty American breakfast at The Project Cafe."
-      }
+      "Ambience Mall: A one-stop shop for global culinary delights. La Cucina offers a delightful Italian escape, while Kylin takes you on a Pan-Asian journey.",
+      "Nelson Mandela Road: For a taste of international flavors, explore the cafes and restaurants lining this chic street. Sample Pho at Pho House or indulge in a hearty American breakfast at The Project Cafe."
     ],
     "conclusion": "Vasant Kunj is a culinary paradise waiting to be explored. From Michelin-starred restaurants to charming cafes and vibrant street food markets, this neighborhood offers a delightful adventure for every foodie. So, grab your appetite and embark on a delicious journey through the diverse flavors of Vasant Kunj!",
     "author": {
@@ -2195,10 +2177,10 @@
       "Consider portion sizes: Portions at some restaurants can be generous, so be mindful when ordering to avoid overspending.",
       "Embrace the student vibe: Satya Niketan is all about the youthful energy - relax, unwind, and enjoy the friendly atmosphere."
     ],
-    "personalRecommendations": {
-      "cafe": "Echoes (unique experience, delicious food)",
-      "restaurant": "QD's Restaurant (authentic momos, great value for money)"
-    },
+    "personalRecommendations": [
+      "Echoes (unique experience, delicious food)",
+      "QD's Restaurant (authentic momos, great value for money)"
+    ],
     "conclusion": "Satya Niketan is a must-visit for anyone seeking a taste of Delhi's student life and a delightful culinary adventure. With its vibrant cafes, friendly atmosphere, and delicious food at affordable prices, this area offers an unforgettable experience for foodies and students alike. Let us know your favorite Satya Niketan eats in the comments below!",
     "tags": [
       "Delhi",
@@ -2343,10 +2325,10 @@
       "Embrace the spice: Delhi's cuisine is known for its bold flavors. Don't be afraid to ask for adjustments if spice levels are too intense.",
       "Bargaining is acceptable: Negotiate politely at street food stalls to get the best deal."
     ],
-    "personalRecommendations": {
-      "cafe": "The Good Food Cafe (fresh and healthy options)",
-      "restaurant": "Cafe Purani Dilli (innovative take on traditional dishes, beautiful ambiance)"
-    },
+    "personalRecommendations": [
+      "The Good Food Cafe (fresh and healthy options)",
+      "Cafe Purani Dilli (innovative take on traditional dishes, beautiful ambiance)"
+    ],
     "conclusion": "Pitampura is a treasure trove for food enthusiasts, offering a unique blend of authentic flavors, vibrant street food culture, and contemporary culinary experiences. Share your own Pitampura food experiences in the comments below!",
     "author": {
       "bio": "Passionate foodie and travel enthusiast, always eager to explore new flavors and cultures. Aims to share culinary journeys and inspire others to embark on their own delicious adventures.",
