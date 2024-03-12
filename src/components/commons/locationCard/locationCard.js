@@ -26,7 +26,7 @@ function LocationCard({ data }){
         <meta name="description" content={data.name} />
       </Helmet>
       <div className="post-slider slider-sm blogPostCardImage">
-        <img loading="lazy" src={data.image} className="img-fluid" alt="post-thumb" />
+        <img loading="lazy" src={data.image? data.image : "https://source.unsplash.com/random/?food&2" } className="img-fluid" alt="post-thumb" />
         {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
       </div>
