@@ -65,7 +65,7 @@ function BlogPostDetail() {
 						<article className="row mb-5">
 							<div className="col-12">
 								<div className="post-slider">
-									<img loading="lazy" src={imagse} className="img-fluid" alt="post-thumb" />
+									<img loading="lazy" src={post.imageSrc} className="img-fluid" alt="post-thumb" />
 									{/* <img loading="lazy" src="images/post/post-1.jpg" className="img-fluid" alt="post-thumb" />
 							<img loading="lazy" src="images/post/post-3.jpg" className="img-fluid" alt="post-thumb"/> */}
 								</div>
@@ -204,7 +204,7 @@ function BlogPostDetail() {
 									<ul className="list-unstyled widget-list">
 										<li className="media widget-post align-items-center">
 											<a href="#">
-												<img loading="lazy" className="mr-3" src={location.image} alt='image' />
+												<img loading="lazy" className="mr-3" src={location.imageSrc} alt='image' />
 											</a>
 											<div className="media-body">
 												<h5 className="h6 mb-0"><a href="#">{location.name}</a></h5>
