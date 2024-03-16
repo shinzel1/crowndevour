@@ -172,9 +172,9 @@ function BlogPostDetail() {
 												</div>
 												{post?.sections?.map((location, index) => (
 													<div className="col-lg-4 col-sm-6 mb-4">
-														<Link to={'/location/' + location.title} state={{ loc: location }}>
+														{/* <Link to={'/location/' + location.title} state={{ loc: location }}> */}
 															<LocationCards data={location} />
-														</Link>
+														{/* </Link> */}
 													</div>
 												))}
 											</div>
