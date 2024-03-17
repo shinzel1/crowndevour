@@ -347,8 +347,8 @@
       "South Indian"
     ],
     "category": [
-      "cafe",
-      "restaurant"
+      "veg cafe",
+      "veg restaurant"
     ],
     "tags": [],
     "menuImage": [
@@ -2799,6 +2799,7 @@
     "tags": [
       "Healthy",
       "Vegetarian",
+      "veg resturant",
       "Vegan",
       "Salads",
       "Sandwiches",
@@ -2978,7 +2979,9 @@
     ],
     "tags": [
       "South Indian",
-      "Vegetarian"
+      "Vegetarian",
+      "veg resturant",
+      "veg cafe"
     ],
     "menuImage": [
       ""
