@@ -45,29 +45,166 @@
     ],
     "sections": [
       {
-        "name": "Embark on a Global Culinary Journey",
-        "content": "Craving flavors from afar? Cafe C. within the upscale mall provides a spacious backdrop for your international adventure. Explore a menu rich with diverse snacks and meals, indulge in sweet and savory crepes, and quench your thirst with refreshing mocktails. NicoCaara offers a different kind of globetrotting experience, inviting you to unwind in a relaxed ambiance while savoring an array of international dishes.",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipP0HofRH7ZlBIF4lHOqYbFPoLdHerBVEfNRJmcd=s1360-w1360-h1020"
+        "name": "Too Mikkii Tapas Cafe",
+        "category": [
+          "Casual Dining"
+        ],
+        "tags": [
+          "outdoor seating",
+          "pizza",
+          "pasta",
+          "continental",
+          "late night",
+          "budget-friendly"
+        ],
+        "shortDescription": "This open-air cafe offers pizzas, pastas, and continental fare in a relaxed garden setting. Perfect for a casual meal with friends, they're known for being easy on the wallet and staying open late."
       },
       {
-        "name": "Nourish Your Body and Your Soul",
-        "content": "The health-conscious can find their oasis at The Salad Story. Here, an abundance of fresh, seasonal ingredients are transformed into delicious and visually stunning salads. Customize your creation to your liking or choose from their signature options, knowing each bite fuels your body and mind.",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipP0HofRH7ZlBIF4lHOqYbFPoLdHerBVEfNRJmcd=s1360-w1360-h1020"
+        "name": "Tea Lounge",
+        "category": [
+          "Tea Room"
+        ],
+        "tags": [
+          "sophisticated ambience",
+          "tea blends",
+          "relaxing"
+        ],
+        "shortDescription": "Indulge in a pot of your favorite tea and unwind in the elegant setting of Tea Lounge, a haven for tea aficionados."
       },
       {
-        "name": "A Taste of Spain",
-        "content": "Too Mikkii Tapas transports you on a culinary journey to the heart of Spain. Immerse yourself in the vibrant atmosphere and savor their delectable selection of tapas. Each bite bursts with flavor, promising an unforgettable gastronomic experience.",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipP0HofRH7ZlBIF4lHOqYbFPoLdHerBVEfNRJmcd=s1360-w1360-h1020"
+        "name": "SANCHA Tea Boutique",
+        "category": [
+          "Tea Room"
+        ],
+        "tags": [
+          "curated tea experience",
+          "premium loose-leaf teas"
+        ],
+        "shortDescription": "For the true tea connoisseur, SANCHA Tea Boutique offers a curated selection of premium loose-leaf teas. Explore their collection and embark on a delightful tea journey."
       },
       {
-        "name": "A Tea Lover's Paradise",
-        "content": "For those seeking serenity in a cup, Chanakyapuri offers two distinct retreats. Tea Lounge invites you to explore a vast universe of teas and coffees, from classic favorites to unique, aromatic blends. Sancha Tea Boutique, on the other hand, specializes in premium teas, offering a tranquil space to discover rare and exquisite varieties perfect for a moment of inner peace.",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipP0HofRH7ZlBIF4lHOqYbFPoLdHerBVEfNRJmcd=s1360-w1360-h1020"
+        "name": "The Pavilion",
+        "category": [
+          "Fine Dining"
+        ],
+        "tags": [
+          "luxurious ambience",
+          "gourmet",
+          "upscale"
+        ],
+        "shortDescription": "Prepare to be enveloped in an upscale ambience as you savor gourmet offerings at The Pavilion. This cafe promises a luxurious fine-dining experience."
       },
       {
-        "name": "Beyond the Menu",
-        "content": "These cafes are more than just destinations for delicious food and drink. They are havens for work, relaxation, and social gatherings. Whether you seek a lively space to collaborate with colleagues, a quiet corner to curl up with a book, or a vibrant atmosphere to connect with friends, Chanakyapuri's cafes cater to every mood and occasion.So, step beyond the ordinary and delve into the world of Chanakyapuri's cafes. Explore, discover hidden gems, and create your own memorable experiences – this is just the beginning of your culinary adventure!",
-        "image": "https://lh3.googleusercontent.com/p/AF1QipP0HofRH7ZlBIF4lHOqYbFPoLdHerBVEfNRJmcd=s1360-w1360-h1020"
+        "name": "Bukhara",
+        "category": [
+          "Fine Dining"
+        ],
+        "tags": [
+          "Northwest Frontier cuisine",
+          "authentic Indian",
+          "fine dining"
+        ],
+        "shortDescription": "Bukhara takes you on a culinary adventure through Northwest Frontier cuisine. Renowned for its authentic Indian flavors, this restaurant offers a fine-dining experience."
+      },
+      {
+        "name": "The Rock Salt",
+        "category": [
+          "Fine Dining"
+        ],
+        "tags": [
+          "contemporary Indian",
+          "modern menu",
+          "fine dining"
+        ],
+        "shortDescription": "The Rock Salt offers a contemporary twist on Indian cuisine in a fine-dining setting. Expect a modern menu showcasing innovative takes on classic dishes."
+      },
+      {
+        "name": "Cafe De Flora",
+        "category": [
+          "French Cafe"
+        ],
+        "tags": [
+          "French dishes",
+          "charming ambience",
+          "romantic"
+        ],
+        "shortDescription": "Transport yourself to a Parisian sidewalk cafe at Cafe De Flora. Indulge in classic French dishes like quiches and croissants, all within a charming and romantic ambiance."
+      },
+      {
+        "name": "Amour Bistro",
+        "category": [
+          "French Cafe"
+        ],
+        "tags": [
+          "French cuisine",
+          "cafe atmosphere",
+          "breakfast",
+          "afternoon tea"
+        ],
+        "shortDescription": "Embrace a touch of French indulgence at Amour Bistro. Their menu features French staples alongside a delightful cafe atmosphere, perfect for a leisurely breakfast or afternoon tea."
+      },
+      {
+        "name": "Diggin",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "casual",
+          "coffee",
+          "quick bite",
+          "relaxed"
+        ],
+        "shortDescription": "Looking for a casual spot for a quick coffee and a bite? Diggin' might be your answer. This cafe offers a relaxed environment for a casual catch-up with friends or a solo coffee break."
+      },
+      {
+        "name": "The Samavar",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "laid-back",
+          "coffee",
+          "light meal",
+          "relaxed"
+        ],
+        "shortDescription": "The Samavar beckons those seeking a laid-back cafe experience. Unwind in their relaxed space and enjoy a cup of coffee or a light meal."
+      },
+      {
+        "name": "Arna",
+        "category": [
+          "Modern Indian"
+        ],
+        "tags": [
+          "vibrant atmosphere",
+          "modern Indian cuisine"
+        ],
+        "shortDescription": "Modern Indian cuisine takes center stage at Arna. This cafe offers a vibrant atmosphere and a menu featuring innovative takes on classic Indian dishes."
+      },
+      {
+        "name": "CAARA at Ogaan",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "fashion store",
+          "high-end",
+          "cafe",
+          "stylish"
+        ],
+        "shortDescription": "CAARA at Ogaan combines the best of both worlds: a cafe experience and a high-end fashion store. Take a break from shopping and indulge in their delectable offerings amidst stylish surroundings."
+      },
+      {
+        "name": "Fig at Malcha",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "chic",
+          "modern",
+          "coffee",
+          "meal"
+        ],
+        "shortDescription": "Fig at Malcha exudes a chic and modern vibe. This cafe caters to those seeking a stylish spot to enjoy their cup of joe or a delicious meal."
       }
     ],
     "imageSrc": "https://images.unsplash.com/photo-1575194060974-b6cf9b2474fb"
@@ -985,20 +1122,288 @@
         ]
       },
       {
-        "name": "Conclusion",
-        "content": "As our culinary delight in Greater Kailash concludes, each eatery leaves an indelible mark on the neighborhood's gastronomic scene. From upscale dining to cozy cafes, Greater Kailash offers a diverse array of flavors for every palate.",
-        "images": [
-          "greater_kailash_overview.jpg",
-          "gastronomic_scene.jpg"
-        ]
+        "name": "Shikhara Fine Dining Restaurant",
+        "category": [
+          "North Indian",
+          "Fine Dining"
+        ],
+        "tags": [
+          "Mughlai"
+        ],
+        "shortDescription": "Offers familiar Mughlai & other North Indian staples in a basic setting. Price range is moderate (₹₹) and has a customer rating of 4 stars on Google."
       },
       {
-        "name": "Closing",
-        "content": "Share your favorite eateries in Greater Kailash or your own culinary experiences in this upscale neighborhood. The culinary delights of Greater Kailash continue to evolve, waiting to be explored further. Connect with us on social media, and let's continue celebrating the diverse and sophisticated flavors of Greater Kailash together.",
-        "images": [
-          "thank_you_greater_kailash.jpg",
-          "social_media_links_greater_kailash.jpg"
-        ]
+        "name": "Kebabs and Curries",
+        "category": [
+          "Indian"
+        ],
+        "tags": [
+          "Kebabs",
+          "Curries"
+        ],
+        "shortDescription": "This cafe likely specializes in succulent kebabs and flavorful curries. Further details about ambiance or price range are unavailable."
+      },
+      {
+        "name": "Thali at 99",
+        "category": [
+          "Indian"
+        ],
+        "tags": [
+          "Thali"
+        ],
+        "shortDescription": "Offers budget-friendly thali meals, possibly featuring a variety of regional dishes on a single platter. Further details about cuisine or ambiance are unavailable."
+      },
+      {
+        "name": "POP SEOUL",
+        "category": [
+          "Korean"
+        ],
+        "tags": [
+          "Korean Food"
+        ],
+        "shortDescription": "Offers Korean cuisine in a trendy setting. Further details about menu or price range are unavailable."
+      },
+      {
+        "name": "New Minar",
+        "category": [
+          "Indian"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "This cafe offers familiar Indian dishes in a casual atmosphere. Further details about menu or price range are unavailable."
+      },
+      {
+        "name": "Tanoshii Trail",
+        "category": [
+          "Japanese"
+        ],
+        "tags": [
+          "Japanese Food"
+        ],
+        "shortDescription": "Offers Japanese dishes."
+      },
+      {
+        "name": "Gastronomica",
+        "category": [
+          "Global"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "This cafe's name suggests a global culinary experience, possibly featuring a diverse menu. Further details about cuisine or ambiance are unavailable."
+      },
+      {
+        "name": "Moti Mahal Delux - Greater Kailash Part 1",
+        "category": [
+          "Mughlai",
+          "Indian"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "This establishment is likely an outpost of the famed Moti Mahal chain, known for its rich Mughlai cuisine."
+      },
+      {
+        "name": "Enoki - Fresh Asian Kitchen (GK)",
+        "category": [
+          "Asian"
+        ],
+        "tags": [
+          "Fresh Asian Cuisine"
+        ],
+        "shortDescription": "Specializes in fresh Asian flavors. Further details about specific cuisines or menu are unavailable."
+      },
+      {
+        "name": "A W Foods",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "Healthy",
+          "Organic (possible)"
+        ],
+        "shortDescription": "This cafe's name suggests a focus on wholesome or organic food options. Further details about menu or cuisine are unavailable."
+      },
+      {
+        "name": "Sagar Ratna",
+        "category": [
+          "South Indian"
+        ],
+        "tags": [
+          "Vegetarian"
+        ],
+        "shortDescription": "This is likely a South Indian vegetarian restaurant chain known for its dosas, idlis, and filter coffee."
+      },
+      {
+        "name": "Baris",
+        "category": [
+          "Indian"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "Details about Baris are unavailable. It could be a cafe, restaurant, or a bar. Further research is needed to determine its category and offerings."
+      },
+      {
+        "name": "Oh! Calcutta",
+        "category": [
+          "East Indian",
+          "Bengali (possible)"
+        ],
+        "tags": [
+          "Calcutta Cuisine"
+        ],
+        "shortDescription": "This restaurant's name suggests it specializes in Bengali cuisine from Kolkata (formerly Calcutta)."
+      },
+      {
+        "name": "Mama's Buoi Courtyard",
+        "category": [
+          "Cafe",
+          "Restaurant (possible)"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "Details about Mama's Buoi Courtyard are unavailable. The name suggests a courtyard setting, but further research is needed to determine its category and cuisine."
+      },
+      {
+        "name": "Mainland China Restaurant",
+        "category": [
+          "Chinese"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "This is likely a restaurant chain offering various Chinese dishes."
+      },
+      {
+        "name": "Panda Wokk",
+        "category": [
+          "Chinese"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "This name suggests a casual Chinese eatery, possibly specializing in stir-fries or fast food options."
+      },
+      {
+        "name": "Diva - The Italian Restaurant",
+        "category": [
+          "Italian"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "This restaurant focuses on Italian cuisine."
+      },
+      {
+        "name": "Nirula's",
+        "category": [
+          "Fast Food",
+          "Ice Cream (possibly)"
+        ],
+        "tags": [
+          "Indian",
+          "Desserts"
+        ],
+        "shortDescription": "India's oldest fast food chain known for its 'Desi' versions of Western favorites like pizzas, burgers, and ice cream. Further details about specific locations or menu variations are unavailable."
+      },
+      {
+        "name": "Cocoberry",
+        "category": [
+          "Desserts",
+          "Cafe (possible)"
+        ],
+        "tags": [
+          "Frozen Yogurt",
+          "Healthy (possible)"
+        ],
+        "shortDescription": "This likely offers frozen yogurt or other frozen dessert options. Cocoberry chains often have cafes with a focus on healthy choices."
+      },
+      {
+        "name": "Nirula's GK-2",
+        "category": [
+          "Fast Food",
+          "Ice Cream (possibly)"
+        ],
+        "tags": [
+          "Indian",
+          "Desserts"
+        ],
+        "shortDescription": "This is likely an outlet of the Nirula's fast food chain in Greater Kailash 2. Refer to the general description for Nirula's above for details about cuisine."
+      },
+      {
+        "name": "La Mia",
+        "category": [
+          "Italian",
+          "Cafe (possible)"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "Details about La Mia are unavailable. The name suggests Italian influence, but further research is needed to determine its category and cuisine."
+      },
+      {
+        "name": "Giani's Ice Cream",
+        "category": [
+          "Ice Cream Shop"
+        ],
+        "tags": [
+          "Italian Ice Cream (possible)"
+        ],
+        "shortDescription": "This is likely an ice cream parlor chain known for its Italian-style ice cream."
+      },
+      {
+        "name": "Open Oven Bakehouse",
+        "category": [
+          "Bakery",
+          "Cafe (possible)"
+        ],
+        "tags": [
+          "Fresh Bread"
+        ],
+        "shortDescription": "This name suggests a bakery offering fresh bread and baked goods. It might also be a cafe with these options alongside beverages."
+      },
+      {
+        "name": "Naturals Ice Cream",
+        "category": [
+          "Ice Cream Shop"
+        ],
+        "tags": [
+          "Natural Ingredients (possible)"
+        ],
+        "shortDescription": "This is likely an ice cream parlor chain focused on using natural ingredients."
+      },
+      {
+        "name": "Baskin Robbins",
+        "category": [
+          "Ice Cream Shop"
+        ],
+        "tags": [
+          "American Ice Cream Chain"
+        ],
+        "shortDescription": "This is a global ice cream chain known for its wide variety of flavors."
+      },
+      {
+        "name": "Defence Bakery since 1962",
+        "category": [
+          "Bakery"
+        ],
+        "tags": [
+          "Established in 1962"
+        ],
+        "shortDescription": "This bakery has been around since 1962, likely offering a variety of breads and baked goods."
+      },
+      {
+        "name": "NIK BAKER'S",
+        "category": [
+          "Bakery"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "shortDescription": "Details about NIK BAKER'S are unavailable. The name suggests a bakery, but further research is needed to determine its offerings."
       }
     ],
     "imageSrc": "https://source.unsplash.com/random/?resturant&2"
@@ -1203,27 +1608,11 @@
         ]
       },
       {
-        "name": "Dramz - Rooftop Elegance",
-        "content": "Elevate your dining experience at Dramz, a rooftop restaurant known for its elegant ambiance and panoramic views. From contemporary European dishes to curated cocktails, Dramz offers a blend of sophistication and scenic beauty near Qutub Minar.",
-        "images": [
-          "dramz_rooftop.jpg",
-          "dramz_cuisine.jpg"
-        ]
-      },
-      {
         "name": "Kakapo - Coffee with a Cause",
         "content": "Sip coffee with a cause at Kakapo, a cafe committed to social responsibility. With ethically sourced coffee and a cozy ambiance, Kakapo provides a tranquil retreat amidst the historic surroundings near Qutub Minar.",
         "images": [
           "kakapo_cafe_interior.jpg",
           "kakapo_cafe_coffee.jpg"
-        ]
-      },
-      {
-        "name": "Bo Tai Terrace - Sky-high Dining",
-        "content": "Experience sky-high dining at Bo Tai Terrace, an extension of Bo Tai Qutub. With an open-air setting and unobstructed views of Qutub Minar, this terrace adds an extra layer of charm to the culinary offerings of the area.",
-        "images": [
-          "bo_tai_terrace_sunset.jpg",
-          "bo_tai_terrace_dishes.jpg"
         ]
       },
       {
@@ -1267,20 +1656,140 @@
         ]
       },
       {
-        "name": "Conclusion",
-        "content": "As our gastronomic journey around Qutub Minar concludes, the rich tapestry of flavors adds an extra layer of charm to this historic area. Whether you're enjoying a fine dining experience or relishing street-side delights, the eateries near Qutub Minar cater to every palate.",
-        "images": [
-          "qutub_minar_overview.jpg",
-          "gastronomic_charm.jpg"
-        ]
+        "name": "Olive Bar & Kitchen",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "italian cuisine",
+          "signature cocktails",
+          "colonial building",
+          "charming ambience"
+        ],
+        "description": "Nestled in a colonial building, Olive Bar & Kitchen offers a delightful experience with exquisite Italian dishes and signature cocktails. Enjoy a charming ambience while indulging in their culinary creations."
       },
       {
-        "name": "Closing",
-        "content": "Share your favorite eateries near Qutub Minar or your own culinary experiences in this historic setting. The flavors around Qutub Minar continue to evolve, waiting to be explored further. Connect with us on social media, and let's continue celebrating the unique and delightful culinary offerings near Qutub Minar together.",
-        "images": [
-          "thank_you_qutub_minar.jpg",
-          "social_media_links_qutub_minar.jpg"
-        ]
+        "name": "The Grammar Room",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "farm-to-fork dishes",
+          "vegan options",
+          "desserts",
+          "courtyard seating"
+        ],
+        "description": "The Grammar Room boasts a cheery venue with a courtyard. They focus on farm-to-fork dishes with vegan options and delectable desserts. Their outdoor seating provides a pleasant environment."
+      },
+      {
+        "name": "Diablo",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "global cuisine",
+          "rooftop seating",
+          "city views"
+        ],
+        "description": "Diablo offers a global cuisine menu with a focus on European and Asian influences. They feature rooftop seating with stunning city views, perfect for a relaxed evening."
+      },
+      {
+        "name": "Blue Tokai Coffee | Mehrauli 1AQ",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "coffee roasters",
+          "specialty coffee",
+          "relaxed atmosphere"
+        ],
+        "description": "Blue Tokai Coffee is a well-known Indian coffee roaster. Their Mehrauli 1AQ location offers a relaxed atmosphere to savor their specialty coffee creations."
+      },
+      {
+        "name": "SWAN",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "modern indian cuisine",
+          "innovative dishes",
+          "upscale ambience"
+        ],
+        "description": "SWAN features modern Indian cuisine with a focus on innovative dishes. They offer an upscale ambience for a fine-dining experience."
+      },
+      {
+        "name": "CHÔ - Vietnamese Kitchen & Bar",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "vietnamese cuisine",
+          "authentic flavors",
+          "stylish decor"
+        ],
+        "description": "CHÔ - Vietnamese Kitchen & Bar promises an authentic Vietnamese culinary experience. Their menu features classic dishes alongside a stylish decor."
+      },
+      {
+        "name": "Qla | European Restaurant",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "european cuisine",
+          "fine dining",
+          "romantic ambience"
+        ],
+        "description": "Qla offers European cuisine in a fine-dining setting. Expect a romantic ambience perfect for a special occasion."
+      },
+      {
+        "name": "ROOH",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "progressive indian cuisine",
+          "seasonal ingredients",
+          "vibrant atmosphere"
+        ],
+        "description": "ROOH features progressive Indian cuisine, focusing on seasonal ingredients. They offer a vibrant atmosphere for a unique dining experience."
+      },
+      {
+        "name": "Ditas",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "global cuisine",
+          "rooftop seating",
+          "city views",
+          "upscale"
+        ],
+        "description": "Ditas offers a global cuisine menu with a focus on European and Asian influences. Similar to Diablo, they boast rooftop seating with stunning city views, creating a perfect spot for a relaxed evening with upscale vibes."
+      },
+      {
+        "name": "Kakapo",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "modern european cuisine",
+          "creative dishes",
+          "intimate ambience"
+        ],
+        "description": "Kakapo serves modern European cuisine with a focus on creativity and presentation. Their menu features innovative dishes in a more intimate ambience compared to other restaurants near Qutub Minar."
+      },
+      {
+        "name": "Bougie",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "modern asian cuisine",
+          "cocktails",
+          "stylish ambience",
+          "instagrammable"
+        ],
+        "description": "Bougie offers modern Asian cuisine, similar to Bo tai Qutub, but with a strong focus on a stylish and trendy ambience. Their menu likely features creative dishes and cocktails, making it a popular spot for social gatherings and capturing those perfect Instagram shots."
       }
     ],
     "imageSrc": "https://source.unsplash.com/random/?resturant&2"
@@ -1894,285 +2403,377 @@
       "Thukpa",
       "Street Food"
     ],
-    "sections":[
+    "sections": [
       {
         "name": "Cafe Dolma - Since 1984",
-        "category": ["Majnu_ka_Tila"],
+        "category": [
+          "Majnu_ka_Tila"
+        ],
         "cuisine_type": "Tibetan",
         "description": "Local favorite offering Tibetan cuisine."
       },
       {
         "name": "MG Cafe aka Cafe Mola Ganji",
-        "category": ["European/Italian"],
+        "category": [
+          "European/Italian"
+        ],
         "cuisine_type": "European/Italian",
         "shortDescription": "Cozy ambiance and European/Italian delights at affordable prices."
       },
       {
         "name": "Kham Coffee House",
-        "category":["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Sample traditional Tibetan coffee and soak in the local atmosphere."
       },
       {
         "name": "Nangma Himalayan Kitchen",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Himalayan",
         "shortDescription": "Experience authentic Himalayan flavors."
       },
       {
         "name": "Aro Momo & Cafe",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Indulge in momos, a quintessential Tibetan dumpling."
       },
       {
         "name": "Cafe Dolma",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Local favorite for Tibetan cuisine, established in 1984."
       },
       {
         "name": "Yigyal Cafe",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Explore a taste of the Himalayas."
       },
       {
         "name": "Nor Yak Cafe & Restro",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Another spot for delicious Tibetan fare."
       },
       {
         "name": "Potala Cafe",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Enjoy Tibetan delicacies with a view."
       },
       {
         "name": "Tsopema Cafe",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Try some traditional Tibetan dishes at this cafe."
       },
       {
         "name": "Kim Chi Korean Restaurant",
-        "category": ["Korean"],
+        "category": [
+          "Korean"
+        ],
         "cuisine_type": "Korean",
         "shortDescription": "Savor authentic Korean flavors."
       },
       {
         "name": "POOL CAFE",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Relax by the pool while enjoying a cup of coffee."
       },
       {
         "name": "MILA CAFE & RESTAURANT",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Offers a variety of options."
       },
       {
         "name": "Sarang Cafe - Made With Love",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Enjoy a meal prepared with love."
       },
       {
         "name": "Yamuna Cafe",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Soak in the Yamuna River views with your coffee."
       },
       {
         "name": "The Big Apple Little Cafe",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Indulge your sweet tooth or grab a cup of coffee."
       },
       {
         "name": "AMA Cafe",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Another spot to relax and enjoy a beverage."
       },
       {
         "name": "Norwang Cafe & Restaurant",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Offers a selection of food and drinks."
       },
       {
         "name": "TM kitchen",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Explore the menu at TM Kitchen."
       },
       {
         "name": "Jamyang's Bakery",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Treat yourself to some fresh-baked goodies."
       },
       {
         "name": "Mega Life Bubble Tea",
-        "category": ["Cafes/Bakeries"],
+        "category": [
+          "Cafes/Bakeries"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Enjoy a trendy bubble tea."
       },
       {
         "name": "Delhi 2D Cafe",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Offers 2D art and a creative atmosphere."
       },
       {
         "name": "Laphing Noodle Corner & Best Laphing",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Tibetan",
         "shortDescription": "Specializes in Laphing, a popular Tibetan street food."
       },
       {
         "name": "Mustang Thali",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Nepali",
         "shortDescription": "Experience a traditional Nepali thali (platter) meal."
       },
       {
         "name": "Ramen Cottage",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Japanese",
         "shortDescription": "Slurp down a steaming bowl of ramen."
       },
       {
         "name": "The Bubble Tea Cove",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Another spot to grab a trendy bubble tea."
       },
       {
         "name": "Signature Cafe",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Check out the menu and ambiance at Signature Cafe."
       },
       {
         "name": "Nirvana Sizzler & Nirvana Laphing Center",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Offers specific dishes - sizzlers and laphing respectively."
       },
       {
         "name": "BAR-KHOR",
-        "category": ["Specialty"],
+        "category": [
+          "Specialty"
+        ],
         "cuisine_type": "Varied",
         "shortDescription": "Might be a bar serving alcoholic beverages, check before you go."
       },
       {
         "name": "Tenpa Cafe Restaurant",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan/Himalayan",
         "description": "Might offer a more extensive menu compared to cafes."
       },
       {
         "name": "Nirvana Thakali Kitchen",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Nepalese",
         "description": "Sample a Thakali thali, a Nepalese set meal."
       },
       {
         "name": "Kalsang Restaurant Delhi",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "description": "Experience Tibetan flavors prepared by a restaurant named after a common Tibetan name."
       },
       {
         "name": "Lhasa Cafe",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "description": "Explore Tibetan cuisine, named after the capital of Tibet."
       },
       {
         "name": "Gangchen House & Restaurant",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Himalayan",
         "description": "Snow mountain themed restaurant offering Himalayan experience."
       },
       {
         "name": "Dolma Restaurant",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "description": "Another option for Tibetan food, separate from Cafe Dolma."
       },
       {
         "name": "Kunga Cafe & Restaurant",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Tibetan",
         "description": "Combines a cafe and restaurant setting."
       },
       {
         "name": "Himalayan Restaurant",
-        "category": ["Tibetan/Himalayan"],
+        "category": [
+          "Tibetan/Himalayan"
+        ],
         "cuisine_type": "Himalayan",
         "description": "Specializes in Himalayan cuisine."
       },
       {
         "name": "Kim Chi Korean Restaurant",
-        "category": ["Korean"],
+        "category": [
+          "Korean"
+        ],
         "cuisine_type": "Korean",
         "description": "Savor authentic Korean flavors."
       },
       {
         "name": "Busan Korean Restaurant",
-        "category": ["Korean"],
+        "category": [
+          "Korean"
+        ],
         "cuisine_type": "Korean",
         "description": "Explore South Korean cuisine, possibly focusing on seafood."
       },
       {
         "name": "Tee Dee Restaurant",
-        "category": ["International"],
+        "category": [
+          "International"
+        ],
         "cuisine_type": "Varied",
         "description": "Explore a wider variety of cuisines at Tee Dee."
       },
       {
         "name": "Rigo Restaurant + Rigo Bistro",
-        "category": ["International"],
+        "category": [
+          "International"
+        ],
         "cuisine_type": "French/Italian",
         "description": "Upscale dining experience, possibly offering French or Italian cuisine."
       },
       {
         "name": "HOT POT RESTAURANT (Majnu-ka-tilla)",
-        "category": ["International"],
+        "category": [
+          "International"
+        ],
         "cuisine_type": "Hot Pot",
         "description": "Focuses on hot pot, a communal dining experience."
       },
       {
         "name": "Bhutanese Tara Restaurant Delhi",
-        "category": ["Bhutanese"],
+        "category": [
+          "Bhutanese"
+        ],
         "cuisine_type": "Bhutanese",
         "description": "Experience the unique flavors of Bhutan at this restaurant."
       },
       {
         "name": "AMA Cafe",
-        "category": ["Others"],
+        "category": [
+          "Others"
+        ],
         "cuisine_type": "Varied",
         "description": "Offers a variety of options."
       },
       {
         "name": "TM kitchen",
-        "category": ["Others"],
+        "category": [
+          "Others"
+        ],
         "cuisine_type": "Varied",
         "description": "Explore the menu at TM Kitchen for an unknown cuisine."
       },
       {
         "name": "Sumo Restaurant",
-        "category": ["Others"],
+        "category": [
+          "Others"
+        ],
         "cuisine_type": "Japanese",
         "description": "Explore further to confirm if it's a Japanese restaurant."
       }
     ],
-        "imageSrc": "https://source.unsplash.com/random/?resturant&2"
+    "imageSrc": "https://source.unsplash.com/random/?resturant&2"
   },
   {
     "title": "Vasant-Kunj",
@@ -2383,84 +2984,373 @@
     ],
     "sections": [
       {
-        "name": "QD's - Student's Haven",
-        "content": "Step into the student's haven at QD's, a popular eatery in Satya Niketan known for its vibrant ambiance and diverse menu. The extensive menu at QD's features a mix of North Indian, Chinese, and Continental dishes, catering to a wide range of palates. Whether you're grabbing a quick bite between classes or enjoying a leisurely meal with friends, QD's captures the energetic spirit of Satya Niketan.",
-        "images": [
-          "qds_interior.jpg",
-          "qds_dishes.jpg"
-        ]
+        "name": "Wood Box Cafe✨",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Information about Wood Box Cafe✨ is currently unavailable. However, the emoji might suggest a cozy or aesthetically pleasing ambience."
       },
       {
-        "name": "Big Yellow Door - Budget-Friendly Delights",
-        "content": "Indulge in budget-friendly delights at Big Yellow Door, a beloved cafe in Satya Niketan that has become an iconic destination for students and food enthusiasts alike. The menu at Big Yellow Door offers a variety of comfort food, from loaded fries to cheesy pasta. The vibrant decor and pocket-friendly prices make it a go-to spot for those seeking delicious meals without breaking the bank.",
-        "images": [
-          "big_yellow_door_interior.jpg",
-          "big_yellow_door_menu.jpg"
-        ]
+        "name": "Cafe befikre",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Details about Cafe befikre are limited. 'Befikre' translates to 'carefree' in Hindi, so the cafe might offer a relaxed atmosphere."
       },
       {
-        "name": "Echoes - Social Enterprise",
-        "content": "Dine with a purpose at Echoes, a unique cafe in Satya Niketan that operates as a social enterprise, employing individuals with hearing and speech impairments. Beyond its commendable mission, Echoes offers a diverse menu with a range of Indian and continental dishes. The warm ambiance and friendly staff create a welcoming atmosphere for diners looking to support a cause while enjoying a delightful meal.",
-        "images": [
-          "echoes_cafe_interior.jpg",
-          "echoes_cafe_dishes.jpg"
-        ]
+        "name": "Off Campus",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "student crowd",
+          "casual ambience",
+          "affordable"
+        ],
+        "description": "Off Campus likely caters to a student crowd, offering a casual ambience and affordable prices. It could be a popular spot for studying, socializing, or grabbing a quick bite."
       },
       {
-        "name": "Woodbox Cafe - Quirky Vibes",
-        "content": "Immerse yourself in quirky vibes at Woodbox Cafe, a trendy spot in Satya Niketan that stands out for its unique decor and artistic ambiance. The menu at Woodbox Cafe features a fusion of global cuisines, with an emphasis on creativity and presentation. Whether you're admiring the eclectic decor or indulging in the diverse menu, Woodbox Cafe offers a memorable dining experience for those with an appreciation for the arts.",
-        "images": [
-          "woodbox_cafe_quirky_vibes.jpg",
-          "woodbox_cafe_dishes.jpg"
-        ]
+        "name": "Madira Cafe",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "More information is needed to describe Madira Cafe. The name 'Madira' might have a connection to wine or alcoholic beverages."
       },
       {
-        "name": "BYD - Bite Your Dreams",
-        "content": "Bite into your dreams at BYD (Bite Your Dreams), a lively eatery in Satya Niketan that captures the essence of youthful aspirations. The menu at BYD is a delightful mix of street food and international flavors, appealing to the adventurous taste buds. The vibrant decor and energetic atmosphere make BYD a dynamic destination for those looking to savor bold and imaginative dishes.",
-        "images": [
-          "byd_interior.jpg",
-          "byd_dishes.jpg"
-        ]
+        "name": "Chai Garam",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "chai",
+          "indian snacks",
+          "casual"
+        ],
+        "description": "Chai Garam likely focuses on chai (Indian spiced tea) and Indian snacks. Expect a casual atmosphere where you can savor a hot cup of chai and enjoy some light bites."
       },
       {
-        "name": "Rico's - Dessert Paradise",
-        "content": "Satisfy your sweet cravings at Rico's, a dessert paradise in Satya Niketan that specializes in decadent treats. From indulgent shakes to mouthwatering desserts, Rico's menu is a celebration of all things sweet. The cozy ambiance and tempting displays make Rico's a haven for dessert enthusiasts looking to treat themselves to a sugar-filled delight.",
-        "images": [
-          "ricos_dessert_paradise.jpg",
-          "ricos_desserts.jpg"
-        ]
+        "name": "The Chai Latte",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "chai",
+          "coffee",
+          "lattes",
+          "desserts"
+        ],
+        "description": "The Chai Latte's name suggests they offer chai, coffee variations like lattes, and possibly even desserts. It could be a cafe catering to a variety of tastes."
       },
       {
-        "name": "Dramz - Rooftop Elegance",
-        "content": "Elevate your dining experience at Dramz, a rooftop restaurant in Satya Niketan known for its elegant ambiance and panoramic views. The menu at Dramz features a fusion of global cuisines, offering a delightful array of dishes prepared with precision and creativity. Whether you're sipping on craft cocktails or savoring delectable bites, Dramz provides a sophisticated atmosphere for a memorable dining experience.",
-        "images": [
-          "dramz_rooftop.jpg",
-          "dramz_cuisine.jpg"
-        ]
+        "name": "Amigo's Hub",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "friendly atmosphere",
+          "casual hangout",
+          "snacks"
+        ],
+        "description": "Amigo's Hub sounds like a friendly place to hang out with friends. They likely offer a casual atmosphere with snacks and beverages."
       },
       {
-        "name": "Cafe Diaries - Cozy Retreat",
-        "content": "Escape into a cozy retreat at Cafe Diaries, a charming cafe in Satya Niketan that offers a peaceful atmosphere amidst the bustling surroundings. The menu at Cafe Diaries includes a variety of comfort food and beverages, perfect for a quiet rendezvous or a casual catch-up session. The intimate setting and warm hospitality make Cafe Diaries a hidden gem in Satya Niketan.",
-        "images": [
-          "cafe_diaries_cozy_retreat.jpg",
-          "cafe_diaries_menu.jpg"
-        ]
+        "name": "Coffee Therapy",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "coffee",
+          "relaxation",
+          "pick-me-up"
+        ],
+        "description": "Coffee Therapy's name suggests a focus on coffee, possibly as a way to unwind or get a caffeine boost. They might offer various coffee options and a relaxing ambience."
       },
       {
-        "name": "High On Burgers - Burger Bliss",
-        "content": "Experience burger bliss at High On Burgers, a dedicated burger joint in Satya Niketan that takes the art of burger-making to new heights. The menu at High On Burgers features an array of gourmet burgers with creative toppings and flavorful sauces. Whether you're a burger aficionado or simply craving a hearty meal, High On Burgers promises a satisfying and indulgent dining experience.",
-        "images": [
-          "high_on_burgers.jpg",
-          "high_on_burgers_menu.jpg"
-        ]
+        "name": "Burger Singh",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "burgers",
+          "fast food",
+          "casual"
+        ],
+        "description": "While Burger Singh's name suggests a focus on burgers, it might be a cafe offering a wider range of fast food options in a casual setting."
       },
       {
-        "name": "The Vintage Avenue - Nostalgic Vibes",
-        "content": "Step into a world of nostalgic vibes at The Vintage Avenue, a themed cafe in Satya Niketan that pays homage to the charm of yesteryears. The menu at The Vintage Avenue offers a mix of classic and contemporary dishes, surrounded by vintage decor and retro ambiance. Whether you're sipping on a milkshake or savoring comfort food, The Vintage Avenue provides a trip down memory lane for diners seeking a touch of nostalgia.",
-        "images": [
-          "vintage_avenue_nostalgic_vibes.jpg",
-          "vintage_avenue_menu.jpg"
-        ]
+        "name": "Rustic Cafe",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "natural ambience",
+          "wooden decor",
+          "relaxed"
+        ],
+        "description": "Rustic Cafe likely has a natural or woodsy ambience, creating a relaxed atmosphere. They might offer coffee, tea, light meals, and focus on a cozy and comfortable environment."
+      },
+      {
+        "name": "Cafe Emojis",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Details about Cafe Emojis are limited. The name suggests a playful and informal atmosphere, possibly incorporating emojis into their decor or branding."
+      },
+      {
+        "name": "Pipeline Cafe",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "More information is needed to describe Pipeline Cafe. The name might have a connection to industrial or urban design elements."
+      },
+      {
+        "name": "The Construction Co.",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "industrial ambience",
+          "unique decor",
+          "casual"
+        ],
+        "description": "The Construction Co.'s name suggests an industrial-themed cafe. They might have unique decor elements inspired by construction and offer a casual atmosphere."
+      },
+      {
+        "name": "Bottle House✨",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Information about Bottle House✨ is limited. The emoji might suggest a focus on unique glassware or a creatively designed space incorporating bottles."
+      },
+      {
+        "name": "Xero Degrees✨",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "cold beverages",
+          "ice cream",
+          "desserts",
+          "N/A"
+        ],
+        "description": "Xero Degrees' name along with the emoji suggests a focus on cold beverages, possibly ice cream or other desserts. More information is needed to confirm their exact offerings."
+      },
+      {
+        "name": "The Bowton House Cafe",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Details about The Bowton House Cafe are limited. The name might indicate a historical building or a location within a larger complex."
+      },
+      {
+        "name": "Big Yellow Door✨",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "striking entrance",
+          "casual",
+          "N/A"
+        ],
+        "description": "Big Yellow Door's name suggests a cafe with a distinctive entrance, possibly painted bright yellow. They likely offer a casual atmosphere."
+      },
+      {
+        "name": "Echoes✨",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "music-themed",
+          "live music",
+          "N/A"
+        ],
+        "description": "Echoes' name along with the emoji hints at a music-themed cafe. They might even host live music events, creating a vibrant atmosphere."
+      },
+      {
+        "name": "Crazy Kitchen Roof Top Cafe",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "rooftop seating",
+          "city views",
+          "casual",
+          "unique dishes"
+        ],
+        "description": "Crazy Kitchen Roof Top Cafe offers rooftop seating with city views, similar to Diablo or Ditas near Qutub Minar. Their name suggests they might serve unique or creative dishes in a casual setting."
+      },
+      {
+        "name": "Mum cafe & bakery",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "bakery",
+          "homemade pastries",
+          "family-friendly",
+          "casual"
+        ],
+        "description": "Mum cafe & bakery likely offers a family-friendly and casual atmosphere. They likely feature homemade pastries and baked goods alongside cafe beverages."
+      },
+      {
+        "name": "Mom hand momos",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "momos",
+          "indian cuisine",
+          "casual",
+          "affordable"
+        ],
+        "description": "Mom hand momos focuses on momos, a type of dumpling popular in Indian and Himalayan cuisine. They likely offer other Indian dishes in a casual and affordable setting."
+      },
+      {
+        "name": "Noodle Bowl",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "noodles",
+          "asian cuisine (possible)",
+          "casual"
+        ],
+        "description": "Noodle Bowl is a restaurant specializing in noodle dishes. They likely offer various Asian-inspired noodle bowls with different broths, proteins, and vegetables. Expect a casual atmosphere where you can enjoy a satisfying and flavorful noodle meal."
+      },
+      {
+        "name": "The Bowton House Cafe",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "historical building (possible)",
+          "cafe international (possible)"
+        ],
+        "description": "The Bowton House Cafe might be located in a historical building or part of a larger complex. While they might not specialize in noodle bowls, they could offer a selection of international comfort food options, which might include some noodle dishes on the menu."
+      },
+      {
+        "name": "Uptown Cafe",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "casual",
+          "neighborhood spot (possible)"
+        ],
+        "description": "Uptown Cafe is a casual spot located in an uptown area. Their menu might focus on a variety of cafe fare, including sandwiches, salads, and possibly some light noodle dishes. It could be a convenient and relaxed spot to grab a quick bite."
+      },
+      {
+        "name": "QD's Multicuisine Restaurant",
+        "category": [
+          "Restaurant"
+        ],
+        "tags": [
+          "multicuisine",
+          "budget-friendly",
+          "casual dining"
+        ],
+        "description": "QD's Multicuisine Restaurant offers a wide variety of dishes from different cuisines, making it a great choice for groups with diverse palates. They are known for being easy on the wallet and providing a casual dining experience."
+      },
+      {
+        "name": "Sista'Z",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "pizza",
+          "pasta",
+          "continental",
+          "desserts",
+          "affordable"
+        ],
+        "description": "Sista'Z is a cafe known for its delicious pizzas, pastas, and continental fare. They also offer a selection of tempting desserts. With an affordable price range, Sista'Z is a popular spot for casual meals, snacks, or sweet treats."
+      },
+      {
+        "name": "Cafe Mittro",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Information about Cafe Mittro is limited. However, based on the name 'Mittro' (meaning 'friend' in Hindi), it might offer a friendly and social atmosphere."
+      },
+      {
+        "name": "Old school cafe and longue (sic)",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "classic ambience",
+          "vintage theme (possible)",
+          "casual"
+        ],
+        "description": "Old school cafe and longue (sic) likely has a classic ambience with a focus on a more nostalgic or vintage theme. Expect a casual atmosphere where you can relax and unwind."
+      },
+      {
+        "name": "Cafe Eleven",
+        "category": [
+          "Cafe"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Details about Cafe Eleven are limited. The number 'eleven' might have a specific meaning related to the cafe's theme or origin."
+      },
+      {
+        "name": "Sharrazz",
+        "category": [
+          "Lounge"
+        ],
+        "tags": [
+          "N/A"
+        ],
+        "description": "Since 'Sharrazz' doesn't directly translate to a specific theme, it could be a modern lounge with a focus on drinks, music, and socializing. More information is needed to confirm its exact offerings."
+      },
+      {
+        "name": "Frozen Fantasy",
+        "category": [
+          "Bakery (possible)"
+        ],
+        "tags": [
+          "frozen desserts (possible)",
+          "cakes (possible)",
+          "desserts"
+        ],
+        "description": "Information about Frozen Fantasy is limited. While 'bakery' is a possibility, the name suggests a focus on frozen desserts like ice cream, cakes, or other frozen treats. They might specialize in creative and unique frozen desserts."
+      },
+      {
+        "name": "Rustic Cafe",
+        "category": [
+          "Cafe (with bakery)"
+        ],
+        "tags": [
+          "bakery",
+          "natural ingredients (possible)",
+          "casual atmosphere"
+        ],
+        "description": "Rustic Cafe likely offers a bakery section alongside cafe beverages and light meals. They might use natural ingredients to create fresh-baked breads, pastries, and desserts. Expect a casual atmosphere where you can enjoy their baked goods and relax."
       }
     ],
     "imageSrc": "https://source.unsplash.com/random/?resturant&2"
