@@ -132,7 +132,7 @@ function BlogPostDetail() {
 										</div>
 									</section>
 									<section className='blogSection'>
-										<h2>Nearby Cafes And Resturants</h2>
+										<h2>Nearby Cafes And Resturants in {post.location}</h2>
 
 										<div className="container">
 											<div className="row">
