@@ -6,6 +6,7 @@ import BlogLists from "../../data/BlogPost.json"
 import SchemaOrg from '../../commons/Schema/Schema';
 import { useNavigate } from 'react-router-dom';
 import LocationCards from '../../commons/locationCard/locationCard'
+import BlogsArticle from '../../commons/blogsArticle/BlogsArticle';
 function BlogPostDetail() {
 	const location = useLocation();
 	var { post } = ""
@@ -88,7 +89,7 @@ function BlogPostDetail() {
 								<div style={{ textAlign: 'left' }}>
 									<section className='blogSection'>
 										<p>
-											{post.introduction}
+											{post.description}
 										</p>
 									</section>
 									<section className='blogSection'>
@@ -108,6 +109,48 @@ function BlogPostDetail() {
 											))}
 										</ul>
 									</section> */}
+									<section className='blogSection'>
+										<h2>Must-Try Dishes</h2>
+										<div className='container'>
+											<div className='row'>
+												{post?.mustTryDishes?.map((item, index) => (
+													<div className="col-lg-4 col-sm-4 mb-4">
+														<div className="card">
+															<div className="card-image">
+																<img src={item.image? item.image : "https://source.unsplash.com/random/?food" }  />
+															</div>
+															<div className="card-text">
+																{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
+																<h3 className="card-title">{item.name}</h3>
+																{/* <p className="card-body">{item.description}</p> */}
+															</div>
+															{/* <div className="card-price">$56</div> */}
+														</div>
+													</div>
+												))}
+											</div>
+										</div>
+									</section>
+									<section className='blogSection'>
+										<h2>Nearby Cafes And Resturants</h2>
+
+										<div className="container">
+											<div className="row">
+												<div className="col-lg-12">
+													<div className="title text-center">
+														<h2 className="mb-5">Posted by this author</h2>
+													</div>
+												</div>
+												{post?.sections?.map((location, index) => (
+													<div>
+														{/* <Link to={'/location/' + location.title} state={{ loc: location }}> */}
+															<BlogsArticle data={location} />
+														{/* </Link> */}
+													</div>
+												))}
+											</div>
+										</div>
+									</section>
 									<section className='blogSection'>
 										<h2>Tips for Foodies</h2>
 										<ul>
@@ -137,48 +180,6 @@ function BlogPostDetail() {
 												<a href="#" className="ml-1" onClick={() => fetchTags(item)}>{item} </a>
 											))}
 										</li>
-									</section>
-									<section className='blogSection'>
-										<h2>Must-Try Dishes</h2>
-										<div className='container'>
-											<div className='row'>
-												{post?.mustTryDishes?.map((item, index) => (
-													<div className="col-lg-4 col-sm-4 mb-4">
-														<div className="card">
-															<div className="card-image">
-																<img src={item.image} />
-															</div>
-															<div className="card-text">
-																{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
-																<h3 className="card-title">{item.name}</h3>
-																<p className="card-body">{item.description}</p>
-															</div>
-															{/* <div className="card-price">$56</div> */}
-														</div>
-													</div>
-												))}
-											</div>
-										</div>
-									</section>
-									<section className='blogSection'>
-										<h2>Cafes and Resturants Near Location</h2>
-
-										<div className="container">
-											<div className="row">
-												<div className="col-lg-12">
-													<div className="title text-center">
-														<h2 className="mb-5">Posted by this author</h2>
-													</div>
-												</div>
-												{post?.sections?.map((location, index) => (
-													<div className="col-lg-4 col-sm-6 mb-4">
-														{/* <Link to={'/location/' + location.title} state={{ loc: location }}> */}
-															<LocationCards data={location} />
-														{/* </Link> */}
-													</div>
-												))}
-											</div>
-										</div>
 									</section>
 								</div>
 							</div>

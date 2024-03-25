@@ -21,7 +21,7 @@ const BlogPostCards = ({ data }) => {
                   className="ml-1">Image </a>
                 </li>
               </ul>
-              <p> <span className='introduction'>{data.introduction}</span></p> 
+              <p> <span className='introduction'>{data.description}</span></p> 
               <a href={'/blogs/' + data.title} className="btn btn-outline-primary">Continue Reading</a>
             </article>
 	);
