@@ -32,11 +32,11 @@ const BlogListings = () => {
 
 
 // print sitemap
-  var str = ""
-  for(var i= 0 ;i<blogPosts.length;i++){
-    str +="<url><loc>https://crowndevour.com/blogs/"+ blogPosts[i]?.title+"</loc><lastmod>2024-03-24</lastmod></url>"
-  }
-  console.log(str)
+  // var str = ""
+  // for(var i= 0 ;i<blogPosts.length;i++){
+  //   str +="<url><loc>https://crowndevour.com/blogs/"+ blogPosts[i]?.title+"</loc><lastmod>2024-03-24</lastmod></url>"
+  // }
+  // console.log(str)
 
   return (
     <div>
