@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import imagestes from '../../data/Images/daan-evers-tKN1WXrzQ3s-unsplash.jpg'
 const BlogsArticle = ({ data }) => {
     // Sample data for blog listings
     const navigate = useNavigate();
@@ -20,7 +21,7 @@ const BlogsArticle = ({ data }) => {
         <article class="row mb-5">
             <div class="col-12">
                 <div class="post-slider">
-                    <img loading="lazy" src={data.image ? data.image : "https://source.unsplash.com/random/480×330?cafe&orientation=landscape"} class="img-fluid" alt="post-thumb" />
+                    <img loading="lazy" src={data.image ? data.image : imagestes} class="img-fluid" alt="post-thumb" />
                 </div>
             </div>
             <div class="col-12 mx-auto">

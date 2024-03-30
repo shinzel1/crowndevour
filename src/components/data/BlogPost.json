@@ -3606,52 +3606,192 @@
     "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape",
     "sections": [
       {
-        "name": "Big Yellow Door",
-        "title": "Big-Yellow-Door"
+        "name": "Liitle Hut",
+        "title": "Liitle Hut"
       },
       {
-        "name": "Woodbox Cafe",
-        "title": "Big-Yellow-Door"
+        "name": "Ricos, Kamla Nagar",
+        "title": "Ricos, Kamla Nagar"
       },
       {
-        "name": "QD's Restaurant",
-        "title": "Big-Yellow-Door"
+        "name": "No Vacancy Cafe",
+        "title": "No Vacancy Cafe"
       },
       {
-        "name": "Rico's",
-        "title": "Big-Yellow-Door"
+        "name": "Hyde Out",
+        "title": "Hyde Out"
       },
       {
-        "name": "The Big Mistake Cafe",
-        "title": "Big-Yellow-Door"
+        "name": "The Aura Cafe",
+        "title": "The Aura Cafe"
       },
       {
-        "name": "The Hudson Cafe",
-        "title": "Big-Yellow-Door"
-      },
-      {
-        "name": "Radioactive Cafe",
-        "title": "Big-Yellow-Door"
-      },
-      {
-        "name": "Judge & Jury",
-        "title": "Big-Yellow-Door"
+        "name": "Sardar-Ji-Bakhsh Coffee | Hudson Lane",
+        "title": "Sardar-Ji-Bakhsh Coffee | Hudson Lane"
       },
       {
         "name": "Cafeteria & Co.",
-        "title": "Big-Yellow-Door"
+        "title": "Cafeteria & Co."
+      },
+      {
+        "name": "Coalition Cafe",
+        "title": "Coalition Cafe"
+      },
+      {
+        "name": "The Big Mistake Cafe",
+        "title": "The Big Mistake Cafe"
+      },
+      {
+        "name": "Abongchiiz",
+        "title": "Abongchiiz"
+      },
+      {
+        "name": "Cantino",
+        "title": "Cantino"
+      },
+      {
+        "name": "Woodbox Cafe",
+        "title": "Woodbox Cafe"
+      },
+      {
+        "name": "The cafe finom",
+        "title": "The cafe finom"
+      },
+      {
+        "name": "Sambookas Cafe",
+        "title": "Sambookas Cafe"
+      },
+      {
+        "name": "The Lit up cafe",
+        "title": "The Lit up cafe"
+      },
+      {
+        "name": "The Hudson Cafe",
+        "title": "The Hudson Cafe"
+      },
+      {
+        "name": "Starbucks coffee",
+        "title": "Starbucks coffee"
+      },
+      {
+        "name": "Virzin Wolf Cafe",
+        "title": "Virzin Wolf Cafe"
+      },
+      {
+        "name": "Judge and Jury- The best Cafe and Bar in Hudson Lane,Delhi",
+        "title": "Judge and Jury- The best Cafe and Bar in Hudson Lane,Delhi"
+      },
+      {
+        "name": "Echoes Living Room",
+        "title": "Echoes Living Room"
+      },
+      {
+        "name": "Pirates Of Campus",
+        "title": "Pirates Of Campus"
+      },
+      {
+        "name": "Bistro 57",
+        "title": "Bistro 57"
+      },
+      {
+        "name": "Housefull Cafe Lounge",
+        "title": "Housefull Cafe Lounge"
+      },
+      {
+        "name": "Moh Maya Cafe & Bar",
+        "title": "Moh Maya Cafe & Bar"
+      },
+      {
+        "name": "RadioActive Cafe",
+        "title": "RadioActive Cafe"
+      },
+      {
+        "name": "Grub Capitol",
+        "title": "Grub Capitol"
+      },
+      {
+        "name": "Telegram The Postal Cafe",
+        "title": "Telegram The Postal Cafe"
+      },
+      {
+        "name": "Mama's Buoi",
+        "title": "Mama's Buoi"
+      },
+      {
+        "name": "Tom Uncle Maggi Point",
+        "title": "Tom Uncle Maggi Point"
+      },
+      {
+        "name": "Gorgon's Gaze Cafè",
+        "title": "Gorgon's Gaze Cafè"
+      },
+      {
+        "name": "Old Street 205 Cafe & Restaurant",
+        "title": "Old Street 205 Cafe & Restaurant"
+      },
+      {
+        "name": "3 Pipers",
+        "title": "3 Pipers"
+      },
+      {
+        "name": "Lazy Bear",
+        "title": "Lazy Bear"
+      },
+      {
+        "name": "Library cafe",
+        "title": "Library cafe"
+      },
+      {
+        "name": "S.H.O.T.S- Cafe & Lounge",
+        "title": "S.H.O.T.S- Cafe & Lounge"
+      },
+      {
+        "name": "Big Yellow Door",
+        "title": "Big Yellow Door"
+      },
+      {
+        "name": "Sudama Tea Stall",
+        "title": "Sudama Tea Stall"
+      },
+      {
+        "name": "Suresh Tea Stall",
+        "title": "Suresh Tea Stall"
+      },
+      {
+        "name": "Dum Maro",
+        "title": "Dum Maro"
+      },
+      {
+        "name": "Local native",
+        "title": "Local native"
+      },
+      {
+        "name": "Cafe Lucid",
+        "title": "Cafe Lucid"
+      },
+      {
+        "name": "Sprout Cafe",
+        "title": "Sprout Cafe"
+      },
+      {
+        "name": "Ricos",
+        "title": "Ricos"
       },
       {
         "name": "Cake Bake Shake",
-        "title": "Big-Yellow-Door"
+        "title": "Cake Bake Shake"
       },
       {
-        "name": "Young Wild Free Cafe",
-        "title": "Big-Yellow-Door"
+        "name": "Spezia Bistro",
+        "title": "Spezia Bistro"
       },
       {
-        "name": "Ama Cafe",
-        "title": "Big-Yellow-Door"
+        "name": "Xo kitty",
+        "title": "Xo kitty"
+      },
+      {
+        "name": "Urban Hub",
+        "title": "Urban Hub"
       }
     ]
   },
