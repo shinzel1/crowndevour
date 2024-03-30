@@ -6,31 +6,12 @@ import { StaticRouter } from "react-router-dom/server";
 import App from "../src/App"
 const path = require('path');
 import fs from 'fs';
+const userController = require('./controllers/userController');
+import PageNotFound from "../src/components/pages/PageNotFound/PageNotFound";
+
 
 const app = express();
 const router = express.Router()
-// app.use(express.static(path.join(__dirname,"..", 'build')));
-// app.get("/*", (req, res) => {
-//   const entryPoint = [""];
-
-//   const { pipe, abort: _abort } = ReactDOMServer.renderToPipeableStream(
-//     <StaticRouter location={req.url}>
-//       <App />
-//     </StaticRouter>,
-//     {
-//       bootstrapScripts: entryPoint,
-//       onShellReady() {
-//         res.statusCode = 200;
-//         res.setHeader("Content-type", "text/html");
-//         pipe(res);
-//       },
-//       onShellError() {
-//         res.statusCode = 500;
-//         res.send("<!doctype html><p>Loading...</p>");
-//       },
-//     }
-//   );
-// });
 app.use(express.static(path.join(__dirname,"..", 'build')));
 app.use((req,res,next)=>{
   if(/\.js|\.css/.test(req.path)){
@@ -41,27 +22,41 @@ app.use((req,res,next)=>{
 })
 
 app.get('/*', (req, res) => {
-  const test = ReactDOMServer.renderToString(
-     <StaticRouter location={req.url}>
-      <App />
-    </StaticRouter>,
-  );
-  const indexFile = path.resolve(path.join(__dirname,"..", 'build',"index.html"));
-
-  fs.readFile(indexFile, 'utf8', (err, data) => {
-    if (err) {
-      console.error('Something went wrong:', err);
-      return res.status(500).send('Oops, better luck next time!');
-    }
-
-    return res.send(
-      data.replace('<div id="root"></div>', `<div id="root">${test}</div>`)
+  try {
+    const test = ReactDOMServer.renderToString(
+      <StaticRouter location={req.url}>
+        <App />
+      </StaticRouter>,
     );
-  });
+  
+    const indexFile = path.resolve(path.join(__dirname,"..", 'build',"index.html"));
+  
+    fs.readFile(indexFile, 'utf8', (err, data) => {
+      if (err) {
+        const pageNotFoundHtml = ReactDOMServer.renderToString(<PageNotFound />);
+        return res.status(404).send(pageNotFoundHtml);
+      }
+  
+      return res.send(
+        data.replace('<div id="root"></div>', `<div id="root">${test}</div>`)
+      );
+    });
+  } catch (error) {
+    console.error('Error rendering React component:', error);
+    return res.status(500).send('Oops, something went wrong!');
+  }
 });
 
+app.use(express.json()); // Parse JSON bodies
+app.use(userController); // Use the user controller
 
 router.use(express.static(path.resolve(__dirname,"..", 'build'),{maxAge:'10d'}));
+// const initializeDatabase = require('./db');
+
+// // Initialize and synchronize the database
+// initializeDatabase()
+
+
 
 app.listen(3002, () => {
   console.log("App is running on http://localhost:3002");

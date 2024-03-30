@@ -66,7 +66,7 @@ function BlogPostDetail() {
 						<article className="row mb-5">
 							<div className="col-12">
 								<div className="post-slider">
-									<img loading="lazy" src={post.imageSrc} className="img-fluid" alt="post-thumb" />
+									<img loading="lazy" src={post?.imageSrc} className="img-fluid" alt="post-thumb" />
 									{/* <img loading="lazy" src="images/post/post-1.jpg" className="img-fluid" alt="post-thumb" />
 							<img loading="lazy" src="images/post/post-3.jpg" className="img-fluid" alt="post-thumb"/> */}
 								</div>
@@ -89,13 +89,13 @@ function BlogPostDetail() {
 								<div style={{ textAlign: 'left' }}>
 									<section className='blogSection'>
 										<p>
-											{post.description}
+											{post?.description}
 										</p>
 									</section>
 									<section className='blogSection'>
 										<h2>About the Location</h2>
 										<p>
-											{post.aboutTheLocation}
+											{post?.aboutTheLocation}
 										</p>
 									</section>
 									{/* <section className='blogSection'>
@@ -117,11 +117,11 @@ function BlogPostDetail() {
 													<div className="col-lg-4 col-sm-4 mb-4">
 														<div className="card">
 															<div className="card-image">
-																<img src={item.image? item.image : "https://source.unsplash.com/random/?food" }  />
+																<img src={item.image? item?.image : "https://source.unsplash.com/random/?food" }  />
 															</div>
 															<div className="card-text">
 																{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
-																<h3 className="card-title">{item.name}</h3>
+																<h3 className="card-title">{item?.name}</h3>
 																{/* <p className="card-body">{item.description}</p> */}
 															</div>
 															{/* <div className="card-price">$56</div> */}
@@ -132,7 +132,7 @@ function BlogPostDetail() {
 										</div>
 									</section>
 									<section className='blogSection'>
-										<h2>Nearby Cafes And Resturants in {post.location}</h2>
+										<h2>Nearby Cafes And Resturants in {post?.location}</h2>
 
 										<div className="container">
 											<div className="row">
@@ -162,13 +162,13 @@ function BlogPostDetail() {
 									<section className='blogSection'>
 										<h2>Personal Recommendations</h2>
 										<p>
-											{post.personalRecommendations}
+											{post?.personalRecommendations}
 										</p>
 									</section>
 									<section className='blogSection'>
 										<h2>Conclusion</h2>
 										<p>
-											{post.conclusion}
+											{post?.conclusion}
 										</p>
 									</section>
 									<section className='blogSection'>
@@ -201,15 +201,15 @@ function BlogPostDetail() {
 							<h5 className="widget-title"><span>Latest Article</span></h5>
 
 							{lastThreeBlogs.map((location, index) => (
-								<Link to={'/location/' + location.title} state={{ loc: location }}>
+								<Link to={'/location/' + location?.title} state={{ loc: location }}>
 									<ul className="list-unstyled widget-list">
 										<li className="media widget-post align-items-center">
 											<a href="#">
-												<img loading="lazy" className="mr-3" src={location.imageSrc} alt='image' />
+												<img loading="lazy" className="mr-3" src={location?.imageSrc} alt='image' />
 											</a>
 											<div className="media-body">
-												<h5 className="h6 mb-0"><a href="#">{location.name}</a></h5>
-												<small>{location.date}</small>
+												<h5 className="h6 mb-0"><a href="#">{location?.name}</a></h5>
+												<small>{location?.date}</small>
 											</div>
 										</li>
 									</ul>
