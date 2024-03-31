@@ -2975,7 +2975,8 @@
       "Affordable and casual dining experience"
     ],
     "category": [
-     "cafe","restaurant"
+      "cafe",
+      "restaurant"
     ],
     "tags": [
       "South Indian",
@@ -2988,9 +2989,7 @@
     ],
     "rating": 4,
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28016.007160591267!2d77.20138361979603!3d28.62973527320921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd35a5050ac9%3A0x9ff61a521b9fd13f!2sSaravana%20Bhavan!5e0!3m2!1sen!2sin!4v1708174483406!5m2!1sen!2sin",
-    "bestInMenu": [
-      
-    ],
+    "bestInMenu": [],
     "shortDescription": "Cafe Saravana Bhavan offers a delightful South Indian dining experience in Connaught Place, with a focus on flavorful dosas and other vegetarian dishes at affordable prices.",
     "description": [
       "Immerse yourself in the vibrant flavors of South India at Cafe Saravana Bhavan, located in the heart of Connaught Place. This casual cafe offers a delectable selection of South Indian dishes, with a special emphasis on their renowned dosas. Choose from a variety of crispy and flavorful dosas, each prepared with fresh ingredients and authentic recipes.",
@@ -3011,7 +3010,7 @@
       "Luxurious and modern ambiance within the Shangri-La Eros Hotel"
     ],
     "category": [
-    "cafe"
+      "cafe"
     ],
     "tags": [
       "Indian",
@@ -3025,8 +3024,7 @@
     ],
     "rating": 4,
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.293492576362!2d77.21329107927993!3d28.620964621896476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2ca85e71fcf%3A0x6cb7ac18d24eec4f!2sMister%20Chai!5e0!3m2!1sen!2sin!4v1708174615662!5m2!1sen!2sin",
-    "bestInMenu": [
-    ],
+    "bestInMenu": [],
     "shortDescription": "Mister Chai at the Shangri-La Eros Hotel offers a unique blend of regional Indian street food with a modern twist, an extensive tea selection, and a luxurious ambiance in the heart of Connaught Place.",
     "description": [
       "Step into a haven of modern Indian flavors at Mister Chai, nestled within the luxurious Shangri-La Eros Hotel in Connaught Place. This contemporary tea lounge transcends traditional expectations, offering a menu that reimagines regional Indian street food with a modern touch. Indulge in dishes like the Deconstructed Samosa Chaat or the Tandoori Chicken Bao, each bursting with unique flavor combinations and innovative presentations.",
@@ -3035,5 +3033,170 @@
       "**Note:** This description is specific to the Mister Chai in the Shangri-La Eros Hotel. Other locations might have slightly different menus and atmospheres."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMpOj_pLGMCqmC2Q6mP2Drve6gRBU_A58oZooZo=s1360-w1360-h1020"
+  },
+  {
+    "title": "Too-Mikkii-Tapas-Cafe",
+    "name": "Too Mikkii Tapas Cafe",
+    "location": "Chanakyapuri, opposite the Taj Palace Hotel, New Delhi",
+    "type": "",
+    "highlights": [
+    ],
+    "category": [
+      "Cafe",
+      "Casual Dining",
+      "Italian",
+      "Continental"
+    ],
+    "tags": [
+      "Delhi",
+      "Chanakyapuri",
+      "Tapas",
+      "Pizza",
+      "Pasta",
+      "Coffee",
+      "Continental",
+      "Casual Dining",
+      "Cozy Ambiance",
+      "Friendly Service",
+      "Vegetarian Options",
+      "Wifi",
+      "Brunch",
+      "Coffee Shop",
+      "Bakery",
+      "Takeaway",
+      "Delivery"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.159357417375!2d77.16942017549947!3d28.594995775685234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d6aab9cdcc1%3A0x819070e19afc5830!2sToo%20Mikkii%20Tapas%20Cafe!5e0!3m2!1sen!2sin!4v1711806919524!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "Escape the ordinary at Too Mikkii Tapas Cafe. Enjoy delicious food, drinks, and a cozy atmosphere in the heart of Delhi.",
+    "description": [
+      "Craving a delightful and casual dining experience in Delhi? Look no further than Too Mikkii Tapas Cafe! This cafe offers a warm and inviting ambiance perfect for catching up with friends or enjoying a relaxed solo meal.",
+      "While 'Tapas' is in the name, Too Mikkii Tapas goes beyond the typical Spanish small plates. Their menu boasts a delicious fusion, featuring pizzas, pastas, and other Continental delights alongside their signature tapas.  Be sure to try their hot chocolate, known for being super delicious, and their colorful hummus platter, a feast for both the eyes and the taste buds.",
+      "Coffee lovers won't be disappointed either. Too Mikkii Tapas prides itself on offering 'super delicious coffee' to jumpstart your day or provide an afternoon pick-me-up.",
+      "Location is a plus too. Situated in the posh area of Chanakyapuri, opposite the Taj Palace Hotel, Too Mikkii Tapas is conveniently accessible from various parts of Delhi.",
+      "The cafe consistently receives positive reviews, with customers raving about the friendly service and good value for money. Whether you're seeking a casual lunch, a relaxed evening with friends, or a quick coffee break, Too Mikkii Tapas offers a delightful and satisfying experience."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMpOj_pLGMCqmC2Q6mP2Drve6gRBU_A58oZooZo=s1360-w1360-h1020"
+  },
+  {
+    "title": "Tea-Lounge-Cafe",
+    "name": "Tea Lounge ",
+    "location": "Chanakyapuri, opposite the Taj Palace Hotel, New Delhi",
+    "type": "",
+    "highlights": [
+    ],
+    "category": [
+      "Fine Dining", "Tea Room",  "Luxury Hotels"
+    ],
+    "tags": [
+      "The Tea Lounge", "Taj Palace", "Chanakyapuri", "Afternoon Tea", "High Tea", "Single Estate Tea", "Luxury Tea", "New Delhi"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14012.617042611997!2d77.1703574!3d28.5951487!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d1551ae53db%3A0xa674d67a891cb462!2sTea%20Lounge!5e0!3m2!1sen!2sin!4v1711807094237!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "Discerning tea lovers, rejoice! The Tea Lounge at the Taj Palace in Chanakyapuri offers an unparalleled experience for those seeking an elegant escape with a steaming cup in hand. Nestled within the opulent lobby of this iconic hotel, this sophisticated lounge invites you on a luxurious exploration of the world of tea.",
+    "description": [
+      "Discerning tea lovers, rejoice! The Tea Lounge at the Taj Palace in Chanakyapuri offers an unparalleled experience for those seeking an elegant escape with a steaming cup in hand. Nestled within the opulent lobby of this iconic hotel, this sophisticated lounge invites you on a luxurious exploration of the world of tea.",
+      "Prepare to be dazzled by the Tea Lounge's extensive tea menu.  Boasting over 90 single-estate teas, their collection caters to even the most discerning palate.  Travel the globe through your taste buds, savoring the delicate notes of Darjeeling or the robust character of Assam. Feeling more adventurous? Explore a world of exotic options, featuring floral infusions, fruity blends, and rare oolong varieties.",
+      "No afternoon tea experience is complete without delectable treats.  The Tea Lounge complements their exquisite teas with a curated selection of savories and handcrafted pastries. Delicate finger sandwiches, savory bites, and exquisite desserts, all prepared fresh daily by their Master Pâtissier, create a symphony of flavors that will tantalize your taste buds.",
+      "Step into a world of timeless elegance at The Tea Lounge. The plush seating, adorned with rich fabrics, is bathed in warm, inviting light. Marble floors and sophisticated décor create a regal ambiance that reflects the grandeur of the Taj Palace itself.  Whether you're catching up with friends over a leisurely afternoon tea or seeking a quiet moment of relaxation, The Tea Lounge provides the perfect setting for indulgence.",
+      "For those seeking an unparalleled tea experience in the heart of New Delhi, look no further than The Tea Lounge at the Taj Palace, Chanakyapuri. With its unparalleled tea selection, delectable treats, and luxurious ambiance, this iconic lounge promises an unforgettable afternoon."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOtPSMn2GsBd2eBAJiP_Sm1blOni2UvI9sj8H_C=s1360-w1360-h1020"
+  },
+  {
+    "title": "SANCHA-Tea-Boutique",
+    "name": "SANCHA Tea Boutique",
+    "location": "SANCHA Tea Boutique, Chanakyapuri, New Delhi",
+    "type": "",
+    "highlights": [
+    ],
+    "category": [
+      "Tea Room", "Cafes",  "Healthy Food"
+    ],
+    "tags": [
+      "SANCHA Tea Boutique", "Chanakyapuri", "Tea Boutique Delhi", "Loose Leaf Tea India", "Indian Tea Estates", "Modern Tea Cafe"," Afternoon Tea"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14012.617855833514!2d77.1984665!3d28.5951426!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd22f177825d%3A0xaf96b21d3b281a06!2sSANCHA%20Tea%20Boutique%2C%20Chanakyapuri%20!5e0!3m2!1sen!2sin!4v1711809467860!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "Tea aficionados, unite! Nestled amidst the vibrant energy of Chanakyapuri, SANCHA Tea Boutique offers a sanctuary for those seeking a delightful escape steeped in the rich world of tea. This boutique isn't just a cafe; it's a destination for discerning palates and a celebration of India's exceptional tea heritage.",
+    "description": [
+      "Tea aficionados, unite! Nestled amidst the vibrant energy of Chanakyapuri, SANCHA Tea Boutique offers a sanctuary for those seeking a delightful escape steeped in the rich world of tea. This boutique isn't just a cafe; it's a destination for discerning palates and a celebration of India's exceptional tea heritage.",
+      "SANCHA Tea Boutique isn't your average tea shop. Here, the focus is on quality and an unparalleled tea experience. Their expert team, led by Master Tea Taster Sanjay Kapur, meticulously sources leaves from India's finest estates, ensuring peak freshness and the most exquisite flavors. Explore a diverse selection, from classic Darjeelings and brisk Assams to fragrant oolongs and soothing herbal infusions. Each cup promises a journey for your senses.",
+    "SANCHA complements their exceptional teas with a delectable array of gourmet accompaniments. Delicate sandwiches, handcrafted pastries, and delightful desserts are prepared fresh daily, offering the perfect pairing for your chosen brew. Whether you prefer a light afternoon snack or a more substantial bite, their menu caters to every desire.",
+    "Step into a haven of minimalist elegance at SANCHA Tea Boutique. The boutique's modern design features clean lines, natural light, and pops of green, creating a calming and sophisticated atmosphere.  Relax in plush seating and lose yourself in a good book, catch up with friends over steaming cups, or simply savor a moment of peace amidst the city's buzz.",
+    "Whether you're a seasoned tea enthusiast or a curious newcomer, SANCHA Tea Boutique offers an invitation to explore the world of tea in style.  With their exceptional selection, delectable treats, and inviting ambiance, this boutique promises a delightful escape for every tea lover in Chanakyapuri."  
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMdJk0q7uZWcYd33XLa4LkSWlCjufwL_Cp1JTlT=s1360-w1360-h1020"
+  }
+  ,
+  {
+    "title": "The-Pavilion-Cafe",
+    "name": "The Pavilion Cafe, Chanakyapuri",
+    "location": "The Pavilion Cafe, Chanakyapuri, New Delhi",
+    "type": "",
+    "highlights": [
+    ],
+    "category": [
+      "Fine Dining", "Restaurants",  "Sunday Brunch"
+    ],
+    "tags": [
+      "The Pavilion Cafe", "Chanakyapuri", "Upscale Dining","Global Cuisine", "Luxury Cafe", "Sunday Brunch", "Delhi"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112098.860294782!2d77.03358761640625!3d28.597095199999988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d403a9d109f%3A0x25acc1ffe95882bf!2sThe%20Pavilion!5e0!3m2!1sen!2sin!4v1711880128316!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "In the heart of Delhi's diplomatic enclave, The Pavilion Cafe, Chanakyapuri, offers a delightful respite from the city's vibrancy. This elegant cafe, beckons you with the promise of an upscale dining experience featuring global flavors and impeccable service.",
+    "description": [
+      "In the heart of Delhi's diplomatic enclave, The Pavilion Cafe, Chanakyapuri, offers a delightful respite from the city's vibrancy. This elegant cafe, beckons you with the promise of an upscale dining experience featuring global flavors and impeccable service.",
+    "The Pavilion Cafe's menu is a celebration of culinary diversity.  Embark on a flavor adventure with their extensive selection of dishes, encompassing [mention specific cuisines offered, e.g., Italian, Chinese, North Indian].  Savor classic favorites like succulent kebabs or indulge in gourmet pastas.  For a lighter option, explore their selection of fresh salads and sandwiches.",
+    "The Pavilion Cafe's culinary artistry extends beyond the plate.  Step into a world of refined elegance, where plush seating and warm lighting create an inviting ambiance. Floor-to-ceiling windows bathe the space in natural light, offering a glimpse of the bustling city or the hotel's serene gardens. Whether you're seeking a power lunch with colleagues or a romantic evening out, The Pavilion Cafe provides the perfect setting.",
+    "The Pavilion Cafe's brunch is a legendary experience in Chanakyapuri. Every Sunday, the cafe transforms into a haven for gourmands, offering a lavish spread of breakfast favorites alongside international specialties. From fluffy pancakes and piping hot omelets to delectable curries and live grills, the brunch caters to every palate.",
+    "The Pavilion Cafe promises a delightful experience for those seeking an upscale yet comfortable dining experience. With its [mention their strong points, e.g., global cuisine, elegant ambiance, or legendary brunch], this cafe is a must-visit for anyone in Chanakyapuri."
+   ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNTtaIk9o0GIfD2U17jxuvXowpmGadVfbd-oyFO=s1360-w1360-h1020"
+  },
+  {
+    "title": "Bukhara-Cafe",
+    "name": "Bukhara Cafe, Chanakyapuri",
+    "location": "The Pavilion Cafe, Chanakyapuri, New Delhi",
+    "type": "",
+    "highlights": [
+    ],
+    "category": [
+      "Fine Dining", "Indian Restaurants"
+    ],
+    "tags": [
+      "Bukhara Cafe", "Chanakyapuri", "ITC Maurya", "Northwest Indian Cuisine", "Tandoor Grills", "Authentic Indian Food", "Fine Dining", "Delhi"
+    ],
+    "menuImage": [
+      ""
+    ],
+    "rating": 4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.0904846056974!2d77.17114207495547!3d28.59706218569156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d3ff605d8a1%3A0x9a71477f84e8b93d!2sBukhara!5e0!3m2!1sen!2sin!4v1711880670517!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "Embark on a delectable journey through the culinary heritage of Northwest India at Bukhara Cafe in Chanakyapuri. This exquisite restaurant, housed within the luxurious ITC Maurya (replace with the hotel's name if different), isn't just a cafe; it's a celebration of time-tested recipes and the unique flavors of the region.",
+    "description": [
+    "Embark on a delectable journey through the culinary heritage of Northwest India at Bukhara Cafe in Chanakyapuri. This exquisite restaurant, housed within the luxurious ITC Maurya (replace with the hotel's name if different), isn't just a cafe; it's a celebration of time-tested recipes and the unique flavors of the region.",
+    "Bukhara Cafe's menu is a testament to the rich culinary traditions of Bukhara, an ancient city on the historic Silk Road.  Their expert chefs, steeped in generations-old recipes, meticulously recreate these dishes, ensuring an authentic and flavorful experience.  Savor succulent tandoor grills infused with aromatic spices, like the melt-in-your-mouth Dal Bukhara or the flavorful Sikandari Raan. Vegetarians are equally spoiled for choice with delectable options like Paneer Tikka Masala or the flavorful Subz Dum Biryani.",
+    "Bukhara Cafe's ambiance complements its culinary journey.  Step into a world of opulent grandeur, where traditional Indian motifs seamlessly blend with contemporary elegance.  Dimmed lighting and plush seating create an intimate setting, while intricate Mughal-inspired artwork adorns the walls. Whether you're celebrating a special occasion or simply seeking a memorable dining experience, Bukhara Cafe provides the perfect backdrop.",
+    "While Bukhara Cafe honors tradition, it also embraces a touch of modernity. Their innovative beverage menu features classic cocktails with a twist, showcasing Indian ingredients and flavors.  Pair your meal with a refreshing 'Chilled Aam Panna' or a decadent 'Kashmiri Kahwa Martini' for a truly unique experience.",
+    "Bukhara Cafe promises an unforgettable culinary adventure for those seeking a taste of authentic Indian flavors. With its [mention their strong points, e.g., legacy of recipes, opulent ambiance, or innovative beverages], this restaurant is a must-visit for discerning palates in Chanakyapuri." 
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPcf1LNvoTnNoHUYfkIGIxe5vHGJ352jX4_peR0=s1360-w1360-h1020"
   }
 ]

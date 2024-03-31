@@ -8,12 +8,12 @@ const SchemaOrg = ({ data }) => {
         {{
           "@context": "http://schema.org",
           "@type": "CreativeWork",
-          "headline": data.name,
-          "description": data.description,
-          "datePublished": data.date,
+          "headline": data?.name,
+          "description": data?.description,
+          "datePublished": data?.date,
           "author": {
             "@type": "Person",
-            "name": data.author,
+            "name": data?.author,
           },
           // Add other relevant properties based on your content
         }}
