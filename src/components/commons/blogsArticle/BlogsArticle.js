@@ -25,7 +25,7 @@ const BlogsArticle = ({ data }) => {
                 </div>
             </div>
             <div class="col-12 mx-auto">
-                <h3><a className="post-title" href={'/location/' + data.name}>{data.name}</a></h3>
+                <h3><span className="post-title">{data.name}</span></h3>
                 <ul className="list-inline post-meta mb-2">
                     <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">{data.author}</a>
                     </li>
@@ -44,7 +44,7 @@ const BlogsArticle = ({ data }) => {
 
                     </li>
                 </ul>
-                <p> <span className=''>{data.shortDescription}</span></p> <a href={'/location/' + data.name} className="btn btn-outline-primary">Continue Reading</a>
+                <p> <span className=''>{data.shortDescription}</span></p> <span className="btn btn-outline-primary">Continue Reading</span>
             </div>
         </article>
     );
