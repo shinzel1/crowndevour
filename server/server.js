@@ -6,7 +6,6 @@ import { StaticRouter } from "react-router-dom/server";
 import App from "../src/App"
 const path = require('path');
 import fs from 'fs';
-const userController = require('./controllers/userController');
 import PageNotFound from "../src/components/pages/PageNotFound/PageNotFound";
 
 
@@ -48,8 +47,6 @@ app.get('/*', (req, res) => {
 });
 
 app.use(express.json()); // Parse JSON bodies
-app.use(userController); // Use the user controller
-
 router.use(express.static(path.resolve(__dirname,"..", 'build'),{maxAge:'10d'}));
 // const initializeDatabase = require('./db');
 
