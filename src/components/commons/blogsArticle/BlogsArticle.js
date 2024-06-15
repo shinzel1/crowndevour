@@ -18,13 +18,13 @@ const BlogsArticle = ({ data }) => {
 
     return (
 
-        <article class="row mb-5">
-            <div class="col-12">
-                <div class="post-slider">
-                    <img loading="lazy" src={data.image ? data.image : imagestes} class="img-fluid" alt="post-thumb" />
+        <article className="row mb-5">
+            <div className="col-12">
+                <div className="post-slider">
+                    <img loading="lazy" src={data.image ? data.image : imagestes} className="img-fluid" alt="post-thumb" />
                 </div>
             </div>
-            <div class="col-12 mx-auto">
+            <div className="col-12 mx-auto">
                 <h3><span className="post-title">{data.name}</span></h3>
                 <ul className="list-inline post-meta mb-2">
                     <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">{data.author}</a>

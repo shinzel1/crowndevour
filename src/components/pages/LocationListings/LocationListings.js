@@ -77,8 +77,13 @@ function LocationListings() {
         setSearchQuery("")
       }
     }, 1000);
+      // print Location sitemap
+  // var str = ""
+  // for(var i= 0 ;i<filteredLocations.length;i++){
+  //   str +="<url><loc>https://crowndevour.com/location/"+ filteredLocations[i]?.title+"</loc><lastmod>2024-04-11</lastmod></url>"
+  // }
+  // console.log(str)
   }, []);
-
   return (
     <div className="location-listings">
       <h1>Explore Cafe's And Resturant's</h1>

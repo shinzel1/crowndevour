@@ -3039,8 +3039,7 @@
     "name": "Too Mikkii Tapas Cafe",
     "location": "Chanakyapuri, opposite the Taj Palace Hotel, New Delhi",
     "type": "",
-    "highlights": [
-    ],
+    "highlights": [],
     "category": [
       "Cafe",
       "Casual Dining",
@@ -3087,13 +3086,21 @@
     "name": "Tea Lounge ",
     "location": "Chanakyapuri, opposite the Taj Palace Hotel, New Delhi",
     "type": "",
-    "highlights": [
-    ],
+    "highlights": [],
     "category": [
-      "Fine Dining", "Tea Room",  "Luxury Hotels"
+      "Fine Dining",
+      "Tea Room",
+      "Luxury Hotels"
     ],
     "tags": [
-      "The Tea Lounge", "Taj Palace", "Chanakyapuri", "Afternoon Tea", "High Tea", "Single Estate Tea", "Luxury Tea", "New Delhi"
+      "The Tea Lounge",
+      "Taj Palace",
+      "Chanakyapuri",
+      "Afternoon Tea",
+      "High Tea",
+      "Single Estate Tea",
+      "Luxury Tea",
+      "New Delhi"
     ],
     "menuImage": [
       ""
@@ -3116,13 +3123,20 @@
     "name": "SANCHA Tea Boutique",
     "location": "SANCHA Tea Boutique, Chanakyapuri, New Delhi",
     "type": "",
-    "highlights": [
-    ],
+    "highlights": [],
     "category": [
-      "Tea Room", "Cafes",  "Healthy Food"
+      "Tea Room",
+      "Cafes",
+      "Healthy Food"
     ],
     "tags": [
-      "SANCHA Tea Boutique", "Chanakyapuri", "Tea Boutique Delhi", "Loose Leaf Tea India", "Indian Tea Estates", "Modern Tea Cafe"," Afternoon Tea"
+      "SANCHA Tea Boutique",
+      "Chanakyapuri",
+      "Tea Boutique Delhi",
+      "Loose Leaf Tea India",
+      "Indian Tea Estates",
+      "Modern Tea Cafe",
+      " Afternoon Tea"
     ],
     "menuImage": [
       ""
@@ -3134,25 +3148,31 @@
     "description": [
       "Tea aficionados, unite! Nestled amidst the vibrant energy of Chanakyapuri, SANCHA Tea Boutique offers a sanctuary for those seeking a delightful escape steeped in the rich world of tea. This boutique isn't just a cafe; it's a destination for discerning palates and a celebration of India's exceptional tea heritage.",
       "SANCHA Tea Boutique isn't your average tea shop. Here, the focus is on quality and an unparalleled tea experience. Their expert team, led by Master Tea Taster Sanjay Kapur, meticulously sources leaves from India's finest estates, ensuring peak freshness and the most exquisite flavors. Explore a diverse selection, from classic Darjeelings and brisk Assams to fragrant oolongs and soothing herbal infusions. Each cup promises a journey for your senses.",
-    "SANCHA complements their exceptional teas with a delectable array of gourmet accompaniments. Delicate sandwiches, handcrafted pastries, and delightful desserts are prepared fresh daily, offering the perfect pairing for your chosen brew. Whether you prefer a light afternoon snack or a more substantial bite, their menu caters to every desire.",
-    "Step into a haven of minimalist elegance at SANCHA Tea Boutique. The boutique's modern design features clean lines, natural light, and pops of green, creating a calming and sophisticated atmosphere.  Relax in plush seating and lose yourself in a good book, catch up with friends over steaming cups, or simply savor a moment of peace amidst the city's buzz.",
-    "Whether you're a seasoned tea enthusiast or a curious newcomer, SANCHA Tea Boutique offers an invitation to explore the world of tea in style.  With their exceptional selection, delectable treats, and inviting ambiance, this boutique promises a delightful escape for every tea lover in Chanakyapuri."  
+      "SANCHA complements their exceptional teas with a delectable array of gourmet accompaniments. Delicate sandwiches, handcrafted pastries, and delightful desserts are prepared fresh daily, offering the perfect pairing for your chosen brew. Whether you prefer a light afternoon snack or a more substantial bite, their menu caters to every desire.",
+      "Step into a haven of minimalist elegance at SANCHA Tea Boutique. The boutique's modern design features clean lines, natural light, and pops of green, creating a calming and sophisticated atmosphere.  Relax in plush seating and lose yourself in a good book, catch up with friends over steaming cups, or simply savor a moment of peace amidst the city's buzz.",
+      "Whether you're a seasoned tea enthusiast or a curious newcomer, SANCHA Tea Boutique offers an invitation to explore the world of tea in style.  With their exceptional selection, delectable treats, and inviting ambiance, this boutique promises a delightful escape for every tea lover in Chanakyapuri."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipMdJk0q7uZWcYd33XLa4LkSWlCjufwL_Cp1JTlT=s1360-w1360-h1020"
-  }
-  ,
+  },
   {
     "title": "The-Pavilion-Cafe",
     "name": "The Pavilion Cafe, Chanakyapuri",
     "location": "The Pavilion Cafe, Chanakyapuri, New Delhi",
     "type": "",
-    "highlights": [
-    ],
+    "highlights": [],
     "category": [
-      "Fine Dining", "Restaurants",  "Sunday Brunch"
+      "Fine Dining",
+      "Restaurants",
+      "Sunday Brunch"
     ],
     "tags": [
-      "The Pavilion Cafe", "Chanakyapuri", "Upscale Dining","Global Cuisine", "Luxury Cafe", "Sunday Brunch", "Delhi"
+      "The Pavilion Cafe",
+      "Chanakyapuri",
+      "Upscale Dining",
+      "Global Cuisine",
+      "Luxury Cafe",
+      "Sunday Brunch",
+      "Delhi"
     ],
     "menuImage": [
       ""
@@ -3163,11 +3183,11 @@
     "shortDescription": "In the heart of Delhi's diplomatic enclave, The Pavilion Cafe, Chanakyapuri, offers a delightful respite from the city's vibrancy. This elegant cafe, beckons you with the promise of an upscale dining experience featuring global flavors and impeccable service.",
     "description": [
       "In the heart of Delhi's diplomatic enclave, The Pavilion Cafe, Chanakyapuri, offers a delightful respite from the city's vibrancy. This elegant cafe, beckons you with the promise of an upscale dining experience featuring global flavors and impeccable service.",
-    "The Pavilion Cafe's menu is a celebration of culinary diversity.  Embark on a flavor adventure with their extensive selection of dishes, encompassing [mention specific cuisines offered, e.g., Italian, Chinese, North Indian].  Savor classic favorites like succulent kebabs or indulge in gourmet pastas.  For a lighter option, explore their selection of fresh salads and sandwiches.",
-    "The Pavilion Cafe's culinary artistry extends beyond the plate.  Step into a world of refined elegance, where plush seating and warm lighting create an inviting ambiance. Floor-to-ceiling windows bathe the space in natural light, offering a glimpse of the bustling city or the hotel's serene gardens. Whether you're seeking a power lunch with colleagues or a romantic evening out, The Pavilion Cafe provides the perfect setting.",
-    "The Pavilion Cafe's brunch is a legendary experience in Chanakyapuri. Every Sunday, the cafe transforms into a haven for gourmands, offering a lavish spread of breakfast favorites alongside international specialties. From fluffy pancakes and piping hot omelets to delectable curries and live grills, the brunch caters to every palate.",
-    "The Pavilion Cafe promises a delightful experience for those seeking an upscale yet comfortable dining experience. With its [mention their strong points, e.g., global cuisine, elegant ambiance, or legendary brunch], this cafe is a must-visit for anyone in Chanakyapuri."
-   ],
+      "The Pavilion Cafe's menu is a celebration of culinary diversity.  Embark on a flavor adventure with their extensive selection of dishes, encompassing [mention specific cuisines offered, e.g., Italian, Chinese, North Indian].  Savor classic favorites like succulent kebabs or indulge in gourmet pastas.  For a lighter option, explore their selection of fresh salads and sandwiches.",
+      "The Pavilion Cafe's culinary artistry extends beyond the plate.  Step into a world of refined elegance, where plush seating and warm lighting create an inviting ambiance. Floor-to-ceiling windows bathe the space in natural light, offering a glimpse of the bustling city or the hotel's serene gardens. Whether you're seeking a power lunch with colleagues or a romantic evening out, The Pavilion Cafe provides the perfect setting.",
+      "The Pavilion Cafe's brunch is a legendary experience in Chanakyapuri. Every Sunday, the cafe transforms into a haven for gourmands, offering a lavish spread of breakfast favorites alongside international specialties. From fluffy pancakes and piping hot omelets to delectable curries and live grills, the brunch caters to every palate.",
+      "The Pavilion Cafe promises a delightful experience for those seeking an upscale yet comfortable dining experience. With its [mention their strong points, e.g., global cuisine, elegant ambiance, or legendary brunch], this cafe is a must-visit for anyone in Chanakyapuri."
+    ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNTtaIk9o0GIfD2U17jxuvXowpmGadVfbd-oyFO=s1360-w1360-h1020"
   },
   {
@@ -3175,13 +3195,20 @@
     "name": "Bukhara Cafe, Chanakyapuri",
     "location": "The Pavilion Cafe, Chanakyapuri, New Delhi",
     "type": "",
-    "highlights": [
-    ],
+    "highlights": [],
     "category": [
-      "Fine Dining", "Indian Restaurants"
+      "Fine Dining",
+      "Indian Restaurants"
     ],
     "tags": [
-      "Bukhara Cafe", "Chanakyapuri", "ITC Maurya", "Northwest Indian Cuisine", "Tandoor Grills", "Authentic Indian Food", "Fine Dining", "Delhi"
+      "Bukhara Cafe",
+      "Chanakyapuri",
+      "ITC Maurya",
+      "Northwest Indian Cuisine",
+      "Tandoor Grills",
+      "Authentic Indian Food",
+      "Fine Dining",
+      "Delhi"
     ],
     "menuImage": [
       ""
@@ -3191,12 +3218,446 @@
     "bestInMenu": [],
     "shortDescription": "Embark on a delectable journey through the culinary heritage of Northwest India at Bukhara Cafe in Chanakyapuri. This exquisite restaurant, housed within the luxurious ITC Maurya (replace with the hotel's name if different), isn't just a cafe; it's a celebration of time-tested recipes and the unique flavors of the region.",
     "description": [
-    "Embark on a delectable journey through the culinary heritage of Northwest India at Bukhara Cafe in Chanakyapuri. This exquisite restaurant, housed within the luxurious ITC Maurya (replace with the hotel's name if different), isn't just a cafe; it's a celebration of time-tested recipes and the unique flavors of the region.",
-    "Bukhara Cafe's menu is a testament to the rich culinary traditions of Bukhara, an ancient city on the historic Silk Road.  Their expert chefs, steeped in generations-old recipes, meticulously recreate these dishes, ensuring an authentic and flavorful experience.  Savor succulent tandoor grills infused with aromatic spices, like the melt-in-your-mouth Dal Bukhara or the flavorful Sikandari Raan. Vegetarians are equally spoiled for choice with delectable options like Paneer Tikka Masala or the flavorful Subz Dum Biryani.",
-    "Bukhara Cafe's ambiance complements its culinary journey.  Step into a world of opulent grandeur, where traditional Indian motifs seamlessly blend with contemporary elegance.  Dimmed lighting and plush seating create an intimate setting, while intricate Mughal-inspired artwork adorns the walls. Whether you're celebrating a special occasion or simply seeking a memorable dining experience, Bukhara Cafe provides the perfect backdrop.",
-    "While Bukhara Cafe honors tradition, it also embraces a touch of modernity. Their innovative beverage menu features classic cocktails with a twist, showcasing Indian ingredients and flavors.  Pair your meal with a refreshing 'Chilled Aam Panna' or a decadent 'Kashmiri Kahwa Martini' for a truly unique experience.",
-    "Bukhara Cafe promises an unforgettable culinary adventure for those seeking a taste of authentic Indian flavors. With its [mention their strong points, e.g., legacy of recipes, opulent ambiance, or innovative beverages], this restaurant is a must-visit for discerning palates in Chanakyapuri." 
+      "Embark on a delectable journey through the culinary heritage of Northwest India at Bukhara Cafe in Chanakyapuri. This exquisite restaurant, housed within the luxurious ITC Maurya (replace with the hotel's name if different), isn't just a cafe; it's a celebration of time-tested recipes and the unique flavors of the region.",
+      "Bukhara Cafe's menu is a testament to the rich culinary traditions of Bukhara, an ancient city on the historic Silk Road.  Their expert chefs, steeped in generations-old recipes, meticulously recreate these dishes, ensuring an authentic and flavorful experience.  Savor succulent tandoor grills infused with aromatic spices, like the melt-in-your-mouth Dal Bukhara or the flavorful Sikandari Raan. Vegetarians are equally spoiled for choice with delectable options like Paneer Tikka Masala or the flavorful Subz Dum Biryani.",
+      "Bukhara Cafe's ambiance complements its culinary journey.  Step into a world of opulent grandeur, where traditional Indian motifs seamlessly blend with contemporary elegance.  Dimmed lighting and plush seating create an intimate setting, while intricate Mughal-inspired artwork adorns the walls. Whether you're celebrating a special occasion or simply seeking a memorable dining experience, Bukhara Cafe provides the perfect backdrop.",
+      "While Bukhara Cafe honors tradition, it also embraces a touch of modernity. Their innovative beverage menu features classic cocktails with a twist, showcasing Indian ingredients and flavors.  Pair your meal with a refreshing 'Chilled Aam Panna' or a decadent 'Kashmiri Kahwa Martini' for a truly unique experience.",
+      "Bukhara Cafe promises an unforgettable culinary adventure for those seeking a taste of authentic Indian flavors. With its [mention their strong points, e.g., legacy of recipes, opulent ambiance, or innovative beverages], this restaurant is a must-visit for discerning palates in Chanakyapuri."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipPcf1LNvoTnNoHUYfkIGIxe5vHGJ352jX4_peR0=s1360-w1360-h1020"
-  }
+  },
+  {
+    "title": "The-Rock-Salt-Cafe",
+    "name": "The Rock Salt Cafe",
+    "location": "Stall 5, Mini Market, Yashwant Place, Chanakyapuri, New Delhi 110021",
+    "type": "Fast Food",
+    "highlights": [
+      "Open 24 hours",
+      "High user rating (4.9 stars on Google Maps)"
+    ],
+    "category": [],
+    "tags": [
+      "The Rock Salt",
+      "Chanakyapuri",
+      "Fast Food Delhi"
+    ],
+    "menuImage": [],
+    "rating": 4.9,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14014.100614323395!2d77.191699!3d28.5840184!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d577f6723a5%3A0x915dc641514477d3!2sThe%20Rock%20Salt!5e0!3m2!1sen!2sin!4v1717580093930!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "The Rock Salt is a fast food stall located in Chanakyapuri, New Delhi. It boasts a high user rating on Google Maps, indicating customer satisfaction. Since detailed information is unavailable, it's recommended to check online reviews for menu specifics and customer recommendations.",
+    "description": [
+      "The Rock Salt is a fast food stall situated in Yashwant Place Market, Chanakyapuri, New Delhi. While details about their menu are limited at this time, their impressive 4.9-star rating on Google Maps suggests delicious and satisfying offerings.  For a glimpse into their menu and what customers recommend, checking online reviews might be helpful."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMf2lgdLm4XXg_SSgZew99MoeiZ1Xgv3ACMp3PD=s1360-w1360-h1020"
+  },
+  {
+    "title": "Cafe-De-Flora",
+    "name": "Cafe De Flora",
+    "location": "Santushti Shopping Complex, Chanakyapuri, New Delhi",
+    "type": "Cafe",
+    "highlights": [
+      "Parisian Ambiance",
+      "Extensive Vegetarian & Non-Vegetarian Menu",
+      "Popular Brunch Menu",
+      "Instagrammable Interiors"
+    ],
+    "category": [
+      "Cafe",
+      "European"
+    ],
+    "tags": [
+      "Cafe De Flora",
+      "Chanakyapuri",
+      "Parisian Cafe Delhi",
+      "Santushti Shopping Complex",
+      "Brunch Delhi"
+    ],
+    "menuImage": [],
+    "rating": "",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.172221840121!2d77.19580011126779!3d28.594609785699962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3e8fde93fd7%3A0x9b22dcca4a4ec097!2sCafe%20De%20Flora!5e0!3m2!1sen!2sin!4v1717580252305!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Pizzas"
+      },
+      {
+        "name": "Pastas"
+      },
+      {
+        "name": "Salads"
+      },
+      {
+        "name": "Mocktails"
+      }
+    ],
+    "shortDescription": "Cafe De Flora is a charming Parisian-style cafe situated in Santushti Shopping Complex, Chanakyapuri. Renowned for its picture-perfect interiors and delightful escape from the city's buzz, it's a favorite among Instagrammers. Expect a Haussmann-inspired ambiance with pastel tones, hanging greenery, and an abundance of roses. ",
+    "description": [
+      "Cafe De Flora is a charming Parisian-style cafe situated in Santushti Shopping Complex, Chanakyapuri. Renowned for its picture-perfect interiors and delightful escape from the city's buzz, it's a favorite among Instagrammers. Expect a Haussmann-inspired ambiance with pastel tones, hanging greenery, and an abundance of roses. Their menu offers a wide range of vegetarian and non-vegetarian options, including pizzas, pastas, salads, and mocktails. They also boast a dedicated brunch menu, making it a perfect spot for a relaxed meal or a photogenic brunch date.",
+      "Cafe De Flora offers a captivating escape into a Parisian dream, complete with delectable food and an Instagram-worthy ambiance."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPDGeH3FtfKYtINaik6hBAtZjModxD9OEei3X6F=s1360-w1360-h1020"
+  },
+  {
+    "title": "Amour-Bistro-Cafe",
+    "name": "Amour Bistro Cafe",
+    "location": "Chanakyapuri, New Delhi",
+    "type": "Bistro",
+    "highlights": [
+      "European Cuisine",
+      "Vegetarian & Vegan Options",
+      "Cocktail & Mocktail Selection",
+      "Quaint & Beautiful Decor"
+    ],
+    "category": [
+      "European",
+      "Bistro"
+    ],
+    "tags": [
+      "Amour Bistro",
+      "Chanakyapuri",
+      "European Cuisine Delhi",
+      "Italian Food Delhi",
+      "Bistro Delhi"
+    ],
+    "menuImage": [
+      "amour bistro menu ON amour-bistro.in"
+    ],
+    "rating": 4.4,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.9251307417426!2d77.18356251126808!3d28.602022785363715!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d5c5c2d5067%3A0xc631d5b18be32558!2sAmour%20Bistro!5e0!3m2!1sen!2sin!4v1717580399927!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Pizzas"
+      },
+      {
+        "name": "Pastas"
+      }
+    ],
+    "shortDescription": "Amour Bistro is a quaint bistro in Chanakyapuri offering a delightful escape into European cuisine.  Specializing in Italian and Continental fare, they cater to vegetarians, vegans, and those seeking a delightful cocktail or mocktail.  The beautiful decor, featuring wooden chairs, colorful glassware, and exposed wine bottles, creates a warm and inviting atmosphere.",
+    "description": [
+      "Amour Bistro, nestled in Chanakyapuri, is a haven for European cuisine enthusiasts.  This quaint bistro offers a menu focused on Italian and Continental delights, ensuring there's something to please every palate. Vegetarians, vegans, and cocktail aficionados will all find options to suit their preferences.  Step inside and be greeted by a charming ambiance – think wooden chairs, pops of color with glassware, and a touch of elegance with exposed wine bottles. It's the perfect spot for a cozy and satisfying European dining experience."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPzytixGdmoI9NXaO0h3G79jmYI_4RsYqGrkewy=s1360-w1360-h1020"
+  },
+  {
+    "title": "Diggin-Cafe",
+    "name": "Diggin Cafe",
+    "location": "11 Race Course Rd, Chanakyapuri, New Delhi",
+    "type": "Cafe",
+    "highlights": [
+      "Italian & Continental Cuisine",
+      "Organic Options Available",
+      "Pleasant Ambiance with Garden Seating",
+      "Popular for Romantic Dinners & Birthday Celebrations"
+    ],
+    "category": [
+      "Cafe",
+      "Italian",
+      "Continental"
+    ],
+    "tags": [
+      "Diggin",
+      "Chanakyapuri",
+      "Italian Restaurant Delhi",
+      "Continental Food Delhi",
+      "Garden Cafe Delhi"
+    ],
+    "menuImage": [],
+    "rating": 4.5,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.1537099521784!2d77.1933082488655!3d28.595165223290273!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce29e8cfa84b5%3A0x923a697eca1c1a80!2sDiggin%20Cafe!5e0!3m2!1sen!2sin!4v1717580494646!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Penne Picante"
+      },
+      {
+        "name": "Chicken Crostini"
+      },
+      {
+        "name": "Mascarpone Risotto"
+      },
+      {
+        "name": "Pesto Pepperoni Pizza"
+      },
+      {
+        "name": "Farmhouse Pizza"
+      }
+    ],
+    "shortDescription": "Diggin' in Chanakyapuri is a popular spot for Italian and Continental fare. They cater to a variety of dietary preferences, including offering organic options.  The outdoor garden seating provides a pleasant ambiance, making it ideal for romantic evenings or birthday celebrations. Be sure to bring your ID as the cafe is located within an army area.",
+    "description": [
+      "Established in 2017, Diggin' has become a go-to destination for those seeking Italian and Continental delights in Chanakyapuri. Their menu offers a diverse selection, catering to various preferences, with some organic options available.  One of the highlights is the charming outdoor garden seating, creating a delightful ambiance perfect for a relaxed meal. Romantic dinners and birthday celebrations are popular choices at Diggin'.  Keep in mind that due to its location within an army area, you'll need to show your ID for entry."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN3kpQpxmqKdPaN5OUZ3_PIAswYqXcYM2YF37pr=s1360-w1360-h1020"
+  },
+  {
+    "title": "The-Samavar-Cafe",
+    "name": "The Samavar Cafe",
+    "location": "50-B, Diplomatic Enclave, Chanakyapuri, New Delhi 110021",
+    "type": "Coffee Shop (24 Hours)",
+    "highlights": [
+      "24-Hour Service",
+      "Part of The Ashok Hotel",
+      "International Cuisine",
+      "Casual Dining Ambiance"
+    ],
+    "category": [
+      "Coffee Shop",
+      "International"
+    ],
+    "tags": [
+      "The Samavar",
+      "Chanakyapuri",
+      "The Ashok Hotel",
+      "24 Hour Restaurant Delhi",
+      "Coffee Shop Delhi"
+    ],
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipPg8D18r0bMb6eHQDr-MGp4beijYKMiiI-KkC2z=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipON7zQXKhnExlScjIzt_JDSuIgHCvav1WQElLG5=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipP7_DezurYcuqVphrQnCW-bcuVWUqURGr2_zeml=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipMGugdF4MwF83UFAVqdF6zEcIDf2frsYFx_mUYj=s1360-w1360-h1020"
+    ],
+    "rating": 3.7,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14012.36214983223!2d77.1957887!3d28.5970606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2a002a0ec75%3A0xb1d835d4086506c2!2sThe%20Samavar!5e0!3m2!1sen!2sin!4v1717582187816!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "The Samavar, located within The Ashok Hotel in Chanakyapuri, is a 24-hour coffee shop offering a casual dining experience. Their menu features a variety of international cuisines, making it a convenient option for anytime cravings. ",
+    "description": [
+      "The Samavar, nestled within the prestigious The Ashok Hotel in Chanakyapuri, is a haven for round-the-clock dining. This 24-hour coffee shop caters to a casual dining atmosphere, perfect for a quick bite or a relaxed meal. Their menu boasts a variety of international cuisines, ensuring there's something to satisfy your cravings no matter the hour. Whether you're an early riser, a night owl, or simply seeking a convenient dining option, The Samavar is a reliable choice in Chanakyapuri."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPyw4KRgqcfA06KgN6WJIVAMW9k2ryaQ8NBCYuJ=s1360-w1360-h1020"
+  },
+  {
+    "title": "CAARA-at-Ogaan",
+    "name": "CAARA at Ogaan",
+    "location": "Malcha Marg, Chanakyapuri, New Delhi",
+    "type": "Restaurant",
+    "highlights": [
+      "European Cuisine",
+      "Focus on Fresh, Local Produce",
+      "Breakfast & Brunch Menu",
+      "Stylish Interior"
+    ],
+    "category": [
+      "European",
+      "Restaurant"
+    ],
+    "tags": [
+      "CAARA at Ogaan",
+      "Malcha Marg",
+      "European Restaurant Delhi",
+      "Breakfast Delhi",
+      "Brunch Delhi"
+    ],
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipMnR4TQ_B7Gmg5ZlzppWN__u5KhXygWAS6TuNKM=s1360-w1360-h1020"
+    ],
+    "rating": 4.5,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14011.66819821785!2d77.1864844!3d28.6022652!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d5c65212885%3A0x65cd7b407b3de085!2sCAARA%20at%20Ogaan%2C%20Malcha%20Marg!5e0!3m2!1sen!2sin!4v1717582592800!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Breakfast dishes"
+      },
+      {
+        "name": "Brunch options"
+      }
+    ],
+    "shortDescription": "CAARA at Ogaan offers a European dining experience with a focus on fresh, locally sourced ingredients. Their menu features breakfast and brunch options, making it a perfect spot for a delicious morning meal. The stylish interior creates a sophisticated ambiance.",
+    "description": [
+      "Nestled within the Ogaan store, CAARA at Ogaan is a haven for European cuisine enthusiasts in Delhi. While its exact location might be Malcha Marg, confirmation regarding Chanakyapuri is needed.  This restaurant prioritizes fresh, locally sourced ingredients to create a delightful European dining experience.  Their menu shines with breakfast and brunch options, making it an ideal spot to start your day. The stylish interior adds a touch of sophistication to your meal."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMBvGMFWgg-kkFvzg9J0Zu7NcL7nEOKwBni4MSk=s1360-w1360-h1020"
+  },
+  {
+    "title": "Fig-at-Malcha-Cafe",
+    "name": "Fig at Malcha Cafe",
+    "location": "Chanakyapuri, Delhi",
+    "type": "",
+    "highlights": [],
+    "category": [],
+    "tags": [
+      "Fig at Malcha",
+      "Chanakyapuri",
+      "Cafe Delhi"
+    ],
+    "menuImage": [],
+    "rating": "",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14011.648263034156!2d77.1864063!3d28.6024147!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d1cf3637b0b%3A0xe7fbd524429258a!2sFig%20at%20Malcha!5e0!3m2!1sen!2sin!4v1717743344360!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "Fig at Malcha is a New Delhi cafe serving healthy, ethically sourced food. They focus on fresh, seasonal ingredients and have a Parisian bakery for pastries. The vibe is eco-conscious and stylish, with art adorning the walls. Expect delicious food and coffee, but it can be pricey and crowded on weekends.",
+    "description": [
+      "Fig at Malcha is a New Delhi cafe serving healthy, ethically sourced food. They focus on fresh, seasonal ingredients and have a Parisian bakery for pastries. The vibe is eco-conscious and stylish, with art adorning the walls. Expect delicious food and coffee, but it can be pricey and crowded on weekends.",
+      "Fig at Malcha offers a curated menu focused on fresh, seasonal produce sourced from local farms. They also use 100% GMO-free meat, cage-free eggs, and have a Parisian-style bakery that produces fresh bread and pastries daily.",
+      "Focus on quality coffee: They are passionate about coffee and serve'farm-to-cup' specialty coffee where every cup can be traced back to the farmer.",
+      "Beautiful ambiance: The cafe is spacious and stylish with two large staircases, glass walls, and marble floors. There's even art on the walls that can be purchased."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM-5I_HrM58a8aug1XNunwHSNMoqjRQCGbkQeSq=s1360-w1360-h1020"
+  },
+  {
+    "title": "Yeti-The-Himalayan-Kitchen-Cafe",
+    "name": "Yeti - The Himalayan Kitchen Cafe",
+    "location": "Hauz Khas Village, South Delhi, Delhi",
+    "type": "Restaurant",
+    "highlights": [
+      "Homestyle Himalayan Cuisine",
+      "Tibetan, Nepali & Bhutanese Specialties",
+      "Warm & Inviting Ambiance",
+      "Fresh Ingredients & Traditional Recipes"
+    ],
+    "category": [
+      "Restaurant",
+      "Asian"
+    ],
+    "tags": [
+      "Yeti - The Himalayan Kitchen",
+      "Hauz Khas Village",
+      "Himalayan Food Delhi",
+      "Tibetan Food Delhi",
+      "Nepali Food Delhi"
+    ],
+    "menuImage": [],
+    "rating": 4.2,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14018.094681191682!2d77.194378!3d28.5540337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8aa3ffff95%3A0x7f43d3d14c1d134b!2sYETI%2C%20The%20Himalayan%20Kitchen!5e0!3m2!1sen!2sin!4v1717744544594!5m2!1sen!2sin",
+    "bestInMenu": [
+      {
+        "name": "Thukpa (Tibetan Noodle Soup)"
+      },
+      {
+        "name": "Momos (Nepali Dumplings)"
+      },
+      {
+        "name": "Gyoza (Tibetan Dumplings)"
+      },
+      {
+        "name": "Thakali Thali (Nepali Platter)"
+      },
+      {
+        "name": "Choila (Marinated Meat Dish)"
+      }
+    ],
+    "shortDescription": "Embark on a culinary adventure to the Himalayas at Yeti - The Himalayan Kitchen in Hauz Khas Village. This restaurant offers a taste of homestyle Himalayan cuisine, specializing in Tibetan, Nepali, and Bhutanese dishes. Prepared with fresh ingredients and based on traditional recipes, their menu promises a unique and flavorful experience. The warm and inviting ambiance adds to the charm, making it a great spot for a comforting and delicious meal.",
+    "description": [
+      "Nestled in the vibrant Hauz Khas Village, Yeti - The Himalayan Kitchen is a haven for those seeking a taste of the Himalayas. This restaurant offers a delightful journey through homestyle Himalayan cuisine, featuring specialties from Tibet, Nepal, and Bhutan.  Their menu boasts a variety of dishes prepared using fresh ingredients and staying true to traditional recipes. Expect flavorful options like Thukpa (Tibetan noodle soup), Momos (Nepali dumplings), Gyoza (Tibetan dumplings), Thakali Thali (Nepali platter), and Choila (marinated meat dish). The warm and inviting ambiance adds to the charm, making Yeti a perfect spot to relax and savor a unique and satisfying meal."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP-ZTPKQWFHnL5FBMP9n6THGhmq3p-x-rfOB_Fn=s1360-w1360-h1020"
+  },
+  {
+    "title": "Social-Offline-Cafe",
+    "name": "Social Offline",
+    "location": "Hauz Khas Village, New Delhi (Exact address unavailable)",
+    "type": "Cafe (Global Cuisine)",
+    "highlights": [
+      "Global Cuisine",
+      "Modern & Trendy Ambiance",
+      "Co-working Friendly",
+      "Live Music Events (subject to availability)"
+    ],
+    "category": [
+      "Cafe",
+      "Global"
+    ],
+    "tags": [
+      "Social Offline",
+      "Hauz Khas Village",
+      "Global Cuisine Delhi",
+      "Cafe Hauz Khas",
+      "Co-working Delhi"
+    ],
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipM28e8ajSI3i2sHJxlG27FOPWvgCoHhS_DjDnQa=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipNMOM9ePqmlrMgKlloIH15sfGLQb2GJqGNuO2OA=s1360-w1360-h1020",
+      "https://lh3.googleusercontent.com/p/AF1QipO9coPRr3OLgiVYElJeF_WUdY3NY76GR63VVS5T=s1360-w1360-h1020"
+    ],
+    "rating": 4.0,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7950.503171991558!2d77.18912459317426!3d28.553336487370327!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce20fdb584417%3A0x1f893fe3f6203e0b!2sHauz%20Khas%20Social!5e0!3m2!1sen!2sin!4v1717927922825!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "Social Offline in Hauz Khas Village offers a unique blend of global flavors and a modern, urban vibe. Their menu features a variety of cuisines from around the world, catering to diverse palates. The trendy ambiance makes it a popular spot for socializing, working remotely, or enjoying live music events (subject to availability).",
+    "description": [
+      "Social Offline, situated in the heart of Hauz Khas Village, is a haven for those seeking a global culinary and social experience.  While the exact address needs confirmation, this cafe boasts a menu featuring a delightful array of dishes from various corners of the world.  This ensures there's something to satisfy every taste bud. The modern and trendy ambiance makes Social Offline a popular spot for socializing with friends, catching up on work with a co-working friendly atmosphere, or enjoying live music events (availability to be confirmed).  Whether you're a foodie, a social butterfly, or a remote worker, Social Offline might be your perfect Hauz Khas hangout."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPWoi1CZP9pCd5G5iRyMwxbM2rc7yfbH15ySEge=s1360-w1360-h1020"
+  },
+  {
+    "title": "Elma-Bakery",
+    "name": "Elma's Bakery",
+    "location": "2nd Floor, 31, Hauz Khas Rd, Above Chumbak, Hauz Khas Village, Deer Park, Hauz Khas, New Delhi, Delhi 110016, India",
+    "type": "Cafe (Bakery)",
+    "highlights": [
+      "High Teas",
+      "Cakes",
+      "Breads",
+      "Relaxed Atmosphere"
+    ],
+    "category": [
+      "Cafe",
+      "Bakery"
+    ],
+    "tags": [
+      "Elma's Bakery",
+      "Hauz Khas Village",
+      "Bakery Delhi",
+      "Cafe Hauz Khas"
+    ],
+    "menuImage": ["https://lh3.googleusercontent.com/p/AF1QipPmjcTUqB0K5pDbetf2LsvQCX50ToqVLZRcSSkX=s1360-w1360-h1020","https://lh3.googleusercontent.com/proxy/Eog_O4INM_i-byk9EQyg9iM9tFgErDEXyjThw0qsrE0si1ftLqv0ljVoxlWnNMvAKZskKI73z87A1TYZ2xmoxOiFnk7b23IhM0U6IH0qSst40dQbx1UMZ07nCyqLLt_HhpUTh9fbBGFKu605_GSWBoa8sU6RwXrwMKlcfA=s1360-w1360-h1020"],
+    "rating": 4.0,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3504.5056031128847!2d77.1948252!3d28.5545765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d8a867441ab%3A0xf8cf0cd9f9521f32!2zRWxtYeKAmXM!5e0!3m2!1sen!2sin!4v1717928473070!5m2!1sen!2sin",
+    "bestInMenu": [],
+    "shortDescription": "Elma's Bakery is a kitsch cafe with a Euro vibe, offering a menu of high teas, cakes, and breads in a relaxed atmosphere. It boasts a 4-star rating on Google Maps and is located in Hauz Khas Village, New Delhi.",
+    "description": [
+      "Nestled in Hauz Khas Village, Elma's Bakery is a haven for those seeking a delightful cafe experience.  This charming spot boasts a kitsch aesthetic with a European flair, providing a relaxed atmosphere to enjoy delectable high teas, cakes, and breads. Whether you're looking for a sweet afternoon pick-me-up or a relaxed breakfast spot, Elma's Bakery offers a delightful selection to tantalize your taste buds."
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMnGtDpDQeLZ1gZtYAZT39235pCCmVdqff0O6ti=s1360-w1360-h1020"
+  },
+  {
+    "title": "Bo-Tai-Qutub",
+    "name": "Bo Tai Qutub",
+    "location": "6, 4, Kalka Das Marg, behind Qutab Minar, Seth Sarai, Mehrauli, New Delhi, Delhi 110030, India",
+    "type": "Thai Restaurant",
+    "highlights": [
+    "Elegant Ambiance",
+    "Large Windows",
+    "Feature Bar",
+    "Modern Gold & Tan Color Scheme"
+    ],
+    "category": ["Restaurant", "Thai"],
+    "tags": [
+    "Bo Tai Qutub",
+    "Hauz Khas",
+    "Thai Restaurant Delhi",
+    "Fine Dining Delhi"
+    ],
+    "menuImage": [],
+    "rating": 4.3,
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14021.874825266876!2d77.1843825!3d28.5256284!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e07cb70338d%3A0xc0cb8376810a990b!2sBo%20tai%20Qutub!5e0!3m2!1sen!2sin!4v1717928828722!5m2!1sen!2sin",
+    "bestInMenu": ["https://lh3.googleusercontent.com/p/AF1QipPVFbIokl9vApAE2bBF6uzpiz6tMpZzd_Amp7bW=s1360-w1360-h1020"],
+    "shortDescription": "Bo Tai Qutub is an elegant Thai dining room with a feature bar and a modern gold and tan color scheme. It boasts a 4.3 star rating on Google Maps and is located in Mehrauli, New Delhi.",
+    "description": "Evoking a sense of elegance, Bo Tai Qutub in Mehrauli, New Delhi is a haven for those seeking an exceptional Thai dining experience. This restaurant features large windows, a striking feature bar, and a modern gold and tan color scheme, creating a sophisticated ambiance. While I couldn't find any information on their menu highlights, their high rating suggests a delectable culinary journey awaits you.  ",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM6GJ4Lt0PRTOfGmvsVd9VfzQ2f4QPPLlqTAVVW=s1360-w1360-h1020"
+    },
+    {
+      "title": "Kakapo-cafe",
+      "name": "Kakapo",
+      "location": "Qutub Minar Complex (Exact address unavailable)",
+      "type": "Restaurant (Asian Fusion)",
+      "highlights": [
+      "Asian Fusion Cuisine",
+      "Stunning View of Qutub Minar",
+      "Rooftop Seating",
+      "Upscale Ambiance"
+      ],
+      "category": ["Restaurant", "Asian"],
+      "tags": [
+      "Kakapo",
+      "Qutub Minar",
+      "Asian Fusion Delhi",
+      "Fine Dining Delhi",
+      "Restaurant Qutub Minar"
+      ],
+      "menuImage": [],
+      "rating": 4.7,  
+      "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14021.704079623762!2d77.1847379!3d28.526912!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1f743c27fd5d%3A0xcaecf4321f1a0bbf!2sKakapo!5e0!3m2!1sen!2sin!4v1717929052376!5m2!1sen!2sin", 
+      "bestInMenu": [], 
+      "shortDescription": "Kakapo, situated near the Qutub Minar Complex, is a haven for those seeking a delectable Asian fusion dining experience. While the exact address remains elusive, this restaurant is renowned for its stunning view of the Qutub Minar, particularly from the rooftop seating.  Kakapo offers a menu featuring a unique blend of Asian cuisines, and its upscale ambiance makes it a popular spot for a special occasion.",
+      "description": [
+      "Described as a visual treat straight out of Vogue, Kakapo near the Qutub Minar Complex is a gem for those seeking a luxurious Asian fusion dining experience. While its exact address is unavailable, online reviews consistently praise the restaurant's breathtaking view of the Qutub Minar, especially when enjoyed from the rooftop seating. Kakapo's menu boasts a delicious fusion of various Asian cuisines, catering to a diverse palate. The upscale ambiance makes it a perfect choice for a romantic dinner or a special celebration."
+      ],
+      "image": "https://lh3.googleusercontent.com/p/AF1QipMyTHuIDaM-blXV3sjeZ2-gW7BIwq6qHoR1YSOm=s1360-w1360-h1020"
+      }
 ]

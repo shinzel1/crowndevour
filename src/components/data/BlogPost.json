@@ -257,10 +257,6 @@
     ],
     "sections": [
       {
-        "name": "Kaffa Cerrado - Where Coffee Meets Art",
-        "content": "Indulge in the artistic ambiance of Kaffa Cerrado, a cafe where every cup of coffee is a masterpiece. From carefully crafted latte art to a cozy interior adorned with local artwork, Kaffa Cerrado is a haven for coffee enthusiasts and art lovers alike."
-      },
-      {
         "name": "Yeti - The Himalayan Kitchen",
         "content": "Transport your taste buds to the Himalayas at Yeti, a haven for those craving authentic Nepalese and Tibetan flavors. The rustic decor, infused with Himalayan charm, creates an immersive dining experience. From momos to thukpa, Yeti brings the essence of the mountains to Hauz Khas."
       },
@@ -312,129 +308,8 @@
     "imageSrc": "https://images.unsplash.com/photo-1613062203167-68d503a01c6c"
   },
   {
-    "title": "North-Delhi-Cafes-Resturants",
-    "name": "Beyond Monuments: A Culinary Expedition Through North Delhi",
-    "location": "North Delhi",
-    "description": "North Delhi, often overshadowed by its central counterpart, boasts a vibrant and diverse culinary scene waiting to be explored. From bustling street markets to hidden family-run restaurants, North Delhi offers a unique blend of traditional flavors and modern influences. This blog delves into the hidden gems and local favorites that make North Delhi a foodie's paradise.",
-    "aboutTheLocation": "North Delhi isn't just about historical monuments; it's a tapestry of flavors waiting to be savored. The aroma of freshly baked bread mingles with the enticing fragrance of kebabs sizzling on grills in street markets. Upscale restaurants in posh areas like Kamla Nagar share space with generations-old eateries serving authentic North Indian cuisine. Whether you crave a quick street food bite or a fine-dining experience, North Delhi caters to every taste and budget.",
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7000.185678995846!2d77.20514464114271!3d28.686869314510034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd93765cf76d%3A0x7cbc4c921fad0177!2sUniversity%20Enclave%2C%20Delhi%2C%20110007!5e0!3m2!1sen!2sin!4v1710088999733!5m2!1sen!2sin",
-    "mustTryDishes": [
-      {
-        "name": "Legendary Chole Bhature at Sita Ram Di Hatti (Karol Bagh)",
-        "description": "A North Delhi institution, Sita Ram Di Hatti offers a legendary take on the classic Punjabi dish – chole bhature. Their fluffy bhaturas (fried bread) paired with flavorful chole (chickpea curry) are a local favorite, perfect for a satisfying and affordable meal."
-      },
-      {
-        "name": "Karim's (Pitampura): Mughlai Delights Beyond Chandni Chowk",
-        "description": "Experience the rich flavors of Mughal cuisine at Karim's in Pitampura. This branch of the iconic Chandni Chowk restaurant offers the same delectable Nihari and other Mughlai specialties, minus the crowds. Perfect for a celebratory meal or a historical culinary experience."
-      },
-      {
-        "name": "A Vegetarian's Paradise: Dosa at Sagar Ratna (Rohini)",
-        "description": "Sagar Ratna in Rohini is a haven for vegetarians. Their wide variety of dosas, crispy South Indian crepes with flavorful fillings, is a crowd-pleaser. Don't forget to try their refreshing filter coffee, the perfect accompaniment to any dosa."
-      }
-    ],
-    "localFoodExperiences": [
-      {
-        "title": "A Street Food Adventure Through Sadar Bazaar",
-        "description": "Sadar Bazaar in Old Delhi, bordering North Delhi, is a must-visit for street food enthusiasts. Sample a variety of chaat (savory snacks) like gol gappas and papri chaat, indulge in crispy samosas, or try local favorites like paranthas (stuffed flatbreads). Don't forget to quench your thirst with a refreshing lassi or freshly squeezed sugarcane juice."
-      }
-    ],
-    "tipsForFoodies": [
-      "Explore different neighborhoods: North Delhi is vast, with each area offering its own culinary specialties. From street food in Sadar Bazaar to upscale cafes in Kamla Nagar, venture out and discover the diverse flavors.",
-      "Embrace the local culture: Part of the culinary experience is the atmosphere. Soak in the sights, sounds, and energy of the bustling markets and local eateries.",
-      "Be prepared for varying price points: North Delhi caters to all budgets. From affordable street food to fine-dining restaurants, choose your experience based on your preferences."
-    ],
-    "personalRecommendations": "Legendary Chole Bhature at Sita Ram Di Hatti (Karol Bagh), Explore the bylanes of Chandni Chowk for hidden gems serving Bengali sweets.",
-    "conclusion": "North Delhi offers more than just historical sights; it's a haven for foodies. From iconic street food markets to hidden family-run restaurants, the area boasts a vibrant and diverse culinary scene waiting to be explored. So, come hungry, embrace the adventure, and discover the hidden gems that make North Delhi a foodie's paradise!",
-    "author": {
-      "name": "shinzel",
-      "bio": "A North Delhi explorer on a mission to devour deliciousness! I navigate the diverse neighborhoods, uncovering hidden gems and sharing the unique flavors of this historic region. Join me on a culinary adventure through the heart of North Delhi!"
-    },
-    "tags": [
-      "North Delhi Food",
-      "Street Food Paradise",
-      "Chole Bhature",
-      "Mughlai Cuisine",
-      "Dosa"
-    ],
-    "sections": [
-      {
-        "name": "Books & Bites - A Literary Retreat",
-        "content": "Immerse yourself in the literary ambiance of Books & Bites, a cafe that combines the love for books with delectable bites. With shelves lined with novels and a menu inspired by literary classics, this cafe offers a cozy retreat for bookworms and food enthusiasts alike.",
-        "images": [
-          "books_and_bites_interior.jpg",
-          "books_and_bites_menu.jpg"
-        ]
-      },
-      {
-        "name": "Chai Chatter - Conversations Over Tea",
-        "content": "Savor the charm of Chai Chatter, a place where conversations flow as freely as the tea. With a menu boasting a variety of chai blends and cozy seating arrangements, this cafe is a popular hub for students seeking a laid-back space to unwind and connect.",
-        "images": [
-          "chai_chatter_interior.jpg",
-          "chai_chatter_teapot.jpg"
-        ]
-      },
-      {
-        "name": "Culinary Canvas - Artistic Dining",
-        "content": "Experience the intersection of art and dining at Culinary Canvas, a cafe that transforms every meal into a culinary masterpiece. The artistic decor, combined with a menu that showcases culinary creativity, makes this cafe a haven for those who appreciate both aesthetics and flavors.",
-        "images": [
-          "culinary_canvas_artwork.jpg",
-          "culinary_canvas_dishes.jpg"
-        ]
-      },
-      {
-        "name": "Green Haven - Nature's Nook",
-        "content": "Escape the hustle and bustle at Green Haven, a cafe nestled in the heart of nature. Surrounded by greenery, this cafe provides a serene setting for students to enjoy wholesome meals and connect with the outdoors during study breaks.",
-        "images": [
-          "green_haven_nature.jpg",
-          "green_haven_dishes.jpg"
-        ]
-      },
-      {
-        "name": "Student Fuel - Energizing Eats",
-        "content": "Fuel up with energizing eats at Student Fuel, a cafe designed to cater to the nutritional needs of students. From power-packed smoothies to protein-rich snacks, this cafe ensures that students stay fueled and focused during their academic endeavors.",
-        "images": [
-          "student_fuel_smoothies.jpg",
-          "student_fuel_snacks.jpg"
-        ]
-      },
-      {
-        "name": "Social Nook - Networking Hub",
-        "content": "Discover Social Nook, a cafe that doubles as a networking hub for students. With collaborative spaces, tech-friendly amenities, and a menu designed for group discussions, this cafe fosters a dynamic environment for academic and social interactions.",
-        "images": [
-          "social_nook_collaboration.jpg",
-          "social_nook_menu.jpg"
-        ]
-      },
-      {
-        "name": "Spice Haven - Flavorful Journeys",
-        "content": "Embark on flavorful journeys at Spice Haven, a cafe that celebrates the diversity of spices in every dish. From aromatic curries to zesty snacks, this cafe takes students on a culinary adventure around the world without leaving the campus.",
-        "images": [
-          "spice_haven_cuisine.jpg",
-          "spice_haven_dishes.jpg"
-        ]
-      },
-      {
-        "name": "Sweet Escape - Dessert Paradise",
-        "content": "Indulge your sweet tooth in the dessert paradise of Sweet Escape, a cafe dedicated to decadent treats and delightful pastries. With a menu filled with sugary delights, this cafe is the perfect spot for students to celebrate small victories and sweet moments.",
-        "images": [
-          "sweet_escape_pastries.jpg",
-          "sweet_escape_interior.jpg"
-        ]
-      },
-      {
-        "name": "The Brew Lab - Coffee Connoisseur's Corner",
-        "content": "Enter the Brew Lab, a coffee connoisseur's corner where every brew is crafted with precision. From single-origin beans to artisanal brewing methods, this cafe elevates the coffee experience for students who appreciate the nuances of a well-brewed cup.",
-        "images": [
-          "brew_lab_coffee.jpg",
-          "brew_lab_interior.jpg"
-        ]
-      }
-    ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
-  },
-  {
     "title": "Chandni-Chowk-Cafes-Resturants",
-    "name": "A Shopping Spree with a Culinary Twist: Unveiling Chandni Chowk's Delights",
+    "name": "Best Resturants in Chandni Chowk",
     "location": "Chandni Chowk",
     "description": "Chandni Chowk, the bustling heart of Old Delhi, isn't just a shopper's paradise; it's a haven for food enthusiasts. The narrow lanes, lined with historic shops, are also home to iconic food vendors and hidden culinary gems. This blog explores the unique food scene of Chandni Chowk, where every bite is an adventure and a delicious reminder of its rich history.",
     "aboutTheLocation": "The aroma of spices mingles with the cacophony of street vendors in Chandni Chowk. Every corner beckons with a culinary treat, from steaming hot jalebis to savory samosas. Family-owned eateries boast generations-old recipes, while modern cafes offer innovative twists on classic dishes. Chandni Chowk offers a vibrant and unforgettable food experience for every palate.",
@@ -479,76 +354,167 @@
     ],
     "sections": [
       {
-        "name": "Paranthe Wali Gali - A Stuffed Bread Extravaganza",
-        "content": "Dive into the stuffed bread extravaganza at Paranthe Wali Gali, a legendary lane known for its parathas. From classic aloo parathas to unique fillings like rabri, the parathas here are a testament to Delhi's rich culinary heritage.",
-        "images": [
-          "paranthe_wali_gali_lane.jpg",
-          "paranthe_wali_gali_parathas.jpg"
-        ]
+        "name": "Inderpuri Vaishno Hotel",
+        "title": "Inderpuri Vaishno Hotel"
       },
       {
-        "name": "Karim's - Mughlai Delights Since Generations",
-        "content": "Savor the Mughlai delights at Karim's, an iconic eatery with a culinary legacy spanning generations. The rich kebabs, flavorful biryanis, and decadent kormas make Karim's a must-visit for anyone seeking an authentic taste of Delhi's Mughlai cuisine.",
-        "images": [
-          "karims_interior.jpg",
-          "karims_dishes.jpg"
-        ]
+        "name": "Gole di Hatti",
+        "title": "Gole di Hatti"
       },
       {
-        "name": "Jalebi Wala - Sweet Symphonies in Every Bite",
-        "content": "Indulge in sweet symphonies at Jalebi Wala, where every bite of their crispy jalebis is a delight. The aroma of freshly fried jalebis wafts through the air, inviting locals and tourists alike to experience this sweet haven in the heart of Chandni Chowk.",
-        "images": [
-          "jalebi_wala_sweets.jpg",
-          "jalebi_wala_street.jpg"
-        ]
+        "name": "Brijwasi Bhoj Thaliwala",
+        "title": "Brijwasi Bhoj Thaliwala"
       },
       {
-        "name": "Kuremal Mohan Lal Kulfi Wale - Kulfi Artistry",
-        "content": "Experience the artistry of kulfi at Kuremal Mohan Lal Kulfi Wale, a shop that has perfected the craft of making delicious kulfi. From stuffed kulfis to unique flavors, this eatery offers a refreshing treat for anyone exploring Chandni Chowk's sweet side.",
-        "images": [
-          "kuremal_kulfi_artist.jpg",
-          "kuremal_kulfi_variety.jpg"
-        ]
+        "name": "Asha Ram Food/Resturant",
+        "title": "Asha Ram Food/Resturant"
       },
       {
-        "name": "Gali Paranthe Wali - Beyond Parathas",
-        "content": "Beyond parathas, Gali Paranthe Wali offers a diverse culinary experience with chaats, snacks, and more. Explore the vibrant street food scene and savor the various flavors that make this lane a bustling hub of culinary delights.",
-        "images": [
-          "gali_paranthe_wali_street.jpg",
-          "gali_paranthe_wali_snacks.jpg"
-        ]
+        "name": "Natraj Dahi Bhalla",
+        "title": "Natraj Dahi Bhalla"
       },
       {
-        "name": "Natraj Dahi Bhalla Wala - Dahi Bhalla Delights",
-        "content": "Treat your taste buds to dahi bhalla delights at Natraj Dahi Bhalla Wala, a small shop with big flavors. The combination of soft bhallas, tangy chutneys, and creamy yogurt makes this eatery a favorite among locals for a quick and tasty snack.",
-        "images": [
-          "natraj_dahi_bhalla.jpg",
-          "natraj_dahi_bhalla_plate.jpg"
-        ]
+        "name": "Old Famous Ravdi Lassi Wala",
+        "title": "Old Famous Ravdi Lassi Wala"
       },
       {
-        "name": "Aslam Chicken Corner - Kebab Paradise",
-        "content": "Indulge in kebab paradise at Aslam Chicken Corner, where succulent kebabs take center stage. The smoky flavors and aromatic spices create a culinary experience that keeps patrons coming back for more. Explore the rich kebab heritage of Chandni Chowk in every bite.",
-        "images": [
-          "aslam_chicken_corner_kebabs.jpg",
-          "aslam_chicken_corner_grill.jpg"
-        ]
+        "name": "Wah Ji Wah",
+        "title": "Wah Ji Wah"
       },
       {
-        "name": "Old Famous Jalebi Wala - Tradition in Every Twist",
-        "content": "Discover tradition in every twist at Old Famous Jalebi Wala, a sweet shop that has stood the test of time. The perfectly coiled jalebis, soaked in sugar syrup, showcase the timeless appeal of this Chandni Chowk institution.",
-        "images": [
-          "old_famous_jalebi_wala.jpg",
-          "old_famous_jalebi_plate.jpg"
-        ]
+        "name": "Navnidhi restaurant",
+        "title": "Navnidhi restaurant"
       },
       {
-        "name": "Hazari Lal Jain Khurchan Wale - Khurchan Chronicles",
-        "content": "Delve into the khurchan chronicles at Hazari Lal Jain Khurchan Wale, a shop renowned for its delectable khurchan. The sweet, caramelized layers of khurchan are a treat for those with a sweet tooth, offering a delightful contrast to the savory offerings of Chandni Chowk.",
-        "images": [
-          "hazari_lal_jain_khurchan.jpg",
-          "hazari_lal_jain_sweets.jpg"
-        ]
+        "name": "Manohar Dhaba",
+        "title": "Manohar Dhaba"
+      },
+      {
+        "name": "Karim's Hotel Pvt. Ltd.",
+        "title": "Karim's Hotel Pvt. Ltd."
+      },
+      {
+        "name": "Jawahar Hotel",
+        "title": "Jawahar Hotel"
+      },
+      {
+        "name": "Hotel Hilal",
+        "title": "Hotel Hilal"
+      },
+      {
+        "name": "Bismillah Kabab Point",
+        "title": "Bismillah Kabab Point"
+      },
+      {
+        "name": "Aslam Chicken",
+        "title": "Aslam Chicken"
+      },
+      {
+        "name": "New Ashoka Sweets & Restaurant",
+        "title": "New Ashoka Sweets & Restaurant"
+      },
+      {
+        "name": "Haldiram's - Chandni Chowk",
+        "title": "Haldiram's - Chandni Chowk"
+      }
+    ],
+    "imageSrc": "https://images.unsplash.com/photo-1599230080795-a48439229cb7"
+  },
+  {
+    "title": "Finding-Chicken-in-Chandni Chowk",
+    "name": "Finding Chicken in Chandni Chowk: A Guide for Foodies",
+    "location": "Chandni Chowk",
+    "description": "While Chandni Chowk isn't known for large chain chicken restaurants, it offers a unique opportunity to discover hidden gems - smaller shops and vendors specializing in fresh, high-quality chicken perfect for recreating dishes at home or grabbing a quick bite.",
+    "aboutTheLocation": "The aroma of spices mingles with the cacophony of street vendors in Chandni Chowk. Every corner beckons with a culinary treat, from steaming hot jalebis to savory samosas. Family-owned eateries boast generations-old recipes, while modern cafes offer innovative twists on classic dishes. Chandni Chowk offers a vibrant and unforgettable food experience for every palate.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14005.112063760896!2d77.22133759715757!3d28.65139314084534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd1a88dcc559%3A0x24fa43c081dbe51!2sChandni%20Chowk%2C%20Delhi!5e0!3m2!1sen!2sin!4v1710089068761!5m2!1sen!2sin",
+    "mustTryDishes": [
+    ],
+    "localFoodExperiences": [
+   
+    ],
+    "tipsForFoodies": [
+   ],
+    "personalRecommendations": "",
+    "conclusion": "Chandni Chowk offers a non-vegetarian culinary adventure unlike any other. From iconic restaurants to hidden street food gems, embark on a delicious journey and discover your new favorite flavors!",
+    "author": {
+      "name": "shinzel",
+      "bio": "A culinary explorer of Chandni Chowk's bustling lanes! I navigate the vibrant streets, uncovering hidden gems and sharing the neighborhood's rich flavors and traditions. Join me on a delicious journey through the heart of Old Delhi!"
+    },
+    "tags": [
+      "Chandni Chowk Chicken",
+      "Street Food Chicken",
+      "Chicken Tikka",
+      "Chicken kabab",
+      "Chicken Biryani"
+    ],
+    "sections": [
+      {
+        "name": "Kake Di Hatti",
+        "title": "Kake Di Hatti"
+      },
+      {
+        "name": "Al Nasir jawahar Chicken Corner",
+        "title": "Al Nasir jawahar Chicken Corner"
+      },
+      {
+        "name": "Chicken Palace",
+        "title": "Chicken Palace"
+      },
+      {
+        "name": "Al Yousuf Foods",
+        "title": "Al Yousuf Foods"
+      },
+      {
+        "name": "Mughlai chicken bite",
+        "title": "Mughlai chicken bite"
+      },
+      {
+        "name": "KARIM CHICKEN",
+        "title": "KARIM CHICKEN"
+      },
+      {
+        "name": "Aslam Chicken",
+        "title": "Aslam Chicken"
+      },
+      {
+        "name": "HOTEL MAAIDAH ( CHANGEZI CHICKEN)",
+        "title": "HOTEL MAAIDAH ( CHANGEZI CHICKEN)"
+      },
+      {
+        "name": "Haji Mohd. Hussain",
+        "title": "Haji Mohd. Hussain"
+      },
+      {
+        "name": "Rehmatullah Hotel",
+        "title": "Rehmatullah Hotel"
+      },
+      {
+        "name": "Al Jawahar Restaurant",
+        "title": "Al Jawahar Restaurant"
+      },
+      {
+        "name": "Karim's Hotel Pvt. Ltd.",
+        "title": "Karim's Hotel Pvt. Ltd."
+      },
+      {
+        "name": "TAUFIQ DILPASAND BIRYANI POINT",
+        "title": "TAUFIQ DILPASAND BIRYANI POINT"
+      },
+      {
+        "name": "HOTEL MAAIDAH ( CHANGEZI CHICKEN)",
+        "title": "HOTEL MAAIDAH ( CHANGEZI CHICKEN)"
+      },
+      {
+        "name": "Changezi Chicken",
+        "title": "Changezi Chicken"
+      },
+      {
+        "name": "DILLI 6 KI CHICKEN BIRYANI",
+        "title": "DILLI 6 KI CHICKEN BIRYANI"
+      },
+      {
+        "name": "Anmol. Chicken Restaurants",
+        "title": "Anmol. Chicken Restaurants"
       }
     ],
     "imageSrc": "https://images.unsplash.com/photo-1599230080795-a48439229cb7"
@@ -556,7 +522,7 @@
   {
     "title": "Jama-Masjid-Cafes-Resturants",
     "location": "Jama Masjid",
-    "name": "A Culinary Journey Around Jama Masjid: Unveiling Mughal Delights and Local Favorites",
+    "name": "Best Resturants Near Jama Masjid",
     "description": "Jama Masjid, the iconic mosque in Old Delhi, isn't just a historical landmark; it's a haven for food enthusiasts. The narrow lanes surrounding the mosque teem with street food vendors and historic restaurants, offering a delicious glimpse into Mughal cuisine and local favorites. This blog delves into the vibrant food scene around Jama Masjid, perfect for those seeking an authentic culinary adventure.",
     "aboutTheLocation": "The air around Jama Masjid is alive with the aroma of spices and sizzling kebabs. Street vendors proudly display an array of Mughlai delicacies, while family-run restaurants boast generations-old recipes. From melt-in-your-mouth kebabs to rich stews and sweet treats, Jama Masjid offers a unique and unforgettable culinary experience.",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.298898983478!2d77.23360302495743!3d28.650767683253378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd1f21d3e5ef%3A0xacc90ea5513db022!2sJama%20Masjid%2C%20Old%20Delhi%2C%20Delhi%2C%20110006!5e0!3m2!1sen!2sin!4v1710089102895!5m2!1sen!2sin",
@@ -667,9 +633,9 @@
     "imageSrc": "https://images.unsplash.com/photo-1637301625903-e25a30ba1bb5"
   },
   {
-    "title": "Rajouri-Garden-Cafes-Resturants",
+    "title": "Rajouri-Garden-Resturants",
     "location": "Rajouri Garden",
-    "name": "A Culinary Adventure in Rajouri Garden: Unveiling Local Delights and Global Finds",
+    "name": "Resturants in Rajouri Garden",
     "description": "Rajouri Garden, a vibrant neighborhood in West Delhi, is a shopper's paradise. But beyond the bustling markets lies a hidden gem – a diverse and delicious culinary scene waiting to be explored. This blog delves into the hidden cafes, iconic street food stalls, and family-friendly restaurants that make Rajouri Garden a must-visit for any foodie.",
     "aboutTheLocation": "Rajouri Garden's culinary tapestry is as rich as its culture. The aroma of freshly baked bread mingles with the enticing fragrance of kebabs sizzling on grills. Fine-dining establishments with global menus share space with local restaurants serving Punjabi staples. Whether you crave a quick street food bite or a leisurely dining experience, Rajouri Garden caters to every taste and budget.",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14006.072033712746!2d77.11031244715329!3d28.64420449219885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d036b61214b21%3A0xaaa9a3b98a1faee2!2sRajouri%20Garden%2C%20Delhi!5e0!3m2!1sen!2sin!4v1710089160736!5m2!1sen!2sin",
@@ -713,198 +679,385 @@
     ],
     "sections": [
       {
-        "name": "The California Boulevard - Hollywood-Inspired Dining",
-        "content": "Experience Hollywood-inspired dining at The California Boulevard, where the ambiance seamlessly blends with a diverse menu. From gourmet burgers to flavorful pasta, this trendy spot in Rajouri Garden offers a taste of California's culinary charm.",
-        "images": [
-          "california_boulevard_interior.jpg",
-          "california_boulevard_dishes.jpg"
-        ]
+        "name": "Mellow Garden | Rajouri",
+        "title": "Mellow Garden | Rajouri"
       },
       {
-        "name": "Qubitos - The Terrace Cafe",
-        "content": "Elevate your dining experience at Qubitos, the terrace cafe that offers a perfect blend of great views and delectable cuisine. Whether you're sipping on a refreshing mocktail or indulging in global flavors, Qubitos is a delightful escape in the heart of Rajouri Garden.",
-        "images": [
-          "qubitos_terrace.jpg",
-          "qubitos_cuisine.jpg"
-        ]
+        "name": "The Tummy Section: Shawario Express, Rajouri Garden",
+        "title": "The Tummy Section: Shawario Express, Rajouri Garden"
       },
       {
-        "name": "Rajinder Da Dhaba - Street-Style Delights",
-        "content": "Savor street-style delights at Rajinder Da Dhaba, a legendary eatery that has been a favorite among locals for years. From spicy kebabs to buttery tandoori delights, this dhaba captures the essence of North Indian street food.",
-        "images": [
-          "rajinder_da_dhaba_exterior.jpg",
-          "rajinder_da_dhaba_dishes.jpg"
-        ]
+        "name": "Sethi's Family Restaurant & Bar-Be-Que",
+        "title": "Sethi's Family Restaurant & Bar-Be-Que"
       },
       {
-        "name": "The Headquarter - Coffee and Conversations",
-        "content": "Immerse yourself in coffee and conversations at The Headquarter, a cozy cafe that serves as a hub for caffeine enthusiasts. With a warm ambiance and a menu that caters to diverse tastes, this spot is ideal for a relaxed meet-up or solo contemplation.",
-        "images": [
-          "the_headquarter_cafe.jpg",
-          "the_headquarter_coffee.jpg"
-        ]
+        "name": "The Barbeque Company- Rajouri Garden",
+        "title": "The Barbeque Company- Rajouri Garden"
       },
       {
-        "name": "Gali Paranthe Wali - A Lane of Flavors",
-        "content": "Explore a lane of flavors at Gali Paranthe Wali, where the age-old tradition of parathas continues to thrive. From classic aloo parathas to innovative fillings, this culinary street in Rajouri Garden is a haven for paratha lovers.",
-        "images": [
-          "gali_paranthe_wali_street.jpg",
-          "gali_paranthe_wali_parathas.jpg"
-        ]
+        "name": "J U G G E R N A U T, Rajouri Garden",
+        "title": "J U G G E R N A U T, Rajouri Garden"
       },
       {
-        "name": "Cafe OMG - Youthful Vibes, Global Bites",
-        "content": "Feel the youthful vibes and savor global bites at Cafe OMG, a popular spot that caters to the young and the young at heart. Whether you're craving burgers, wraps, or desserts, Cafe OMG offers a menu that resonates with the lively spirit of Rajouri Garden.",
-        "images": [
-          "cafe_omg_interior.jpg",
-          "cafe_omg_dishes.jpg"
-        ]
+        "name": "Culinaire",
+        "title": "Culinaire"
       },
       {
-        "name": "At MRP - Unwind with Pocket-Friendly Drinks",
-        "content": "Unwind with pocket-friendly drinks at At MRP, a bar that offers a unique pricing concept. With a laid-back ambiance and a wide range of beverages, this spot in Rajouri Garden is perfect for those looking to enjoy drinks without breaking the bank.",
-        "images": [
-          "at_mrp_bar.jpg",
-          "at_mrp_drinks.jpg"
-        ]
+        "name": "K. K. Da Dhaba",
+        "title": "K. K. Da Dhaba"
       },
       {
-        "name": "The Tipsy Project - Crafted Cocktails, Artistic Vibes",
-        "content": "Indulge in crafted cocktails and artistic vibes at The Tipsy Project, a bar that combines mixology with a creative ambiance. From signature cocktails to unique presentations, this spot adds a touch of sophistication to Rajouri Garden's nightlife.",
-        "images": [
-          "the_tipsy_project_cocktails.jpg",
-          "the_tipsy_project_interior.jpg"
-        ]
+        "name": "SANDOZ Best Restaurant in Rajouri Garden",
+        "title": "SANDOZ Best Restaurant in Rajouri Garden"
+      },
+      {
+        "name": "Ikk Panjab",
+        "title": "Ikk Panjab"
+      },
+      {
+        "name": "Kartoon Cafe Rajouri Garden",
+        "title": "Kartoon Cafe Rajouri Garden"
+      },
+      {
+        "name": "Big Boyz Lounge - Rajouri Garden",
+        "title": "Big Boyz Lounge - Rajouri Garden"
+      },
+      {
+        "name": "Mealodrama Modern Bistro",
+        "title": "Mealodrama Modern Bistro"
+      },
+      {
+        "name": "Kartoon Cafe Rajouri Garden",
+        "title": "Kartoon Cafe Rajouri Garden"
+      },
+      {
+        "name": "Gola Sizzlers",
+        "title": "Gola Sizzlers"
+      },
+      {
+        "name": "Prem Di Hatti",
+        "title": "Prem Di Hatti"
+      },
+      {
+        "name": "Jungle Jamboree",
+        "title": "Jungle Jamboree"
+      },
+      {
+        "name": "Barbeque Nation Rajouri Garden",
+        "title": "Barbeque Nation Rajouri Garden"
+      },
+      {
+        "name": "Bikanervala",
+        "title": "Bikanervala"
+      },
+      {
+        "name": "Pinch of Spice",
+        "title": "Pinch of Spice"
+      },
+      {
+        "name": "Dicha",
+        "title": "Dicha"
+      },
+      {
+        "name": "Vaishno Rasoi",
+        "title": "Vaishno Rasoi"
+      },
+      {
+        "name": "Baba's Tagore Garden",
+        "title": "Baba's Tagore Garden"
+      },
+      {
+        "name": "Changezi Chicken",
+        "title": "Changezi Chicken"
+      },
+      {
+        "name": "Just Behind U",
+        "title": "Just Behind U"
+      },
+      {
+        "name": "Capital Grill",
+        "title": "Capital Grill"
+      },
+      {
+        "name": "Baljeet's Amritsari Koolcha",
+        "title": "Baljeet's Amritsari Koolcha"
+      },
+      {
+        "name": "Biryani By Kilo - Rajouri Garden",
+        "title": "Biryani By Kilo - Rajouri Garden"
+      },
+      {
+        "name": "Standard snacks and restaurant",
+        "title": "Standard snacks and restaurant"
+      },
+      {
+        "name": "TALWARS Sardar ji Family Restaurant(Raja Garden)",
+        "title": "TALWARS Sardar ji Family Restaurant(Raja Garden)"
+      },
+      {
+        "name": "Haldiram's - Rajouri Garden",
+        "title": "Haldiram's - Rajouri Garden"
       }
     ],
     "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipO2QO3HH7U_17XwoSH87d5_YMnwN0RIcsYKf56n=s1360-w1360-h1020"
   },
   {
-    "title": "Tilak-Nagar-Cafes-Resturants",
-    "location": "Tilak Nagar",
-    "name": "Tilak Nagar: A Delicious Journey Beyond Expectation",
-    "description": "Tilak Nagar, often known for its bustling markets and local charm, hides a delightful secret – a vibrant and diverse culinary scene waiting to be explored. This blog post delves into the hidden gems and iconic restaurants that make Tilak Nagar a foodie's paradise, catering to every palate and budget.",
-    "aboutTheLocation": "Tilak Nagar's culinary scene transcends its residential charm. The air buzzes with the aroma of sizzling kebabs from street vendors, while hidden cafes tucked away in bylanes offer innovative delights. Local restaurants dish up hearty North Indian fare, while modern eateries cater to global cravings. Tilak Nagar offers a delicious adventure for every food enthusiast.",
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14006.80054573504!2d77.08382519715005!3d28.63874799322599!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d049a52c282c7%3A0xfa68b5f8baf734a4!2sTilak%20Nagar%2C%20Delhi%2C%20110018!5e0!3m2!1sen!2sin!4v1710089198459!5m2!1sen!2sin",
+    "title": "Rajouri-Garden-Cafe",
+    "location": "Rajouri Garden",
+    "name": "Cafes in Rajouri Garden",
+    "description": "Rajouri Garden, a vibrant neighborhood in West Delhi, is a shopper's paradise. But beyond the bustling markets lies a hidden gem – a diverse and delicious culinary scene waiting to be explored. This blog delves into the hidden cafes, iconic street food stalls, and family-friendly restaurants that make Rajouri Garden a must-visit for any foodie.",
+    "aboutTheLocation": "Rajouri Garden's culinary tapestry is as rich as its culture. The aroma of freshly baked bread mingles with the enticing fragrance of kebabs sizzling on grills. Fine-dining establishments with global menus share space with local restaurants serving Punjabi staples. Whether you crave a quick street food bite or a leisurely dining experience, Rajouri Garden caters to every taste and budget.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14006.072033712746!2d77.11031244715329!3d28.64420449219885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d036b61214b21%3A0xaaa9a3b98a1faee2!2sRajouri%20Garden%2C%20Delhi!5e0!3m2!1sen!2sin!4v1710089160736!5m2!1sen!2sin",
     "mustTryDishes": [
       {
-        "name": "Samosa and Chutney at Aggarwal Exclusive Sweet Corner",
-        "description": "This local favorite is a must-visit for anyone seeking a classic Delhi street food experience. Their crispy samosas come with a variety of chutneys, offering a perfect harmony of flavors and textures."
+        "name": "Legendary Chole Bhature at Prem Di Hatti",
+        "description": "A Rajouri Garden institution, Prem Di Hatti offers a legendary take on the classic Punjabi dish – chole bhature. Their fluffy bhaturas (fried bread) paired with flavorful chole (chickpea curry) are a local favorite, perfect for a satisfying and affordable meal."
       },
       {
-        "name": "Unique Momos at Sona Chandi Momos (Near Tilak Nagar Metro Station)",
-        "description": "Move over regular momos! Sona Chandi offers a twist on the classic dumpling, with fillings like Sona (Paneer Bhuna) and Chandi (Chicken). Their innovative flavors and signature chutneys are a delightful surprise for any momo lover."
+        "name": "Global Street Food Fusion at The Post Office Cafe",
+        "description": "Craving something unique? The Post Office Cafe offers a delightful fusion of global street food favorites. Think Mediterranean pizzas with Indian twists or inventive salads with a local touch. Perfect for a casual lunch or a fun dinner with friends."
       },
       {
-        "name": "Mughlai Marvels at Harman Di Hatti",
-        "description": "Indulge in the rich flavors of Mughlai cuisine at Harman Di Hatti. Their menu boasts succulent kebabs, creamy curries like butter chicken, and aromatic biryanis, perfect for a satisfying and flavorful meal."
+        "name": "Hearty North Indian Fare at Sandoz Restaurant",
+        "description": "Indulge in the rich flavors of North Indian cuisine at Sandoz Restaurant. Their menu boasts succulent tandoori dishes, creamy curries like butter chicken, and aromatic biryanis. A perfect option for a family dinner or a celebratory meal."
       }
     ],
     "localFoodExperiences": [
       {
-        "title": "Explore the Tilak Nagar Market",
-        "description": "Immerse yourself in the local atmosphere by exploring the vibrant Tilak Nagar Market. Sample fresh fruits and vegetables, discover hidden spice shops, and don't miss the chance to grab delicious street food favorites like samosas, chaat, and jalebis."
+        "title": "Explore the Street Food Stalls on Main Market",
+        "description": "Main Market in Rajouri Garden is a haven for street food enthusiasts. Sample a variety of chaat (savory snacks) like gol gappas and papri chaat, indulge in crispy samosas, or try local favorites like paranthas (stuffed flatbreads). Don't forget to quench your thirst with a refreshing lassi or freshly squeezed sugarcane juice."
       }
     ],
     "tipsForFoodies": [
-      "Embrace cash: While some cafes and restaurants accept cards, most street vendors rely on cash transactions.",
-      "Be adventurous: Don't hesitate to try local street food! It's a delicious and affordable way to experience authentic Tilak Nagar flavors.",
-      "Consider portion sizes: Portions at some local restaurants can be generous. Plan your meals accordingly or share dishes to try a wider variety."
+      "Be adventurous with street food: The street food stalls offer a delicious and affordable way to experience the local flavors of Rajouri Garden. Don't hesitate to try something new!",
+      "Consider a mix of experiences: Rajouri Garden offers a variety of dining options. From casual cafes to family-friendly restaurants, choose your experience based on your mood and preferences.",
+      "Plan for crowds, especially on weekends: Rajouri Garden is a popular spot, especially during evenings and weekends. Be prepared for a wait at popular restaurants, or consider making reservations in advance."
     ],
-    "personalRecommendations": "Unique Momos at Sona Chandi Momos and Head to the bylanes near the main market to discover hidden cafes offering delicious desserts and local beverages like lassi.",
-    "conclusion": "Tilak Nagar offers more than just a convenient location and lively markets. It's a haven for delicious discoveries. From iconic street food stalls to hidden restaurants serving regional specialties, Tilak Nagar caters to every budget and craving. So, come hungry, embrace the local charm, and embark on your own food adventure in Tilak Nagar!",
+    "personalRecommendations": "Legendary Chole Bhature at Prem Di Hatti,Explore the bylanes of Rajouri Garden for hidden cafes with specialty coffee and delicious desserts.",
+    "conclusion": "Rajouri Garden isn't just a shopping destination – it's a foodie's delight. From iconic street food stalls bursting with flavor to upscale restaurants offering global cuisine, there's something delicious waiting to be discovered around every corner. So, embark on your own culinary adventure in Rajouri Garden and tantalize your taste buds with a delightful mix of local favorites and global finds!",
     "author": {
       "name": "shinzel",
-      "bio": "A Delhi explorer with a curious palate! I navigate the bustling neighborhoods of Delhi, uncovering hidden gems and sharing the city's diverse culinary secrets. Join me on adventures that combine local experiences with delicious discoveries!"
+      "bio": "A West Delhi explorer on a mission to devour deliciousness! I navigate the vibrant streets of Rajouri Garden, uncovering hidden gems and sharing the neighborhood's diverse culinary secrets. Join me on adventures that combine local finds with delicious discoveries!"
     },
     "tags": [
-      "Tilak Nagar Food",
+      "Rajouri Garden Food",
       "Street Food Paradise",
       "Hidden Gems",
-      "Mughlai Cuisine",
-      "Samosas",
-      "Momos",
-      "Local Market",
-      "Delhi Food"
+      "Global Cuisine",
+      "Chole Bhature"
     ],
-    "sections": [
+    "sections":
+    [
       {
-        "name": "Sardar Ji Malai Chaap Wale - Chaap Delights",
-        "content": "Delight in chaap delights at Sardar Ji Malai Chaap Wale, a local favorite known for its flavorful vegetarian chaap dishes. From malai chaap to tandoori chaap, this eatery captures the essence of North Indian street food.",
-        "images": [
-          "sardar_ji_malai_chaap_wale_exterior.jpg",
-          "sardar_ji_malai_chaap_wale_dishes.jpg"
-        ]
+        "name": "3 Peg cafe",
+        "title": "3 Peg cafe"
       },
       {
-        "name": "Dilli BC - Biryani Central",
-        "content": "Indulge in the biryani central of Tilak Nagar at Dilli BC, a place that takes pride in crafting aromatic biryanis. With a menu that boasts a variety of biryanis, this spot caters to the cravings of biryani enthusiasts in the neighborhood.",
-        "images": [
-          "dilli_bc_interior.jpg",
-          "dilli_bc_biryani.jpg"
-        ]
+        "name": "Suroor Reloaded",
+        "title": "Suroor Reloaded"
       },
       {
-        "name": "Goli Vada Pav No. 1 - Street Snack Sensation",
-        "content": "Experience the street snack sensation at Goli Vada Pav No. 1, a chain that has redefined the humble vada pav. With a variety of vada pav options and sides, Goli Vada Pav No. 1 brings the flavors of Mumbai to Tilak Nagar.",
-        "images": [
-          "goli_vada_pav_exterior.jpg",
-          "goli_vada_pav_snacks.jpg"
-        ]
+        "name": "Qubitos",
+        "title": "Qubitos"
       },
       {
-        "name": "Bille Di Hatti - Punjabi Comfort Food",
-        "content": "Savor Punjabi comfort food at Bille Di Hatti, a local gem that has been serving hearty meals for years. From chole bhature to lassi, the menu at Bille Di Hatti reflects the warmth and richness of Punjabi cuisine.",
-        "images": [
-          "bille_di_hatti_interior.jpg",
-          "bille_di_hatti_dishes.jpg"
-        ]
+        "name": "BoomBox Cafe Reloaded",
+        "title": "BoomBox Cafe Reloaded"
       },
       {
-        "name": "The Shawarma Shop - Lebanese Flavor Fusion",
-        "content": "Embark on a flavor fusion journey at The Shawarma Shop, where Lebanese delights meet local tastes. The shawarmas, falafels, and mezze platters at this spot in Tilak Nagar offer a refreshing break from traditional Indian flavors.",
-        "images": [
-          "the_shawarma_shop_interior.jpg",
-          "the_shawarma_shop_shawarma.jpg"
-        ]
+        "name": "Kartoon Cafe Rajouri Garden",
+        "title": "Kartoon Cafe Rajouri Garden"
       },
       {
-        "name": "Ever Bake - Sweet Treats Galore",
-        "content": "Indulge in sweet treats galore at Ever Bake, a bakery that tempts with its array of desserts and pastries. From cakes to cookies, Ever Bake satisfies the sweet tooth of Tilak Nagar residents and visitors alike.",
-        "images": [
-          "ever_bake_sweets.jpg",
-          "ever_bake_pastries.jpg"
-        ]
+        "name": "The Junkyard Cafe",
+        "title": "The Junkyard Cafe"
       },
       {
-        "name": "Tandoor Hot - Kebab Kingdom",
-        "content": "Enter the kebab kingdom at Tandoor Hot, a spot that specializes in succulent tandoori delights. Whether you're a fan of seekh kebabs, tikkas, or grilled delicacies, Tandoor Hot has something to satiate every kebab craving.",
-        "images": [
-          "tandoor_hot_interior.jpg",
-          "tandoor_hot_kebabs.jpg"
-        ]
+        "name": "Yolo Cafe",
+        "title": "Yolo Cafe"
       },
       {
-        "name": "Momo King - Himalayan Dumplings",
-        "content": "Satisfy your dumpling cravings at Momo King, a place that brings the flavors of Himalayan momos to Tilak Nagar. From steamed to fried, the momos here are a favorite among those seeking a taste of Tibetan and Nepali cuisines.",
-        "images": [
-          "momo_king_exterior.jpg",
-          "momo_king_momos.jpg"
-        ]
+        "name": "Talli Station Rajouri Garden",
+        "title": "Talli Station Rajouri Garden"
       },
       {
-        "name": "Swad Punjab Da - Dhaba Delights",
-        "content": "Experience dhaba delights at Swad Punjab Da, a restaurant that brings the rustic charm of a Punjabi dhaba to Tilak Nagar. The robust flavors of Punjabi cuisine, combined with a welcoming ambiance, make Swad Punjab Da a go-to spot for hearty meals.",
-        "images": [
-          "swad_punjab_da_dhaba.jpg",
-          "swad_punjab_da_dishes.jpg"
-        ]
+        "name": "Cuoco The Cafe",
+        "title": "Cuoco The Cafe"
+      },
+      {
+        "name": "DutyFree | Vayu Bar",
+        "title": "DutyFree | Vayu Bar"
+      },
+      {
+        "name": "Café Coffee Day",
+        "title": "Café Coffee Day"
+      },
+      {
+        "name": "Costa Coffee Rajouri Garden",
+        "title": "Costa Coffee Rajouri Garden"
+      },
+      {
+        "name": "The Coffee Bean & Tea Leaf",
+        "title": "The Coffee Bean & Tea Leaf"
+      },
+      {
+        "name": "Metro Cafe",
+        "title": "Metro Cafe"
+      },
+      {
+        "name": "Shake Shook cafe",
+        "title": "Shake Shook cafe"
+      },
+      {
+        "name": "Bistro 57",
+        "title": "Bistro 57"
+      },
+      {
+        "name": "Metro Cafe",
+        "title": "Metro Cafe"
+      },
+      {
+        "name": "Cafe Delhi Heights, Rajouri Garden",
+        "title": "Cafe Delhi Heights, Rajouri Garden"
+      },
+      {
+        "name": "The Coffee Bean & Tea Leaf",
+        "title": "The Coffee Bean & Tea Leaf"
+      },
+      {
+        "name": "Sardarji Di Bhatti Cafe",
+        "title": "Sardarji Di Bhatti Cafe"
+      },
+      {
+        "name": "The Blue Bean Cafe",
+        "title": "The Blue Bean Cafe"
+      },
+      {
+        "name": "Raffles Cafe",
+        "title": "Raffles Cafe"
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipO2QO3HH7U_17XwoSH87d5_YMnwN0RIcsYKf56n=s1360-w1360-h1020"
   },
   {
-    "name": "Authentic cuisine restaurants in Greater kailash",
+    "title": "Rajouri-Garden-FastFood-Resturants",
+    "location": "Rajouri Garden",
+    "name": "FastFood Resturants in Rajouri Garden",
+    "description": "Rajouri Garden, a vibrant neighborhood in West Delhi, is a shopper's paradise. But beyond the bustling markets lies a hidden gem – a diverse and delicious culinary scene waiting to be explored. This blog delves into the hidden cafes, iconic street food stalls, and family-friendly restaurants that make Rajouri Garden a must-visit for any foodie.",
+    "aboutTheLocation": "Rajouri Garden's culinary tapestry is as rich as its culture. The aroma of freshly baked bread mingles with the enticing fragrance of kebabs sizzling on grills. Fine-dining establishments with global menus share space with local restaurants serving Punjabi staples. Whether you crave a quick street food bite or a leisurely dining experience, Rajouri Garden caters to every taste and budget.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14006.072033712746!2d77.11031244715329!3d28.64420449219885!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d036b61214b21%3A0xaaa9a3b98a1faee2!2sRajouri%20Garden%2C%20Delhi!5e0!3m2!1sen!2sin!4v1710089160736!5m2!1sen!2sin",
+    "mustTryDishes": [
+      {
+        "name": "Legendary Chole Bhature at Prem Di Hatti",
+        "description": "A Rajouri Garden institution, Prem Di Hatti offers a legendary take on the classic Punjabi dish – chole bhature. Their fluffy bhaturas (fried bread) paired with flavorful chole (chickpea curry) are a local favorite, perfect for a satisfying and affordable meal."
+      },
+      {
+        "name": "Global Street Food Fusion at The Post Office Cafe",
+        "description": "Craving something unique? The Post Office Cafe offers a delightful fusion of global street food favorites. Think Mediterranean pizzas with Indian twists or inventive salads with a local touch. Perfect for a casual lunch or a fun dinner with friends."
+      },
+      {
+        "name": "Hearty North Indian Fare at Sandoz Restaurant",
+        "description": "Indulge in the rich flavors of North Indian cuisine at Sandoz Restaurant. Their menu boasts succulent tandoori dishes, creamy curries like butter chicken, and aromatic biryanis. A perfect option for a family dinner or a celebratory meal."
+      }
+    ],
+    "localFoodExperiences": [
+      {
+        "title": "Explore the Street Food Stalls on Main Market",
+        "description": "Main Market in Rajouri Garden is a haven for street food enthusiasts. Sample a variety of chaat (savory snacks) like gol gappas and papri chaat, indulge in crispy samosas, or try local favorites like paranthas (stuffed flatbreads). Don't forget to quench your thirst with a refreshing lassi or freshly squeezed sugarcane juice."
+      }
+    ],
+    "tipsForFoodies": [
+      "Be adventurous with street food: The street food stalls offer a delicious and affordable way to experience the local flavors of Rajouri Garden. Don't hesitate to try something new!",
+      "Consider a mix of experiences: Rajouri Garden offers a variety of dining options. From casual cafes to family-friendly restaurants, choose your experience based on your mood and preferences.",
+      "Plan for crowds, especially on weekends: Rajouri Garden is a popular spot, especially during evenings and weekends. Be prepared for a wait at popular restaurants, or consider making reservations in advance."
+    ],
+    "personalRecommendations": "Legendary Chole Bhature at Prem Di Hatti,Explore the bylanes of Rajouri Garden for hidden cafes with specialty coffee and delicious desserts.",
+    "conclusion": "Rajouri Garden isn't just a shopping destination – it's a foodie's delight. From iconic street food stalls bursting with flavor to upscale restaurants offering global cuisine, there's something delicious waiting to be discovered around every corner. So, embark on your own culinary adventure in Rajouri Garden and tantalize your taste buds with a delightful mix of local favorites and global finds!",
+    "author": {
+      "name": "shinzel",
+      "bio": "A West Delhi explorer on a mission to devour deliciousness! I navigate the vibrant streets of Rajouri Garden, uncovering hidden gems and sharing the neighborhood's diverse culinary secrets. Join me on adventures that combine local finds with delicious discoveries!"
+    },
+    "tags": [
+      "Rajouri Garden Food",
+      "Street Food Paradise",
+      "Hidden Gems",
+      "Global Cuisine",
+      "Chole Bhature"
+    ],
+    "sections":[
+      {
+        "name": "The Burger Club Rajouri Garden",
+        "title": "The Burger Club Rajouri Garden"
+      },
+      {
+        "name": "Burger King",
+        "title": "Burger King"
+      },
+      {
+        "name": "Prem Di Hatti",
+        "title": "Prem Di Hatti"
+      },
+      {
+        "name": "Bikanervala",
+        "title": "Bikanervala"
+      },
+      {
+        "name": "Biryani By Kilo - Rajouri Garden",
+        "title": "Biryani By Kilo - Rajouri Garden"
+      },
+      {
+        "name": "Louis Burger, Rajouri Garden",
+        "title": "Louis Burger, Rajouri Garden"
+      },
+      {
+        "name": "Taste drive",
+        "title": "Taste drive"
+      },
+      {
+        "name": "Atul Chaat Corner",
+        "title": "Atul Chaat Corner"
+      },
+      {
+        "name": "The Momoz Hub",
+        "title": "The Momoz Hub"
+      },
+      {
+        "name": "Xero Degrees",
+        "title": "Xero Degrees"
+      },
+      {
+        "name": "Burgrill",
+        "title": "Burgrill"
+      },
+      {
+        "name": "Black Pine Cafe",
+        "title": "Black Pine Cafe"
+      },
+      {
+        "name": "Unique Tasty Bites",
+        "title": "Unique Tasty Bites"
+      },
+      {
+        "name": "Pradip Momos Point",
+        "title": "Pradip Momos Point"
+      },
+      {
+        "name": "Happy Spicy Tawa",
+        "title": "Happy Spicy Tawa"
+      },
+      {
+        "name": "The Tummy Section: Shawario Express, Rajouri Garden",
+        "title": "The Tummy Section: Shawario Express, Rajouri Garden"
+      },
+      {
+        "name": "FCF Chaap & Kebabs",
+        "title": "FCF Chaap & Kebabs"
+      }
+    ],
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipO2QO3HH7U_17XwoSH87d5_YMnwN0RIcsYKf56n=s1360-w1360-h1020"
+  },
+  {
+    "name": "Authentic cafe and restaurants in Greater kailash",
     "title": "Greater-Kailash-Cafes-Resturants",
     "location": "Greater Kailash",
     "description": "Greater Kailash, commonly known as GK, isn't just a hotspot for fashion enthusiasts and families; it's also a paradise for food lovers. Within its upscale and lively surroundings, you'll discover a plethora of dining options offering authentic and mouthwatering dishes. In this blog post, we'll delve into the rich tapestry of flavors that GK has to offer, ranging from renowned restaurants to quaint cafes, each promising a unique culinary experience that reflects global influences.",
@@ -957,368 +1110,156 @@
     ],
     "sections": [
       {
-        "name": "Dramz - Panoramic Dining Experience",
-        "content": "Elevate your dining experience at Dramz, a restaurant known for its panoramic views and exquisite cuisine. With a diverse menu inspired by global flavors, Dramz caters to those seeking a combination of culinary artistry and a sophisticated ambiance.",
-        "images": [
-          "dramz_interior.jpg",
-          "dramz_cuisine.jpg"
-        ]
+        "name": "The Big Chill Cafe",
+        "title": "The Big Chill Cafe"
       },
       {
-        "name": "Getafix - Healthy Indulgence",
-        "content": "Indulge in healthy delights at Getafix, a cafe that embraces the concept of guilt-free indulgence. From nutrient-packed bowls to refreshing smoothies, Getafix caters to health-conscious diners without compromising on taste.",
-        "images": [
-          "getafix_cafe.jpg",
-          "getafix_dishes.jpg"
-        ]
+        "name": "J U G G E R N A U T",
+        "title": "J U G G E R N A U T"
       },
       {
-        "name": "Yeti - The Himalayan Kitchen",
-        "content": "Embark on a culinary journey to the Himalayas at Yeti - The Himalayan Kitchen, a restaurant that brings the flavors of Nepal and Tibet to Greater Kailash. From momos to thukpa, Yeti offers a taste of the mountainous region's diverse cuisine.",
-        "images": [
-          "yeti_interior.jpg",
-          "yeti_dishes.jpg"
-        ]
+        "name": "Moti Mahal Delux - Greater Kailash part 1",
+        "title": "Moti Mahal Delux - Greater Kailash part 1"
       },
       {
-        "name": "Big Chill - Retro Vibes, Classic Flavors",
-        "content": "Step into retro vibes and savor classic flavors at Big Chill, a restaurant that pays homage to the American diner experience. From hearty pasta dishes to decadent desserts, Big Chill captures the essence of comfort food with a touch of nostalgia.",
-        "images": [
-          "big_chill_interior.jpg",
-          "big_chill_dishes.jpg"
-        ]
-      },
-      {
-        "name": "Sattvik - Vegetarian Extravaganza",
-        "content": "Experience a vegetarian extravaganza at Sattvik, a restaurant that celebrates the richness of Indian vegetarian cuisine. With a menu that spans regional specialties, Sattvik offers a gourmet journey for those seeking plant-based delights.",
-        "images": [
-          "sattvik_interior.jpg",
-          "sattvik_dishes.jpg"
-        ]
-      },
-      {
-        "name": "Cafe Diva - Culinary Elegance",
-        "content": "Immerse yourself in culinary elegance at Cafe Diva, a sophisticated eatery that combines contemporary flair with timeless flavors. From innovative dishes to curated wine selections, Cafe Diva is a destination for those who appreciate refined dining.",
-        "images": [
-          "cafe_diva_interior.jpg",
-          "cafe_diva_cuisine.jpg"
-        ]
-      },
-      {
-        "name": "The Grammar Room - Quaint Cafe Charms",
-        "content": "Experience the quaint charms of The Grammar Room, a cafe that exudes warmth and simplicity. With a menu featuring comfort food and artisanal beverages, this spot in Greater Kailash is perfect for a leisurely afternoon or casual meetings.",
-        "images": [
-          "the_grammar_room_cafe.jpg",
-          "the_grammar_room_menu.jpg"
-        ]
-      },
-      {
-        "name": "Yum Yum Cha - Asian Fusion Delights",
-        "content": "Delight in Asian fusion at Yum Yum Cha, a restaurant that brings together the best of Japanese, Chinese, and Thai cuisines. With colorful presentations and bold flavors, Yum Yum Cha adds a contemporary twist to traditional Asian dishes.",
-        "images": [
-          "yum_yum_cha_interior.jpg",
-          "yum_yum_cha_dishes.jpg"
-        ]
-      },
-      {
-        "name": "The Toddy Shop - South Indian Soul Food",
-        "content": "Savor the soulful flavors of South India at The Toddy Shop, a restaurant that pays homage to the region's culinary heritage. From dosas to spicy curries, The Toddy Shop invites diners on a gastronomic journey through South Indian cuisine.",
-        "images": [
-          "the_toddy_shop_interior.jpg",
-          "the_toddy_shop_dishes.jpg"
-        ]
-      },
-      {
-        "name": "Shikhara Fine Dining Restaurant",
-        "category": [
-          "North Indian",
-          "Fine Dining"
-        ],
-        "tags": [
-          "Mughlai"
-        ],
-        "shortDescription": "Offers familiar Mughlai & other North Indian staples in a basic setting. Price range is moderate (₹₹) and has a customer rating of 4 stars on Google."
-      },
-      {
-        "name": "Kebabs and Curries",
-        "category": [
-          "Indian"
-        ],
-        "tags": [
-          "Kebabs",
-          "Curries"
-        ],
-        "shortDescription": "This cafe likely specializes in succulent kebabs and flavorful curries. Further details about ambiance or price range are unavailable."
-      },
-      {
-        "name": "Thali at 99",
-        "category": [
-          "Indian"
-        ],
-        "tags": [
-          "Thali"
-        ],
-        "shortDescription": "Offers budget-friendly thali meals, possibly featuring a variety of regional dishes on a single platter. Further details about cuisine or ambiance are unavailable."
-      },
-      {
-        "name": "POP SEOUL",
-        "category": [
-          "Korean"
-        ],
-        "tags": [
-          "Korean Food"
-        ],
-        "shortDescription": "Offers Korean cuisine in a trendy setting. Further details about menu or price range are unavailable."
-      },
-      {
-        "name": "New Minar",
-        "category": [
-          "Indian"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This cafe offers familiar Indian dishes in a casual atmosphere. Further details about menu or price range are unavailable."
-      },
-      {
-        "name": "Tanoshii Trail",
-        "category": [
-          "Japanese"
-        ],
-        "tags": [
-          "Japanese Food"
-        ],
-        "shortDescription": "Offers Japanese dishes."
+        "name": "Music & Mountains Hillside Cafe",
+        "title": "Music & Mountains Hillside Cafe"
       },
       {
         "name": "Gastronomica",
-        "category": [
-          "Global"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This cafe's name suggests a global culinary experience, possibly featuring a diverse menu. Further details about cuisine or ambiance are unavailable."
+        "title": "Gastronomica"
       },
       {
-        "name": "Moti Mahal Delux - Greater Kailash Part 1",
-        "category": [
-          "Mughlai",
-          "Indian"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This establishment is likely an outpost of the famed Moti Mahal chain, known for its rich Mughlai cuisine."
+        "name": "Kori's",
+        "title": "Kori's"
       },
       {
-        "name": "Enoki - Fresh Asian Kitchen (GK)",
-        "category": [
-          "Asian"
-        ],
-        "tags": [
-          "Fresh Asian Cuisine"
-        ],
-        "shortDescription": "Specializes in fresh Asian flavors. Further details about specific cuisines or menu are unavailable."
+        "name": "New Minar",
+        "title": "New Minar"
       },
       {
-        "name": "A W Foods",
-        "category": [
-          "Cafe"
-        ],
-        "tags": [
-          "Healthy",
-          "Organic (possible)"
-        ],
-        "shortDescription": "This cafe's name suggests a focus on wholesome or organic food options. Further details about menu or cuisine are unavailable."
+        "name": "Grills & Platters By Pind Balluchi, GK-1",
+        "title": "Grills & Platters By Pind Balluchi, GK-1"
       },
       {
-        "name": "Sagar Ratna",
-        "category": [
-          "South Indian"
-        ],
-        "tags": [
-          "veg restaurant"
-        ],
-        "shortDescription": "This is likely a South Indian veg restaurant chain known for its dosas, idlis, and filter coffee."
-      },
-      {
-        "name": "Baris",
-        "category": [
-          "Indian"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about Baris are unavailable. It could be a cafe, restaurant, or a bar. Further research is needed to determine its category and offerings."
-      },
-      {
-        "name": "Oh! Calcutta",
-        "category": [
-          "East Indian",
-          "Bengali (possible)"
-        ],
-        "tags": [
-          "Calcutta Cuisine"
-        ],
-        "shortDescription": "This restaurant's name suggests it specializes in Bengali cuisine from Kolkata (formerly Calcutta)."
-      },
-      {
-        "name": "Mama's Buoi Courtyard",
-        "category": [
-          "Cafe",
-          "Restaurant (possible)"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about Mama's Buoi Courtyard are unavailable. The name suggests a courtyard setting, but further research is needed to determine its category and cuisine."
-      },
-      {
-        "name": "Mainland China Restaurant",
-        "category": [
-          "Chinese"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This is likely a restaurant chain offering various Chinese dishes."
-      },
-      {
-        "name": "Panda Wokk",
-        "category": [
-          "Chinese"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This name suggests a casual Chinese eatery, possibly specializing in stir-fries or fast food options."
+        "name": "Mainland China",
+        "title": "Mainland China"
       },
       {
         "name": "Diva - The Italian Restaurant",
-        "category": [
-          "Italian"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This restaurant focuses on Italian cuisine."
+        "title": "Diva - The Italian Restaurant"
       },
       {
-        "name": "Nirula's",
-        "category": [
-          "Fast Food",
-          "Ice Cream (possibly)"
-        ],
-        "tags": [
-          "Indian",
-          "Desserts"
-        ],
-        "shortDescription": "India's oldest fast food chain known for its 'Desi' versions of Western favorites like pizzas, burgers, and ice cream. Further details about specific locations or menu variations are unavailable."
+        "name": "Tossin Pizza Greater Kailash 2 | Best Pizza Restaurant in Delhi",
+        "title": "Tossin Pizza Greater Kailash 2 | Best Pizza Restaurant in Delhi"
       },
       {
-        "name": "Cocoberry",
-        "category": [
-          "Desserts",
-          "Cafe (possible)"
-        ],
-        "tags": [
-          "Frozen Yogurt",
-          "Healthy (possible)"
-        ],
-        "shortDescription": "This likely offers frozen yogurt or other frozen dessert options. Cocoberry chains often have cafes with a focus on healthy choices."
+        "name": "Shibuya Food & Bar",
+        "title": "Shibuya Food & Bar"
       },
       {
-        "name": "Nirula's GK-2",
-        "category": [
-          "Fast Food",
-          "Ice Cream (possibly)"
-        ],
-        "tags": [
-          "Indian",
-          "Desserts"
-        ],
-        "shortDescription": "This is likely an outlet of the Nirula's fast food chain in Greater Kailash 2. Refer to the general description for Nirula's above for details about cuisine."
+        "name": "China Garden South Delhi, Greater Kailash Part 2(GK2)",
+        "title": "China Garden South Delhi, Greater Kailash Part 2(GK2)"
       },
       {
-        "name": "La Mia",
-        "category": [
-          "Italian",
-          "Cafe (possible)"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about La Mia are unavailable. The name suggests Italian influence, but further research is needed to determine its category and cuisine."
+        "name": "In The Punjab",
+        "title": "In The Punjab"
       },
       {
-        "name": "Giani's Ice Cream",
-        "category": [
-          "Ice Cream Shop"
-        ],
-        "tags": [
-          "Italian Ice Cream (possible)"
-        ],
-        "shortDescription": "This is likely an ice cream parlor chain known for its Italian-style ice cream."
+        "name": "Moti Mahal Delux - Greater Kailash 2",
+        "title": "Moti Mahal Delux - Greater Kailash 2"
       },
       {
-        "name": "Open Oven Bakehouse",
-        "category": [
-          "Bakery",
-          "Cafe (possible)"
-        ],
-        "tags": [
-          "Fresh Bread"
-        ],
-        "shortDescription": "This name suggests a bakery offering fresh bread and baked goods. It might also be a cafe with these options alongside beverages."
+        "name": "Carnatic Cafe",
+        "title": "Carnatic Cafe"
       },
       {
-        "name": "Naturals Ice Cream",
-        "category": [
-          "Ice Cream Shop"
-        ],
-        "tags": [
-          "Natural Ingredients (possible)"
-        ],
-        "shortDescription": "This is likely an ice cream parlor chain focused on using natural ingredients."
+        "name": "YouMee Greater Kailash 2 (GK2)",
+        "title": "YouMee Greater Kailash 2 (GK2)"
       },
       {
-        "name": "Baskin Robbins",
-        "category": [
-          "Ice Cream Shop"
-        ],
-        "tags": [
-          "American Ice Cream Chain"
-        ],
-        "shortDescription": "This is a global ice cream chain known for its wide variety of flavors."
+        "name": "Kiara Soul Kitchen",
+        "title": "Kiara Soul Kitchen"
       },
       {
-        "name": "Defence Bakery since 1962",
-        "category": [
-          "Bakery"
-        ],
-        "tags": [
-          "Established in 1962"
-        ],
-        "shortDescription": "This bakery has been around since 1962, likely offering a variety of breads and baked goods."
+        "name": "Blue Tokai Coffee Roasters | Greater Kailash 2",
+        "title": "Blue Tokai Coffee Roasters | Greater Kailash 2"
       },
       {
-        "name": "NIK BAKER'S",
-        "category": [
-          "Bakery"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about NIK BAKER'S are unavailable. The name suggests a bakery, but further research is needed to determine its offerings."
+        "name": "Third Wave Coffee",
+        "title": "Third Wave Coffee"
+      },
+      {
+        "name": "Chelvies Coffee",
+        "title": "Chelvies Coffee"
+      },
+      {
+        "name": "Laidback Cafe GK-2",
+        "title": "Laidback Cafe GK-2"
+      },
+      {
+        "name": "Carnatic Cafe",
+        "title": "Carnatic Cafe"
+      },
+      {
+        "name": "Whiz Cafe X ThaiFuze",
+        "title": "Whiz Cafe X ThaiFuze"
+      },
+      {
+        "name": "Chai lelo - Chai Cafe",
+        "title": "Chai lelo - Chai Cafe"
+      },
+      {
+        "name": "The Local Cafe Delhi",
+        "title": "The Local Cafe Delhi"
+      },
+      {
+        "name": "BARISTA GK-1 M block | Greater Kailash 1",
+        "title": "BARISTA GK-1 M block | Greater Kailash 1"
+      },
+      {
+        "name": "Cafe Culture",
+        "title": "Cafe Culture"
+      },
+      {
+        "name": "Coffee Bond - Cafe Bond",
+        "title": "Coffee Bond - Cafe Bond"
+      },
+      {
+        "name": "Music & Mountains Hillside Cafe",
+        "title": "Music & Mountains Hillside Cafe"
+      },
+      {
+        "name": "Third Wave Coffee",
+        "title": "Third Wave Coffee"
+      },
+      {
+        "name": "Cafe Super Chai GK",
+        "title": "Cafe Super Chai GK"
+      },
+      {
+        "name": "J U G G E R N A U T",
+        "title": "J U G G E R N A U T"
+      },
+      {
+        "name": "The Big Chill Cafe",
+        "title": "The Big Chill Cafe"
+      },
+      {
+        "name": "Getafix Cafe",
+        "title": "Getafix Cafe"
+      },
+      {
+        "name": "FatJar Cafe & Market",
+        "title": "FatJar Cafe & Market"
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "title": "Saket-Cafes-Resturants",
     "location": "Saket",
-    "name": "Saket: Unveiling a Culinary Kaleidoscope in South Delhi",
+    "name": "Cafe and Resturants you can find in Saket",
     "description": "Saket, a vibrant neighborhood in South Delhi, is more than just upscale shops and trendy cafes. It's a haven for food enthusiasts, offering a diverse culinary tapestry that caters to every taste and budget. This blog post delves into the hidden gems and iconic restaurants that make Saket a foodie paradise.",
     "aboutTheLocation": "Saket's culinary scene is as dynamic as its atmosphere. Bustling street food corners offering familiar favorites like chaat and samosas share space with fine-dining establishments boasting global cuisines. Modern cafes with innovative dishes sit comfortably alongside family-friendly restaurants serving regional specialties.",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7011.075153057589!2d77.20377439111846!3d28.523557329508574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce1f0dd053fdd%3A0x97d95c1a5860139f!2sSaket%2C%20New%20Delhi%2C%20Delhi%20110017!5e0!3m2!1sen!2sin!4v1710089310935!5m2!1sen!2sin",
@@ -1369,353 +1310,136 @@
     ],
     "sections": [
       {
-        "name": "Rosie & Tillie by A.T.E",
-        "category": [
-          "Cafe"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about Rosie & Tillie by A.T.E are unavailable. Further research is needed to determine its cuisine or ambiance."
+        "name": "Chaayos Cafe - Community Center, Saket",
+        "title": "Chaayos Cafe - Community Center, Saket"
       },
       {
-        "name": "tbsp. - Tablespoon / Pizza, Pasta, BBQ",
-        "category": [
-          "Cafe",
-          "Italian",
-          "BBQ"
-        ],
-        "tags": [
-          "Pizza",
-          "Pasta",
-          "BBQ"
-        ],
-        "shortDescription": "This cafe offers a menu with pizzas, pastas, and BBQ options. Further details about ambiance or price range are unavailable."
-      },
-      {
-        "name": "FIO POP",
-        "category": [
-          "Cafe"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Refer to the previous entry for FIO POP in Greater Kailash. This might be another outlet of the same trendy cafe offering bowl food, pizzas & burgers, plus desserts, smoothies & shakes."
-      },
-      {
-        "name": "HEYCHA @ SAKET",
-        "category": [
-          "Cafe",
-          "Tea (possible)"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "HEYCHA likely refers to a tea cafe chain. Further details about menu or ambiance are unavailable."
+        "name": "Chai Point - Community center, Saket",
+        "title": "Chai Point - Community center, Saket"
       },
       {
         "name": "Perch Wine & Coffee Bar",
-        "category": [
-          "Cafe",
-          "Bar"
-        ],
-        "tags": [
-          "Wine",
-          "Coffee"
-        ],
-        "shortDescription": "This cafe also functions as a bar, offering wine and coffee. Further details about menu or ambiance are unavailable."
+        "title": "Perch Wine & Coffee Bar"
+      },
+      {
+        "name": "Cafe Delhi Heights",
+        "title": "Cafe Delhi Heights"
       },
       {
         "name": "The Big Chill",
-        "category": [
-          "Cafe",
-          "American (possible)"
-        ],
-        "tags": [
-          "Desserts"
-        ],
-        "shortDescription": "This is likely a cafe chain known for its desserts, possibly including ice cream sundaes and brownies. Further details about menu or ambiance are unavailable."
+        "title": "The Big Chill"
       },
       {
-        "name": "Pot Pot Restaurant - Yum Indian Dining",
-        "category": [
-          "Indian"
-        ],
-        "tags": [
-          "Yum Restaurants"
-        ],
-        "shortDescription": "This restaurant belongs to the Yum Restaurants chain, likely offering Indian dishes. Further details about specific cuisine or menu are unavailable."
+        "name": "Laidback Cafe - DLF Avenue Saket",
+        "title": "Laidback Cafe - DLF Avenue Saket"
       },
       {
-        "name": "Chili's",
-        "category": [
-          "American",
-          "Casual Dining"
-        ],
-        "tags": [
-          "Tex-Mex (possible)"
-        ],
-        "shortDescription": "This is a global casual dining chain known for its burgers, fajitas, and Tex-Mex options. Further details about menu or ambiance are unavailable."
+        "name": "Blue Tokai Coffee Roasters | Saket",
+        "title": "Blue Tokai Coffee Roasters | Saket"
       },
       {
-        "name": "Ping's Cafe Orient",
-        "category": [
-          "Cafe",
-          "Asian (possible)"
-        ],
-        "tags": [
-          "Oriental Cuisine (used broadly)"
-        ],
-        "shortDescription": "This cafe's name suggests it offers Asian cuisine, but the exact type is unclear. Further research is needed to determine its specific menu."
+        "name": "UnCafe",
+        "title": "UnCafe"
       },
       {
-        "name": "The Beer Cafe",
-        "category": [
-          "Bar",
-          "Cafe (possible)"
-        ],
-        "tags": [
-          "Beer"
-        ],
-        "shortDescription": "This is likely a cafe or bar with a focus on beers. Further details about menu or ambiance are unavailable."
-      },
-      {
-        "name": "Keventers",
-        "category": [
-          "Milkshake Shop",
-          "Dessert (possible)"
-        ],
-        "tags": [
-          "Indian Brand"
-        ],
-        "shortDescription": "This is a popular Indian brand known for its thick milkshakes and ice cream creations. Further details about menu or ambiance are unavailable."
-      },
-      {
-        "name": "Starbucks",
-        "category": [
-          "Coffee Shop"
-        ],
-        "tags": [
-          "Seattle-based Chain",
-          "Coffee",
-          "Light Bites"
-        ],
-        "shortDescription": "This is a Seattle-based coffeehouse chain known for its signature roasts, light bites, and WiFi availability. Further details about specific menu items or ambiance are unavailable."
-      },
-      {
-        "name": "Chicago Pizza",
-        "category": [
-          "Pizza"
-        ],
-        "tags": [
-          "Chicago-style (possible)"
-        ],
-        "shortDescription": "This name suggests a restaurant specializing in Chicago-style pizza, known for its deep-dish crust. Further research is needed to confirm the type of pizza offered."
-      },
-      {
-        "name": "L'Opéra Select City Walk",
-        "category": [
-          "Cafe",
-          "Bakery (possible)"
-        ],
-        "tags": [
-          "French Patisserie Chain"
-        ],
-        "shortDescription": "This is likely an outlet of the L'Opéra French patisserie chain, known for its high-quality pastries, chocolates, and cakes. Further details about menu or ambiance are unavailable."
-      },
-      {
-        "name": "Zawadah - The Taste of Arab",
-        "category": [
-          "Restaurant"
-        ],
-        "tags": [
-          "Arabic Cuisine"
-        ],
-        "shortDescription": "This restaurant offers Arabic cuisine, featuring dishes from various Arab countries. Further details about specific regional specialties or menu are unavailable."
-      },
-      {
-        "name": "Alaturka Doner Kebab & Falafel",
-        "category": [
-          "Turkish"
-        ],
-        "tags": [
-          "Doner Kebab",
-          "Falafel"
-        ],
-        "shortDescription": "This restaurant specializes in Turkish cuisine, likely offering Doner Kebabs and Falafel as the name suggests. Further details about menu or ambiance are unavailable."
-      },
-      {
-        "name": "HAVEMORE RESTAURANT SAKET",
-        "category": [
-          "Indian"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about Havemore Restaurant Saket are unavailable. The name suggests a focus on a large portion size, but further research is needed to determine its specific cuisine or ambiance."
-      },
-      {
-        "name": "Café Coffee Day MGF Metropolitian Mall Saket",
-        "category": [
-          "Cafe"
-        ],
-        "tags": [
-          "Indian Chain",
-          "Coffee"
-        ],
-        "shortDescription": "This is an outlet of the popular Indian cafe chain Cafe Coffee Day. They offer a variety of coffee drinks, beverages, and light snacks. Further details about specific menu items or ambiance are unavailable."
-      },
-      {
-        "name": "Excuse Me Boss",
-        "category": [
-          "Cafe",
-          "Restaurant (possible)"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about Excuse Me Boss are unavailable. The name is quirky and doesn't offer clues about the cuisine. Further research is needed to determine its category and offerings."
-      },
-      {
-        "name": "Smoke House Deli Saket",
-        "category": [
-          "Deli",
-          "American (possible)"
-        ],
-        "tags": [
-          "Smoked Meats (possible)"
-        ],
-        "shortDescription": "Details about Smoke House Deli Saket are unavailable. The name suggests a focus on smoked meats and deli sandwiches. Further research is needed to confirm the menu or ambiance."
-      },
-      {
-        "name": "Mosaic - Country Inn by Carlson",
-        "category": [
-          "N/A"
-        ],
-        "shortDescription": "Details about Mosaic - Country Inn by Carlson are unavailable. It is likely part of the Country Inn & Suites by Carlson hotel chain, but the specific offerings at this location are unclear. Further research is needed to determine its category and cuisine."
+        "name": "New Sky Coffee",
+        "title": "New Sky Coffee"
       },
       {
         "name": "Third Wave Coffee",
-        "category": [
-          "Coffee Shop (possible)"
-        ],
-        "tags": [
-          "Third Wave Coffee Movement (possible)"
-        ],
-        "shortDescription": "This likely is a coffee shop associated with the Third Wave Coffee movement, which emphasizes specialty coffee beans and brewing methods. Further details about menu or ambiance are unavailable."
+        "title": "Third Wave Coffee"
       },
       {
-        "name": "TORO",
-        "category": [
-          "N/A"
-        ],
-        "shortDescription": "Details about TORO are unavailable. The name itself doesn't provide a clear indication of the cuisine or category. Further research is needed to determine its offerings."
+        "name": "Café Coffee Day MGF Metropolitian Mall Saket",
+        "title": "Café Coffee Day MGF Metropolitian Mall Saket"
       },
       {
-        "name": "Domino's Pizza",
-        "category": [
-          "Pizza"
-        ],
-        "tags": [
-          "American Chain"
-        ],
-        "shortDescription": "This is a global pizza chain known for its delivery and dine-in options. They offer a variety of pizzas with customizable toppings at affordable prices."
+        "name": "The B.Tech Restaurant in Saket",
+        "title": "The B.Tech Restaurant in Saket"
       },
       {
-        "name": "Khan Chacha",
-        "category": [
-          "Indian",
-          "Street Food (possible)"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This likely refers to a street food vendor or restaurant specializing in Indian street food dishes. Further details about specific offerings or ambiance are unavailable."
+        "name": "Bikanervala",
+        "title": "Bikanervala"
       },
       {
-        "name": "Blue Tokai Coffee | Saket",
-        "category": [
-          "Coffee Shop"
-        ],
-        "tags": [
-          "Indian Chain"
-        ],
-        "shortDescription": "This is an outlet of the Blue Tokai Coffee roasters, known for their ethically sourced coffee beans and focus on quality brewing methods. Further details about specific menu items or ambiance are unavailable."
-      },
-      {
-        "name": "Barbeque Nation",
-        "category": [
-          "Restaurant"
-        ],
-        "tags": [
-          "Buffet",
-          "Grill"
-        ],
-        "shortDescription": "This is a restaurant chain known for its buffet-style dining experience focused on grilled meats and seafood. Further details about specific menu items or ambiance are unavailable."
-      },
-      {
-        "name": "Mahabelly",
-        "category": [
-          "Restaurant"
-        ],
-        "tags": [
-          "Asian",
-          "Pan-Asian (possible)"
-        ],
-        "shortDescription": "This restaurant's name suggests a focus on Asian cuisine, possibly offering dishes from various Asian countries. Further research is needed to determine the specific regional specialties or menu."
+        "name": "Big Banana Restaurant and Bar",
+        "title": "Big Banana Restaurant and Bar"
       },
       {
         "name": "Yi Jing",
-        "category": [
-          "Chinese",
-          "Restaurant (possible)"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "Details about Yi Jing are unavailable. The name suggests Chinese cuisine, but further research is needed to confirm the category and menu specifics."
+        "title": "Yi Jing"
       },
       {
-        "name": "The Lounge Bar Sheraton New Delhi Hotel",
-        "category": [
-          "Bar",
-          "Lounge"
-        ],
-        "tags": [
-          "Hotel Bar"
-        ],
-        "shortDescription": "This is likely the lounge bar inside the Sheraton New Delhi Hotel. It might offer a variety of drinks, cocktails, and light bites. Further details about menu or ambiance are unavailable."
+        "name": "Delhi Pavilion",
+        "title": "Delhi Pavilion"
       },
       {
-        "name": "Chilli Dragon®",
-        "category": [
-          "Indian",
-          "Chinese (possible)"
-        ],
-        "tags": [
-          "N/A"
-        ],
-        "shortDescription": "This name suggests a restaurant offering Indian cuisine, possibly with some Chinese influences. Further research is needed to confirm the specific menu."
+        "name": "Barbeque Nation- Southern Park Mall, Saket",
+        "title": "Barbeque Nation- Southern Park Mall, Saket"
       },
       {
-        "name": "Flavours Guru - #1 Bakery & Cake Shop in Delhi",
-        "category": [
-          "Bakery",
-          "Cafe (possible)"
-        ],
-        "tags": [
-          "Cakes",
-          "Desserts"
-        ],
-        "shortDescription": "This bakery claims to be the #1 bakery and cake shop in Delhi. They likely offer a variety of breads, pastries, cakes, and desserts. Further details about menu or ambiance are unavailable."
+        "name": "Dhaba Estd 1986 Delhi, Saket",
+        "title": "Dhaba Estd 1986 Delhi, Saket"
+      },
+      {
+        "name": "Sitch Skybar",
+        "title": "Sitch Skybar"
+      },
+      {
+        "name": "YouMee Saket",
+        "title": "YouMee Saket"
+      },
+      {
+        "name": "The Big Chill",
+        "title": "The Big Chill"
+      },
+      {
+        "name": "Ping's Cafe Orient",
+        "title": "Ping's Cafe Orient"
+      },
+      {
+        "name": "Chili's Grill & Bar",
+        "title": "Chili's Grill & Bar"
+      },
+      {
+        "name": "Saket Social",
+        "title": "Saket Social"
+      },
+      {
+        "name": "Andrea's Eatery",
+        "title": "Andrea's Eatery"
+      },
+      {
+        "name": "Burma Burma Restaurant & Tea Room",
+        "title": "Burma Burma Restaurant & Tea Room"
+      },
+      {
+        "name": "Pind Balluchi Select City Mall Saket",
+        "title": "Pind Balluchi Select City Mall Saket"
+      },
+      {
+        "name": "Pa Pa Ya",
+        "title": "Pa Pa Ya"
+      },
+      {
+        "name": "Mamagoto",
+        "title": "Mamagoto"
+      },
+      {
+        "name": "Berco's",
+        "title": "Berco's"
+      },
+      {
+        "name": "Punjab Grill",
+        "title": "Punjab Grill"
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "title": "Qutub-Minar-Cafes-Resturants",
     "location": "Qutub Minar",
-    "name": "A Culinary Journey Beyond History: Unveiling the Flavors Around Qutub Minar",
+    "name": "Cafe and Resturants in Qutub Minar",
     "description": "The majestic Qutub Minar isn't just a historical landmark – it's a gateway to a vibrant culinary scene waiting to be explored. Nestled amidst the ancient architecture lie hidden cafes and iconic street food stalls, offering a delicious complement to your historical adventure.",
     "aboutTheLocation": "Qutub Minar transcends its historical significance with a diverse culinary tapestry. The aroma of freshly baked bread mingles with the enticing fragrance of kebabs sizzling on grills. Chic cafes with modern aesthetics sit comfortably alongside traditional eateries serving regional specialties.",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.5068921705993!2d77.18294567495279!3d28.52448008898028!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e0667819b4f%3A0x834995f160759db8!2sQutub%20Minar!5e0!3m2!1sen!2sin!4v1710089381634!5m2!1sen!2sin",
@@ -1954,12 +1678,12 @@
         "description": "Bougie offers modern Asian cuisine, similar to Bo tai Qutub, but with a strong focus on a stylish and trendy ambience. Their menu likely features creative dishes and cocktails, making it a popular spot for social gatherings and capturing those perfect Instagram shots."
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "title": "Lajpat-Nagar-Cafes-Resturants",
     "location": "Lajpat Nagar",
-    "name": "Lajpat Nagar: A Shopaholic's Dream with a Delicious Secret",
+    "name": "Best Cafe and Resturant near Lajpat Nagar",
     "description": "Lajpat Nagar, a haven for shoppers and bargain hunters, also boasts a vibrant and diverse culinary scene waiting to be explored. From iconic street food stalls to trendy cafes, this blog post delves into the delicious secrets Lajpat Nagar holds beyond the shopping frenzy.",
     "aboutTheLocation": "Lajpat Nagar isn't just about fashion finds – it's a feast for the senses. The aroma of sizzling kebabs mingles with the sweet scent of freshly brewed coffee. Bustling street food stalls line the streets, while trendy cafes tucked away in bylanes offer a contemporary twist on familiar flavors.",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14016.120185184229!2d77.23290594710852!3d28.56886045636825!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3ad801d293d%3A0x7f730966747ee8fc!2sLajpat%20Nagar%2C%20New%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1710089418691!5m2!1sen!2sin",
@@ -2082,7 +1806,7 @@
   {
     "title": "Okhla-Cafe-Resturants",
     "location": "Okhla",
-    "name": "Okhla: Unveiling a Foodie's Paradise Beyond the Industrial Facade",
+    "name": "Best Cafe and Resturant in Okhla",
     "description": "Okhla, often associated with its industrial heart, holds a hidden gem – a vibrant tapestry of culinary delights waiting to be explored. From bustling street food corners to hidden cafes, this post delves into the diverse flavors that Okhla has to offer.",
     "aboutTheLocation": "While Okhla thrives on its industrial backbone, its culinary scene offers a delightful surprise. The aroma of freshly baked bread from local bakeries mingles with the enticing sizzle of street food stalls. Modern cafes with global influences sit comfortably alongside traditional restaurants serving regional specialties.",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28034.35640499073!2d77.27178935357605!3d28.560916538475123!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce4751aa3f39f%3A0x5c10ed47eba39c7d!2sOkhla%2C%20New%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1710089470588!5m2!1sen!2sin",
@@ -2200,7 +1924,7 @@
         ]
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "title": "Lodi-Garden-Cafes-Resturants",
@@ -2327,10 +2051,10 @@
         ]
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "name": "Exploring Connaught Place: A Food Lover's Guide",
+    "name": "Best Cafe and Resturant in Connaught Place",
     "title": "Connaught-Place-Cafes-Resturants",
     "location": "Connaught Place",
     "description": "Connaught Place, fondly known as CP, stands as a testament to Delhi's rich history and vibrant culture. With its circular layout and colonial-era architecture, CP is not just a commercial hub but also a culinary paradise, offering a diverse range of flavors and experiences.",
@@ -2467,11 +2191,11 @@
         ]
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "title": "Tibetan-Delights-of-Majnu-ka-Tilla-Cafes-Resturants",
-    "name": "A Hidden Gem: Unveiling the Tibetan Delights of Majnu-ka-Tilla",
+    "title": "Best-Tibetan-Resturant-and-Cafe-in-Majnu-ka-Tilla",
+    "name": "Best Tibetan Resturant and Cafe in Majnu-ka-Tilla",
     "location": "Majnu ka Tila",
     "description": "Nestled amidst the bustling streets of North Delhi lies Majnu-ka-Tilla, a vibrant colony known as Delhi's very own Chinatown. Established in 1950, this unique neighborhood offers a glimpse into Tibetan culture, most notably through its delectable cuisine. From steaming momos and comforting thukpa to sweet pastries and refreshing yak butter tea, Majnu-ka-Tilla promises a delightful culinary adventure for every explorer.",
     "aboutTheLocation": "Majnu-ka-Tilla's history is intertwined with the arrival of Tibetan refugees in the 1950s. The area quickly transformed into a mini-Tibet, brimming with prayer flags, monasteries, and restaurants serving traditional Tibetan fare. Today, Majnu-ka-Tilla remains a cultural hub, attracting not only Tibetans but also students, budget travelers, and curious foodies seeking a taste of the Himalayas.",
@@ -2892,12 +2616,12 @@
         "description": "Explore further to confirm if it's a Japanese restaurant."
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "title": "Vasant-Kunj-Cafes-Resturants",
     "location": "Vasant Kunj",
-    "name": "A Culinary Tapestry: Unveiling the Diverse Delights of Vasant Kunj",
+    "name": "Best Resturant and Cafe near Vasant Kunj",
     "description": "Vasant Kunj, a verdant haven in South Delhi, is more than just a residential hub. Nestled amidst tranquil parks and upscale apartments lies a vibrant culinary scene waiting to be explored. From Michelin-starred restaurants boasting global flavors to charming cafes tucked away in local markets, Vasant Kunj caters to every palate and budget. Whether you're a seasoned gourmand seeking a fine-dining experience or a casual explorer craving a quick bite, this neighborhood promises a delightful gastronomic adventure.",
     "aboutTheLocation": "Vasant Kunj's culinary tapestry is a beautiful blend of tradition and modernity. Once a haven for diplomats and foreign embassies, the area has embraced global influences while retaining its unique Indian soul. This harmonious fusion is evident in the variety of restaurants - from generations-old eateries serving classic Indian dishes to trendy cafes experimenting with innovative cuisine. ",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28043.44750704589!2d77.13242465349472!3d28.52676410189801!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1e78c793c81d%3A0x10ce2d602ac62ba3!2sVasant%20Kunj%2C%20New%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1710089703639!5m2!1sen!2sin",
@@ -3042,10 +2766,10 @@
         ]
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "name": "Student Grub Hub: A Guide to the Culinary Delights of Satya Niketan",
+    "name": "Cafe and Resturants you can find in Satya Niketan",
     "title": "Satya-Niketan-Cafes-Resturants",
     "location": "Satya Niketan",
     "description": "Satya Niketan, fondly nicknamed 'Satya' by Delhi University students, is a haven for affordable eats and vibrant cafes.  This area caters especially to student needs, offering a wide range of delicious and budget-friendly options to fuel late-night study sessions or casual hangouts with friends.",
@@ -3474,10 +3198,10 @@
         "description": "Rustic Cafe likely offers a bakery section alongside cafe beverages and light meals. They might use natural ingredients to create fresh-baked breads, pastries, and desserts. Expect a casual atmosphere where you can enjoy their baked goods and relax."
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "name": "A Culinary Adventure Through Pitampura: Unveiling Delhi's Hidden Foodie Paradise",
+    "name": "Cafe and Resturants near Pitampura/Rohini/DTU",
     "title": "Pitampura-Cafes-Resturants",
     "location": "Pitampura/Rohini/DTU",
     "description": "Nestled in the heart of North Delhi, Pitampura is a vibrant neighborhood that tantalizes the taste buds with its diverse culinary offerings. From bustling street food stalls to charming cafes and hidden culinary gems, this area promises an unforgettable gastronomic adventure.",
@@ -3544,11 +3268,11 @@
       "Local Food Experiences",
       "Cooking Classes"
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "location": "North Campus",
-    "name": "Exploring the Culinary Delights of North Campus: A Foodie's Guide",
+    "name": "Looking for Cafe and Resturants near NorthCampus?",
     "title": "North-Campus-Cafes-Resturants",
     "description": "Welcome to North Campus, where the vibrant atmosphere is matched only by its diverse culinary offerings. Nestled within the heart of the city, North Campus is not just a hub for education but also a paradise for food enthusiasts. Join us as we embark on a journey through the bustling streets and hidden alleys to discover the delectable treats that await.",
     "aboutTheLocation": "North Campus, located in the heart of the city, is renowned for its eclectic mix of eateries catering to a wide range of tastes and preferences. From cozy cafes serving aromatic brews to bustling street vendors dishing out mouthwatering street food, there's something to satisfy every craving.",
@@ -3603,7 +3327,7 @@
     "author_bio": [
       "Short bio about the author, emphasizing their love for food and exploration"
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape",
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "sections": [
       {
         "name": "Liitle Hut",
@@ -3841,7 +3565,7 @@
       "Global Cuisine",
       "Budget-Friendly Eats"
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape",
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "sections": [
       {
         "name": "Brewtoast",
@@ -4131,11 +3855,11 @@
         "title": "Golden Bakery"
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape",
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16844.304752443415!2d77.22169331719411!3d28.58655986069225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3153812bcf7%3A0x9d9a5ec4d7038b3e!2sLodhi%20Art%20District!5e0!3m2!1sen!2sin!4v1711294956826!5m2!1sen!2sin"
   },
   {
-    "name": "Greater Kailash: A Foodie's Paradise Beyond Fashion and Family",
+    "name": "Cafe and Resturants with better ambience in Greater Kailash",
     "title": "Greater-Kailash-Cafes",
     "location": "Greater Kailash",
     "description": "Greater Kailash, or GK as it's popularly known, isn't just a haven for fashionistas and families; it's a destination for culinary adventures.  Nestled within its upscale and vibrant streets, you'll discover a treasure trove of trendy cafes, hidden gems, and international flavors. From cozy coffee shops with artisanal brews to insta-worthy brunch spots and rooftop cafes boasting city views, GK caters to every cafe connoisseur's desire. This blog post dives into the rich tapestry of flavors that GK has to offer, ensuring an unforgettable cafe hopping experience.",
@@ -4595,10 +4319,10 @@
         "title": "Sanjay Chur Chur Naan"
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
-    "name": "Greater Kailash: Beyond Fashion and Family, a Sweet Escape Awaits",
+    "name": "Looking for late night sweets or IceCreams in Greater Kailash?",
     "title": "Greater-Kailash-Icecream-and-bakery",
     "location": "Greater Kailash",
     "description": "Greater Kailash, or GK for short, isn't just a hotspot for fashion and families; it's a hidden gem for those with a sweet tooth.  Within its lively and upscale surroundings, you'll discover a delightful selection of ice cream parlors, artisanal gelato shops, and hidden scoop havens. From classic flavors to innovative concoctions, GK caters to every ice cream enthusiast's craving. This blog post will scoop you up on the delightful world of ice cream shops in GK, promising an unforgettable ice cream crawl experience.",
@@ -4670,7 +4394,7 @@
         "title": "NIK BAKER'S"
       }
     ],
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "title": "Janakpuri-Cafe-Resturants",
@@ -4779,11 +4503,11 @@
       }
     ],
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28018.32263170365!2d77.06992530371954!3d28.621059464810045!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d04ba6b064d0f%3A0xf609cdf712fe603e!2sJanakpuri%2C%20New%20Delhi%2C%20Delhi!5e0!3m2!1sen!2sin!4v1711502776135!5m2!1sen!2sin",
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "title": "Jail-Road-Tilak-Nagar-Cafe-Culture",
-    "name": "A Brew-tiful Journey: Exploring Cafes in Jail Road & Tilak Nagar",
+    "name": "Cafes in Jail Road & Tilak Nagar",
     "location":"Jail Road-Tilak Nagar",
     "introduction": "Nestled within the bustling neighborhoods of Jail Road and Tilak Nagar lies a haven for caffeine enthusiasts and casual diners – a vibrant cafe scene waiting to be explored. This guide delves into the hidden cafes, trendy coffee shops, and local favorites that offer a delightful escape from the energetic streets and a space to relax, recharge, and indulge in a delicious cuppa.",
     "aboutTheLocation": "The cafe culture in Jail Road and Tilak Nagar thrives on a sense of community and casual comfort. The aroma of freshly brewed coffee mingles with the sounds of lively conversations and laughter. Independent cafes with quirky décor offer unique brews and delectable snacks, while established chains provide familiar favorites in a relaxed setting. Whether you're seeking a quiet corner to catch up on work or a place to meet friends for a gossip session, these cafes cater to your needs with a warm and inviting ambiance.",
@@ -4826,6 +4550,6 @@
       "Local Bakeries"
     ],
     "locationUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15869.347804815403!2d77.09432101367399!3d28.63035561493!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d049f514c9e6d%3A0x25d3970ff1ff637d!2sJail%20Rd%2C%20Delhi!5e0!3m2!1sen!2sin!4v1711503639229!5m2!1sen!2sin",
-    "imageSrc": "https://source.unsplash.com/random/?cafe&orientation=landscape"
+    "imageSrc": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
