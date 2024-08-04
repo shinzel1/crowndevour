@@ -114,7 +114,7 @@ function LocationDetail() {
 								</div>
 							</div>
 							<div className="col-12 mx-auto">
-								<h1><a className="post-title" href="#">{loc.name}</a>
+								<h1><span className="post-title">{loc.name}</span>
 									<Button variant="primary" className='menu' onClick={() => setModalShow(true)}>
 										<RestaurantMenuIcon />
 									</Button>
@@ -189,11 +189,11 @@ function LocationDetail() {
 								<Link to={'/location/' + location.title} state={{ loc: location }}>
 									<ul className="list-unstyled widget-list">
 										<li className="media widget-post align-items-center">
-											<a href="#">
+											<span>
 												<img loading="lazy" className="mr-3" src={location.image} alt='image' />
-											</a>
+											</span>
 											<div className="media-body">
-												<h5 className="h6 mb-0"><a href="#">{location.name}</a></h5>
+												<h5 className="h6 mb-0"><span>{location.name}</span></h5>
 												<small>{location.date}</small>
 											</div>
 										</li>

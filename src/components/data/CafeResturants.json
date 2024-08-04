@@ -3659,5 +3659,42 @@
       "Described as a visual treat straight out of Vogue, Kakapo near the Qutub Minar Complex is a gem for those seeking a luxurious Asian fusion dining experience. While its exact address is unavailable, online reviews consistently praise the restaurant's breathtaking view of the Qutub Minar, especially when enjoyed from the rooftop seating. Kakapo's menu boasts a delicious fusion of various Asian cuisines, catering to a diverse palate. The upscale ambiance makes it a perfect choice for a romantic dinner or a special celebration."
       ],
       "image": "https://lh3.googleusercontent.com/p/AF1QipMyTHuIDaM-blXV3sjeZ2-gW7BIwq6qHoR1YSOm=s1360-w1360-h1020"
+      },
+      {
+        "title": "House-of-Migo-Modern-Indian",
+        "name": "House of Migo",
+        "location": "Shop No. 203, Second Floor, To-Day, Logix Blossom Greens Noida, GH-01, Sector 143, Noida, Uttar Pradesh 201305, India",
+        "type": "Restaurant (Modern Indian)",
+        "highlights": [
+          "Modern Indian Cuisine",
+          "Dine-in and Takeaway",
+          "Casual Dining"
+        ],
+        "category": ["Restaurant", "Indian"],
+        "tags": [
+          "House of Migo",
+          "Noida",
+          "Modern Indian Noida",
+          "Casual Dining Noida"
+        ],
+        "menuImage": [],
+        "rating": 4.4,
+        "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14025.19889148961!2d77.422331!3d28.5006288!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce9108856da55%3A0x36b7d6b3727fbbe5!2sHouse%20of%20Migo!5e0!3m2!1sen!2sin!4v1722786196080!5m2!1sen!2sin",
+        "bestInMenu": [
+          {
+            "name": "Mac n Cheese pasta"
+          },
+          {
+            "name": "Nachos"
+          },
+          {
+            "name": "Lasagne"
+          }
+        ],
+        "shortDescription": "House of Migo in Noida offers a modern take on Indian cuisine, with a focus on fresh ingredients and bold flavors. The restaurant provides both dine-in and takeaway options, making it convenient for various dining preferences.",
+        "description": [
+          "Located in Sector 143, Noida, House of Migo is a popular choice for those seeking a contemporary Indian dining experience. The restaurant's menu features a range of dishes that blend traditional flavors with innovative cooking techniques. With a focus on fresh ingredients and bold flavors, House of Migo offers a delightful culinary journey for food enthusiasts."
+        ],
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM84zoRFVHYZTxDPRYmHiuSMc-NfZjoK7KXby_P=s680-w680-h510"
       }
 ]

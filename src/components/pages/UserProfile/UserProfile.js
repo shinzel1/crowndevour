@@ -17,14 +17,14 @@ const UserProfile = () => {
             <div className="col-12">
               <div className="title-bordered mb-5 d-flex align-items-center">
                 <h1 className="h4">CrownDevour</h1>
-                <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
+                {/* <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
                   <li className="list-inline-item"><a href="#"><i className="ti-facebook"></i></a>
                   </li>
                   <li className="list-inline-item"><a href="#"><i className="ti-twitter-alt"></i></a>
                   </li>
                   <li className="list-inline-item"><a href="#"><i className="ti-github"></i></a>
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </div>
             <div className="col-lg-3 col-md-4 mb-4 mb-md-0 text-center text-md-left">

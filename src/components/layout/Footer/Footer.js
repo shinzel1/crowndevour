@@ -20,7 +20,7 @@ function Footer() {
             <div className="container">
                <div className="row justify-content-between">
                   <div className="col-md-3 mb-4">
-                     <a className="mb-4 d-block " href="#">
+                     <span className="mb-4 d-block ">
                         <img className="img-fluid footerLogoImage" src={Logo} alt="Crowndevour" />
                         <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
                            <li className="list-inline-item"><a href="https://www.instagram.com/crowndevour/" target='_blank'><i className="ti-instagram"></i></a>
@@ -38,7 +38,7 @@ function Footer() {
                            {/* <li className="list-inline-item"><a href="" target='_blank'><i className="ti-github"></i></a>
                 </li> */}
                         </ul>
-                     </a>
+                     </span>
                      {/* <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p> */}
                   </div>
                   <div className="col-lg-2 col-md-3 col-6 mb-4">
@@ -73,7 +73,7 @@ function Footer() {
                   </div>
                </div>
                <div className="scroll-top">
-                  <a href="#" onClick={scrollToTop} id="scrollTop"><i className="ti-angle-up"></i></a>
+                  <span onClick={scrollToTop} id="scrollTop"><i className="ti-angle-up"></i></span>
                </div>
                <div className="text-center">
                   <p className="content">&copy; 2023 - Crowndevour</p>

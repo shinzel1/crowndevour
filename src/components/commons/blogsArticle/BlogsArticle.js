@@ -27,19 +27,19 @@ const BlogsArticle = ({ data }) => {
             <div className="col-12 mx-auto">
                 <h3><span className="post-title">{data.name}</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                    <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">{data.author}</a>
+                    <li className="list-inline-item"><i className="ti-user mr-2"></i><span>{data.author}</span>
                     </li>
                     <li className="list-inline-item">Date : March 15, 2020</li>
                     <li className="list-inline-item">
                         Categories :
                         {data?.category?.slice(0, 3).map((item) => (
-                            <a href="#" className="ml-1" onClick={() => fetchCategory(item)}>{item}</a>
+                            <span className="ml-1" onClick={() => fetchCategory(item)}>{item}</span>
                         ))}
                     </li>
                     <li className="list-inline-item">Tags :
 
                         {data?.tags?.slice(0, 3).map((item) => (
-                            <a href="#" className="ml-1" onClick={() => fetchTags(item)}>{item} </a>
+                            <span className="ml-1" onClick={() => fetchTags(item)}>{item} </span>
                         ))}
 
                     </li>
