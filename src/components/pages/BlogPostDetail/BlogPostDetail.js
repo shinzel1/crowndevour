@@ -1,12 +1,14 @@
 import React, { useEffect } from 'react';
 import './BlogPostDetail.css';
 import { useLocation, Link } from "react-router-dom";
-import imagse from "../../data/Images/post/post-1.jpg"
 import BlogLists from "../../data/BlogPost.json"
 import SchemaOrg from '../../commons/Schema/Schema';
 import { useNavigate } from 'react-router-dom';
-import LocationCards from '../../commons/locationCard/locationCard'
 import BlogsArticle from '../../commons/blogsArticle/BlogsArticle';
+import { Helmet } from 'react-helmet';
+import Breadcrumb from 'react-bootstrap/Breadcrumb';
+import restaurantImage from '../../data/Images/restaurant.avif'
+
 function BlogPostDetail() {
 	const location = useLocation();
 	var { post } = ""
@@ -28,8 +30,11 @@ function BlogPostDetail() {
 	} else if (location.pathname.split('/').slice(-1).length > 0) {
 		var idex = location.pathname.split('/').slice(-1)[0]
 		post = BlogLists.filter(locatione => locatione.title == idex)[0]
+		if (post == null) {
+			window.location.href = "/404"
+		}
 	}
-	const lastThreeBlogs = BlogLists.slice(-3)
+	const lastThreeBlogs = BlogLists.slice(-3)?.reverse()
 	useEffect(() => {
 		const body = document.querySelector('#root');
 
@@ -56,31 +61,129 @@ function BlogPostDetail() {
 			navigate(`/location`, { state: { tags: item } });
 		}
 	}
+
+	var itemListElement = []
+	for (var i = 0; i < post?.sections?.length; i++) {
+		var restaurant = {}
+		restaurant["@type"] = "ListItem"
+		restaurant["position"] = i + 1
+		restaurant["name"] = post?.sections[i].name + "," + post?.location
+		restaurant["description"] = post?.sections[i]?.shortDescription
+		itemListElement.push(restaurant)
+	}
+	var blogSchema = {
+		"@context": "https://schema.org",
+		"@type": "BlogPosting",
+		"headline": post?.name + " , " + post?.location,
+		"description": post?.shortDescription,
+		"author": {
+			"@type": "Person",
+			"name": "Shinzel"
+		},
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://crowndevour.com/blogs/" + post.title
+		},
+		"keywords": post?.tags?.toString()
+	}
+
+	var schemaData = {
+		"@context": "https://schema.org",
+		"@type": "ItemList",
+		"name": post?.name,
+		"description": post.shortDescription,
+		"about": {
+			"@type": "Place",
+			"name": post.location,
+		},
+		"numberOfItems": post?.sections?.length,
+		"itemListElement": itemListElement,
+		"mainEntityOfPage": {
+			"@type": "WebPage",
+			"@id": "https://crowndevour.com/blogs/" + post.title
+		},
+		"image": post?.imageSrc || post?.image,
+		"keywords": post?.tags?.toString()
+	}
+
+	var breadcrumbsList = {
+		"@context": "http://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [
+			{
+				"@type": "ListItem",
+				"position": 0,
+				"item": {
+					"id": "https://crowndevour.com",
+					"name": "Home",
+					"url": "https://crowndevour.com"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 1,
+				"item": {
+					"id": "https://crowndevour.com/blogs",
+					"name": "blogs",
+					"url": "https://crowndevour.com/blogs"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 2,
+				"item": {
+					"id": "https://crowndevour.com/blogs/" + post.title,
+					"name": post.name,
+					"url": "https://crowndevour.com/blogs/" + post.title
+				}
+			}
+		]
+	}
+
+
 	// you can get this cardId anywhere in the component as per your requirement 
 	return (
 		<section className="section">
-			<SchemaOrg data={post} />
+			<div className='container mb-2 breadcrumbs'>
+				<Breadcrumb>
+					<Breadcrumb.Item href="/">Home</Breadcrumb.Item>
+					<Breadcrumb.Item href="/blogs">Blogs</Breadcrumb.Item>
+					<Breadcrumb.Item active>{post?.name}</Breadcrumb.Item>
+				</Breadcrumb>
+			</div>
+			<SchemaOrg data={blogSchema} />
+			<SchemaOrg data={schemaData} />
+			<SchemaOrg data={breadcrumbsList} />
+			<Helmet>
+				<meta name="robots" content="NOODP,NOYDIR" />
+				<link rel="canonical" href={"https://crowndevour.com/blogs/" + post.title} />
+				<title>{post?.name}</title>
+				<meta name="description" content={post?.description} />
+				<meta property="og:title" content={post?.name} />
+				<meta property="og:type" content="website" />
+				<meta property="og:url" content={"https://crowndevour.com/blogs/" + post.title} />
+				<meta property="og:image" content={post?.imageSrc} />
+				<meta property="og:description" content={post.shortDescription} />
+				<meta property="og:site_name" content={post?.name} />
+			</Helmet>
 			<div className="container">
 				<div className="row">
 					<div className="col-lg-8  mb-5 mb-lg-0">
 						<article className="row mb-5">
 							<div className="col-12">
 								<div className="post-slider">
-									<img loading="lazy" src={post?.imageSrc} className="img-fluid" alt="post-thumb" />
-									{/* <img loading="lazy" src="images/post/post-1.jpg" className="img-fluid" alt="post-thumb" />
-							<img loading="lazy" src="images/post/post-3.jpg" className="img-fluid" alt="post-thumb"/> */}
+									<img loading="lazy" src={post?.imageSrc} className="img-fluid" alt={post?.name} />
 								</div>
 							</div>
 							<div className="col-12 mx-auto">
 								<h1><span className="post-title">{post?.name}</span></h1>
 								<ul className="list-inline post-meta mb-4">
 									<li className="list-inline-item"><i className="ti-user mr-2"></i>
-										<a href="author.html">{post?.author?.name}</a>
+										<span>{post?.author?.name}</span>
 									</li>
-									<li className="list-inline-item">Date : March 15, 2020</li>
-									<li className="list-inline-item">Categories : <span className="ml-1">Photography </span>
-									</li>
-									<li className="list-inline-item">Tags :
+									{/* <li className="list-inline-item">Categories : <span className="ml-1"> {post?.tags}</span>
+									</li> */}
+									<li className="list-inline-item">
 										{post?.tags?.slice(0, 3)?.map((item) => (
 											<span className="ml-1" onClick={() => fetchTags(item)}>{item} </span>
 										))}
@@ -117,7 +220,7 @@ function BlogPostDetail() {
 													<div className="col-lg-4 col-sm-4 mb-4">
 														<div className="card">
 															<div className="card-image">
-																<img src={item.image? item?.image : "https://source.unsplash.com/random/?food" }  />
+																<img src={item.image ? item?.image : restaurantImage} />
 															</div>
 															<div className="card-text">
 																{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
@@ -132,7 +235,7 @@ function BlogPostDetail() {
 										</div>
 									</section>
 									<section className='blogSection'>
-										<h2>Nearby Cafes And Resturants in {post?.location}</h2>
+										<h2>Available outlets near {post?.location}</h2>
 
 										<div className="container">
 											<div className="row">
@@ -144,7 +247,7 @@ function BlogPostDetail() {
 												{post?.sections?.map((location, index) => (
 													<div>
 														{/* <Link to={'/location/' + location.title} state={{ loc: location }}> */}
-															<BlogsArticle data={location} />
+														<BlogsArticle data={location} loc={post?.location} />
 														{/* </Link> */}
 													</div>
 												))}
@@ -175,9 +278,9 @@ function BlogPostDetail() {
 										<h2>
 											Tags:
 										</h2>
-										<li className="list-inline-item">Tags :
-											{post?.tags?.slice(0, 3).map((item) => (
-												<span className="ml-1" onClick={() => fetchTags(item)}>{item} </span>
+										<li className="list-inline-item">
+											{post?.tags?.map((item) => (
+												<span className="btn btn-outline-dark m-1" onClick={() => fetchTags(item)}>{item} </span>
 											))}
 										</li>
 									</section>
@@ -187,7 +290,7 @@ function BlogPostDetail() {
 					</div>
 					<aside className="col-lg-4">
 						<div className='widget'>
-							<iframe src={post?.locationUrl} width="400" height="300" style={{ border: 0 }} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+							<iframe src={post?.locationUrl} width="400" height="300" style={{ border: 0 }} allowFullScreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
 						</div>
 						<div className="widget">
 							<h5 className="widget-title"><span>Search</span></h5>
@@ -201,11 +304,11 @@ function BlogPostDetail() {
 							<h5 className="widget-title"><span>Latest Article</span></h5>
 
 							{lastThreeBlogs.map((location, index) => (
-								<Link to={'/location/' + location?.title} state={{ loc: location }}>
+								<Link to={'/blogs/' + location?.title}>
 									<ul className="list-unstyled widget-list">
 										<li className="media widget-post align-items-center">
 											<span>
-												<img loading="lazy" className="mr-3" src={location?.imageSrc} alt='image' />
+												<img loading="lazy" className="mr-3" src={location?.imageSrc} alt={location?.name} />
 											</span>
 											<div className="media-body">
 												<h5 className="h6 mb-0"><span>{location?.name}</span></h5>

@@ -1,4 +1,4 @@
-import React, { useState,useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import Fab from '@mui/material/Fab';
 import AddIcon from '@mui/icons-material/Add';
 import './ThelasNearLocation.css'
@@ -8,10 +8,11 @@ import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import { GoogleMap, useJsApiLoader } from '@react-google-maps/api';
 import { Link } from 'react-router-dom';
-import LocationLists from '../../data/CafeResturants.json'
+import LocationLists from '../../data/CafeRestaurants.json'
 import LocationCards from '../../commons/locationCard/locationCard'
 import { useLocation } from 'react-router-dom';
 import { Helmet } from 'react-helmet';
+import Breadcrumb from 'react-bootstrap/Breadcrumb';
 
 const ThelasNearLocation = () => {
   const [show, setShow] = useState(false);
@@ -27,14 +28,14 @@ const ThelasNearLocation = () => {
       // Trigger a click event on the element
       if (element) {
         element.click();
-      }else{
+      } else {
         window.location.href = "404"
       }
     }
     const body = document.querySelector('#root');
-		body.scrollIntoView({
-			behavior: 'smooth'
-		}, 500)
+    body.scrollIntoView({
+      behavior: 'smooth'
+    }, 500)
   }, []);
 
 
@@ -68,12 +69,43 @@ const ThelasNearLocation = () => {
   }, [])
 
 
+  var breadcrumbsList = {
+		"@context": "http://schema.org",
+		"@type": "BreadcrumbList",
+		"itemListElement": [
+			{
+				"@type": "ListItem",
+				"position": 0,
+				"item": {
+					"id": "https://crowndevour.com",
+					"name": "Home",
+					"url": "https://crowndevour.com"
+				}
+			},
+			{
+				"@type": "ListItem",
+				"position": 1,
+				"item": {
+					"id": "https://crowndevour.com/thelas-near-location",
+					"name": "register",
+					"url": "https://crowndevour.com/thelas-near-location"
+				}
+			}
+    ]
+	}
 
   return (
-    <div>
+    <div className='mt-5'>
+      <div className='container mb-2 breadcrumbs'>
+        <Breadcrumb>
+          <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
+          <Breadcrumb.Item active>Register new location</Breadcrumb.Item>
+        </Breadcrumb>
+      </div>
       <h1 className='blogPostHeading'>Flavors on Foot: Explore Local Delights Near You</h1>
       <Helmet>
-      <link rel="canonical" href="https://crowndevour.com/thelas-near-location" />
+        <meta name="robots" content="NOODP,NOYDIR" />
+        <link rel="canonical" href="https://crowndevour.com/thelas-near-location" />
         <title>Street Outlets</title>
         <meta name="description" content="Register your street outlets ,here at crowndevour" />
       </Helmet>
@@ -137,7 +169,7 @@ const ThelasNearLocation = () => {
       <section className="section-sm">
         <div className="container">
 
-        <div className="row">
+          <div className="row">
             <div className="col-lg-12">
               <div className="title text-center">
                 <h2 className="mb-5">Posted by this author</h2>

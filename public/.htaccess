@@ -1,14 +1,33 @@
 <IfModule mod_rewrite.c>
-    RewriteEngine On
-    RewriteBase /
-    RewriteRule ^index\.html$ - [L]
-    RewriteCond %{REQUEST_FILENAME} !-f
-    RewriteCond %{REQUEST_FILENAME} !-d
-    RewriteRule . /index.html [L]
-  </IfModule>
-  
+  RewriteEngine On
+  RewriteBase /
 
-RewriteEngine On
-RewriteCond %{HTTPS} !on
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+  # Do not rewrite index.html
+  RewriteRule ^index\.html$ - [L]
 
+  # Redirect all non-existing files or directories to index.html (for single-page applications)
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^ /index.html [L]
+
+  # Force HTTPS for all URLs
+  RewriteCond %{HTTPS} !=on
+  RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+  # Redirect www to non-www
+  RewriteCond %{HTTP_HOST} ^www\.crowndevour\.com [NC]
+  RewriteRule ^(.*)$ http://crowndevour.com/$1 [L,R=301]
+  RewriteRule ^blogs(.*)$ https://crowndevour.com/blogs$1 [L,R=301]
+  RewriteRule ^location(.*)$ https://crowndevour.com/location$1 [L,R=301]
+  RewriteRule ^city(.*)$ https://crowndevour.com/city$1 [L,R=301]
+</IfModule>
+
+# 301 Redirect for specific blog URL
+Redirect 301 /blogs/Best-Tibetan-Resturant-and-Cafe-in-Majnu-ka-Tilla https://crowndevour.com/blogs/Best-Tibetan-Restaurant-and-Cafe-Majnu-ka-Tilla
+Redirect 301 /blogs/Cafes-Resturants-Lajpat-Nagar https://crowndevour.com/blogs/Cafes-Restaurants-Lajpat-Nagar
+Redirect 301 /location/Bo-Tai-Qutub https://crowndevour.com/location/bo-tai-qutub
+
+<IfModule mod_headers.c>
+  # Enable HSTS (force HTTPS for 1 year)
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains; preload"
+</IfModule>

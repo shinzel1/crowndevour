@@ -6,8 +6,7 @@ import { StaticRouter } from "react-router-dom/server";
 import App from "../src/App"
 const path = require('path');
 import fs from 'fs';
-import PageNotFound from "../src/components/pages/PageNotFound/PageNotFound";
-
+import ErrorPage404 from "../src/components/pages/ErrorPage404/ErrorPage404";
 
 const app = express();
 const router = express.Router()
@@ -32,8 +31,8 @@ app.get('/*', (req, res) => {
   
     fs.readFile(indexFile, 'utf8', (err, data) => {
       if (err) {
-        const pageNotFoundHtml = ReactDOMServer.renderToString(<PageNotFound />);
-        return res.status(404).send(pageNotFoundHtml);
+        const errorPage404 = ReactDOMServer.renderToString(<ErrorPage404 />);
+        return res.status(404).send(errorPage404);
       }
   
       return res.send(

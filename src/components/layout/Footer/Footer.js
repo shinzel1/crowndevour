@@ -6,40 +6,37 @@ function Footer() {
 
    function scrollToTop() {
       if (typeof document !== 'undefined') {
-      const body = document.querySelector('#root');
-      body.scrollIntoView({
-         behavior: 'smooth'
-      }, 500)
-   }
+         const body = document.querySelector('#root');
+         body.scrollIntoView({
+            behavior: 'smooth'
+         }, 500)
+      }
    }
 
 
    return (
       <div className='shadowDiv'>
          <footer className="section-sm pb-0 border-top border-default">
-            <div className="container">
+            <div className="container mt-4">
                <div className="row justify-content-between">
                   <div className="col-md-3 mb-4">
                      <span className="mb-4 d-block ">
                         <img className="img-fluid footerLogoImage" src={Logo} alt="Crowndevour" />
                         <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
-                           <li className="list-inline-item"><a href="https://www.instagram.com/crowndevour/" target='_blank'><i className="ti-instagram"></i></a>
+                           <li className="list-inline-item"><a href="https://www.instagram.com/crowndevour/" target='_blank' rel="noreferrer" ><i className="ti-instagram"></i></a>
                            </li>
-                           <li className="list-inline-item"><a href="https://www.facebook.com/crowndevour98/" target='_blank'><i className="ti-facebook"></i></a>
+                           <li className="list-inline-item"><a href="https://www.facebook.com/crowndevour98/" target='_blank' rel="noreferrer" ><i className="ti-facebook"></i></a>
                            </li>
-                           <li className="list-inline-item"><a href="https://twitter.com/crowndevour/" target='_blank'><i className="ti-twitter-alt" ></i></a>
+                           <li className="list-inline-item"><a href="https://twitter.com/crowndevour/" target='_blank' rel="noreferrer" ><i className="ti-twitter-alt" ></i></a>
                            </li>
-                           <li className="list-inline-item"><a href="https://www.linkedin.com/in/crowndevour/" target='_blank'><i className="ti-linkedin"></i></a>
+                           <li className="list-inline-item"><a href="https://www.linkedin.com/in/crowndevour/" target='_blank' rel="noreferrer" ><i className="ti-linkedin"></i></a>
                            </li>
-                           <li className="list-inline-item"><a href="https://in.pinterest.com/crowndevour/" target='_blank'><i className="ti-pinterest"></i></a>
+                           <li className="list-inline-item"><a href="https://in.pinterest.com/crowndevour/" target='_blank' rel="noreferrer" ><i className="ti-pinterest"></i></a>
                            </li>
-                           <li className="list-inline-item"><a href="https://www.youtube.com/@crowndevour6493/" target='_blank'><i className="ti-youtube"></i></a>
+                           <li className="list-inline-item"><a href="https://www.youtube.com/@crowndevour6493/" target='_blank' rel="noreferrer" ><i className="ti-youtube"></i></a>
                            </li>
-                           {/* <li className="list-inline-item"><a href="" target='_blank'><i className="ti-github"></i></a>
-                </li> */}
                         </ul>
                      </span>
-                     {/* <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</p> */}
                   </div>
                   <div className="col-lg-2 col-md-3 col-6 mb-4">
                      <h6 className="mb-4">Quick Links</h6>
@@ -47,17 +44,16 @@ function Footer() {
                         <li><a href="/about">About</a></li>
                         <li><a href="/contact">Contact</a></li>
                         <li><a href="/privacy-policy">Privacy Policy</a></li>
-                        {/* <li><a href="/terms-conditions">Terms Conditions</a></li> */}
                      </ul>
                   </div>
 
                   <div className="col-lg-2 col-md-3 col-6 mb-4">
                      <h6 className="mb-4">Social Links</h6>
                      <ul className="list-unstyled footer-list">
-                        <li><a href="https://www.instagram.com/crowndevour/" target='_blank'>instagram</a></li>
-                        <li><a href="https://www.facebook.com/crowndevour98" target='_blank'>facebook</a></li>
-                        <li><a href="https://twitter.com/crowndevour" target='_blank'>twitter</a></li>
-                        <li><a href="https://www.linkedin.com/in/crowndevour/" target='_blank'>linkedin</a></li>
+                        <li><a href="https://www.instagram.com/crowndevour/" target='_blank' rel="noreferrer">instagram</a></li>
+                        <li><a href="https://www.facebook.com/crowndevour98" target='_blank' rel="noreferrer">facebook</a></li>
+                        <li><a href="https://twitter.com/crowndevour" target='_blank' rel="noreferrer">twitter</a></li>
+                        <li><a href="https://www.linkedin.com/in/crowndevour/" target='_blank' rel="noreferrer">linkedin</a></li>
                      </ul>
                   </div>
 
@@ -81,10 +77,10 @@ function Footer() {
             </div>
          </footer>
 
-         <script type="text/javascript" src="plugins/jQuery/jquery.min.js"/>
-         <script type="text/javascript" src="plugins/bootstrap/bootstrap.min.js" async/>
-         <script type="text/javascript" src="plugins/slick/slick.min.js"/>
-         <script type="text/javascript" src="js/script.js"/>
+         <script type="text/javascript" src="plugins/jQuery/jquery.min.js" defer />
+         <script type="text/javascript" src="plugins/bootstrap/bootstrap.min.js" defer />
+         <script type="text/javascript" src="plugins/slick/slick.min.js" defer />
+         <script type="text/javascript" src="js/script.js" defer/>
       </div>
    );
 }

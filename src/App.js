@@ -16,31 +16,29 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/layout/Header/Header'
 import Footer from './components/layout/Footer/Footer'
 import PrivacyPolicy from './components/pages/PrivacyPolicy/PrivacyPolicy';
+import ErrorPage404 from './components/pages/ErrorPage404/ErrorPage404';
 
-
-
-function App() {  
+function App() {
   return (
-    // <Router basename={process.env.PUBLIC_URL}>
-  <div className="App">
-  <Header/>
-    <Routes>
-    {/* <Route path="*" element={ <Navigate to="/404" replace />} /> */}
-      <Route path="/" Component={Homepage} />
-      <Route path="/thelas-near-location" Component={ThelasNearLocation} />
-      <Route path="/location" element={<SearchAndFilter />} />
-      <Route path="/location/:id" element={<LocationDetail />} />
-      <Route path="/city/:id" element={<CityDetails />} />
-      <Route path="/blogs" element={<BlogListings />} />
-      <Route path="/blogs/:id" element={<BlogPostDetail />} />
-      <Route path="/about" element={<About />} />
-      <Route path="/contact" element={<Contact />} />
-      <Route path="/user-profile" element={<UserProfile />} />
-      <Route path="/privacy-policy" element={<PrivacyPolicy />} />
-    </Routes>
-    <Footer/>
-  </div>
-// </Router>
+    <div className="App">
+      <Header />
+      <Routes>
+        <Route path="*" element={<Navigate to="/404" replace />} />
+        <Route path="/404" element={<ErrorPage404 />} />
+        <Route path="/" element={<Homepage />} />
+        <Route path="/thelas-near-location" element={<ThelasNearLocation />} />
+        <Route path="/location" element={<SearchAndFilter />} />
+        <Route path="/location/:id" element={<LocationDetail />} />
+        <Route path="/city/:id" element={<CityDetails />} />
+        <Route path="/blogs" element={<BlogListings />} />
+        <Route path="/blogs/:id" element={<BlogPostDetail />} />
+        <Route path="/about" element={<About />} />
+        <Route path="/contact" element={<Contact />} />
+        <Route path="/user-profile" element={<UserProfile />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+      </Routes>
+      <Footer />
+    </div>
   );
 }
 

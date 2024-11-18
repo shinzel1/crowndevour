@@ -18,7 +18,7 @@ function SearchBar() {
         <TextField
           variant="outlined"
           className='searchBar'
-          placeholder="Search Locations for Cafe and Resturants..."
+          placeholder="Search Locations for Cafe and Restaurants..."
           id='Text'
           InputProps={{
             endAdornment: (

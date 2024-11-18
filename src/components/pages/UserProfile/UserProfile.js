@@ -18,17 +18,17 @@ const UserProfile = () => {
               <div className="title-bordered mb-5 d-flex align-items-center">
                 <h1 className="h4">CrownDevour</h1>
                 {/* <ul className="list-inline social-icons ml-auto mr-3 d-none d-sm-block">
-                  <li className="list-inline-item"><a href="#"><i className="ti-facebook"></i></a>
+                  <li className="list-inline-item"><span><i className="ti-facebook"></i></span>
                   </li>
-                  <li className="list-inline-item"><a href="#"><i className="ti-twitter-alt"></i></a>
+                  <li className="list-inline-item"><span><i className="ti-twitter-alt"></i></span>
                   </li>
-                  <li className="list-inline-item"><a href="#"><i className="ti-github"></i></a>
+                  <li className="list-inline-item"><span><i className="ti-github"></i></span>
                   </li>
                 </ul> */}
               </div>
             </div>
             <div className="col-lg-3 col-md-4 mb-4 mb-md-0 text-center text-md-left">
-              <img loading="lazy" className="rounded-lg img-fluid" src={authorImage}  alt='image'/>
+              <img loading="lazy" className="rounded-lg img-fluid" src={authorImage}  alt='authorImage'/>
             </div>
             <div className="col-lg-9 col-md-8 content text-center text-md-left">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet. Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.</p>
@@ -52,22 +52,21 @@ const UserProfile = () => {
                   {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" /> */}
                 </div>
-                <h3 className="h5"><a className="post-title" href="#">Elements That You Can Use To
+                <h3 className="h5"><span className="post-title">Elements That You Can Use To
                   Create A New Post
-                  On This Template.</a></h3>
+                  On This Template.</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                  <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">CrownDevour</a>
+                  <li className="list-inline-item"><i className="ti-user mr-2"></i><span>CrownDevour</span>
                   </li>
-                  <li className="list-inline-item">Date : March 15, 2020</li>
-                  <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Photography </a>
+                  <li className="list-inline-item">Categories : <span className="ml-1">Photography </span>
                   </li>
-                  <li className="list-inline-item">Tags : <a href="#!" className="ml-1">Photo </a> ,<a href="#!"
-                    className="ml-1">Image </a>
+                  <li className="list-inline-item"> <span className="ml-1">Photo </span> ,<span
+                    className="ml-1">Image </span>
                   </li>
                 </ul>
                 <p>Heading example Here is example of hedings. You can use this heading by following markdownify
-                  rules. …</p> <a href="#" className="btn btn-outline-primary">Continue
-                    Reading</a>
+                  rules. …</p> <span className="btn btn-outline-primary">Continue
+                    Reading</span>
               </article>
             </div>
             <div className="col-lg-4 col-sm-6 mb-4">
@@ -75,22 +74,21 @@ const UserProfile = () => {
                 <div className="post-slider slider-sm">
                   <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" />
                 </div>
-                <h3 className="h5"><a className="post-title" href="post-details-1.html">Cheerful Loving Couple Bakers
+                <h3 className="h5"><span className="post-title">Cheerful Loving Couple Bakers
                   Drinking
-                  Coffee</a></h3>
+                  Coffee</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                  <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
-                    Doe</a>
+                  <li className="list-inline-item"><i className="ti-user mr-2"></i><span>John
+                    Doe</span>
                   </li>
-                  <li className="list-inline-item">Date : March 14, 2020</li>
-                  <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Photography </a>
+                  <li className="list-inline-item">Categories : <span className="ml-1">Photography </span>
                   </li>
-                  <li className="list-inline-item">Tags : <a href="#!" className="ml-1">Photo </a> ,<a href="#!"
-                    className="ml-1">Image </a>
+                  <li className="list-inline-item"> <span className="ml-1">Photo </span> ,<span
+                    className="ml-1">Image </span>
                   </li>
                 </ul>
                 <p>It’s no secret that the digital industry is booming. From exciting startups to global brands,
-                  …</p> <a href="post-details-1.html" className="btn btn-outline-primary">Continue Reading</a>
+                  …</p> <span className="btn btn-outline-primary">Continue Reading</span>
               </article>
             </div>
             <div className="col-lg-4 col-sm-6 mb-4">
@@ -99,22 +97,21 @@ const UserProfile = () => {
                   <img loading="lazy" src={post2} className="img-fluid" alt="post-thumb" />
                   {/* <img loading="lazy" src={post4} className="img-fluid" alt="post-thumb" /> */}
                 </div>
-                <h3 className="h5"><a className="post-title" href="post-details-2.html">Cheerful Loving Couple Bakers
+                <h3 className="h5"><span className="post-title">Cheerful Loving Couple Bakers
                   Drinking
-                  Coffee</a></h3>
+                  Coffee</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                  <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
-                    Doe</a>
+                  <li className="list-inline-item"><i className="ti-user mr-2"></i><span>John
+                    Doe</span>
                   </li>
-                  <li className="list-inline-item">Date : March 14, 2020</li>
-                  <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Photobooth </a>
+                  <li className="list-inline-item">Categories : <span className="ml-1">Photobooth </span>
                   </li>
-                  <li className="list-inline-item">Tags : <a href="#!" className="ml-1">Booth </a> ,<a href="#!"
-                    className="ml-1">Image </a>
+                  <li className="list-inline-item"> <span className="ml-1">Booth </span> ,<span
+                    className="ml-1">Image </span>
                   </li>
                 </ul>
                 <p>It’s no secret that the digital industry is booming. From exciting startups to global brands,
-                  …</p> <a href="post-details-2.html" className="btn btn-outline-primary">Continue Reading</a>
+                  …</p> <span className="btn btn-outline-primary">Continue Reading</span>
               </article>
             </div>
             <div className="col-lg-4 col-sm-6 mb-4">
@@ -122,22 +119,21 @@ const UserProfile = () => {
                 <div className="post-slider slider-sm">
                   <img loading="lazy" src={post3} className="img-fluid" alt="post-thumb" />
                 </div>
-                <h3 className="h5"><a className="post-title" href="post-details-2.html">Cheerful Loving Couple Bakers
+                <h3 className="h5"><span className="post-title">Cheerful Loving Couple Bakers
                   Drinking
-                  Coffee</a></h3>
+                  Coffee</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                  <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
-                    Doe</a>
+                  <li className="list-inline-item"><i className="ti-user mr-2"></i><span>John
+                    Doe</span>
                   </li>
-                  <li className="list-inline-item">Date : March 14, 2020</li>
-                  <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Videography </a>
+                  <li className="list-inline-item">Categories : <span className="ml-1">Videography </span>
                   </li>
-                  <li className="list-inline-item">Tags : <a href="#!" className="ml-1">Video </a> ,<a href="#!"
-                    className="ml-1">Image </a>
+                  <li className="list-inline-item"> <span className="ml-1">Video </span> ,<span
+                    className="ml-1">Image </span>
                   </li>
                 </ul>
                 <p>It’s no secret that the digital industry is booming. From exciting startups to global brands,
-                  …</p> <a href="post-details-2.html" className="btn btn-outline-primary">Continue Reading</a>
+                  …</p> <span className="btn btn-outline-primary">Continue Reading</span>
               </article>
             </div>
             <div className="col-lg-4 col-sm-6 mb-4">
@@ -146,22 +142,21 @@ const UserProfile = () => {
                   <img loading="lazy" src={post4} className="img-fluid" alt="post-thumb" />
                   {/* <img loading="lazy" src={post1} className="img-fluid" alt="post-thumb" /> */}
                 </div>
-                <h3 className="h5"><a className="post-title" href="post-details-1.html">Cheerful Loving Couple Bakers
+                <h3 className="h5"><span className="post-title">Cheerful Loving Couple Bakers
                   Drinking
-                  Coffee</a></h3>
+                  Coffee</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                  <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
-                    Doe</a>
+                  <li className="list-inline-item"><i className="ti-user mr-2"></i><span>John
+                    Doe</span>
                   </li>
-                  <li className="list-inline-item">Date : March 14, 2020</li>
-                  <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Four seasone </a>
+                  <li className="list-inline-item">Categories : <span className="ml-1">Four seasone </span>
                   </li>
-                  <li className="list-inline-item">Tags : <a href="#!" className="ml-1">Seasone </a> ,<a href="#!"
-                    className="ml-1">New </a>
+                  <li className="list-inline-item"> <span className="ml-1">Seasone </span> ,<span
+                    className="ml-1">New </span>
                   </li>
                 </ul>
                 <p>It’s no secret that the digital industry is booming. From exciting startups to global brands,
-                  …</p> <a href="post-details-1.html" className="btn btn-outline-primary">Continue Reading</a>
+                  …</p> <span className="btn btn-outline-primary">Continue Reading</span>
               </article>
             </div>
             <div className="col-lg-4 col-sm-6 mb-4">
@@ -169,42 +164,40 @@ const UserProfile = () => {
                 <div className="post-slider slider-sm">
                   <img loading="lazy" src={post5} className="img-fluid" alt="post-thumb" />
                 </div>
-                <h3 className="h5"><a className="post-title" href="post-details-1.html">Cheerful Loving Couple Bakers
+                <h3 className="h5"><span className="post-title">Cheerful Loving Couple Bakers
                   Drinking
-                  Coffee</a></h3>
+                  Coffee</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                  <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
-                    Doe</a>
+                  <li className="list-inline-item"><i className="ti-user mr-2"></i><span>John
+                    Doe</span>
                   </li>
-                  <li className="list-inline-item">Date : March 14, 2020</li>
-                  <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Newyork city </a>
+                  <li className="list-inline-item">Categories : <span className="ml-1">Newyork city </span>
                   </li>
-                  <li className="list-inline-item">Tags : <a href="#!" className="ml-1">City </a> ,<a href="#!"
-                    className="ml-1">Photo </a>
+                  <li className="list-inline-item"> <span className="ml-1">City </span> ,<span
+                    className="ml-1">Photo </span>
                   </li>
                 </ul>
                 <p>It’s no secret that the digital industry is booming. From exciting startups to global brands,
-                  …</p> <a href="post-details-1.html" className="btn btn-outline-primary">Continue Reading</a>
+                  …</p> <span className="btn btn-outline-primary">Continue Reading</span>
               </article>
             </div>
             <div className="col-lg-4 col-sm-6 mb-4">
               <article className="mb-5">
-                <h3 className="h5"><a className="post-title" href="post-details-2.html">Cheerful Loving Couple Bakers
+                <h3 className="h5"><span className="post-title" >Cheerful Loving Couple Bakers
                   Drinking
-                  Coffee</a></h3>
+                  Coffee</span></h3>
                 <ul className="list-inline post-meta mb-2">
-                  <li className="list-inline-item"><i className="ti-user mr-2"></i><a href="author.html">John
-                    Doe</a>
+                  <li className="list-inline-item"><i className="ti-user mr-2"></i><span>John
+                    Doe</span>
                   </li>
-                  <li className="list-inline-item">Date : March 14, 2020</li>
-                  <li className="list-inline-item">Categories : <a href="#!" className="ml-1">Newyork city </a>
+                  <li className="list-inline-item">Categories : <span className="ml-1">Newyork city </span>
                   </li>
-                  <li className="list-inline-item">Tags : <a href="#!" className="ml-1">City </a> ,<a href="#!"
-                    className="ml-1">Photo </a>
+                  <li className="list-inline-item"> <span className="ml-1">City </span> ,<span
+                    className="ml-1">Photo </span>
                   </li>
                 </ul>
                 <p>It’s no secret that the digital industry is booming. From exciting startups to global brands,
-                  …</p> <a href="post-details-2.html" className="btn btn-outline-primary">Continue Reading</a>
+                  …</p> <span className="btn btn-outline-primary">Continue Reading</span>
               </article>
             </div>
           </div>

@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "Delhi",
     "title": "Delhi",
     "highlights": [
@@ -10,9 +11,8 @@
       "Rooftop Dining Experiences",
       "Cultural Fusion of Flavors"
     ],
-    "shortDescription": "Delhi, the capital city of India, is a treasure trove of culinary delights. As a food blogger with a love for diverse tastes and rich heritage, Delhi offers a culinary journey that spans from historical street food vendors to modern rooftop dining experiences."
-    ,
-    "locationUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448193.9510303648!2d76.76356891374637!3d28.64428735347703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1708180300096!5m2!1sen!2sin",
+    "shortDescription": "Delhi, the capital city of India, is a treasure trove of culinary delights. As a food blogger with a love for diverse tastes and rich heritage, Delhi offers a culinary journey that spans from historical street food vendors to modern rooftop dining experiences.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d448193.9510303648!2d76.76356891374637!3d28.64428735347703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd5b347eb62d%3A0x37205b715389640!2sDelhi!5e0!3m2!1sen!2sin!4v1708180300096!5m2!1sen!2sin",
     "description": "Delhi, the capital city of India, is a treasure trove of culinary delights. As a food blogger with a love for diverse tastes and rich heritage, Delhi offers a culinary journey that spans from historical street food vendors to modern rooftop dining experiences. Indulge in the vibrant street chaat, Mughlai delicacies, and explore the diverse culinary heritage of this bustling metropolis.",
     "tags": [
       "Delhi Street Food",
@@ -25,61 +25,114 @@
       "Delhi Food Blog",
       "Historical Street Food Delhi"
     ],
-    "image":"https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/raghu-nayyar-EpAq2EE-shg-unsplash.jpg?raw=true"
+    "image": "https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/raghu-nayyar-EpAq2EE-shg-unsplash.jpg?raw=true"
   },
   {
-    "name": "Mumbai",
-    "title": "Mumbai",
+    "name": "Gurugram",
+    "title": "Gurugram",
     "highlights": [
-      "Street Vada Pav and Pav Bhaji",
-      "Coastal Seafood Delicacies",
-      "Bollywood-Inspired Cafes",
-      "Diverse Street Food Culture",
-      "Local Snacks and Chaats",
-      "Colaba Causeway Shopping and Eats",
-      "Marine Drive Food Experiences"
+      "Modern Indian Cuisine",
+      "Luxury Dining Spots",
+      "Pan-Asian Restaurants",
+      "Rooftop Dining",
+      "Fusion Cuisines",
+      "High-End Dining Ambience",
+      "Vibrant Nightlife with Fine Dining"
     ],
-    "shortDescription": "Dive into the bustling street food culture, savor iconic Vada Pav and Pav Bhaji, indulge in coastal seafood delicacies, and explore Bollywood-inspired cafes. From local snacks and chaats to the vibrant food experiences along Marine Drive, Mumbai offers a diverse and dynamic culinary scene.",
-    "locationUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d241316.67292644485!2d72.71637190093986!3d19.08250200590925!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c6306644edc1%3A0x5da4ed8f8d648c69!2sMumbai%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1708180455082!5m2!1sen!2sin" ,
-    "description": "Mumbai, the city of dreams, is also a paradise for food lovers. Dive into the bustling street food culture, savor iconic Vada Pav and Pav Bhaji, indulge in coastal seafood delicacies, and explore Bollywood-inspired cafes. From local snacks and chaats to the vibrant food experiences along Marine Drive, Mumbai offers a diverse and dynamic culinary scene.",
+    "shortDescription": "Explore Gurugram’s vibrant fine dining scene. From modern Indian cuisine to Pan-Asian delicacies, rooftop dining, and fusion dishes, Gurugram offers luxury dining experiences with world-class service and ambience.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224568.360787166!2d76.82493832338503!3d28.422858325392145!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19d582e38859%3A0x2cf5fe8e5c64b1e!2sGurugram%2C%20Haryana!5e0!3m2!1sen!2sin!4v1725775348637!5m2!1sen!2sin",
+    "description": "Gurugram is home to some of the finest dining experiences in the Delhi-NCR region, offering a diverse range of cuisines. Savor modern Indian flavors at The Wine Company or enjoy the best of Pan-Asian delicacies at Threesixtyone° at The Oberoi. Head to rooftop dining spots like The Sky Bar for breathtaking views and gourmet dishes. For those who love fusion cuisine, Comorin brings innovative Indian dishes with global influences. Whether it's a casual luxury meal or a high-end dinner, Gurugram’s fine dining scene caters to all palates with impeccable service and vibrant nightlife options.",
     "tags": [
-      "Mumbai Street Food",
-      "Coastal Cuisine Mumbai",
-      "Bollywood Cafes",
-      "Street Food Culture Mumbai",
-      "Local Snacks Mumbai",
-      "Colaba Causeway Eats",
-      "Marine Drive Food Mumbai",
-      "Mumbai Food Blog"
+      "Gurugram Fine Dining",
+      "Luxury Dining Gurugram",
+      "Modern Indian Cuisine",
+      "Pan-Asian Restaurants Gurugram",
+      "Rooftop Dining Gurugram",
+      "Fusion Cuisine Gurugram",
+      "Gurugram Restaurant Guide",
+      "Food Blog Gurugram"
     ],
-    "image":"https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/satyajeet-mazumdar-fUOMWdwuuvw-unsplash.jpg?raw=true"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOvTW8zfurkQoLVnEsA4MmHOoVVFQ2gq82232K5=s680-w680-h510"
   },
   {
-    "name": "Bangalore",
-    "title": "Bangalore",
+    "name": "Noida",
+    "title": "Noida",
     "highlights": [
-      "South Indian Delights",
-      "Pub Capital of India",
-      "Multicultural Flavors",
-      "Garden City's Cafes",
-      "Tech Parks and Food Trucks",
-      "Farm-to-Table Experiences",
-      "Food Street and Market Explorations"
+      "Modern Indian Cuisine",
+      "Luxury Dining",
+      "Global Fusion Restaurants",
+      "Elegant Rooftop Dining",
+      "Vibrant Nightlife with Fine Dining",
+      "High-End Ambience",
+      "Family-Friendly Gourmet Spots"
     ],
-    "shortDescription": "Bangalore, the vibrant and cosmopolitan city known as the Silicon Valley of India, is not only a tech hub but also a haven for food enthusiasts. Bangalore provides an exciting palette of flavors, blending traditional South Indian tastes with a global culinary influence.",
-    "locationUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d497698.77492875466!2d77.30126945310809!3d12.95445953149592!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae1670c9b44e6d%3A0xf8dfc3e8517e4fe0!2sBengaluru%2C%20Karnataka!5e0!3m2!1sen!2sin!4v1708180506499!5m2!1sen!2sin",
-    "description": "Bangalore, the vibrant and cosmopolitan city known as the Silicon Valley of India, is not only a tech hub but also a haven for food enthusiasts. As a food blogger with a penchant for diverse culinary experiences, Bangalore provides an exciting palette of flavors, blending traditional South Indian tastes with a global culinary influence.",
+    "shortDescription": "Discover the best fine dining experiences in Noida. From modern Indian cuisine to global fusion dishes and luxurious rooftop dining, Noida's restaurants offer world-class service and elegant ambience.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d112178.64480204441!2d77.40182545!3d28.5222018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5a43173357b%3A0x37ffce30c87cc03f!2sNoida%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1725776220329!5m2!1sen!2sin",
+    "description": "Noida is fast emerging as a hotspot for fine dining in Delhi-NCR, offering a range of gourmet experiences. Relish modern Indian flavors at Made in India or explore innovative global cuisine at The Culinary Court. If you're seeking panoramic views with your meal, head to ROOFTOP – The View Bar & Grill, known for its stunning ambience and delectable food. For those who enjoy fusion, The Flying Dutchman brings a creative twist to international dishes. Whether it’s an elegant family dinner or a night out with friends, Noida’s fine dining restaurants provide the perfect blend of sophistication, culinary innovation, and top-tier service.",
     "tags": [
-      "Bangalore Pub Culture",
-      "South Indian Food Bangalore",
-      "Cafes in the Garden City",
-      "Bangalore Food Trucks",
-      "Multicultural Cuisine Bangalore",
-      "Farm-to-Table Bangalore",
-      "Tech Park Food Scene",
-      "Bangalore Food Blog",
-      "Street Food Exploration",
-      "Garden City Culinary Journey"
+      "Noida Fine Dining",
+      "Luxury Dining Noida",
+      "Modern Indian Cuisine Noida",
+      "Rooftop Dining Noida",
+      "Global Fusion Restaurants Noida",
+      "Noida Restaurant Guide",
+      "Food Blog Noida",
+      "Fine Dining Delhi-NCR"
     ],
-    "image":"https://github.com/shinzel1/crowndevour/blob/main/src/components/data/Images/syed-ali-jHc3lkZDL7k-unsplash.jpg?raw=true"
-  }]
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMMfXC4kLAhdvs8IZr3FLRXQ2lq7Sg6fbh4wAvq=s680-w680-h510-rw"
+  },
+  {
+    "name": "NewYork",
+    "title": "NewYork",
+    "highlights": [
+      "Michelin-Starred Restaurants",
+      "Luxury Seafood Dining",
+      "Elegant Italian Cuisine",
+      "Modern American Gastronomy",
+      "Central Park Views",
+      "World-Class Ambience",
+      "Art-Infused Dining at MoMA"
+    ],
+    "shortDescription": "Experience the pinnacle of fine dining in New York City. From Michelin-starred restaurants to modern American gastronomy, enjoy exquisite cuisine in luxurious settings with unparalleled service and atmosphere.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.25279991722!2d-74.1444877707482!3d40.69763123338159!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sin!4v1725773953989!5m2!1sen!2sin",
+    "description": "New York City is a global hub for fine dining, featuring Michelin-starred restaurants, elegant Italian cuisine, and modern American gastronomy. Savor luxury seafood at Le Bernardin, enjoy avant-garde dining at The Modern within MoMA, or indulge in plant-based innovation at Eleven Madison Park. Per Se offers Central Park views with impeccable service, while L’Artusi serves up chic Italian fare in a lively West Village setting. NYC’s fine dining scene promises a culinary journey through opulent interiors, artistic influences, and world-class experiences that cater to discerning food enthusiasts.",
+    "tags": [
+      "NYC Fine Dining",
+      "Michelin-Starred Restaurants NYC",
+      "Luxury Dining New York",
+      "Italian Cuisine NYC",
+      "Modern American Gastronomy",
+      "Seafood Dining New York",
+      "NYC Restaurant Guide",
+      "Food Blog NYC"
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMxgc9lCERYc5KShunf-pSmPs5I5RN9Cy8aFRKD=s680-w680-h510-rw"
+  },
+  {
+    "name": "Goa",
+    "title": "Goa",
+    "highlights": [
+      "Seafood Specialties",
+      "Beachfront Luxury Dining",
+      "Portuguese-Inspired Cuisine",
+      "Tropical Ambience",
+      "Goan Fusion Dishes",
+      "Vibrant Nightlife with Fine Dining",
+      "Romantic Dining Spots"
+    ],
+    "shortDescription": "Explore Goa’s exquisite fine dining scene. From beachfront seafood feasts to Portuguese-inspired cuisine and fusion dishes, Goa offers luxury dining experiences with a tropical, laid-back ambience.",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d492477.2047453063!2d74.00669190354607!3d15.3505688292608!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1srestaurants%20in%20Goa!5e0!3m2!1sen!2sin!4v1726718668514!5m2!1sen!2sin",
+    "description": "Goa is a paradise not only for beach lovers but also for food enthusiasts seeking fine dining experiences. Enjoy the freshest seafood at beachfront spots like The Fisherman’s Wharf or relish Portuguese-inspired dishes at Gunpowder. For a more intimate experience, head to A Reverie, known for its creative fusion dishes and romantic tropical setting. The Black Sheep Bistro offers a modern take on Goan cuisine with a global twist. Whether it's a candle-lit dinner by the sea or a gourmet meal in a chic, tropical ambience, Goa’s fine dining scene promises to captivate your senses with exceptional food and a vibrant atmosphere.",
+    "tags": [
+      "Goa Fine Dining",
+      "Luxury Dining Goa",
+      "Seafood Goa",
+      "Portuguese Cuisine Goa",
+      "Goan Fusion Dishes",
+      "Beachfront Dining Goa",
+      "Goa Restaurant Guide",
+      "Food Blog Goa"
+    ],
+    "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTpYD7voFrXBgaRsT6dcO0ZSxXF3L8Qz6J2j4M3yyZxLuhwzgdCl4E__zYJM2xffacTzLKy6oov0rjZRhenK_uN9BZGvIo4ETqQ1h_Wsg"
+  }
+]

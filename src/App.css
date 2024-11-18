@@ -63,8 +63,8 @@ p, .paragraph {
   font-weight: 400;
   color: #696c6d;
   font-size: 14px;
-  line-height: 1.7;
-  font-family: "Open Sans", sans-serif;
+  /* line-height: 1.7; */
+  font-family: "Poppins", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -80,7 +80,7 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-family: "lumios-brush", sans-serif !important;
+  font-family: "Poppins", sans-serif !important;
   font-style: normal;
   font-weight: 700 !important;
 
@@ -213,10 +213,6 @@ a:hover {
 .section {
   padding-top: 100px;
   padding-bottom: 100px;
-}
-.section-sm {
-  padding-top: 80px;
-  padding-bottom: 80px;
 }
 
 .bg-cover {
@@ -521,7 +517,7 @@ a:hover {
   margin-bottom: 20px;
 }
 .post-slider img {
-  border-radius: inherit;
+  border-radius: inherit; 
 }
 .post-slider:hover .prevArrow {
   left: 10px;
@@ -986,4 +982,10 @@ a:hover {
 }
 .padding-1rem{
   padding: 1rem;
+}
+
+
+.fine-dining-checkpoint {
+  font-size: 2rem !important;
+  font-weight: 500;
 }

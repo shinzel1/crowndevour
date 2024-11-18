@@ -91,11 +91,10 @@
   
   .CulinaryJournery {
     margin: 0;
-    padding: 48px 0;
-    font-family: "Figtree", sans-serif;
+    padding: 48px 1rem;
+    font-family: "Poppins", sans-serif;
     font-size: 1.2rem;
     line-height: 1.6rem;
-    min-height: 100vh;
   }
   
   .articles {

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './LocationListings.css';
-import data from '../../data/CafeResturants.json';
+import data from '../../data/CafeRestaurants.json';
 import TextField from '@mui/material/TextField';
 import IconButton from '@mui/material/IconButton';
 import SearchIcon from '@mui/icons-material/Search';
@@ -8,6 +8,9 @@ import { Link } from 'react-router-dom'
 import { useLocation } from 'react-router-dom';
 import LocationCards from '../../commons/locationCard/locationCard'
 import { Helmet } from 'react-helmet';
+import SchemaOrg from '../../commons/Schema/Schema';
+import Breadcrumb from 'react-bootstrap/Breadcrumb';
+import Logo from '../../data/Images/WholeImage.png'
 
 function LocationListings() {
   var [searchQuery, setSearchQuery] = useState('');
@@ -15,13 +18,14 @@ function LocationListings() {
   const location = useLocation();
   const search = useLocation().search;
   const id = new URLSearchParams(search).get("keyId");
+  const searchQu = new URLSearchParams(search).get("search");
   const handleSearch = (val, filterVal) => {
     setSearchQuery(val)
     var query = val.toLowerCase();
-    if (val === "") {
+    if (val?.trim() === "") {
       searchQuery = val
     } else if (searchQuery !== "") {
-      query = searchQuery.toLowerCase();
+      query = searchQuery.toLowerCase().trim();
     }
     const filtered = data.filter((location) => {
       const name = location?.name?.toLowerCase();
@@ -30,14 +34,13 @@ function LocationListings() {
       const category = location?.category?.toString()?.toLowerCase()
       const tags = location?.tags?.toString()?.toLowerCase()
       if (filterVal === "category") {
-        if (category != null) {return category?.includes(query); }
+        if (category != null) { return category?.includes(query); }
       } else if (filterVal === "tags") {
         if (tags != null) { return tags?.includes(query); }
       } else {
-        return name?.includes(query) || description?.includes(query) || locationName?.includes(query)|| category?.includes(query) || tags?.includes(query);;
+        return name?.includes(query) || description?.includes(query) || locationName?.includes(query) || category?.includes(query) || tags?.includes(query);;
       }
     });
-
     setFilteredLocations(filtered);
   };
 
@@ -58,7 +61,12 @@ function LocationListings() {
     }, 500)
 
     setTimeout(() => {
-      if (location?.state?.value) {
+      if (searchQu != null && searchQu != "null") {
+        var searchBar = document.getElementById('searchBar')
+        searchBar.value = searchQu
+        setSearchQuery(searchQu)
+        handleSearch(searchQu, "")
+      } else if (location?.state?.value) {
         var searchBar = document.getElementById('searchBar')
         searchBar.value = location?.state?.value
         setSearchQuery(location?.state?.value)
@@ -77,20 +85,89 @@ function LocationListings() {
         setSearchQuery("")
       }
     }, 1000);
-      // print Location sitemap
-  // var str = ""
-  // for(var i= 0 ;i<filteredLocations.length;i++){
-  //   str +="<url><loc>https://crowndevour.com/location/"+ filteredLocations[i]?.title+"</loc><lastmod>2024-04-11</lastmod></url>"
-  // }
-  // console.log(str)
+    // print Location sitemap
+    // var str = ""
+    // for(var i= 0 ;i<filteredLocations.length;i++){
+    //   str +="<url><loc>https://crowndevour.com/location/"+ filteredLocations[i]?.title+"</loc><lastmod>2024-09-03</lastmod></url>"
+    // }
+    // console.log(str)
   }, []);
+
+
+  var SchemaData = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "url": "https://crowndevour.com",
+    "name": "Search Cafes and Restaurants",
+    "description": "Search Nearby cafes and Restaurants near your locality",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://crowndevour.com/location?search={search_term_string}",
+      "query-input": "required name=search_term_string"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Crowndevour",
+    },
+    "location": "New Delhi"
+  }
+  var breadcrumbsList = {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 0,
+        "item": {
+          "id": "https://crowndevour.com",
+          "name": "Home",
+          "url": "https://crowndevour.com"
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "id": "https://crowndevour.com/location",
+          "name": "locations",
+          "url": "https://crowndevour.com/location"
+        }
+      }
+    ]
+  }
+  var itemListElement = []
+  for (var i = 0; i < filteredLocations.length; i++) {
+    var restaurant = {}
+    restaurant["@type"] = "Restaurant"
+    restaurant["name"] = filteredLocations[i].name
+    restaurant["image"] = filteredLocations[i].image
+    restaurant["cuisine"] = filteredLocations[i].tags?.toString()
+    restaurant["description"] = filteredLocations[i].shortDescription
+    itemListElement.push(restaurant)
+  }
+
+  var schemaList = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": itemListElement
+  }
   return (
     <div className="location-listings">
-      <h1>Explore Cafe's And Resturant's</h1>
+      <h1>Explore Cafe's And Restaurant's</h1>
+      <SchemaOrg data={SchemaData} />
+      <SchemaOrg data={breadcrumbsList} />
+      <SchemaOrg data={schemaList} />
       <Helmet>
+        <meta name="robots" content="NOODP,NOYDIR" />
         <link rel="canonical" href="https://crowndevour.com/location" />
         <title>search cafe and restaurants</title>
-        <meta name="description" content="Embark on a culinary journey through our handpicked cafes, restaurants, and food stalls! Discover diverse flavors and settings in this gastronomic exploration. " />
+        <meta name="description" content="Search cafes, restaurants, and food stalls near your locality, Discover diverse flavors and settings in this gastronomic exploration." />
+        <meta property="og:title" content="Crowndevour food Outlets" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="ttps://crowndevour.com/location" />
+        <meta property="og:image" content={Logo} />
+        <meta property="og:description" content="Search cafes, restaurants, and food stalls near your locality, Discover diverse flavors and settings in this gastronomic exploration." />
+        <meta property="og:site_name" content="Crowndevour food Outlets" />
       </Helmet>
       <div className='centerDiv padding-5'>
         <TextField
@@ -110,14 +187,15 @@ function LocationListings() {
           onChange={(e) => handleSearch(e.target.value)}
         />
       </div>
+      <div className='container mb-2 breadcrumbs'>
+        <Breadcrumb>
+          <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
+          <Breadcrumb.Item active>Locations</Breadcrumb.Item>
+        </Breadcrumb>
+      </div>
       <section className="section-sm">
         <div className="container">
           <div className="row">
-            <div className="col-lg-12">
-              <div className="title text-center">
-                <h2 className="mb-5">Posted by this author</h2>
-              </div>
-            </div>
             {filteredLocations.map((location, index) => (
               <div className="col-lg-4 col-sm-6 mb-4">
                 <Link to={'/location/' + location.title} state={{ loc: location }}>

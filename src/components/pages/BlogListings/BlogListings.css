@@ -7,3 +7,6 @@
 .blogPostHeading{
     margin-top: 1rem;
 }
+article{
+    overflow: hidden;
+}

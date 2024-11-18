@@ -16,10 +16,6 @@ function JoinUsBanner(){
 
                    </div>
                    <Button variant="outline-primary"  size="lg" className='JoinUsButton'>Join Us</Button>{' '}
-     
-                  {/* <a href="https://www.netlify.com" className="btn outline-primary">
-                    
-                  </a> */}
                 </div>
              </div>
              <div className="illo">
