@@ -17,13 +17,7 @@
     /* padding-top: 80px; */
     padding-bottom: 80px;
   }
-  .post-slider {
-    overflow: hidden;
-    margin-bottom: 20px;
-  }
-  .post-slider img {
-    border-radius: inherit;
-  }
+
   .post-slider:hover .prevArrow {
     left: 10px;
   }

@@ -9203,7 +9203,8 @@
     "title": "Best-Restaurants-Washington-Square-Park-New-York",
     "name": "Best Restaurants Near Washington Square Park, New York",
     "location": "Washington Square Park, New York",
-    "shortDescription": "Located in the heart of Greenwich Village, Washington Square Park is a cultural hub and a perfect spot to enjoy the vibrant dining scene of Lower Manhattan. The area around the park offers a diverse array of restaurants, from cozy cafes to upscale eateries.",
+    "shortDescription": "Explore best restaurants in washington square new york park offering cultural hub and a perfect spot to enjoy the vibrant dining scene of Lower Manhattan. The area around the park offers a diverse array of restaurants, from cozy cafes to upscale eateries.",
+    "description": "Explore best restaurants in washington square new york park offering cultural hub and a perfect spot to enjoy the vibrant dining scene of Lower Manhattan. The area around the park offers a diverse array of restaurants, from cozy cafes to upscale eateries.",
     "aboutTheLocation": "Washington Square Park is a historic and iconic public park in Greenwich Village, Manhattan. Known for its famous arch, vibrant atmosphere, and rich cultural history, the park is a gathering place for artists, musicians, and students from nearby New York University. Surrounding the park are some of the city's best restaurants and cafes, offering a range of cuisines that reflect the diversity and creativity of the neighborhood. Whether you're in the mood for a quick bite or a leisurely meal, the area around Washington Square Park has something to satisfy every palate.",
     "mustTryDishes": [
       {
@@ -9253,51 +9254,61 @@
       {
         "name": "Joe's Pizza",
         "title": "Joe's Pizza",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNGVPo2LfSyyjwqYoiSO9zeiJTLcMojysrvshBx=s680-w680-h510",
         "shortDescription": "Joe's Pizza is a legendary pizzeria in New York City, known for its perfect New York-style slices. The thin, crispy crust, tangy tomato sauce, and gooey mozzarella make it a must-visit for any pizza lover."
       },
       {
         "name": "Il Mulino",
         "title": "Il Mulino",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPJkvlO0GteyKdNqEFznpZP5UX4GdD9GeBNne5E=s680-w680-h510",
         "shortDescription": "Il Mulino offers a luxurious Italian dining experience, with a focus on traditional dishes made with the finest ingredients. The intimate setting and impeccable service make it ideal for a special occasion."
       },
       {
         "name": "Murray's Bagels",
         "title": "Murray's Bagels",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNToyVCwCn9s3KhbL80lVwG0vfLTnb0eKPKKbqy=s680-w680-h510",
         "shortDescription": "Murray's Bagels is a beloved New York institution, offering freshly baked bagels with a wide variety of toppings. The lox and cream cheese bagel is a standout, providing a classic NYC breakfast experience."
       },
       {
         "name": "Claudette",
         "title": "Claudette",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN77a2lhlXcQGaNLlloTJpQ9iTkLLF-LQzn0hCg=s680-w680-h510",
         "shortDescription": "Claudette is a charming French bistro that brings the flavors of Provence to Greenwich Village. The cozy ambiance and delicious dishes like bouillabaisse and steak frites make it a favorite among locals and visitors alike."
       },
       {
         "name": "Minetta Tavern",
         "title": "Minetta Tavern",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN2hD2jt3PwEd7R2MnpdCiaLCcdNVA8jGzGswIM=s680-w680-h510",
         "shortDescription": "Minetta Tavern is a historic restaurant that blends French bistro cuisine with a classic New York steakhouse. Known for its famous Black Label Burger and timeless ambiance, it's a must-visit spot in the neighborhood."
       },
       {
         "name": "Carbone",
         "title": "Carbone",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP-rzUy-ocIvp5rmzkA2I36XWkvIMC-5_rneocv=s680-w680-h510",
         "shortDescription": "Carbone is a high-end Italian-American restaurant offering a retro, mid-century atmosphere and dishes that pay homage to classic Italian-American cuisine. The spicy rigatoni vodka is a fan favorite."
       },
       {
         "name": "Olio e Più",
         "title": "Olio e Più",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMvT9N7w78-WBLBQV6sCp6-r1mOYBkzj1m09djD=s680-w680-h510",
         "shortDescription": "Olio e Più is a rustic Italian restaurant offering handmade pasta and wood-fired pizzas. The charming atmosphere and extensive wine list make it a great choice for a relaxed dinner near the park."
       },
       {
         "name": "Loring Place",
         "title": "Loring Place",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPYQ9X_yFOOhpqPnm2aOw_ZBSt2KK_zsvXqf8SR=s680-w680-h510",
         "shortDescription": "Loring Place offers a modern take on American cuisine with a focus on seasonal, locally sourced ingredients. The menu features creative dishes like wood-grilled broccoli and roasted chicken with rosemary."
       },
       {
         "name": "The Grey Dog",
         "title": "The Grey Dog",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOBGPmZQu-YHNuwrH8nJ4IgXvlSipQPFPq2vEw2=s680-w680-h510",
         "shortDescription": "The Grey Dog is a cozy café offering a relaxed atmosphere and a menu filled with hearty sandwiches, salads, and coffee. It's a perfect spot for a casual meal or a quick bite near Washington Square Park."
       },
       {
         "name": "Taboonette",
         "title": "Taboonette",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN_FDprP9Wkt28-F3Dq5vPShWohz-WQEthdzf4D=s680-w680-h510",
         "shortDescription": "Taboonette offers Mediterranean-inspired street food with a modern twist. The falafel and shawarma are popular choices, and the casual setting makes it great for a quick, flavorful meal."
       }
     ],
@@ -12349,6 +12360,7 @@
     "name": "Top 20 Brewery Spots in DLF Cyber City, Gurgaon",
     "location": "DLF Cyber City, Gurgaon, Haryana",
     "shortDescription": "DLF Cyber City is the heart of Gurgaon’s nightlife and a hub for the best brewery spots offering craft beer, vibrant atmospheres, and gourmet food.",
+    "description": "DLF Cyber City is the heart of Gurgaon’s nightlife and a hub for the best brewery spots offering craft beer, vibrant atmospheres, and gourmet food.",
     "aboutTheLocation": "DLF Cyber City, one of the most buzzing commercial areas in Gurgaon, is known not only for its corporate offices but also for its thriving food and brewery scene. Home to some of the best breweries in NCR, Cyber City attracts office-goers and locals alike who seek after-work drinks, craft beers, and an array of global cuisine. The vibrant ambiance and well-designed pubs make it the perfect place to relax and socialize. Whether you're in the mood for a hoppy IPA, a smooth lager, or just a chilled-out evening with friends, DLF Cyber City has it all.",
     "mustTryDishes": [
       {
@@ -12831,8 +12843,9 @@
     "title": "Nightlife-Guide-Best-Nightclubs-Pubs-Bars-MG-Road-Gurugram",
     "name": "Nightlife Guide: Best Nightclubs, Pubs, and Bars on MG Road, Gurugram",
     "location": "MG Road, Gurugram",
-    "shortDescription": "Discover the vibrant nightlife on MG Road, Gurugram, where the city's top nightclubs, pubs, and bars offer a thrilling experience for partygoers and nightlife lovers.",
-    "aboutTheLocation": "MG Road, Gurugram is not only a business and shopping hub, but also one of the top nightlife destinations in the city. With a plethora of nightclubs, pubs, and bars, MG Road attracts both locals and visitors looking to unwind and enjoy after-hours entertainment. From trendy lounges to lively dance floors, there's something for every kind of night owl. Whether you're looking for craft cocktails, live music, or a place to dance the night away, MG Road's nightlife scene is sure to impress.",
+    "shortDescription": "Discover the vibrant mg road gurgaon nightlife, where the city's top nightclubs, pubs, and bars offer a thrilling experience for partygoers and nightlife lovers.",
+    "description": "Discover the vibrant mg road gurgaon nightlife, where the city's top nightclubs, pubs, and bars offer a thrilling experience for partygoers and nightlife lovers.",
+    "aboutTheLocation": "MG Road, gurgaon is not only a business and shopping hub, but also one of the top nightlife destinations in the city. With a plethora of nightclubs, pubs, and bars, MG Road attracts both locals and visitors looking to unwind and enjoy after-hours entertainment. From trendy lounges to lively dance floors, there's something for every kind of night owl. Whether you're looking for craft cocktails, live music, or a place to dance the night away, MG Road's nightlife scene is sure to impress.",
     "mustTryDishes": [
       {
         "name": "cocktails",
@@ -14315,7 +14328,8 @@
     "title": "Top-Restaurants-Baga-Beach-Goa",
     "name": "Top Restaurants in Baga Beach, Goa",
     "location": "Baga Beach, Goa",
-    "shortDescription": "Baga Beach is one of Goa’s most popular beaches, renowned for its lively atmosphere, water sports, and an eclectic mix of restaurants offering everything from fresh seafood to international cuisine.",
+    "shortDescription": "Restaurants in Baga Beach offer fresh seafood dedicating goa cuisines to international cuisines, meanwhile focusing on its lively atmosphere and water sports",
+    "description": "Restaurants in Baga Beach offer fresh seafood dedicating goa cuisines to international cuisines, meanwhile focusing on its lively atmosphere and water sports",
     "aboutTheLocation": "Baga Beach, located in North Goa, is a bustling spot famous for its vibrant nightlife, beach shacks, and water activities. It is a food lover’s paradise, with numerous beachfront restaurants serving a variety of Goan, Indian, and international dishes. Whether you’re in the mood for fresh seafood, wood-fired pizzas, or hearty Indian curries, Baga Beach has something to offer for every taste. The restaurants here often offer sea views and live music, making it a perfect destination for both casual dining and a night out with friends.",
     "mustTryDishes": [
       {
@@ -14342,52 +14356,62 @@
     "sections": [
       {
         "name": "Britto's Restaurant",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOctnSsNcRLkPW4Oh2bNC4cRRPTYNDAnM1NCQg=s680-w680-h510",
         "title": "Britto's Restaurant: Indulge in Authentic Goan Flavours & Lip-Smacking Cocktails",
         "shortDescription": "Located on the scenic Baga Beach, Britto's Restaurant is an iconic Goan eatery known for its fresh seafood, authentic Goan dishes, and signature cocktails. Offering a vibrant beachfront dining experience, Britto’s is perfect for those who want to savor the true flavors of Goa. Whether it's the Goan fish curry, prawns in coconut curry, or refreshing cocktails, Britto's remains a beloved destination for locals and tourists alike."
       },
       {
         "name": "St. Anthony's",
         "title": "St. Anthony's: Classic Beach Shack at Baga Beach",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMQldDfoBPzw1F7KXhwaFbqGXN4jSKYiru35JIl=s680-w680-h510",
         "shortDescription": "St. Anthony's is a popular beach shack located on Baga Beach, known for its laid-back vibe, tasty seafood, and vibrant ambiance. Whether you're looking for Goan curries, freshly grilled seafood, or refreshing drinks, St. Anthony's has it all. The live music and beachside setting make it an ideal spot for enjoying a casual meal with friends or family while soaking in the sun and sea."
       },
       {
         "name": "Bistro Shack",
         "title": "Bistro Shack: Cozy Beach Dining at Baga",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPugWroPraqFwdKeW2zkWCPAKzXjRF2gdqWnwTX=s680-w680-h510",
         "shortDescription": "Bistro Shack offers a relaxed beachside dining experience with a variety of Goan, Indian, and continental dishes. Located on Baga Beach, this charming shack serves fresh seafood, Goan curries, and a range of refreshing drinks. Known for its warm hospitality and cozy ambiance, Bistro Shack is a great place to unwind after a day at the beach, making it a must-visit for beach lovers."
       },
       {
         "name": "Cafe Laval Bar and Beach Restaurant",
         "title": "Cafe Laval Bar and Beach Restaurant: Perfect Beachside Dining",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPfC6nfrEpd2sTYjwB-Uh6ASzbX0HFavubu8Brw=s680-w680-h510",
         "shortDescription": "Cafe Laval Bar and Beach Restaurant, located on Baga Beach, offers a delightful blend of beachside dining and refreshing cocktails. Specializing in Goan seafood, grilled meats, and international dishes, this beachside cafe provides a laid-back ambiance perfect for relaxing with friends or family. With stunning views of the beach and a menu full of delicious options, Cafe Laval is a top spot for casual beachside dining."
       },
       {
         "name": "Shining Star Beach Shack",
         "title": "Shining Star Beach Shack: Classic Beachside Dining at Baga",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMkymPyHVsiPNaT7vhvrxJ1QQpwwrZ8pGKGIj4e=s680-w680-h510",
         "shortDescription": "Shining Star Beach Shack, located on Baga Beach, is a well-loved spot for enjoying fresh seafood and Goan delicacies. With its simple, laid-back atmosphere and beachfront views, Shining Star offers a quintessential Goan shack experience. Their menu features seafood platters, Goan curries, and refreshing beverages, making it a perfect place for a casual meal by the sea."
       },
       {
         "name": "INFINITY by Ratna Sagar",
         "title": "INFINITY by Ratna Sagar: Upscale Beach Dining at Baga",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMCpFaijGDiuBoRo17klgClMU3sGKyYi6tsUIAx=s680-w680-h510",
         "shortDescription": "INFINITY by Ratna Sagar, located on Baga Beach, offers a luxurious beachside dining experience with an extensive menu of Goan, Indian, and continental dishes. Known for its stylish decor, panoramic beach views, and a wide selection of seafood, this restaurant is perfect for those looking to indulge in fine dining while enjoying the tranquil beach atmosphere."
       },
       {
         "name": "Bottlebay",
         "title": "Bottlebay: Trendy Bar and Restaurant at Baga Beach",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNtCb39d_4BlOjX6x6uAVjGbhacJ8vhZx8z2mCL=s680-w680-h510",
         "shortDescription": "Bottlebay is a lively bar and restaurant located at Baga Beach, offering a vibrant atmosphere, refreshing cocktails, and a wide range of dishes including Goan seafood, Indian curries, and continental favorites. With its trendy beachside setting and live music, Bottlebay is a great spot for a fun evening out with friends or a relaxed meal by the sea."
       },
       {
         "name": "Baga Restro Bar",
         "title": "Baga Restro Bar: Casual Beachside Dining at Baga",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOE11zjN_cYE9i4hZ-OJTnWW3CoAZde8eN6mP0I=s680-w680-h510",
         "shortDescription": "Baga Restro Bar is a casual beachside eatery offering a mix of Goan, Indian, and international cuisine. Located on Baga Beach, this relaxed spot is perfect for those looking to enjoy fresh seafood, Goan delicacies, and refreshing drinks. With its laid-back atmosphere and beach views, Baga Restro Bar is a popular choice for both tourists and locals."
       },
       {
         "name": "Lucky Star Beach Shack",
         "title": "Lucky Star Beach Shack: Cozy Dining on Baga Beach",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN5Gjapj7-EAD4qVncoDBjTo_murOxeRmFHCKiC=s680-w680-h510",
         "shortDescription": "Lucky Star Beach Shack, nestled on the sandy shores of Baga Beach, offers a cozy and relaxed beachside dining experience. Known for its fresh seafood, Goan specialties, and chilled drinks, this beach shack provides a great escape for those looking to unwind by the sea. With its friendly service and casual atmosphere, Lucky Star is a popular spot for beachgoers."
       },
       {
         "name": "Sam's Beach Shack",
         "title": "Sam's Beach Shack: Laid-back Beach Dining at Baga",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMYpUxzmBTDBv7eepG3P9kVSHy_SMfHC7GP11co=s680-w680-h510",
         "shortDescription": "Sam's Beach Shack is a favorite hangout on Baga Beach, offering a laid-back dining experience with a variety of Goan, Indian, and seafood dishes. Known for its fresh catch of the day and chilled drinks, this beach shack is the perfect place to enjoy a relaxed meal while taking in the scenic views of the beach. Its friendly staff and beachside location make it a must-visit spot in Baga."
       },
       {
@@ -14465,7 +14489,8 @@
     "title": "Top-Restaurants-Anjuna-Beach-Goa",
     "name": "Top Restaurants in Anjuna Beach, Goa",
     "location": "Anjuna Beach,Calangute, Goa",
-    "shortDescription": "Anjuna Beach is a bohemian paradise known for its lively vibe, scenic beauty, and a fantastic selection of restaurants offering local Goan cuisine, seafood, and international dishes.",
+    "shortDescription": "Anjuna Beach is a vibrant bohemian haven, celebrated for its scenic beauty, lively atmosphere, and diverse dining options. From authentic Goan cuisine and fresh seafood to international dishes, it’s a must-visit destination for food lovers and beach enthusiasts alike.",
+    "description": "Anjuna Beach is a vibrant bohemian haven, celebrated for its scenic beauty, lively atmosphere, and diverse dining options. From authentic Goan cuisine and fresh seafood to international dishes, it’s a must-visit destination for food lovers and beach enthusiasts alike.",
     "aboutTheLocation": "Anjuna Beach is located in North Goa, famous for its stunning cliffs, vibrant flea markets, and beach parties. The beach attracts both locals and tourists looking for a laid-back vibe with its famous sunset views, lively music scene, and eclectic mix of dining options. Restaurants near Anjuna Beach serve up everything from fresh seafood and Goan delicacies to Italian, Mediterranean, and global fusion cuisine. Whether you're in the mood for a casual shack or a fine dining experience, Anjuna Beach has a diverse food scene to explore.",
     "mustTryDishes": [
       {
@@ -14493,86 +14518,97 @@
       {
         "name": "Curlies",
         "title": "Curlies: Iconic Beachfront Shack at Anjuna Beach, Goa",
-        "shortDescription": "Curlies is a legendary beach shack on Anjuna Beach, known for its lively vibe, beachfront views, and diverse menu. Offering everything from Goan seafood to international dishes, Curlies is a must-visit spot for those looking to relax by the beach, enjoy the sunset, or party late into the night. With a mix of chilled cocktails, live music, and an unbeatable beachside location, Curlies captures the essence of Goa's laid-back lifestyle."
+        "shortDescription": "Curlies is a legendary beach shack on Anjuna Beach, known for its lively vibe, beachfront views, and diverse menu. Offering everything from Goan seafood to international dishes, Curlies is a must-visit spot for those looking to relax by the beach, enjoy the sunset, or party late into the night. With a mix of chilled cocktails, live music, and an unbeatable beachside location, Curlies captures the essence of Goa's laid-back lifestyle.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOJVGP6Prn8iEmfWe1GJaG8pc3fv9zAYtxltzMI=s680-w680-h510"
       },
       {
         "name": "Sea Breeze Restaurant",
         "title": "Sea Breeze Restaurant: Relaxed Beachside Dining at Anjuna",
-        "shortDescription": "Sea Breeze Restaurant, located on Anjuna Beach, offers a tranquil setting with a menu featuring Goan delicacies, fresh seafood, and international cuisine. Known for its friendly service and stunning beach views, this restaurant is a great spot to unwind after a day at the beach. With a variety of dishes and refreshing drinks, Sea Breeze provides a classic beachside dining experience."
-      },
-      {
-        "name": "Blue Water",
-        "title": "Blue Water: Scenic Beachside Dining at Anjuna",
-        "shortDescription": "Blue Water is a cozy restaurant located at Anjuna Beach, offering a range of Goan, Indian, and international dishes. With its laid-back ambiance and beautiful ocean views, Blue Water is the perfect spot for a relaxed meal by the sea. Known for its fresh seafood and friendly atmosphere, it’s a popular choice for beachgoers and tourists alike."
+        "shortDescription": "Sea Breeze Restaurant, located on Anjuna Beach, offers a tranquil setting with a menu featuring Goan delicacies, fresh seafood, and international cuisine. Known for its friendly service and stunning beach views, this restaurant is a great spot to unwind after a day at the beach. With a variety of dishes and refreshing drinks, Sea Breeze provides a classic beachside dining experience.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOdR9RLFvq1rlmMTald4IBCHwY5okhrUU2Gr2lz=s680-w680-h510"
       },
       {
         "name": "Slow Tide",
         "title": "Slow Tide: Laid-back Beach Cafe in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOeMjjWplHuFMo5aF882-QbeoLn89qzEKyc0Pxn=s680-w680-h510",
         "shortDescription": "Slow Tide is a charming beachside cafe located in Anjuna, Goa, offering a relaxed atmosphere and a menu featuring a mix of Goan and international dishes. Known for its fresh seafood, vibrant drinks, and chilled vibe, Slow Tide is a great place to unwind after a day at the beach. With its cozy setting and friendly service, it’s a must-visit spot for beach lovers."
       },
       {
         "name": "Balu'z Cafe",
         "title": "Balu'z Cafe: Cozy Beachside Hangout at Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM1wyVrZiQjseN1hCXqjH2cBZ0eBD6GzWGaYy43=s680-w680-h510",
         "shortDescription": "Balu'z Cafe is a hidden gem on Anjuna Beach, offering a laid-back atmosphere and a menu filled with Goan specialties and international favorites. Known for its delicious seafood and chilled drinks, Balu'z is perfect for those looking to relax and enjoy a casual meal by the sea. Its friendly staff and beachside location make it a popular spot among locals and tourists alike."
       },
       {
         "name": "Eva Cafe",
         "title": "Eva Cafe: Instagram-Worthy Beachside Cafe in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNg3FNF9MTAr9fQvTWPLW3elAH2NEL35sFLFOEP=s680-w680-h510",
         "shortDescription": "Eva Cafe is a beautiful beachside cafe in Anjuna, known for its stunning decor, scenic ocean views, and delicious Mediterranean-inspired dishes. With a relaxed, boho-chic vibe, Eva Cafe is perfect for those looking to enjoy a leisurely breakfast or lunch by the beach. The cafe's fresh juices, healthy salads, and refreshing cocktails make it a favorite among both locals and tourists."
       },
       {
         "name": "Avalon Sunset Hotel & Bar and Restaurant",
         "title": "Avalon Sunset Hotel & Bar: Dining with a View at Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN6LhjRnS2OP98hRibHW5qiUPlxJWxIMZRT-UK8=s680-w680-h510",
         "shortDescription": "Avalon Sunset Hotel & Bar offers a blend of comfortable accommodation and relaxed dining at Anjuna Beach. The restaurant serves a variety of Goan, Indian, and continental dishes, along with refreshing drinks. With its serene beachside setting and sunset views, Avalon is a great spot for a peaceful meal after a day of exploring Anjuna's vibrant beaches."
       },
       {
         "name": "Sonic Goa",
         "title": "Sonic Goa: Lively Beach Shack in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMTkW19ppfAP6p8g6XJVWwn6SGeWRqrqFjPw3OP=s680-w680-h510",
         "shortDescription": "Sonic Goa is a lively beach shack located on Anjuna Beach, offering a menu packed with Goan seafood, Indian curries, and international dishes. Known for its vibrant atmosphere, live music, and beachfront location, Sonic is a perfect spot for those looking to enjoy a fun night out or a relaxed meal by the sea. Their cocktails and seafood platters are particularly popular."
       },
       {
         "name": "Purple Martini",
         "title": "Purple Martini: Trendy Beach Bar and Restaurant in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOJM8KLn6B1qqRLa75Mu0qlXn7CoDM2ZP_dgE1s=s680-w680-h510",
         "shortDescription": "Purple Martini is one of Anjuna Beach's trendiest spots, offering a chic setting with stunning ocean views, refreshing cocktails, and a variety of Goan and continental dishes. Known for its lively ambiance, live music, and sunset views, Purple Martini is perfect for those looking to enjoy a stylish beachside dining experience. The bar's signature cocktails and seafood dishes are a must-try."
       },
       {
         "name": "Ohm Anjuna",
         "title": "Ohm Anjuna: Relaxed Beachside Dining at Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOmeTlgCv_oMZ_KKILvEvAQDc0LGyDppenRYpDX=s680-w680-h510",
         "shortDescription": "Ohm Anjuna is a laid-back beachside restaurant known for its delicious Goan food, relaxed vibe, and beach views. Offering a menu filled with fresh seafood, local Goan dishes, and a variety of international options, Ohm is a great place to enjoy a casual meal by the sea. The restaurant's friendly service and beachfront location make it a favorite among beachgoers."
       },
       {
         "name": "Fat Fish Anjuna",
         "title": "Fat Fish Anjuna: Seafood Haven on Anjuna Beach",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMrM5Y84JF23_zxYd68zhW7S10cwv2cIF3NV4tR=s680-w680-h510",
         "shortDescription": "Fat Fish Anjuna is a must-visit for seafood lovers, offering a wide selection of Goan, Indian, and international seafood dishes. With a laid-back beachside atmosphere and a menu packed with fresh seafood options, including prawns, crabs, and fish curries, Fat Fish is a popular spot for those looking to indulge in Goan cuisine. The restaurant's friendly vibe and beachside location add to its charm."
       },
       {
         "name": "Bacchus - Cafe & Restaurant in Anjuna",
         "title": "Bacchus: Laid-back Cafe & Restaurant in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMJnIPuHyJCcAMDxkvDpc2t3obbvR2PZo8_SlET=s680-w680-h510",
         "shortDescription": "Bacchus Cafe & Restaurant in Anjuna offers a relaxed dining experience with a menu featuring a mix of Goan, Indian, and international dishes. Known for its cozy atmosphere and beachside location, Bacchus is a great spot to unwind and enjoy a casual meal with friends. Their seafood dishes and refreshing drinks make it a popular choice for beachgoers."
       },
       {
         "name": "Trails Of Taste(TOT)® - Andhra Restaurant",
         "title": "Trails Of Taste: Authentic Andhra Cuisine in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOMroN_ijfKWXiZUNgSv70IcrfppqTpB34bVOvX=s680-w680-h510",
         "shortDescription": "Trails Of Taste (TOT) is a standout restaurant in Anjuna offering authentic Andhra cuisine with a modern twist. Known for its spicy flavors, traditional Andhra dishes like biryani, kebabs, and seafood, this restaurant is a haven for those craving bold, flavorful meals. The relaxed beachside ambiance makes it a unique dining experience in Anjuna."
       },
       {
         "name": "Artjuna",
         "title": "Artjuna: Bohemian Cafe & Lifestyle Space in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPb7yv2cGLEhcfXJsfe7DUYYXA8NxCnk8Wjd4CW=s680-w680-h510",
         "shortDescription": "Artjuna is a vibrant cafe and lifestyle space in Anjuna, known for its healthy, Mediterranean-inspired dishes, fresh juices, and creative vibe. Located just a short walk from Anjuna Beach, Artjuna offers a peaceful setting to enjoy breakfast or lunch while exploring local art, wellness, and culture. The cafe’s fresh salads, smoothies, and vegan options make it a favorite among health-conscious travelers."
       },
       {
         "name": "The Royal Cafe",
         "title": "The Royal Cafe: Laid-back Beachside Cafe in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP8e-u5Aza4OaueXb6yvcBZtwjSTCtsOaMpPIWa=s680-w680-h510",
         "shortDescription": "The Royal Cafe in Anjuna offers a relaxed, casual dining experience with a menu featuring Goan, Indian, and international dishes. Located close to Anjuna Beach, this cozy cafe is known for its fresh seafood, beachside atmosphere, and friendly service. Whether you're looking for a quick snack or a full meal, The Royal Cafe is a great spot to enjoy the beach breeze while dining."
       },
       {
         "name": "Elephant and Co. Anjuna, Goa",
         "title": "Elephant and Co.: Trendy Bar & Restaurant in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOiZ_EmPD6m9_Kwxhn6z3Evs6zNK72-r4vU6Ypg=s680-w680-h510",
         "shortDescription": "Elephant and Co. is a trendy bar and restaurant in Anjuna, offering a stylish setting and a menu filled with a mix of international, Indian, and Goan dishes. Known for its chic decor, signature cocktails, and lively atmosphere, Elephant and Co. is a perfect spot for a fun evening with friends. The restaurant's fusion cuisine and vibrant vibe make it a must-visit in Anjuna."
       },
       {
         "name": "Baba Au Rhum",
         "title": "Baba Au Rhum: Bohemian Cafe in Anjuna",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNNAIkjI9Crmtt0EG0-57EzRHNtJBY-thL8j36T=s680-w680-h510",
         "shortDescription": "Baba Au Rhum is a popular cafe in Anjuna known for its relaxed, bohemian vibe and delicious French-inspired cuisine. Set amidst lush greenery, the cafe offers a range of baked goods, pizzas, sandwiches, and refreshing beverages. Its cozy atmosphere, combined with its farm-fresh ingredients, makes Baba Au Rhum a favorite spot for both locals and tourists looking to escape the hustle and bustle of Anjuna Beach."
       }
     ],
@@ -14710,96 +14746,109 @@
       {
         "name": "Acuresta",
         "title": "Acuresta: Cozy Restaurant with Local Delicacies in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPxQeT7QXg794-NIapHaT3pxUQzSASu63MXhCe3=s680-w680-h510",
         "shortDescription": "Acuresta is a cozy restaurant offering a mix of local Goan dishes and international cuisine. Known for its friendly ambiance, the restaurant serves a variety of fresh seafood, traditional Goan curries, and delightful cocktails. Whether you’re looking for a relaxed meal or a casual night out, Acuresta provides an inviting space for both locals and tourists to enjoy authentic Goan flavors."
       },
       {
         "name": "Cafe Maitree",
         "title": "Cafe Maitree: Tranquil Cafe in the Heart of Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO_hEbXV3H6sdQQA-VdExN8Hw_w5cgQQkOHIQup=s680-w680-h510",
         "shortDescription": "Cafe Maitree offers a peaceful escape in Goa, with its calming ambiance and delicious vegetarian-friendly menu. The cafe is popular for its fresh juices, salads, and homemade pastries, as well as its cozy atmosphere. Whether you're seeking a relaxing brunch spot or a quiet place to enjoy a cup of coffee, Cafe Maitree is a perfect choice."
       },
       {
         "name": "Dream of Goa Bar & Restaurant",
         "title": "Dream of Goa: Vibrant Bar & Restaurant in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM41z3tmc1ExFhFT6xXDszOJlYrYuA2OfXU_lHj=s680-w680-h510",
         "shortDescription": "Dream of Goa Bar & Restaurant is a lively spot offering a diverse menu of Goan, Indian, and continental cuisine. Known for its beachside location and energetic vibe, the restaurant serves fresh seafood, sizzling grills, and signature cocktails. With live music and a relaxed atmosphere, it's an ideal place for a fun night out or a casual meal with friends."
       },
       {
         "name": "Soma Santripti Restaurant",
         "title": "Soma Santripti: Authentic Goan Dining Experience",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMzylgJrqgM1YiAep2QEzDGEfH5AqXef6EX4Zy7=s680-w680-h510",
         "shortDescription": "Soma Santripti Restaurant is a must-visit for those seeking traditional Goan flavors. Specializing in local seafood, curries, and tandoori dishes, Soma Santripti offers a welcoming atmosphere and an extensive menu. With its authentic recipes and laid-back vibe, it's a great spot for tourists looking to experience Goan cuisine in its purest form."
       },
       {
         "name": "Cheeky Monkey",
         "title": "Cheeky Monkey: Lively Beachfront Bar and Restaurant",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMq4VNtqfo2edJq-aesdCUj0aVyVewG9jf_GTBy=s680-w680-h510",
         "shortDescription": "Cheeky Monkey is a fun and vibrant beachfront bar in Goa, known for its exciting drinks menu, delicious snacks, and chilled-out vibe. Offering a mix of Goan and international dishes, Cheeky Monkey is a perfect spot to enjoy cocktails, beach views, and live music. The restaurant’s lively atmosphere makes it a popular destination for beachgoers and party lovers."
       },
       {
         "name": "Yummy Capital",
         "title": "Yummy Capital: Goan and Continental Flavors in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOuTj4PcWCz19Ce2hCH7O_uJkV49AAXb3ggT2TO=s680-w680-h510",
         "shortDescription": "Yummy Capital is a casual restaurant in Goa offering a diverse menu of Goan, Indian, and continental dishes. Known for its tasty seafood, flavorful curries, and affordable pricing, it’s a great spot for both locals and tourists to enjoy a hearty meal. The friendly service and relaxed setting make Yummy Capital a favorite for family dining and casual get-togethers."
       },
       {
         "name": "Lamuella Boutique and Bistro",
         "title": "Lamuella: Boutique Bistro and Fashion Fusion",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO0vjx3aARToNa9lWLdcGtMZFCRDFnpzPSIbe1r=s680-w680-h510",
         "shortDescription": "Lamuella Boutique and Bistro combines stylish fashion with a chic dining experience in Goa. Known for its unique atmosphere and eclectic menu, the bistro serves a blend of Mediterranean and healthy dishes. With its boutique vibe and serene ambiance, Lamuella is a go-to destination for those looking to indulge in both fashion and food in a sophisticated setting."
       },
       {
         "name": "Kinara Restaurant",
         "title": "Kinara Restaurant: Authentic Goan Seafood Haven",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOnbLU7YrM5WqO1gH5MdnNjs76g3fcGJi2Ykq0j=s680-w680-h510",
         "shortDescription": "Kinara Restaurant is a traditional Goan seafood haven, offering fresh, locally-sourced dishes that highlight the rich culinary heritage of Goa. Known for its fish curries, tandoori preparations, and flavorful rice dishes, Kinara attracts seafood lovers from all over. The restaurant’s warm ambiance and excellent service make it a beloved spot for both locals and visitors."
       },
       {
         "name": "OCEANO - A CULINARY BAR",
         "title": "OCEANO: Trendy Culinary Bar in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOZkOc0DlxwYdo-Bsdf5NpSNLFucnh6tA6Oik9Q=s680-w680-h510",
         "shortDescription": "OCEANO is a trendy culinary bar in Goa offering an exciting fusion of local flavors and international cuisine. With its modern decor and creative menu, OCEANO serves a wide range of tapas, seafood, and cocktails. The stylish ambiance, along with its signature dishes and vibrant drinks, makes OCEANO a must-visit for foodies and nightlife enthusiasts alike."
       },
       {
         "name": "Laughing Buddha",
         "title": "Laughing Buddha: Relaxed Beachside Dining in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOawKDjR8WM_fWzUD6aRj-k7gzjiLg0n8DpgARg=s680-w680-h510",
         "shortDescription": "Laughing Buddha is a charming beachside restaurant in Goa, offering a laid-back atmosphere and a menu packed with Goan, Indian, and international favorites. Known for its fresh seafood, chilled drinks, and sunset views, Laughing Buddha is a popular spot for tourists looking to relax and enjoy a casual meal by the beach."
       },
       {
         "name": "i love india bar and restaurant",
         "title": "I Love India: Vibrant Bar and Restaurant in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP-5URi0AomX72QsHv87Yw5FAPXHYaAG73mhr5g=s680-w680-h510",
         "shortDescription": "I Love India Bar and Restaurant is a lively spot in Goa offering a mix of Indian and Goan dishes, with a focus on seafood and tandoori specialties. The bar serves up refreshing cocktails and local drinks, making it a great place for a fun night out with friends. Its vibrant atmosphere and friendly service make it a must-visit in Goa."
       },
       {
         "name": "Rock Lobster Lounge & Bar",
         "title": "Rock Lobster: Trendy Lounge & Bar in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOEe2kxLp8jvQ_dT2BI1l8W-oyvRA0-U0DnCe4U=s680-w680-h510",
         "shortDescription": "Rock Lobster Lounge & Bar is a stylish spot in Goa known for its chic decor, signature cocktails, and seafood-based menu. The lounge offers a sophisticated ambiance with live music and events, making it a popular destination for both locals and tourists. Whether you're in the mood for a cocktail or a seafood feast, Rock Lobster delivers an upscale dining experience."
       },
       {
         "name": "Gril it sandwich bar - Baruch's sandwich",
         "title": "Gril It: Gourmet Sandwich Bar in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOLZ0wMyW5tUURe4dlNSp2Zqs-tw0loOgIxaiQD=s680-w680-h510",
         "shortDescription": "Gril It is a gourmet sandwich bar in Goa, offering a variety of freshly made sandwiches, wraps, and salads. Known for its creative fillings and high-quality ingredients, Gril It is a great spot for a quick and tasty meal. The friendly service and cozy atmosphere make it a popular choice for locals and visitors alike."
       },
       {
         "name": "Shimons Falafel",
         "title": "Shimons Falafel: Mediterranean Delights in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP_KuprZ3vTZK_lzwHSNnVH2LbOOT2Cgl9VavsX=s680-w680-h510",
         "shortDescription": "Shimons Falafel is a Mediterranean-inspired eatery in Goa, offering a delicious menu of falafels, hummus, and pita sandwiches. Known for its authentic flavors and fresh ingredients, this casual restaurant is a favorite among those looking for a healthy and flavorful meal. The relaxed setting and friendly vibe make it a must-visit for foodies in Goa."
-      },
-      {
-        "name": "Lamuella Boutique and Bistro",
-        "title": "Lamuella: Boutique Bistro and Fashion Fusion",
-        "shortDescription": "Lamuella Boutique and Bistro combines stylish fashion with a chic dining experience in Goa. Known for its unique atmosphere and eclectic menu, the bistro serves a blend of Mediterranean and healthy dishes. With its boutique vibe and serene ambiance, Lamuella is a go-to destination for those looking to indulge in both fashion and food in a sophisticated setting."
       },
       {
         "name": "Wa Blue Restaurant",
         "title": "Wa Blue: Fusion Cuisine in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMrSD6-XkSjmBnrNn9lP0TTTlKfk6OhFihG2ico=s680-w680-h510",
         "shortDescription": "Wa Blue Restaurant in Goa offers a unique dining experience with a fusion of Goan and international flavors. The restaurant is known for its modern decor and innovative dishes, with a focus on fresh seafood and vibrant cocktails. Whether you're looking for a casual meal or a special night out, Wa Blue delivers a memorable culinary experience."
       },
       {
         "name": "Bee's Knees Cafe",
         "title": "Bee's Knees: Cozy Cafe in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMczuWu2ZvdOlZCSNK0igOh51RvYHnR-R7pZT1D=s680-w680-h510",
         "shortDescription": "Bee's Knees Cafe is a charming spot in Goa, offering a cozy atmosphere and a menu featuring fresh sandwiches, salads, and coffee. Known for its laid-back vibe and friendly service, Bee's Knees is a great place to unwind and enjoy a light meal. The cafe’s warm ambiance and delicious offerings make it a popular spot among locals and tourists alike."
       },
       {
         "name": "Soma Santripti Restaurant",
         "title": "Soma Santripti: Authentic Goan Dining Experience",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOJZWXhArVwq3EMQJcR_ApMTYx8oDtrq-R3GEr5=s680-w680-h510",
         "shortDescription": "Soma Santripti Restaurant is a must-visit for those seeking traditional Goan flavors. Specializing in local seafood, curries, and tandoori dishes, Soma Santripti offers a welcoming atmosphere and an extensive menu. With its authentic recipes and laid-back vibe, it's a great spot for tourists looking to experience Goan cuisine in its purest form."
       },
       {
         "name": "Chika Palace",
         "title": "Chika Palace: Goan and Indian Dining in Goa",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOpcTtRFB5PU5nmwsMcc2Sym7Suyskf11AIArO2=s680-w680-h510",
         "shortDescription": "Chika Palace is a casual restaurant in Goa offering a menu filled with Goan and Indian specialties. Known for its fresh seafood, flavorful curries, and warm hospitality, Chika Palace is a great spot for a relaxed meal with friends and family. The restaurant's cozy atmosphere and traditional dishes make it a must-visit for anyone exploring Goan cuisine."
       }
     ],
@@ -16655,7 +16704,8 @@
     "title": "best-afghani-restaurants-lajpat-Nagar",
     "name": "Best Afghani Restaurants in Lajpat Nagar, New Delhi",
     "location": "Lajpat Nagar, New Delhi",
-    "shortDescription": "Discover authentic Afghani cuisine at the best restaurants in Lajpat Nagar, New Delhi. Known for flavorful kebabs, rich curries, and warm naan, these eateries offer a genuine taste of Afghan culture.",
+    "shortDescription": "Discover Best Afghani Restaurants in Lajpat Nagar, New Delhi. Known for flavorful kebabs, rich curries, and warm naan, these eateries offer a genuine taste of Afghan culture.",
+    "description": "Discover Best Afghani Restaurants in Lajpat Nagar, New Delhi. Known for flavorful kebabs, rich curries, and warm naan, these eateries offer a genuine taste of Afghan culture.",
     "aboutTheLocation": "Lajpat Nagar is a vibrant area in New Delhi with a significant Afghan community, resulting in a hub of authentic Afghan restaurants and eateries. Known for its bustling markets and diverse dining spots, Lajpat Nagar offers a true cultural experience with a variety of Afghan flavors for food enthusiasts.",
     "mustTryDishes": [
       {
@@ -16966,7 +17016,9 @@
         "description": "Many budget-friendly cafes in CP have a rustic or vintage ambiance, providing a relaxing atmosphere for an enjoyable experience."
       }
     ],
-    "tipsForVisitors": "For a budget-friendly experience, visit during early afternoon hours for lighter crowds and look out for weekday offers and discounts.",
+    "tipsForFoodies": [
+      "For a budget-friendly experience, visit during early afternoon hours for lighter crowds and look out for weekday offers and discounts."
+    ],
     "personalRecommendations": "We recommend Cha Bar for tea lovers, Wenger’s Deli for a quick snack, and Café Coffee Day for an affordable hangout spot.",
     "conclusion": "Connaught Place is an ideal destination for affordable cafe experiences. With a blend of rustic decor, street-style menus, and a lively environment, you’re sure to find something that suits your tastes and budget.",
     "author": {
@@ -17063,7 +17115,9 @@
         "description": "Humayunpur is a haven for affordable dining options, providing high-quality meals for a fraction of the cost you'd find elsewhere in Delhi."
       }
     ],
-    "tipsForVisitors": "Visit during lunch hours or early evening to avoid long waits, as many of these spots are compact yet popular. Be sure to try the momos and pork dishes that the area is known for.",
+    "tipsForFoodies": [
+      "Visit during lunch hours or early evening to avoid long waits, as many of these spots are compact yet popular. Be sure to try the momos and pork dishes that the area is known for."
+    ],
     "personalRecommendations": "We recommend Hornbill for authentic Naga food, Yo Tibet for momos and thukpa, and The Offside for its casual dining experience.",
     "conclusion": "Humayunpur offers a vibrant, budget-friendly culinary experience with a wide range of unique flavors, particularly North Eastern cuisine. Perfect for a relaxed dining experience in New Delhi's bustling food scene.",
     "author": {
@@ -17200,5 +17254,1767 @@
     ],
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d876.0642844511361!2d77.1930694554373!3d28.562040288932558!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1shumayunpur%20restaurants!5e0!3m2!1sen!2sin!4v1731498074571!5m2!1sen!2sin",
     "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipOMS4Nf1TcDVHeVYixiGJkVyJcv19Io0x2C9yso=s680-w680-h510"
+  },
+  {
+    "title": "top-restaurants-pandara-road-new-delhi",
+    "name": "Top Restaurants in Pandara Road, New Delhi",
+    "location": "Pandara Road, New Delhi",
+    "shortDescription": "Discover Top Restaurants in Pandara Road, New Delhi, home to some of the city's best fine-dining and family-friendly restaurants. A perfect destination for lovers of Indian and international cuisines.",
+    "description": "Discover Top Restaurants in Pandara Road, New Delhi, home to some of the city's best fine-dining and family-friendly restaurants. A perfect destination for lovers of Indian and international cuisines.",
+    "aboutTheLocation": "Pandara Road, located near India Gate, is a well-known food hub in New Delhi. It's famous for its upscale dining options and a variety of cuisines, including North Indian, Mughlai, and international flavors, attracting foodies and families alike.",
+    "mustTryDishes": [
+      {
+        "name": "North Indian & Mughlai Cuisine",
+        "description": "Pandara Road is renowned for its rich and flavorful North Indian and Mughlai dishes, including butter chicken, kebabs, and dal makhani."
+      },
+      {
+        "name": "Upscale Dining",
+        "description": "The area features elegant restaurants with great ambiance, making it ideal for family dinners or special occasions."
+      },
+      {
+        "name": "Desserts & Sweet Treats",
+        "description": "Complete your meal with a variety of desserts available at the restaurants, from classic gulab jamun to creamy kulfi."
+      }
+    ],
+    "tipsForFoodies": [
+      "Arrive early during weekends as restaurants often get crowded. Most places are family-friendly and offer valet parking."
+    ],
+    "personalRecommendations": "We recommend Gulati for its legendary butter chicken, Have More for its Mughlai specialties, and Veg Gulati for vegetarian North Indian cuisine.",
+    "conclusion": "Pandara Road offers a mix of classic and modern culinary experiences, making it a must-visit destination for food lovers exploring New Delhi.",
+    "author": {
+      "name": "shinzel.cop",
+      "bio": "A Delhi-based food enthusiast exploring iconic and hidden gems across the city to bring you the best dining experiences."
+    },
+    "tags": [
+      "Pandara Road Restaurants",
+      "Best Eats Pandara Road",
+      "North Indian Food Delhi",
+      "Mughlai Cuisine Delhi",
+      "Fine Dining Delhi",
+      "Foodie Delhi",
+      "Pandara Road Guide",
+      "Top Restaurants Delhi",
+      "Family Dining Delhi",
+      "Butter Chicken Delhi"
+    ],
+    "sections": [
+      {
+        "name": "Gulati Restaurant",
+        "title": "Gulati - Iconic North Indian Cuisine",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN9sEjzeu5V61zQnR32mdDI6qfLZFy_euZRnMZK=s680-w680-h510",
+        "shortDescription": "Gulati is a legendary restaurant known for its authentic butter chicken, kebabs, and dal makhani. A must-visit for North Indian food enthusiasts."
+      },
+      {
+        "name": "Veg Gulati",
+        "title": "Veg Gulati - Vegetarian North Indian Delights",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO3pDmSI56_fTdtUbRV014s5zh1s_uVlS2Nd3hn=s680-w680-h510",
+        "shortDescription": "Offering a purely vegetarian menu, Veg Gulati serves flavorful North Indian dishes, including paneer tikka, dal makhani, and a variety of breads."
+      },
+      {
+        "name": "Have More",
+        "title": "Have More - Mughlai Food Specialties",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPUHjcBpz9iS3jIEJzhgHUo0UwsyE0TbXZvUxN_=s680-w680-h510",
+        "shortDescription": "Famous for its rich Mughlai flavors, Have More offers dishes like mutton rogan josh, kadhai chicken, and biryani, perfect for meat lovers."
+      },
+      {
+        "name": "Chicken Inn",
+        "title": "Chicken Inn - Comfort Food at Its Best",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOw-8oiOAE16c2vECPxu_Z4lv3qJRm6kFFcV3ZF=s680-w680-h510",
+        "shortDescription": "Known for its classic butter chicken, biryani, and Indian breads, Chicken Inn offers hearty meals at reasonable prices."
+      },
+      {
+        "name": "Pindi Restaurant",
+        "title": "Pindi - Traditional North Indian Cuisine",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMxI9TNQ9FT1J4oI-lWmxH_X9b4ghI3yF4AqI3H=s680-w680-h510",
+        "shortDescription": "Pindi serves a variety of North Indian and Mughlai dishes with consistent quality, making it a popular choice for locals and tourists alike."
+      },
+      {
+        "name": "Ichiban",
+        "title": "Ichiban - Asian and Pan-Asian Cuisine",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMHpl2LRUf0EM4NpMR3nDVndoaFPpcoB6WVDsd7=s680-w680-h510",
+        "shortDescription": "Offering an eclectic menu of Chinese, Thai, and Japanese dishes, Ichiban is a great choice for those seeking Asian flavors on Pandara Road."
+      },
+      {
+        "name": "Tequila Express",
+        "title": "Tequila Express - Mexican and Continental Fare",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP8Y3dGqlrUCEEwKIqH4lHroYwJsvPxN8i53sV4=s680-w680-h510",
+        "shortDescription": "A unique addition to the area, Tequila Express offers Mexican and Continental dishes with a vibrant ambiance and lively cocktails."
+      },
+      {
+        "name": "Diggin Pandara Road",
+        "title": "Diggin Pandara Road: Charming Cafe with European Vibes in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPW5a8Y_bleRq_TB-SMxYT0jF3ijPi9l2TVtkKR=s680-w680-h510",
+        "shortDescription": "Diggin on Pandara Road offers a cozy ambiance with lush greenery, serving European-inspired dishes, hearty pasta, pizzas, and indulgent desserts."
+      },
+      {
+        "name": "Bikaner House",
+        "title": "Bikaner House: Heritage Dining and Art in Central Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOi27Dy4PqhNe3wOR94a4Q-vk4EAQX2VVdLuODh=s680-w680-h510",
+        "shortDescription": "Bikaner House combines heritage architecture with fine dining, hosting cultural events and offering a serene dining experience in central Delhi."
+      },
+      {
+        "name": "Haldiram's",
+        "title": "Haldiram's Pandara Road: Iconic Vegetarian Indian Snacks and Meals",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMCmqoyV3oy77a99W713sk5cUMORAVhUspz5bJO=s680-w680-h510",
+        "shortDescription": "Haldiram's on Pandara Road is a favorite for authentic Indian sweets, chaats, and vegetarian meals, offering a perfect blend of tradition and taste."
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3502.7114828456006!2d77.22727892604512!3d28.608431035173712!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1spandara%20road%20restaurants!5e0!3m2!1sen!2sin!4v1732367255745!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipNPt7VOIj-ZfVc2mC8pqcnZVwrPlTyw4D92xjRa=s680-w680-h510"
+  },
+  {
+    "title": "best-rooftop-cafe-majnu-ka-tila-delhi",
+    "name": "Best Rooftop Cafes in Majnu Ka Tila, Delhi",
+    "location": "Majnu Ka Tila, New Delhi",
+    "shortDescription": "Explore the best rooftop cafes in Majnu Ka Tila for scenic views, delicious Tibetan cuisine, and vibrant vibes. Perfect for a relaxing outing with friends or solo unwinding.",
+    "description": "Explore the best rooftop cafes in Majnu Ka Tila for scenic views, delicious Tibetan cuisine, and vibrant vibes. Perfect for a relaxing outing with friends or solo unwinding.",
+    "aboutTheLocation": "Majnu Ka Tila, also known as Delhi's Tibetan Colony, is a hub for authentic Tibetan food and cozy cafes. It attracts visitors with its unique cultural experience, budget-friendly eateries, and relaxing rooftop spaces.",
+    "mustTryDishes": [
+      {
+        "name": "Tibetan Cuisine",
+        "description": "Indulge in authentic momos, thukpa, and other Tibetan specialties at rooftop cafes offering a serene ambiance."
+      },
+      {
+        "name": "Scenic Views",
+        "description": "Enjoy the peaceful vibe and scenic surroundings from the top floors of these cafes while savoring refreshing beverages."
+      },
+      {
+        "name": "Bohemian Ambiance",
+        "description": "Many rooftop spots have eclectic decor, cozy seating, and a laid-back environment that attracts young crowds."
+      }
+    ],
+    "tipsForFoodies": [
+      "Most rooftop cafes in Majnu Ka Tila are budget-friendly. Opt for the upper floors for a more serene experience. Parking can be limited, so plan accordingly."
+    ],
+    "personalRecommendations": "We recommend Ama Cafe for its serene rooftop vibe, coffee, and desserts, along with Dolma House for its authentic Tibetan food and relaxing seating.",
+    "conclusion": "The rooftop cafes in Majnu Ka Tila offer a mix of great food, cultural experiences, and peaceful settings, making it an ideal destination for food lovers and explorers in Delhi.",
+    "author": {
+      "name": "shinzel",
+      "bio": "A Delhi-based cafe enthusiast who loves exploring unique dining spots and sharing experiences about the city's best hidden gems."
+    },
+    "tags": [
+      "Majnu Ka Tila Cafes",
+      "Best Rooftop Cafes Delhi",
+      "Tibetan Cuisine Delhi",
+      "Majnu Ka Tila Food",
+      "Budget-Friendly Cafes",
+      "Ama Cafe Delhi",
+      "Rooftop Dining Delhi",
+      "Majnu Ka Tila Guide",
+      "Delhi Hidden Gems",
+      "Peaceful Cafes Delhi"
+    ],
+    "sections": [
+      {
+        "name": "THE ROOF SKY RESTAURANT & CAFE",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPzmNUoVAMnDDGtMY072S5EMNPrZ9DYDKlwMxZ0=s680-w680-h510",
+        "title": "The Roof Sky Restaurant & Cafe: Stunning Rooftop Dining in Delhi",
+        "shortDescription": "The Roof Sky Restaurant & Cafe offers breathtaking rooftop views and a variety of cuisines, creating a perfect spot for casual dining and special occasions."
+      },
+      {
+        "name": "AMA Cafe",
+        "title": "AMA Cafe: Cozy Tibetan Cafe in Majnu Ka Tila, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPpUHP2cl2etZXZ3LZbqG4-QWe2qCUIWoo56h7H=s680-w680-h510",
+        "shortDescription": "AMA Cafe in Majnu Ka Tila is loved for its warm ambiance, delicious coffee, and Tibetan-inspired snacks, making it a favorite among locals and tourists alike."
+      },
+      {
+        "name": "Signature Cafe Delhi",
+        "title": "Signature Cafe Delhi: Vibrant Spot for Coffee and Conversations",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMQa2VkU6hIqugJo3-Ejc-0Udj_eTl7T_c0-_3e=s680-w680-h510",
+        "shortDescription": "Signature Cafe Delhi is known for its chic interiors, handcrafted beverages, and a relaxing atmosphere perfect for meetups and unwinding."
+      },
+      {
+        "name": "Himalayan Java Coffee",
+        "title": "Himalayan Java Coffee: Authentic Brews in Majnu Ka Tila, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNNl1G4_W11qWVxAvmSWavaxQPESmBjHdH2yaVg=s680-w680-h510",
+        "shortDescription": "Himalayan Java Coffee in Majnu Ka Tila is the go-to destination for premium coffee lovers, offering expertly brewed beverages and a serene atmosphere."
+      },
+      {
+        "name": "Cafe Dolma - Since 1984",
+        "title": "Cafe Dolma: Iconic Tibetan Cafe in Majnu Ka Tila, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMWOobow5HgK0t5wtnpcLaJZRPFru58Qpmo5bfp=s680-w680-h510",
+        "shortDescription": "Cafe Dolma, established in 1984, serves authentic Tibetan delicacies and refreshing beverages, preserving its legacy in the heart of Majnu Ka Tila."
+      },
+      {
+        "name": "THE HIMALAYAN ROOFTOP by Namlang",
+        "title": "The Himalayan Rooftop by Namlang: Scenic Dining in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMm3HJ-93qCCFFqcGH-ij4UAKhBmkPHDJm-ykfA=s680-w680-h510",
+        "shortDescription": "The Himalayan Rooftop by Namlang offers panoramic views and a delightful menu of Tibetan and multi-cuisine dishes, perfect for a unique dining experience."
+      },
+      {
+        "name": "Sky Garden Delhi",
+        "title": "Sky Garden Delhi: Modern Rooftop Cafe with Relaxing Vibes",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMq5u1dpuvPX5ISXQcbJ0Vrm0PjgIwvcyterkSp=s680-w680-h510",
+        "shortDescription": "Sky Garden Delhi is a contemporary rooftop cafe offering serene ambiance, delicious food, and refreshing drinks for an enjoyable outing."
+      },
+      {
+        "name": "Norwang Cafe & Restaurant",
+        "title": "Norwang Cafe & Restaurant: Tibetan Flavors in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPnbfH2oPWr2X6-B2OgR7RDHHipXaDqd1R5U183=s680-w680-h510",
+        "shortDescription": "Norwang Cafe & Restaurant specializes in Tibetan and Chinese cuisines, serving authentic momos, noodles, and more in a cozy setting."
+      },
+      {
+        "name": "Rooftop Restaurant and Cafe",
+        "title": "Rooftop Restaurant and Cafe: Elevated Dining Experience in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPDpG6eo3jTeZ014865ZG78F3Dvgy7JGAE_Yo-j=s680-w680-h510",
+        "shortDescription": "Rooftop Restaurant and Cafe delivers stunning views and a mix of Indian and global cuisines, perfect for casual gatherings or romantic dinners."
+      },
+      {
+        "name": "Kalandak Rooftop",
+        "title": "Kalandak Rooftop: Cozy Rooftop Cafe with Great Food and Views",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNuyrqcotQNl9T85fzXTudEdpraEooKTan3oGvE=s680-w680-h510",
+        "shortDescription": "Kalandak Rooftop offers a welcoming atmosphere, delicious menu options, and scenic views, making it a favorite among Delhi’s cafe-goers."
+      },
+      {
+        "name": "Sunset Rooftop",
+        "title": "Sunset Rooftop: Picturesque Cafe with Stunning Sunset Views",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPaHieowVdxBHXwWSoqdn9v2uXr1pFxXj-NQTQe=s680-w680-h510",
+        "shortDescription": "Sunset Rooftop provides a magical dining experience with panoramic sunset views, complemented by a menu of delectable food and beverages."
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d2080.863164264319!2d77.22814943441958!3d28.70218537128463!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBest%20Rooftop%20Cafes%20in%20Majnu%20Ka%20Tila!5e0!3m2!1sen!2sin!4v1732432649237!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipMU79iaO9IqvNd6zHR3QMK2gfIhIy4xKNbbMCiR=s680-w680-h510"
+  },
+  {
+    "title": "best-tibetan-restaurants-majnu-ka-tila-updated-2024",
+    "name": "Best Tibetan Restaurants in Majnu Ka Tila, Delhi (Updated 2024)",
+    "location": "Majnu Ka Tila, New Delhi",
+    "shortDescription": "Explore Best Tibetan Restaurants in Majnu Ka Tila, offering authentic Tibetan dishes and a culturally immersive dining experience.",
+    "description": "Explore Best Tibetan Restaurants in Majnu Ka Tila, offering authentic Tibetan dishes and a culturally immersive dining experience.",
+    "aboutTheLocation": "Majnu Ka Tila, also known as Delhi’s Little Tibet, is a vibrant hub of Tibetan culture, offering a wide range of authentic Tibetan restaurants. Known for its bustling alleys, colorful prayer flags, and warm hospitality, it is the go-to destination for foodies looking to savor Tibetan and Himalayan flavors.",
+    "mustTryDishes": [
+      {
+        "name": "thukpa, momos"
+      },
+      {
+        "name": " butter tea and Tibetan desserts"
+      }
+    ],
+    "tipsForFoodies": [
+      "Avoid peak hours for a hassle-free experience, and don’t miss trying butter tea and Tibetan desserts."
+    ],
+    "personalRecommendations": "Tee Dee Restaurant for its homely vibe, Ama Restaurant for its thukpa, and Dolma House for its delightful momos and shapta.",
+    "conclusion": "Majnu Ka Tila is a paradise for Tibetan food enthusiasts, offering a blend of traditional flavors and cultural charm. A must-visit for an authentic dining experience in Delhi.",
+    "tags": [
+      "Tibetan Food Majnu Ka Tila",
+      "Majnu Ka Tila Restaurants",
+      "Authentic Tibetan Food Delhi",
+      "Tibetan Momos Delhi",
+      "Thukpa Delhi",
+      "Tibetan Culture Delhi",
+      "Best Restaurants Majnu Ka Tila",
+      "Majnu Ka Tila Food Guide",
+      "Budget Tibetan Food",
+      "Hidden Gems Delhi"
+    ],
+    "sections": [
+      {
+        "name": "THE HIMALAYAN ROOFTOP by Namlang",
+        "title": "The Himalayan Rooftop by Namlang: Scenic Rooftop Dining in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNyqNY3NnOcPcvqe_fQ3ogDsPnqAG5faXFVaULZ=s680-w680-h510",
+        "shortDescription": "The Himalayan Rooftop by Namlang offers a cozy ambiance with stunning views, serving Tibetan and multi-cuisine dishes for a memorable dining experience."
+      },
+      {
+        "name": "Koko Restaurant",
+        "title": "Koko Restaurant: Fusion Delights in Majnu Ka Tila, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM6lRTpWPAj7DdJp_hKWq3M-FZFC1KQFckIGOk=s680-w680-h510",
+        "shortDescription": "Koko Restaurant blends Tibetan and Asian cuisines, offering flavorful dishes in a modern setting, perfect for food enthusiasts."
+      },
+      {
+        "name": "Rigo Restaurant + Rigo Bistro",
+        "title": "Rigo Restaurant & Bistro: Tibetan Delicacies in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMTVyo8NvWMRBAQptgbOgA7qI_y5YiO702jlTQm=s680-w680-h510",
+        "shortDescription": "Rigo Restaurant & Bistro is renowned for its authentic Tibetan dishes, cozy ambiance, and must-try momos and thukpa."
+      },
+      {
+        "name": "Kunga Cafe & Restaurant",
+        "title": "Kunga Cafe & Restaurant: Tibetan Flavors in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNPMNbQHtTz-qeliQt0XY4LsCWjz1TS2-VnqqUe=s680-w680-h510",
+        "shortDescription": "Kunga Cafe & Restaurant specializes in Tibetan cuisine, offering a delightful menu of authentic dishes in a relaxed atmosphere."
+      },
+      {
+        "name": "AMA Cafe",
+        "title": "AMA Cafe: Cozy Tibetan-Inspired Cafe in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMV8GfyZpdBLSbjCKhOUaJmAWJ2i0lIRKVNaJuR=s680-w680-h510",
+        "shortDescription": "AMA Cafe is a beloved spot known for its warm interiors, coffee, and Tibetan-inspired dishes, perfect for a laid-back outing."
+      },
+      {
+        "name": "The Himalayan Rooftop",
+        "title": "The Himalayan Rooftop: Picturesque Dining in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipME-nTsw2ctIc52d5W24Gu5LzuhXRYhDPwiXeI7=s680-w680-h510",
+        "shortDescription": "The Himalayan Rooftop combines beautiful views with a menu of Tibetan and Indian delicacies, offering a serene dining experience."
+      },
+      {
+        "name": "Best Laphing",
+        "title": "Best Laphing: Authentic Tibetan Laphing in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNPCJzRDgiZgUeTCjXEarD7Ij2mU64-5y913d0n=s680-w680-h510",
+        "shortDescription": "Best Laphing is a hidden gem serving delicious laphing, a popular Tibetan street food, loved for its spicy and tangy flavors."
+      },
+      {
+        "name": "YELLOW HOUSE RESTAURANT",
+        "title": "Yellow House Restaurant: Tibetan and Indian Cuisine in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPRVA68M0cEIQ2Lx1_1AY6YAyp1qlQYBfIXeWkO=s680-w680-h510",
+        "shortDescription": "Yellow House Restaurant offers a mix of Tibetan and Indian dishes, served in a vibrant and welcoming setting in Majnu Ka Tila."
+      },
+      {
+        "name": "Kalsang Restaurant Delhi",
+        "title": "Kalsang Restaurant: Tibetan and Pan-Asian Delights in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMAGi2J-Ntjl4TjtttLGxuw3S9EzBqf8yCYn1kM=s680-w680-h510",
+        "shortDescription": "Kalsang Restaurant serves authentic Tibetan, Chinese, and Thai dishes, making it a go-to spot for Pan-Asian food lovers."
+      },
+      {
+        "name": "Cafe Dolma - Since 1984",
+        "title": "Cafe Dolma: Iconic Tibetan Cafe in Majnu Ka Tila, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM5gEwrM7WcllSIzHE4IH_5XWt-odYra47hFYDE=s680-w680-h510",
+        "shortDescription": "Cafe Dolma, established in 1984, is famous for its Tibetan dishes and cozy ambiance, making it a must-visit spot in Majnu Ka Tila."
+      },
+      {
+        "name": "Makye Amay Tibet Kitchen",
+        "title": "Makye Amay Tibet Kitchen: Authentic Tibetan Cuisine in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOhceElyjHS2cKR_h1gM5w2X0g9QgLQk5oOycva=s680-w680-h510",
+        "shortDescription": "Makye Amay Tibet Kitchen offers a rich menu of Tibetan specialties, including momos and thukpa, in a relaxed environment."
+      },
+      {
+        "name": "TM Kitchen",
+        "title": "TM Kitchen: Modern Tibetan Flavors in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPrxIv28E2r8BXRE9MNWnJxMr26pTCvxUvhIzDp=s680-w680-h510",
+        "shortDescription": "TM Kitchen serves a fusion of Tibetan and Asian cuisines, offering innovative dishes in a contemporary setting."
+      },
+      {
+        "name": "Sky Garden Delhi",
+        "title": "Sky Garden Delhi: Relaxing Rooftop Cafe with Scenic Views",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMq5u1dpuvPX5ISXQcbJ0Vrm0PjgIwvcyterkSp=s680-w680-h510",
+        "shortDescription": "Sky Garden Delhi provides a tranquil setting with rooftop views and a menu of refreshing beverages and comfort food."
+      },
+      {
+        "name": "Himalayan Java Coffee",
+        "title": "Himalayan Java Coffee: Premium Coffee in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNdJcCDnJ4nOXjTl4_z87icdVNR3j6oML9b4gOP=s680-w680-h510",
+        "shortDescription": "Himalayan Java Coffee is a go-to spot for coffee lovers, offering expertly brewed beverages and a peaceful ambiance."
+      },
+      {
+        "name": "Aro Momo & Cafe",
+        "title": "Aro Momo & Cafe: Tibetan Momos and More in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOgboVJpJUPApI9x18Rl2I1_vflmSH6Q-N71WGV=s680-w680-h510",
+        "shortDescription": "Aro Momo & Cafe is popular for its fresh and flavorful Tibetan momos, along with a variety of quick bites and drinks."
+      },
+      {
+        "name": "Busan Korean Restaurant",
+        "title": "Busan Korean Restaurant: Authentic Korean Flavors in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNJL0j97O7TSQTlA1DVP8RN7eomg6_xf8MWEN9i=s680-w680-h510",
+        "shortDescription": "Busan Korean Restaurant serves traditional Korean dishes, including bibimbap and kimchi, in a cozy and welcoming setting."
+      },
+      {
+        "name": "Sopa Thakali",
+        "title": "Sopa Thakali: Nepali Cuisine in the Heart of Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMWCKoMpCeSsXl4euyr0t_zDO7L0UuOTxVUw4c1=s680-w680-h510",
+        "shortDescription": "Sopa Thakali specializes in Nepali thali and other traditional dishes, offering an authentic taste of Nepal in a vibrant setting."
+      },
+      {
+        "name": "Sarang Rooftop",
+        "title": "Sarang Rooftop: Relaxing Rooftop Cafe in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM5ndZAdYXVd89sKRIRfB9B_Sfcv5hrQAv2Jek=s680-w680-h510",
+        "shortDescription": "Sarang Rooftop offers a serene ambiance with rooftop views, serving a variety of Tibetan and Indian dishes for a perfect outing."
+      },
+      {
+        "name": "Kalandak Rooftop",
+        "title": "Kalandak Rooftop: Cozy Rooftop Dining in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOJ4Rm6Db_eq6DYH2Yd2Ikq8NS0WFSvCosguMnn=s680-w680-h510",
+        "shortDescription": "Kalandak Rooftop provides a welcoming environment with stunning views and a menu featuring Tibetan and fusion delicacies."
+      },
+      {
+        "name": "Jonang House",
+        "title": "Jonang House: Tibetan Hospitality in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOtkcX7Nj3QkCN_JAOd7BqzqM4YSIXxs04hK1Yj=s680-w680-h510",
+        "shortDescription": "Jonang House offers authentic Tibetan flavors and a cozy dining space, making it a great spot for cultural and culinary exploration."
+      },
+      {
+        "name": "Laamiyan Restaurant",
+        "title": "Laamiyan Restaurant: Authentic Tibetan Cuisine in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM6f_fEdGKaVyxuvw14Set1tfzDF6hHq8uaYYxp=s680-w680-h510",
+        "shortDescription": "Laamiyan Restaurant serves a variety of Tibetan specialties, including momos, thukpa, and more, in a friendly and inviting atmosphere."
+      },
+      {
+        "name": "Little Tibet",
+        "title": "Little Tibet: Authentic Tibetan Food in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNIHv06bvTOELVAneGLowXBWt0uPVYAOBWwUCvV=s680-w680-h510",
+        "shortDescription": "Little Tibet is a charming eatery serving traditional Tibetan dishes, including momos, laphing, and hearty thukpa."
+      },
+      {
+        "name": "Nor Yak Cafe & Restro",
+        "title": "Nor Yak Cafe & Restro: Tibetan and Asian Delights",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNOpIV9mT_5IsJpydAwhMh65Dn3Dqd9p5jYESPi=s680-w680-h510",
+        "shortDescription": "Nor Yak Cafe & Restro offers a relaxed vibe with a menu full of Tibetan and Asian-inspired dishes, perfect for casual dining."
+      },
+      {
+        "name": "Tee Dee Restaurant",
+        "title": "Tee Dee Restaurant: Tibetan Delicacies in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO3swzKQYatFMEsQGNA3s5cWVcPmBNOxERarXfv=s680-w680-h510",
+        "shortDescription": "Tee Dee Restaurant serves authentic Tibetan cuisine with a homely atmosphere, known for its flavorful momos and soups."
+      },
+      {
+        "name": "Norwang Cafe & Restaurant",
+        "title": "Norwang Cafe & Restaurant: Tibetan Comfort Food",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP-PUFPqPdZpdftsOd5rBb_4Qd6i0SGmL79co2O=s680-w680-h510",
+        "shortDescription": "Norwang Cafe & Restaurant is a go-to place for Tibetan classics like laphing, thukpa, and momos, served in a relaxed ambiance."
+      },
+      {
+        "name": "Bhutanese Tara Restaurant Delhi",
+        "title": "Bhutanese Tara Restaurant: Bhutanese Cuisine in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPXp-i93B3eUqHeDdu41fiF6MF_SaiP27y8hEI2=s680-w680-h510",
+        "shortDescription": "Bhutanese Tara Restaurant offers a unique menu of Bhutanese dishes, including ema datshi and hearty soups, in a serene setting."
+      },
+      {
+        "name": "TM Kitchen",
+        "title": "TM Kitchen: Tibetan and Asian Fusion in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPrxIv28E2r8BXRE9MNWnJxMr26pTCvxUvhIzDp=s680-w680-h510",
+        "shortDescription": "TM Kitchen combines traditional Tibetan flavors with Asian fusion, creating a unique dining experience in Majnu Ka Tila."
+      },
+      {
+        "name": "Sumo Restaurant",
+        "title": "Sumo Restaurant: Asian and Tibetan Favorites in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP2Dv56xgUnLEAzXMbg8LaVLdh6sHEgyqXptZPW=s680-w680-h510",
+        "shortDescription": "Sumo Restaurant serves a diverse menu of Asian and Tibetan dishes, perfect for a comforting and flavorful meal."
+      },
+      {
+        "name": "Potala Cafe",
+        "title": "Potala Cafe: Tibetan Dining in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPqcbDSltiW3xBxRwMVGqgMFSq833YSBmCNxeET=s680-w680-h510",
+        "shortDescription": "Potala Cafe is known for its authentic Tibetan dishes, cozy setting, and welcoming atmosphere in Majnu Ka Tila."
+      },
+      {
+        "name": "Living Room by Kalsang",
+        "title": "Living Room by Kalsang: Relaxed Tibetan Dining in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPZF1iQDeRY1XHmmGK1w0KUHncuzjgxUHIOy5zE=s680-w680-h510",
+        "shortDescription": "Living Room by Kalsang offers a homely ambiance with a menu of Tibetan and Pan-Asian dishes, making it ideal for a laid-back outing."
+      },
+      {
+        "name": "THE ROOF SKY RESTAURANT & CAFE",
+        "title": "The Roof Sky Restaurant & Cafe: Rooftop Dining in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPzmNUoVAMnDDGtMY072S5EMNPrZ9DYDKlwMxZ0=s680-w680-h510",
+        "shortDescription": "The Roof Sky Restaurant & Cafe provides stunning rooftop views and a variety of Tibetan and Indian delicacies."
+      },
+      {
+        "name": "Lhasa Cafe",
+        "title": "Lhasa Cafe: Tibetan Culinary Journey in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNSqnPt9DK3X85TN8IR62ZVKgV9LsEoq4kNSDtH=s680-w680-h510",
+        "shortDescription": "Lhasa Cafe serves traditional Tibetan food in a comfortable setting, ideal for casual dining with friends or family."
+      },
+      {
+        "name": "Gangchen House & Restaurant",
+        "title": "Gangchen House & Restaurant: Tibetan Delights in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipML0OnrxbQH2oOB2YQK4gm1hYMBRoJhPZk-76Zy=s680-w680-h510",
+        "shortDescription": "Gangchen House & Restaurant offers a range of Tibetan and Asian dishes, served in a cozy and welcoming setting."
+      },
+      {
+        "name": "Yamuna Cafe",
+        "title": "Yamuna Cafe: Riverside Dining in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMOxGVyrC7KBekTdQAosV20Lzc-uo99fud6mpNq=s680-w680-h510",
+        "shortDescription": "Yamuna Cafe provides a peaceful setting near the river with a menu featuring Tibetan and Indian comfort food."
+      },
+      {
+        "name": "The Big Apple Restaurant",
+        "title": "The Big Apple Restaurant: Tibetan and Asian Cuisine in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPVut9dJ5zbXnauC2Lb92tOj-439pkN6yjV7WyE=s680-w680-h510",
+        "shortDescription": "The Big Apple Restaurant is known for its Tibetan and Asian dishes, offering a fusion of flavors in a vibrant atmosphere."
+      },
+      {
+        "name": "Kham Coffee House",
+        "title": "Kham Coffee House: Tibetan-Style Cafe in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO4HASjN7MFHGzxcMTx1Co3BKzCKZOkcwQk7QKm=s680-w680-h510",
+        "shortDescription": "Kham Coffee House is a cozy spot for coffee and Tibetan snacks, perfect for a relaxed afternoon break."
+      },
+      {
+        "name": "Tibet Kitchen Cafe & Restaurant",
+        "title": "Tibet Kitchen: Authentic Tibetan Dining in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM3WP1nzH9_hJplxLncSrPnea_w75GxuUM7Oezs=s680-w680-h510",
+        "shortDescription": "Tibet Kitchen Cafe & Restaurant is a favorite for its flavorful Tibetan dishes, including momos, thukpa, and traditional meals."
+      },
+      {
+        "name": "Gangnam Korean Restaurant",
+        "title": "Gangnam Korean Restaurant: Authentic Korean Food in Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOui05-fxeKfZq7seO-GiJEU7KOa0aDwuqSDmv6=s680-w680-h510",
+        "shortDescription": "Gangnam Korean Restaurant serves traditional Korean dishes, including kimchi and bibimbap, in a stylish setting."
+      },
+      {
+        "name": "Cave Cafe",
+        "title": "Cave Cafe: Unique Themed Cafe in Majnu Ka Tila",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPrfLWmKP-NK1ax8RNyceBEyUm9D1IOLtwLyxyP=s680-w680-h510",
+        "shortDescription": "Cave Cafe stands out with its cave-like interiors and menu featuring Tibetan and Indian comfort food."
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1749.789665591264!2d77.22741177861138!3d28.702227824018436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sTibetan%20Restaurants%20in%20Majnu%20Ka%20Tila!5e0!3m2!1sen!2sin!4v1732448694053!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipMq5u1dpuvPX5ISXQcbJ0Vrm0PjgIwvcyterkSp=s680-w680-h510"
+  },
+  {
+    "title": "Best-Restaurants-Christmas-Party-2024-Delhi",
+    "name": "Best Restaurants for Christmas Party 2024 in Delhi",
+    "location": "Delhi, India",
+    "shortDescription": "Explore Best Restaurants for Christmas Party 2024 in Delhi offering festive menus, enchanting decor, and warm holiday vibes.",
+    "description": "Explore Best Restaurants for Christmas Party 2024 in Delhi offering festive menus, enchanting decor, and warm holiday vibes.",
+    "aboutTheLocation": "Delhi, the vibrant capital of India, transforms into a festive wonderland during Christmas. With twinkling lights, themed decor, and special menus, the city's restaurants offer the perfect setting to celebrate the holiday season with loved ones.",
+    "mustTryDishes": [
+      {
+        "name": "Christmas Brunches and Dinners",
+        "description": "Enjoy elaborate Christmas spreads featuring roasted turkey, plum cakes, mulled wine, and more."
+      },
+      {
+        "name": "Festive Decor and Ambiance",
+        "description": "Immerse yourself in the holiday spirit with beautifully decorated venues and live music performances."
+      },
+      {
+        "name": "Holiday-Themed Cocktails",
+        "description": "Sip on holiday-themed drinks like spiced eggnog, hot chocolate, and Christmas punch."
+      }
+    ],
+    "tipsForFoodies": [
+      "Book your tables in advance, as restaurants tend to get fully booked during the festive season. Look for special packages that include entertainment and complimentary drinks."
+    ],
+    "personalRecommendations": "Olive Bar & Kitchen for its romantic ambiance, The Piano Man Jazz Club for live music, and Diggin for its festive decor and cozy vibes.",
+    "conclusion": "Whether you’re planning an intimate dinner or a lively gathering, Delhi has a plethora of restaurants to make your Christmas 2024 celebrations truly magical.",
+    "tags": [
+      "Christmas Party Delhi",
+      "Best Christmas Restaurants Delhi",
+      "Christmas Dinner Delhi",
+      "Christmas Brunch Delhi",
+      "Festive Restaurants Delhi",
+      "Christmas 2024 Delhi",
+      "Holiday Restaurants Delhi",
+      "Christmas Celebration Delhi",
+      "Fine Dining Christmas Delhi",
+      "Delhi Christmas Specials"
+    ],
+    "sections": [
+      {
+        "name": "Olive Bar & Kitchen",
+        "title": "Olive Bar & Kitchen - Festive Fine Dining",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPSoANndkryFQJfV_d51oBvpHbPxbUumP-Nfxb8=s680-w680-h510",
+        "shortDescription": "Located in Mehrauli, Olive Bar & Kitchen offers an enchanting outdoor dining experience, perfect for Christmas celebrations."
+      },
+      {
+        "name": "The Piano Man Jazz Club",
+        "title": "The Piano Man Jazz Club - Music and Festivities",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPhuccKqFGe7hYtdqu2sAny3CNIL5MUyFaektku=s680-w680-h510",
+        "shortDescription": "Known for its live jazz performances, this spot offers a unique blend of music, festive cheer, and delectable food."
+      },
+      {
+        "name": "Diggin",
+        "title": "Diggin - Cozy and Festive",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNH1wdqm5ve5xWMNcN03g6cf3JpidEPKsuPpVIR=s680-w680-h510",
+        "shortDescription": "Famous for its Christmas decor, Diggin in Anand Lok and Chanakyapuri is ideal for a cozy and festive meal."
+      },
+      {
+        "name": "Tamra, Shangri-La's - Eros Hotel",
+        "title": "Tamra - Luxury Christmas Buffet",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN14SnmIzQ0TNo7VX3W4r1EzklytqfY6VUSrJxJ=s680-w680-h510",
+        "shortDescription": "Indulge in a grand Christmas buffet featuring global cuisines at Tamra, located in the heart of Delhi."
+      },
+      {
+        "name": "AnnaMaya",
+        "title": "AnnaMaya - Festive European Delights",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNQzG4UgJ6YHjdtEaxuBaY1I49opHhf_4M8-r1o=s680-w680-h510",
+        "shortDescription": "Located at Andaz Delhi, AnnaMaya serves delicious European dishes with a festive touch in a chic ambiance."
+      },
+      {
+        "name": "Sorrento, Shangri-La's - Eros Hotel",
+        "title": "Sorrento - Italian Christmas Feast",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMn4OwCmMVbA3RXodEEQ2_5hfzSe4yHLAuDRcPy=s680-w680-h510",
+        "shortDescription": "Experience a luxurious Italian Christmas feast with authentic flavors and festive vibes."
+      },
+      {
+        "name": "Sevilla - The Claridges",
+        "title": "Sevilla - Mediterranean Christmas Feast",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMocl84kPXIxVfaNhhEcAbs9Tc2X2W4P8epFIFO=s680-w680-h510",
+        "shortDescription": "Offering Mediterranean-inspired cuisine, Sevilla is known for its romantic setting and holiday-themed menu."
+      },
+      {
+        "name": "Bukhara, ITC Maurya",
+        "title": "Bukhara - Iconic Indian Christmas",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPcf1LNvoTnNoHUYfkIGIxe5vHGJ352jX4_peR0=s680-w680-h510",
+        "shortDescription": "For those seeking traditional Indian flavors, Bukhara offers a unique take on Christmas dining."
+      },
+      {
+        "name": "Rooh",
+        "title": "Rooh - Modern Indian Christmas",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOt2Of2cniuDBmCmiCG-jfcklFY2GqLhkehcV-9=s680-w680-h510",
+        "shortDescription": "Rooh blends traditional Indian flavors with modern techniques, making it a great pick for a festive feast."
+      },
+      {
+        "name": "Qla",
+        "title": "Qla - Festive European Dining",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMYyC6figx2yW57h-zXsrZ-JYXbf_SlNi8js9Vm=s680-w680-h510",
+        "shortDescription": "Enjoy European-inspired cuisine and stunning views of the Qutub Minar at this chic spot."
+      },
+      {
+        "name": "The Imperial Spice",
+        "title": "The Imperial Spice - Christmas Elegance",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN15ewjtGvMa6CocXYwG_aXKrGH376I0qUp3UnV=s680-w680-h510",
+        "shortDescription": "Known for its lavish interiors and eclectic menu, this Connaught Place restaurant is perfect for Christmas celebrations."
+      },
+      {
+        "name": "Perch Wine & Coffee Bar",
+        "title": "Perch - Wine and Festivities",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNskYbwZsXtmMejJZ5RynyyQcTSAbQ_krrgZfBD=s680-w680-h510",
+        "shortDescription": "Celebrate Christmas with exquisite wine pairings and a cozy ambiance at Perch in Khan Market."
+      },
+      {
+        "name": "Indian Accent",
+        "title": "Indian Accent - Fine Dining Christmas",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOdHF1ZPxZjWXicxkMfww8e5zFD26sCWWoeB7Af=s680-w680-h510",
+        "shortDescription": "Located in The Lodhi, Indian Accent offers a luxurious dining experience with festive specials."
+      },
+      {
+        "name": "Cafe Delhi Heights",
+        "title": "Cafe Delhi Heights - Casual Festive Dining",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNC7jUloMfEzdX5hXdoQ89iP-rKCIOtStsPV5uN=s680-w680-h510",
+        "shortDescription": "With multiple outlets across Delhi, this café is known for its casual vibe and festive menu."
+      },
+      {
+        "name": "Monkey Bar",
+        "title": "Monkey Bar - Festive Fun",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM2gNKqRMw3Lwy3PDE93Y5671uVrPq9zhpEcdmv=s680-w680-h510",
+        "shortDescription": "A lively spot offering festive cocktails and a fun atmosphere for Christmas celebrations."
+      },
+      {
+        "name": "The Big Chill Cafe",
+        "title": "The Big Chill - Festive Comfort Food",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPqRz5K29lccO-lXCA-ouHNP2aivQ0lLGYX0J_A=s680-w680-h510",
+        "shortDescription": "Known for its Italian dishes and desserts, this café is a classic choice for the holiday season."
+      },
+      {
+        "name": "The Blue Door Café",
+        "title": "The Blue Door Café - Christmas Brunch",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMYMnJSbOJOFbq4oU_ArjmGWir1l7IcSzCwjPQZ=s680-w680-h510",
+        "shortDescription": "Famous for its brunches, this café in Khan Market offers a delightful Christmas menu."
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d79265.64896230804!2d77.1399001721616!3d28.597380690734262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1schristmas%20party%20restaurants%20delhi!5e0!3m2!1sen!2sin!4v1733301328131!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipNOmCSeJ3jO_r_jtoF_2NzKWOiL-E4MNc2IXXE-=s680-w680-h510"
+  },
+  {
+    "title": "best-south-indian-restaurants-new-delhi",
+    "name": "Best South Indian Restaurants in Delhi",
+    "location": "New Delhi, India",
+    "shortDescription": "Explore Delhi's top South Indian restaurants offering authentic flavors from Tamil Nadu, Kerala, Andhra Pradesh, and Karnataka.",
+    "description": "Explore Best South Indian Restaurants in Delhi offering authentic flavors from Tamil Nadu, Kerala, Andhra Pradesh, and Karnataka.",
+    "aboutTheLocation": "Delhi's culinary scene boasts a variety of South Indian restaurants, each providing a unique dining experience with traditional dishes and regional specialties.",
+    "mustTryDishes": [
+      {
+        "name": "Traditional South Indian Thali",
+        "description": "Experience a wholesome meal with an assortment of dishes served on a banana leaf or thali, representing the rich culinary traditions of South India."
+      },
+      {
+        "name": "Dosa Varieties",
+        "description": "Indulge in a range of dosas, from the classic Masala Dosa to innovative variations like Rava Dosa and Pesarattu."
+      },
+      {
+        "name": "Filter Coffee",
+        "description": "Conclude your meal with aromatic South Indian filter coffee, a staple beverage known for its strong flavor and unique preparation."
+      }
+    ],
+    "tipsForFoodies": [
+      "It's advisable to check the restaurant's operating hours and make reservations, especially during weekends, to ensure a pleasant dining experience."
+    ],
+    "personalRecommendations": "For a luxurious dining experience, visit Dakshin at Sheraton Hotel. For authentic Kerala cuisine, Mahabelly in Saket is highly recommended.",
+    "conclusion": "Delhi offers a diverse array of South Indian restaurants catering to all tastes, ensuring a memorable culinary journey through the southern states of India.",
+    "tags": [
+      "South Indian Food Delhi",
+      "Best Dosa Delhi",
+      "Authentic South Indian Delhi",
+      "Kerala Cuisine Delhi",
+      "Tamil Nadu Food Delhi",
+      "Andhra Cuisine Delhi",
+      "Karnataka Food Delhi",
+      "South Indian Thali Delhi",
+      "Filter Coffee Delhi",
+      "Delhi Food Guide"
+    ],
+    "sections": [
+      {
+        "name": "Saravana Bhavan",
+        "title": "Saravana Bhavan - Authentic Tamil Nadu Cuisine",
+        "shortDescription": "A renowned vegetarian restaurant offering traditional Tamil Nadu dishes like Idli, Vada, and a variety of dosas. Their filter coffee is a must-try.",
+        "location": "Connaught Place, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNBRQh8-bHLx_XKLCrXzDZQOzZPEpLhiQ64F2z6=s680-w680-h510"
+      },
+      {
+        "name": "Naivedyam",
+        "title": "Naivedyam - Traditional South Indian Delicacies",
+        "shortDescription": "Known for its serene ambiance and authentic South Indian fare, Naivedyam serves delectable thalis and dosas accompanied by flavorful sambar and chutneys.",
+        "location": "Hauz Khas Village, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNyW-NhFpq_PR4Eh8r1YC6DZzaU2pDRPRgXnsYF=s680-w680-h510"
+      },
+      {
+        "name": "Mahabelly",
+        "title": "Mahabelly - Flavors of Kerala",
+        "shortDescription": "Specializing in Kerala cuisine, Mahabelly offers dishes like Appam with Stew, Malabar Parotta, and Prawn Curry in a contemporary setting.",
+        "location": "Saket, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPwGk4doAaWogQUi6CrqE51OW9kU6FVCY5KAKCR=s680-w680-h510"
+      },
+      {
+        "name": "Dakshin",
+        "title": "Dakshin - Luxurious South Indian Dining",
+        "shortDescription": "Located in Sheraton Hotel, Dakshin provides an upscale dining experience with a menu featuring specialties from all four southern states.",
+        "location": "Saket, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNX6Zov7rvLjJPZg3gN5weo4NlW0xjmq_jhV_-M=s680-w680-h510"
+      },
+      {
+        "name": "Carnatic Cafe",
+        "title": "Carnatic Cafe - Karnataka Specialties",
+        "shortDescription": "A cozy eatery offering authentic Karnataka dishes like Neer Dosa, Ragi Dosa, and Bisi Bele Bath, known for its homely flavors.",
+        "location": "Lodhi Colony, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPY6xrv4CI2F4hE-40c79h491SpT8h_sk4eeHor=s680-w680-h510"
+      },
+      {
+        "name": "Andhra Bhavan Canteen",
+        "title": "Andhra Bhavan Canteen - Spicy Andhra Meals",
+        "shortDescription": "Popular for its unlimited thali featuring spicy Andhra dishes, this canteen offers a no-frills dining experience with authentic flavors.",
+        "location": "Ashoka Road, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMuzXMhO7tDBoJx4ESg1oET0qNzQe8oZLieTxQy=s680-w680-h510"
+      },
+      {
+        "name": "Juggernaut",
+        "title": "Juggernaut - South Indian Vegetarian Feast",
+        "shortDescription": "Offers a wide range of South Indian vegetarian dishes in a vibrant ambiance, including dosas, idlis, and uttapams.",
+        "location": "Kailash Colony, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOqlySLWlIwSXIl0f0U8-9b-S8L8f23pvtOe-yS=s680-w680-h510"
+      },
+      {
+        "name": "Padmanabham",
+        "title": "Padmanabham - Coastal South Indian Cuisine",
+        "shortDescription": "Known for its coastal specialties, Padmanabham serves dishes like Meen Moilee and Prawn Curry in an elegant setting.",
+        "location": "Janpath, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO-_7uJRRZE7VXSsTPMzLpA6DI3-8Xunaapymoz=s680-w680-h510"
+      },
+      {
+        "name": "Coast Cafe",
+        "title": "Coast Cafe - Modern Kerala Cuisine",
+        "shortDescription": "Located in Hauz Khas Village, Coast Cafe offers a fusion of traditional Kerala dishes with a modern twist, along with a selection of seafood.",
+        "location": "Hauz Khas Village, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPC7qs3VPahDuKy1CvPI0QtaqpINNaBaF_G-qyb=s680-w680-h510"
+      },
+      {
+        "name": "Zambar",
+        "title": "Zambar - Coastal South Indian Delights",
+        "shortDescription": "Specializing in coastal cuisines from Kerala, Karnataka, Andhra Pradesh, and Tamil Nadu, Zambar offers a diverse menu in a boathouse-themed setting.",
+        "location": "Gurgaon, Haryana",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPMp39z4ZXO9AlNKvK3Jk2tyhtWaW6BSVzioQjt=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d112108.39874599666!2d77.18747725!3d28.588150949999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sSouth%20Indian%20restaurants%20in%20Delhi!5e0!3m2!1sen!2sin!4v1733306543183!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipPzW7HkR4xbvDzqhcP-iNUQrR-dyNIObGgCGPxs=s680-w680-h510"
+  },
+  {
+    "title": "best-restaurants-celebrate-new-year-eve-delhi-ncr-2024",
+    "name": "Best Restaurants To Celebrate New Year's Eve In Delhi NCR 2024",
+    "location": "Delhi NCR",
+    "shortDescription": "Ring in the New Year at the best restaurants in Delhi NCR 2024 offering grand celebrations, special menus, and lively entertainment.",
+    "description": "Ring in the New Year at the best restaurants in Delhi NCR 2024 offering grand celebrations, special menus, and lively entertainment.",
+    "aboutTheLocation": "Delhi NCR transforms into a vibrant hub of celebrations for New Year's Eve with restaurants, lounges, and hotels hosting exclusive parties, live music, and themed dinners.",
+    "mustTryDishes": [
+      {
+        "name": "New Year Special Buffet",
+        "description": "Indulge in a lavish buffet featuring gourmet cuisines, desserts, and beverages to start the year on a delicious note."
+      },
+      {
+        "name": "Live Music & DJ Nights",
+        "description": "Dance the night away to live performances and top DJs at the city’s best dining spots."
+      },
+      {
+        "name": "Open-Air Rooftop Dining",
+        "description": "Celebrate under the stars with stunning city views and premium food and drinks."
+      }
+    ],
+    "tipsForFoodies": [
+      "Book your tables well in advance, as New Year’s Eve celebrations are highly sought after. Check for special packages or early bird offers."
+    ],
+    "personalRecommendations": "Olive Bar & Kitchen and The Leela Ambience Gurugram offer grand New Year's Eve parties with unforgettable ambiance and service.",
+    "conclusion": "Delhi NCR offers a plethora of restaurant options to make your New Year’s Eve celebrations truly memorable.",
+    "tags": [
+      "New Year's Eve Delhi",
+      "New Year Party Delhi NCR 2024",
+      "Best Restaurants NYE",
+      "NYE Parties Delhi",
+      "Rooftop Dining NYE",
+      "Live Music New Year",
+      "Delhi Restaurants Celebrations",
+      "NYE 2024 Delhi",
+      "Luxury Dining NYE",
+      "Delhi NCR Food Guide"
+    ],
+    "sections": [
+      {
+        "name": "Olive Bar & Kitchen",
+        "title": "Olive Bar & Kitchen - A Luxe New Year Celebration",
+        "shortDescription": "Celebrate New Year's Eve in a charming Mediterranean ambiance with a special dinner menu and live performances.",
+        "location": "Mehrauli, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNOmCSeJ3jO_r_jtoF_2NzKWOiL-E4MNc2IXXE-=s680-w680-h510"
+      },
+      {
+        "name": "Social Offline",
+        "title": "Social Offline - Quirky New Year Bash",
+        "shortDescription": "Experience a lively New Year party with delicious food, innovative cocktails, and DJ nights.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNu9z1YL_IocXIH77xA3CfLGlXYxSzh_EDcHjc-=s680-w680-h510"
+      },
+      {
+        "name": "Tamasha",
+        "title": "Tamasha - Celebrate with Style",
+        "shortDescription": "Known for its vibrant vibe and spacious outdoor seating, Tamasha is perfect for New Year celebrations.",
+        "location": "Connaught Place, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNITj6z8Oxm6cRPCOYoUkN56F6aeYgodjrYsVg6=s680-w680-h510"
+      },
+      {
+        "name": "Warehouse Café",
+        "title": "Warehouse Café - Celebrate in the Heart of Delhi",
+        "shortDescription": "Enjoy a mix of great food, signature drinks, and live DJ sets to welcome the New Year.",
+        "location": "Connaught Place, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN9hE8pw6l2W_3r2vbaWZPKM0NLOrtpVDgVRy_x=s680-w680-h510"
+      },
+      {
+        "name": "Lord of the Drinks",
+        "title": "Lord of the Drinks - A Festive New Year Eve",
+        "shortDescription": "Dance to the beats of live DJs while relishing amazing food and cocktails at this popular hotspot.",
+        "location": "Connaught Place, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOr6l-LZcPMAMNq87VZwCtkpG4vjDY96QtGdPKO=s680-w680-h510"
+      },
+      {
+        "name": "The Sky High",
+        "title": "The Sky High - Rooftop Celebration",
+        "shortDescription": "Enjoy a magical New Year's Eve with panoramic city views, live music, and a special menu.",
+        "location": "Ansal Plaza, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMER-K-DTtNoeICNFfSYnHMDAr3syPTa86DDDms=s680-w680-h510"
+      },
+      {
+        "name": "Farzi Café",
+        "title": "Farzi Café - A Modern Twist",
+        "shortDescription": "Savor modern Indian cuisine and celebrate New Year’s Eve with a mix of entertainment and great ambiance.",
+        "location": "Cyber Hub, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPu0ChrLhV6GIW3Jq2kZSYsKgX040hHnCHlA6y2=s680-w680-h510"
+      },
+      {
+        "name": "Delhi Pavilion",
+        "title": "Delhi Pavilion - Luxury Dining",
+        "shortDescription": "Experience a luxurious New Year's Eve dinner with a curated menu and sophisticated ambiance.",
+        "location": "Sheraton New Delhi Hotel, Saket",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNJQVGnJfUonseRoGGnXks-0z4cK8TDGBAyO-Ae=s680-w680-h510"
+      },
+      {
+        "name": "Hard Rock Café",
+        "title": "Hard Rock Café - Rock the Night Away",
+        "shortDescription": "Celebrate with rock music, international cuisine, and a lively crowd for a memorable New Year.",
+        "location": "Saket, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPdGIXRQNKfi8LEe9Sg_an4RgyFE4XAPBLY8WEV=s680-w680-h510"
+      },
+      {
+        "name": "QBA",
+        "title": "QBA - Glamorous Celebrations",
+        "shortDescription": "A perfect venue for New Year's celebrations with stunning décor, live entertainment, and delicious food.",
+        "location": "Connaught Place, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM9oSzksytIOBOgEP_DQ-rnUeTFP9d9_J7mbM72=s680-w680-h510"
+      },
+      {
+        "name": "Privee",
+        "title": "Privee - Ultimate Party Destination",
+        "shortDescription": "A high-energy clubbing experience with international DJs, lavish food, and premium drinks.",
+        "location": "Shangri-La's Eros Hotel, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNYmzJJXheHUUIlUGUXJpppj7N6WlvHEsb3l7SH=s680-w680-h510"
+      },
+      {
+        "name": "Kitty Su",
+        "title": "Kitty Su - Elite Nightclub Vibes",
+        "shortDescription": "Experience an unforgettable New Year celebration with international DJs and a glamorous setting.",
+        "location": "The Lalit, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOb-2nPaQcn4mub7r246dqWvE1Hyyml9PzYKAU=s680-w680-h510"
+      },
+      {
+        "name": "Molecule Air Bar",
+        "title": "Molecule Air Bar - Celebrate with Innovation",
+        "shortDescription": "Known for its molecular gastronomy and rooftop vibes, Molecule offers a unique New Year experience.",
+        "location": "Sector 29, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOLz1HKnp287xSL9XHeIPUngFPKR7afKaUehP8J=s680-w680-h510"
+      },
+      {
+        "name": "Perch Wine & Coffee Bar",
+        "title": "Perch Wine & Coffee Bar - Cozy Yet Chic",
+        "shortDescription": "Celebrate with fine wines, a curated menu, and a warm ambiance for an intimate New Year’s Eve.",
+        "location": "Khan Market, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM7-ZaLK1IxR3rPyjMFMqETQA6HifG32DveqrFO=s680-w680-h510"
+      },
+      {
+        "name": "Plum by Bent Chair",
+        "title": "Plum by Bent Chair - Vibrant Dining Experience",
+        "shortDescription": "Celebrate in a stunningly vibrant atmosphere with Asian delicacies and a lively New Year vibe.",
+        "location": "Aerocity, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPOgmZy3V5530h-GXaejQ8Ismg5UrjUXJZJSIPD=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d39621.299837852515!2d77.20426581849408!3d28.627927096066816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1snew%20year%20restaurant!5e0!3m2!1sen!2sin!4v1735176222898!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipMrgQQiRGf7M2LNFLsOhD7_O0IJfh8BKFhQ_0Xz=s680-w680-h510"
+  },
+  {
+    "title": "best-chinese-restaurants-connaught-place-delhi",
+    "name": "Best Chinese Restaurants Near CP (Connaught Place), Delhi",
+    "location": "Connaught Place, Delhi",
+    "shortDescription": "Discover the best Chinese restaurants near Connaught Place (CP), offering authentic flavors, cozy ambiance, and delectable menus.",
+    "description": "Discover the best Chinese restaurants near Connaught Place (CP), offering authentic flavors, cozy ambiance, and delectable menus.",
+    "aboutTheLocation": "Connaught Place (CP), the heart of Delhi, is a hub of culinary delights with a variety of cuisines, including some of the best Chinese restaurants in the city.",
+    "mustTryDishes": [
+      {
+        "name": "Dim Sum Platters",
+        "description": "Delight in freshly steamed and flavorful dim sum options."
+      },
+      {
+        "name": "Authentic Sichuan Dishes",
+        "description": "Taste the rich, spicy, and bold flavors of Sichuan cuisine."
+      },
+      {
+        "name": "Exquisite Ambiance",
+        "description": "Enjoy authentic Chinese meals in a relaxed and elegant setting."
+      }
+    ],
+    "tipsForFoodies": [
+      "Reserve a table in advance for popular spots, especially during weekends. Don’t miss the chef's recommendations for signature dishes."
+    ],
+    "personalRecommendations": "Golden Dragon and House of Ming offer exceptional Chinese culinary experiences with a touch of luxury.",
+    "conclusion": "Connaught Place offers a mix of premium and budget-friendly Chinese restaurants, ensuring a delightful dining experience for all.",
+    "tags": [
+      "Chinese Restaurants Delhi",
+      "Chinese Food CP",
+      "Connaught Place Restaurants",
+      "Best Chinese Near CP",
+      "Dim Sum in Delhi",
+      "Sichuan Cuisine Delhi",
+      "CP Food Guide",
+      "Chinese Dining CP",
+      "Authentic Chinese Delhi",
+      "Top Chinese Restaurants Delhi"
+    ],
+    "sections": [
+      {
+        "name": "Golden Dragon",
+        "title": "Golden Dragon - Authentic Chinese Dining",
+        "shortDescription": "Known for its authentic Chinese flavors and exquisite ambiance, Golden Dragon offers a delightful dining experience.",
+        "location": "Outer Circle, Connaught Place",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNuyvxOUe8eKdcVoU_rxqZRBioQwYQq9LmuF3It=s680-w680-h510"
+      },
+      {
+        "name": "House of Ming",
+        "title": "House of Ming - Iconic Chinese Cuisine",
+        "shortDescription": "Located in The Taj Mahal Hotel, this is one of Delhi’s most renowned restaurants for classic Chinese dishes.",
+        "location": "Mansingh Road, near CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP6q7QhXi-JdtbGFds-JkjHo3MfzuVY_3ocGi5m=s680-w680-h510"
+      },
+      {
+        "name": "Berco's",
+        "title": "Berco's - Popular Chinese Spot",
+        "shortDescription": "A favorite among Delhiites for its delicious Chinese and Thai food with a friendly ambiance.",
+        "location": "Outer Circle, Connaught Place",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP0e74SMe7rwrrYaeWgbLt_aJ12L6_qLv3KhwgQ=s680-w680-h510"
+      },
+      {
+        "name": "Nanking",
+        "title": "Nanking - Timeless Chinese Cuisine",
+        "shortDescription": "Offering a variety of Chinese delicacies in a serene environment, Nanking is a must-visit for food lovers.",
+        "location": "S-18, Outer Circle, CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOpmEx1kD_QP0A31RY1V2_CgxUv9ap93j_qVazc=s680-w680-h510"
+      },
+      {
+        "name": "The China Kitchen",
+        "title": "The China Kitchen - Fine Dining",
+        "shortDescription": "Experience traditional Chinese food prepared by expert chefs in a luxurious setting.",
+        "location": "Hyatt Regency, near CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPtxcDvLGQa39DfYyLWBTiDeGzYGG45x9wQoEcx=s680-w680-h510"
+      },
+      {
+        "name": "Shang Palace",
+        "title": "Shang Palace - Luxury Chinese Dining",
+        "shortDescription": "A sophisticated restaurant offering gourmet Chinese cuisine with impeccable service.",
+        "location": "Shangri-La's Eros Hotel, CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMlWU6cxf59Hk_9hmefbZh35VwzX9NUVG3jQ9M1=s680-w680-h510"
+      },
+      {
+        "name": "Mamagoto",
+        "title": "Mamagoto - Fun Asian Eats",
+        "shortDescription": "An eclectic mix of Chinese and Asian street food served in a vibrant, quirky setting.",
+        "location": "Outer Circle, Connaught Place",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO9W4PISlAJVbx9PErTVANnIDq3cyF0F7udOBHq=s680-w680-h510"
+      },
+      {
+        "name": "Yauatcha",
+        "title": "Yauatcha - Contemporary Chinese Experience",
+        "shortDescription": "A Michelin-starred dining brand offering delectable dim sum and modern Chinese dishes.",
+        "location": "Ambience Mall, Vasant Kunj, near CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPNEGtB0Gx8S9kHxkxBGp_S4r1K__gzHacroSGb=s680-w680-h510"
+      },
+      {
+        "name": "Royal China",
+        "title": "Royal China - Premium Chinese Cuisine",
+        "shortDescription": "Known for its delectable Peking duck and dim sum, Royal China offers an elegant dining experience.",
+        "location": "Eros Corporate Tower, Nehru Place, near CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNYocmWe1ib8lKxFFXTPBNJxYtNS81FVkZMZsQw=s680-w680-h510"
+      },
+      {
+        "name": "Wok in the Clouds",
+        "title": "Wok in the Clouds - Casual Chinese Dining",
+        "shortDescription": "Enjoy flavorful Chinese dishes and fusion options at this casual eatery in CP.",
+        "location": "Outer Circle, Connaught Place",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPdkOPd1wDsI4SC602T3_ocmP5e0_dfE3uuKF4B=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d14008.368574977125!2d77.21156281456743!3d28.62700034540638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBest%20Chinese%20Restaurants%20Near%20CP%20(Connaught%20Place)%2C%20Delhi!5e0!3m2!1sen!2sin!4v1735211739110!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipONfVfbIg-mh7Ta22a_0vrg6-VKaU1o7rfGlXbj=s680-w680-h510"
+  },
+  {
+    "title": "best-new-year-party-restaurants-delhi-ncr",
+    "name": "Best New Year Party Restaurants Near Me in Delhi NCR",
+    "location": "Delhi NCR",
+    "shortDescription": "Celebrate New Year’s Eve 2024 at the best party restaurants in Delhi NCR offering exciting vibes, gourmet food, and electrifying entertainment.",
+    "description": "Celebrate New Year’s Eve 2024 at the best party restaurants in Delhi NCR offering exciting vibes, gourmet food, and electrifying entertainment.",
+    "aboutTheLocation": "Delhi NCR boasts an incredible nightlife scene with a plethora of restaurants and venues ideal for New Year celebrations. Whether you prefer cozy dinners, live performances, or extravagant parties, there’s something for everyone.",
+    "mustTryDishes": [
+      {
+        "name": "Live Music and DJ Nights",
+        "description": "Groove to electrifying beats and live performances by renowned artists."
+      },
+      {
+        "name": "Unlimited Food and Drinks Packages",
+        "description": "Savor curated New Year’s Eve menus paired with premium beverages."
+      },
+      {
+        "name": "Themed Party Ambiance",
+        "description": "Enjoy lavishly decorated venues with unique themes to welcome the New Year."
+      }
+    ],
+    "tipsForFoodies": [
+      "Book your table in advance as these venues fill up quickly. Check for any age restrictions, dress codes, and package details before visiting."
+    ],
+    "personalRecommendations": "For upscale parties, try Kitty Su or Imperfecto Ruin Pub. For lively gatherings, Local CP and The Wine Company are excellent choices.",
+    "conclusion": "Delhi NCR offers diverse venues to celebrate New Year's Eve, from luxury dining experiences to high-energy party spots, ensuring a memorable start to 2024.",
+    "tags": [
+      "New Year Party Delhi",
+      "New Year Restaurants NCR",
+      "Best New Year Party Spots",
+      "New Year Eve Celebrations",
+      "Party Places Delhi NCR",
+      "NYE 2024",
+      "Delhi NCR Nightlife",
+      "Luxury Dining Delhi",
+      "Live Music NYE",
+      "Themed Party Delhi"
+    ],
+    "sections": [
+      {
+        "name": "Kitty Su",
+        "title": "Kitty Su - The Ultimate Party Spot",
+        "shortDescription": "One of Delhi’s most iconic nightclubs, known for its luxurious ambiance and international DJ performances.",
+        "location": "The Lalit, Barakhamba Road, CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO5rGtKVZ78FIANHQzMpsaiVV48gKvh4pPI-ECg=s680-w680-h510"
+      },
+      {
+        "name": "Social - Hauz Khas",
+        "title": "Social - Hauz Khas for New Year Celebrations",
+        "shortDescription": "A trendy cafe-bar offering a vibrant party vibe with delicious cocktails and lively music.",
+        "location": "Hauz Khas Village, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNu9z1YL_IocXIH77xA3CfLGlXYxSzh_EDcHjc-=s680-w680-h510"
+      },
+      {
+        "name": "The Wine Company",
+        "title": "The Wine Company - Sophisticated New Year Party",
+        "shortDescription": "Celebrate the New Year with premium wine, gourmet cuisine, and a classy ambiance.",
+        "location": "Cyber Hub, Gurgaon",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNGZorRiIWaQnEiRpo1BCtNbz3CwWt9LpG6omxs=s680-w680-h510"
+      },
+      {
+        "name": "Imperfecto Ruin Pub",
+        "title": "Imperfecto Ruin Pub - High-Energy Party Vibes",
+        "shortDescription": "Known for its quirky decor and live music, this venue is perfect for New Year’s Eve celebrations.",
+        "location": "Logix Mall, Noida",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO6F7RR1RToG8saBm4zfU7e24kR7_Gd_LHzDOaw=s680-w680-h510"
+      },
+      {
+        "name": "Local CP",
+        "title": "Local CP - A Favorite Party Destination",
+        "shortDescription": "A buzzing spot with DJ nights, delicious food, and an energetic crowd, ideal for welcoming the New Year.",
+        "location": "Connaught Place, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO_7ABQwzC5IUn4XFpKJW8Cz9TodyafiI4aISh6=s680-w680-h510"
+      },
+      {
+        "name": "Privee",
+        "title": "Privee - Glamorous New Year’s Eve Party",
+        "shortDescription": "Known for its upscale ambiance, international DJs, and premium packages for NYE.",
+        "location": "Shangri-La's Eros Hotel, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNYmzJJXheHUUIlUGUXJpppj7N6WlvHEsb3l7SH=s680-w680-h510"
+      },
+      {
+        "name": "Hard Rock Cafe",
+        "title": "Hard Rock Cafe - Iconic Rock Party",
+        "shortDescription": "Ring in the New Year with a mix of rock music, amazing cocktails, and an electrifying crowd.",
+        "location": "Cyber Hub, Gurgaon",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPdGIXRQNKfi8LEe9Sg_an4RgyFE4XAPBLY8WEV=s680-w680-h510"
+      },
+      {
+        "name": "The Myx Bar & Kitchen",
+        "title": "The Myx Bar & Kitchen - A Party Haven",
+        "shortDescription": "A chic bar offering a lively ambiance, craft cocktails, and delicious food for New Year celebrations.",
+        "location": "Connaught Place, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPWHphZOMAeZZIEsPJCjVp9FzSSKpM5qxFvQh2W=s680-w680-h510"
+      },
+      {
+        "name": "Lord of the Drinks",
+        "title": "Lord of the Drinks - Massive Party Venue",
+        "shortDescription": "Known for its spacious interiors, great music, and a fantastic selection of drinks and food.",
+        "location": "Connaught Place, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMrW7RE3ZKg_-gnUKtqx64SCiyQYPQYq0fal6OG=s680-w680-h510"
+      },
+      {
+        "name": "Soi 7 Pub & Brewery",
+        "title": "Soi 7 Pub & Brewery - NYE Bash",
+        "shortDescription": "Celebrate with freshly brewed beer, live music, and an amazing party atmosphere.",
+        "location": "Cyber Hub, Gurgaon",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPz2T9l8wjGnjJOT632TxGpqFtkobX1XQ7IN5wt=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d112060.29277951202!2d77.20894209491601!3d28.633234056062182!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBest%20New%20Year%20Party%20Restaurants%20Near%20Me%20in%20Delhi%20NCR!5e0!3m2!1sen!2sin!4v1735280833738!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipO_0uMuVDsgK0BgusK58V7uF5Qd2rmqhqF56bdM=s680-w680-h510"
+  },
+  {
+    "title": "best-new-year-party-clubs-near-me-delhi",
+    "name": "Best New Year Party Clubs Near Me in Delhi",
+    "location": "Delhi",
+    "shortDescription": "Explore Best New Year Party Clubs Near Me in Delhi offering electrifying music, premium drinks, and unforgettable experiences.",
+    "description": "Explore Best New Year Party Clubs Near Me in Delhi offering electrifying music, premium drinks, and unforgettable experiences.",
+    "aboutTheLocation": "Delhi, known for its vibrant nightlife, is home to some of the best clubs in India. Whether you’re looking for live music, DJ performances, or themed parties, Delhi clubs have it all to make your New Year’s Eve truly spectacular.",
+    "mustTryDishes": [
+      {
+        "name": "International DJs and Live Music",
+        "description": "Dance the night away with live performances by renowned artists and DJs."
+      },
+      {
+        "name": "Premium Drinks and Cocktails",
+        "description": "Indulge in curated beverages and signature cocktails to toast the New Year."
+      },
+      {
+        "name": "Exclusive New Year’s Eve Packages",
+        "description": "Enjoy all-inclusive deals with food, drinks, and entertainment at top clubs."
+      }
+    ],
+    "tipsForFoodies": [
+      "Reserve your spot early as these clubs are in high demand during New Year’s Eve. Check for age restrictions and dress codes to ensure entry."
+    ],
+    "personalRecommendations": "For a luxurious experience, try Kitty Su or Privee. If you prefer energetic vibes, Lord of the Drinks and Summer House Cafe are excellent choices.",
+    "conclusion": "Delhi offers a diverse range of clubs for New Year celebrations, from upscale lounges to high-energy party spots, ensuring a night to remember as you welcome 2024.",
+    "tags": [
+      "New Year Party Delhi",
+      "Best Clubs Delhi",
+      "NYE 2024 Delhi",
+      "Nightlife Delhi",
+      "Party Spots Delhi",
+      "New Year Clubs",
+      "Delhi Nightclubs",
+      "DJ Night Delhi",
+      "Luxury Clubs Delhi",
+      "Themed Party Delhi"
+    ],
+    "sections": [
+      {
+        "name": "Kitty Su",
+        "title": "Kitty Su - Luxurious Clubbing Experience",
+        "shortDescription": "An award-winning nightclub offering international DJs, upscale ambiance, and an electrifying New Year party.",
+        "location": "The Lalit, Barakhamba Road, CP",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO5rGtKVZ78FIANHQzMpsaiVV48gKvh4pPI-ECg=s680-w680-h510"
+      },
+      {
+        "name": "Privee",
+        "title": "Privee - Ultimate NYE Bash",
+        "shortDescription": "Experience an extravagant New Year’s Eve celebration with premium packages and live performances.",
+        "location": "Shangri-La's Eros Hotel, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNYmzJJXheHUUIlUGUXJpppj7N6WlvHEsb3l7SH=s680-w680-h510"
+      },
+      {
+        "name": "Lord of the Drinks",
+        "title": "Lord of the Drinks - Party Like Royalty",
+        "shortDescription": "Known for its spacious interiors, great music, and a fantastic selection of drinks for NYE.",
+        "location": "Connaught Place, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMrW7RE3ZKg_-gnUKtqx64SCiyQYPQYq0fal6OG=s680-w680-h510"
+      },
+      {
+        "name": "Summer House Cafe",
+        "title": "Summer House Cafe - Lively NYE Spot",
+        "shortDescription": "Enjoy live music, rooftop vibes, and delicious cocktails to celebrate the New Year.",
+        "location": "Aurobindo Market, Hauz Khas, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipP08lASOij7y0tBkgjCf5brhEOLPMT7UvgoMa41=s680-w680-h510"
+      },
+      {
+        "name": "The Electric Room",
+        "title": "The Electric Room - High-Energy Party",
+        "shortDescription": "Known for its live music and an exclusive crowd, perfect for ringing in the New Year.",
+        "location": "The Lodhi, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPY3Kjc7j_UHzfAfU3ruZ875DIAn4MT_NqczNMw=s680-w680-h510"
+      },
+      {
+        "name": "PCO (Pass Code Only)",
+        "title": "PCO - Speakeasy NYE Celebration",
+        "shortDescription": "Celebrate with a retro vibe, secretive entrance, and amazing cocktails.",
+        "location": "Vasant Vihar, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMsWnweCI_FBQmyiOElld3XEReWG8mKEgubviCc=s680-w680-h510"
+      },
+      {
+        "name": "Imperfecto Shor",
+        "title": "Imperfecto Shor - Quirky NYE Party",
+        "shortDescription": "A quirky and vibrant party spot known for live performances and great cocktails.",
+        "location": "Aerocity, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOU5Eu0__kSvS5bIyuFWuIAkiI26J9oXvXgAy8g=s680-w680-h510"
+      },
+      {
+        "name": "MNKY Houz",
+        "title": "MNKY Houz - Upscale NYE Destination",
+        "shortDescription": "Trendy interiors, great food, and fantastic music to make your New Year special.",
+        "location": "Nehru Place, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNdi6hMcpZ3eQc4U0JzCPNSqjEOWjfWk0jDP2FF=s680-w680-h510"
+      },
+      {
+        "name": "Auro Kitchen & Bar",
+        "title": "Auro Kitchen & Bar - NYE Celebration Under the Stars",
+        "shortDescription": "A rooftop bar offering great music, amazing food, and a cozy ambiance for New Year celebrations.",
+        "location": "Hauz Khas, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMpQOTe8uX-KVOhS4no8C_Ox1ICWZB3KpA-sfct=s680-w680-h510"
+      },
+      {
+        "name": "Keya",
+        "title": "Keya - Glamorous NYE Party",
+        "shortDescription": "An elegant club with a luxurious ambiance and lively DJ nights for New Year’s Eve.",
+        "location": "Vasant Kunj, Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM0xpsTbso2nTy0WOLSvzRCjQ0PuIUyGjHt23pX=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d112106.0182927472!2d77.11152539132875!3d28.59038335196554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBest%20New%20Year%20Party%20Clubs%20Near%20Me%20in%20Delhi!5e0!3m2!1sen!2sin!4v1735303214457!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipOb-2nPaQcn4mub7r246dqWvE1Hyyml9PzYKAU=s680-w680-h510"
+  },
+  {
+    "title": "best-new-year-party-clubs-gurugram",
+    "name": "Best New Year Party Clubs in Gurugram",
+    "location": "Gurugram (Gurgaon)",
+    "shortDescription": "Explore Best New Year Party Clubs in Gurugram with vibrant music, premium drinks, and unforgettable party vibes.",
+    "description": "Explore Best New Year Party Clubs in Gurugram with vibrant music, premium drinks, and unforgettable party vibes.",
+    "aboutTheLocation": "Gurugram is the ultimate destination for nightlife enthusiasts. Known for its high-energy clubs and posh party spots, it’s the perfect place to celebrate New Year’s Eve in style.",
+    "mustTryDishes": [
+      {
+        "name": "Live DJ Performances",
+        "description": "Dance to the beats of top DJs performing live at premium clubs in Gurugram."
+      },
+      {
+        "name": "Exclusive NYE Packages",
+        "description": "All-inclusive party packages featuring unlimited food, drinks, and entertainment."
+      },
+      {
+        "name": "Luxurious Ambiance",
+        "description": "Experience a sophisticated and electrifying New Year’s Eve at some of the city's most upscale venues."
+      }
+    ],
+    "tipsForFoodies": [
+      "Book your tickets in advance as most clubs sell out quickly for New Year’s Eve. Dress to impress and check the event themes for the perfect attire."
+    ],
+    "personalRecommendations": "For a luxurious celebration, try The Whisky Samba or Soi 7. If you love open-air parties, head to Molecule Air Bar or Duty-Free.",
+    "conclusion": "Gurugram's nightlife scene offers a variety of New Year’s Eve celebrations, from elegant rooftop venues to high-energy party clubs, ensuring a memorable start to 2024.",
+    "tags": [
+      "New Year Party Gurugram",
+      "Best Clubs Gurugram",
+      "NYE 2024 Gurugram",
+      "Nightlife Gurgaon",
+      "Party Spots Gurugram",
+      "New Year Clubs Gurgaon",
+      "Gurgaon Nightclubs",
+      "DJ Night Gurgaon",
+      "Luxury Clubs Gurugram",
+      "Themed Party Gurgaon"
+    ],
+    "sections": [
+      {
+        "name": "Soi 7 Pub & Brewery",
+        "title": "Soi 7 - New Year Bash with Craft Beer",
+        "shortDescription": "Celebrate New Year’s Eve with live music, DJ nights, and freshly brewed craft beer.",
+        "location": "DLF Cyber Hub, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPz2T9l8wjGnjJOT632TxGpqFtkobX1XQ7IN5wt=s680-w680-h510"
+      },
+      {
+        "name": "The Whisky Samba",
+        "title": "The Whisky Samba - Luxurious NYE Celebration",
+        "shortDescription": "A high-end venue offering premium drinks, great food, and a luxurious ambiance for New Year’s Eve.",
+        "location": "Golf Course Road, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNAlrBzV5P4YVTcoCSuI66zobLUcCz68NiA4veG=s680-w680-h510"
+      },
+      {
+        "name": "Molecule Air Bar",
+        "title": "Molecule Air Bar - Rooftop NYE Party",
+        "shortDescription": "Enjoy an open-air rooftop celebration with live music, fireworks, and a party vibe.",
+        "location": "Sector 29, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOdRoy8fbGHvhLqizTxt1GbkQoylzbCVIDwkBqi=s680-w680-h510"
+      },
+      {
+        "name": "The Drunken Botanist",
+        "title": "The Drunken Botanist - NYE Garden Party",
+        "shortDescription": "Celebrate amidst lush green decor, vibrant cocktails, and an energetic dance floor.",
+        "location": "DLF Cyber Hub, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPur-au2DpIUVWWDDQOy5B-k3RnpK0bLYxUZH8=s680-w680-h510"
+      },
+      {
+        "name": "Prankster",
+        "title": "Prankster - Nostalgic NYE Celebration",
+        "shortDescription": "Known for its quirky interiors and amazing food, Prankster is a hotspot for New Year parties.",
+        "location": "Sector 29, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipO1xAVh2iVP7iwNf7_g22PVdn0PVcDppGT4r1Un=s680-w680-h510"
+      },
+      {
+        "name": "Duty-Free - The Vayu Bar",
+        "title": "Duty-Free - The Vayu Bar: Stylish NYE Party",
+        "shortDescription": "Celebrate New Year’s Eve with a stunning rooftop view, great cocktails, and live performances.",
+        "location": "Sector 29, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMqDVRrChqYlqO1dChKBYUBXfSFqsOZd14Afhng=s680-w680-h510"
+      },
+      {
+        "name": "Vapour Bar Exchange",
+        "title": "Vapour Bar Exchange - NYE at the Brewery",
+        "shortDescription": "Enjoy unlimited craft beer, great music, and a lively crowd to welcome the New Year.",
+        "location": "Sohna Road, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMafNIgJxixJE3He2lwvaJiAWFxV4y-yyevBuh6=s680-w680-h510"
+      },
+      {
+        "name": "Phantom",
+        "title": "Phantom - Elite NYE Bash",
+        "shortDescription": "An upscale club perfect for those who love premium parties with an elegant crowd.",
+        "location": "DLF Cyber Hub, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipODt8WwZ0D2ZcvajoFxDTjeNYiuQe71kWolA9wv=s680-w680-h510"
+      },
+      {
+        "name": "Raasta",
+        "title": "Raasta - Reggae NYE Vibes",
+        "shortDescription": "A Caribbean-themed party spot known for reggae music and amazing drinks for New Year’s Eve.",
+        "location": "DLF Cyber Hub, Gurugram",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOw3UoW5hKLVt7WGYmnhuQxCWGb0e06P_ssQff3=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d28057.313763449038!2d77.06078648819387!3d28.47460064805412!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sNew%2BYear%2BParty%2BClubs%2BGurugram!5e0!3m2!1sen!2sin!4v1735305606660!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipOAqe5N8hdo2qDlbPpZhn_5xHGcy3XDzBP_9FZ9=s680-w680-h510"
+  },
+  {
+    "title": "best-new-year-restaurants-champa-gali",
+    "name": "Best New Year Restaurants in Champa Gali",
+    "location": "Champa Gali, New Delhi",
+    "shortDescription": "Celebrate the New Year in the artistic and cozy lanes of Champa Gali with unique cafes and restaurants offering vibrant vibes, live music, and delicious food.",
+    "aboutTheLocation": "Champa Gali, tucked away in South Delhi, is a hidden gem known for its bohemian charm, quirky eateries, and an artistic atmosphere, making it an ideal destination for New Year celebrations.",
+    "mustTryDishes": [
+      {
+        "name": "Live Acoustic Performances",
+        "description": "Enjoy live music sessions paired with cozy settings to ring in the New Year."
+      },
+      {
+        "name": "Artisanal Coffee and Mocktails",
+        "description": "Sip on handcrafted beverages while soaking in the festive ambiance of Champa Gali."
+      },
+      {
+        "name": "Signature Dishes",
+        "description": "Relish fusion dishes and artisanal desserts crafted specially for the New Year."
+      }
+    ],
+    "tipsForVisitors": "Visit early to secure your table as most spots in Champa Gali operate on a first-come, first-served basis. Check out the special New Year menus offered by the cafes.",
+    "personalRecommendations": "Try Jugmug Thela for its eclectic ambiance and handmade drinks, or Blue Tokai Coffee Roasters for premium coffee and desserts. Social Street is another great option for a vibrant New Year bash.",
+    "conclusion": "Champa Gali offers a cozy, artsy vibe perfect for intimate and memorable New Year celebrations with friends and family.",
+    "tags": [
+      "New Year Party Champa Gali",
+      "Best Restaurants Champa Gali",
+      "New Year 2024 Delhi",
+      "Cafes Champa Gali",
+      "Festive Dining Champa Gali",
+      "Champa Gali Celebrations",
+      "Cozy New Year Spots",
+      "Unique Restaurants Delhi",
+      "Bohemian New Year",
+      "Artistic Eateries Champa Gali"
+    ],
+    "sections": [
+      {
+        "name": "Jugmug Thela",
+        "title": "Jugmug Thela - Artistic New Year Vibes",
+        "shortDescription": "Celebrate New Year’s Eve with artisanal teas, coffees, and a charming outdoor setting perfect for cozy get-togethers.",
+        "location": "Champa Gali, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOpcplniMxR-yLDufwQ6FoLegMclByTpxxfrtaY=s680-w680-h510"
+      },
+      {
+        "name": "Foresta Bistro and Cafe",
+        "title": "Foresta Bistro and Cafe: Tranquil Dining in a Nature-Inspired Setting",
+        "shortDescription": "Foresta Bistro and Cafe offers a serene ambiance surrounded by greenery, perfect for enjoying delicious food and refreshing beverages in a peaceful environment.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPfMeC9934XoviXJZeuAQ494TIByg7wmk6vSVvD=s680-w680-h510"
+      },
+      {
+        "name": "Cafe Blake",
+        "title": "Cafe Blake: Cozy Cafe with Chic Vibes",
+        "shortDescription": "Cafe Blake is a trendy spot known for its cozy interiors, delightful coffee, and a menu featuring continental and fusion dishes for every mood.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMJe12wVy55hrfSH0CVjGC3zqSHCuxAjGUwBXgH=s680-w680-h510"
+      },
+      {
+        "name": "Bella Vie",
+        "title": "Bella Vie: A Slice of Culinary Elegance",
+        "shortDescription": "Bella Vie combines fine dining with a warm ambiance, offering a curated menu of international cuisines and a perfect setting for memorable meals.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOjzME_IMQh9dwEawaeCy9vNZIGl8l6HWVRvinU=s680-w680-h510"
+      },
+      {
+        "name": "The Green View",
+        "title": "The Green View: Dining with a Scenic View",
+        "shortDescription": "The Green View is a delightful eatery that features panoramic views and a menu filled with fresh, flavorful dishes inspired by nature.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMmsP2xI5j21eb3JjIcpefmeM1yCeX-eYO4djND=s680-w680-h510"
+      },
+      {
+        "name": "BaariCafe",
+        "title": "BaariCafe: A Vibrant Cafe for Food and Conversations",
+        "shortDescription": "BaariCafe is a lively spot offering a mix of delicious comfort food, great coffee, and an inviting atmosphere perfect for catching up with friends.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN1xOWNZbqg5x95QDVLQqfnd9D5dvtpmZ4MPDIO=s680-w680-h510"
+      },
+      {
+        "name": "Dream Catchers Cafe",
+        "title": "Dream Catchers Cafe: Enchanting Ambiance with Delectable Food",
+        "shortDescription": "Dream Catchers Cafe charms visitors with its dreamy decor, friendly vibes, and a menu that includes an array of appetizing dishes and desserts.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNV5ftqmsOZ7WW_2EvLQIYDqK1o7h837OfN2q69=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1042.2637764326694!2d77.19916666043798!3d28.51736415907024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sBest%20New%20Year%20Restaurants%20in%20Champa%20Gali!5e0!3m2!1sen!2sin!4v1735619225037!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipNH_Hn1WX2ENs6hhxNjaRfZEvKd7vb5Jn4PAEm3=s680-w680-h510"
+  },
+  {
+    "name": "Michelin Star-Level Restaurants in New Delhi",
+    "title": "michelin-star-level-restaurants-new-delhi",
+    "location": "New Delhi, India",
+    "shortDescription": "Explore Michelin-star-worthy restaurants in New Delhi, celebrated for their impeccable cuisine, fine dining ambiance, and exceptional culinary experiences.",
+    "aboutTheLocation": "New Delhi, the capital of India, is a gastronomic haven offering diverse cuisines. While India does not officially have Michelin-starred restaurants, several establishments in Delhi have been recognized by renowned chefs and food critics for their world-class dining standards.",
+    "mustTryDishes": [
+      {
+        "name": "Indian Accent",
+        "description": "Enjoy innovative Indian cuisine with global influences, crafted by celebrity chef Manish Mehrotra."
+      },
+      {
+        "name": "Bukhara",
+        "description": "Indulge in authentic North Indian flavors with iconic tandoori dishes and rustic charm."
+      },
+      {
+        "name": "The Spice Route",
+        "description": "A journey through Asia with carefully curated dishes and stunning interiors inspired by the spice trade route."
+      }
+    ],
+    "tipsForVisitors": "Reserve tables in advance as these restaurants are in high demand, especially during weekends and festive seasons. Dress code for most places is smart casual or formal.",
+    "personalRecommendations": "Pair your meals with fine wines or signature cocktails for an elevated dining experience. Don’t miss out on the chef’s tasting menus for a full culinary adventure.",
+    "conclusion": "These Michelin-star-level restaurants in New Delhi offer exquisite dining experiences, making them perfect for special occasions or indulgent evenings.",
+    "tags": [
+      "Michelin Star Restaurants Delhi",
+      "Fine Dining Delhi",
+      "Luxury Restaurants Delhi",
+      "Indian Accent Delhi",
+      "Best Restaurants Delhi",
+      "Bukhara Dining",
+      "Delhi Gastronomy",
+      "Top Dining Experiences Delhi",
+      "Culinary Art Delhi",
+      "Michelin Star Cuisine Delhi"
+    ],
+    "sections": [
+      {
+        "name": "Indian Accent",
+        "title": "Indian Accent - A Culinary Masterpiece",
+        "shortDescription": "Known for its innovative Indian cuisine, Indian Accent offers a blend of traditional flavors with modern twists. Try their famous Butter Chicken Kulcha or the Chef's Tasting Menu.",
+        "location": "The Lodhi, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOdHF1ZPxZjWXicxkMfww8e5zFD26sCWWoeB7Af=s680-w680-h510"
+      },
+      {
+        "name": "Bukhara",
+        "title": "Bukhara - Iconic North Indian Dining",
+        "shortDescription": "A globally acclaimed restaurant known for its Dal Bukhara, Sikandari Raan, and robust tandoori flavors. Perfect for a royal dining experience.",
+        "location": "ITC Maurya, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPcf1LNvoTnNoHUYfkIGIxe5vHGJ352jX4_peR0=s680-w680-h510"
+      },
+      {
+        "name": "The Spice Route",
+        "title": "The Spice Route - An Asian Culinary Journey",
+        "shortDescription": "Step into a cultural and gastronomical experience with Southeast Asian dishes like Thai Green Curry and Vietnamese Pho.",
+        "location": "The Imperial Hotel, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNWAX539luJ9lMCsFEBa1XLAb89-J6FzGfLNos0=s680-w680-h510"
+      },
+      {
+        "name": "Dum Pukht",
+        "title": "Dum Pukht - Awadhi Royal Flavors",
+        "shortDescription": "Known for its slow-cooked Awadhi delicacies like Dum Pukht Biryani and Kakori Kebabs, it offers a regal dining experience.",
+        "location": "ITC Maurya, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMB8q1wiJ239UtgSxsoUI9gnleVn9elHKax9NER=s680-w680-h510"
+      },
+      {
+        "name": "Varq",
+        "title": "Varq - Contemporary Indian Dining",
+        "shortDescription": "A modern take on Indian cuisine with dishes like Martaban Ka Meat and Varqui Crab. Offers a sophisticated fine dining experience.",
+        "location": "The Taj Mahal Hotel, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN2xHxCtLhpjhU7GS0okOBTpSmnXJNOWyKU0rp5=s680-w680-h510"
+      },
+      {
+        "name": "Ottimo at West View",
+        "title": "Ottimo at West View - Italian Excellence",
+        "shortDescription": "Famed for its authentic Italian dishes like wood-fired pizzas and homemade pastas, paired with spectacular city views.",
+        "location": "ITC Maurya, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMHKHUotDV2erah0teaQzFb3LdFOZv36Xl4-fBe=s680-w680-h510"
+      },
+      {
+        "name": "Jamavar",
+        "title": "Jamavar - Authentic Indian Luxury",
+        "shortDescription": "An exquisite fine-dining spot offering curated North and South Indian dishes with a touch of opulence.",
+        "location": "The Leela Palace, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPgcbSRU2GXcy_hF3JX5XtCtYlnDpY3t0JbS8ly=s680-w680-h510"
+      },
+      {
+        "name": "Megu",
+        "title": "Megu - Japanese Haute Cuisine",
+        "shortDescription": "Renowned for its sushi, sashimi, and robatayaki dishes. The ambiance adds to the luxurious dining experience.",
+        "location": "The Leela Palace, New Delhi",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMzyQ2rIjmqSRVj1cfGyTiJuc6Nmp-SiXxXu0ny=w141-h141-n-k-no-nu"
+      },
+      {
+        "name": "Sorrento",
+        "title": "Sorrento - A Taste of Italy",
+        "shortDescription": "Award-winning Italian restaurant offering artisanal pizzas, hand-made pastas, and exquisite desserts.",
+        "location": "Shangri-La’s Eros Hotel, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMn4OwCmMVbA3RXodEEQ2_5hfzSe4yHLAuDRcPy=s680-w680-h510"
+      },
+      {
+        "name": "Chi Ni",
+        "title": "Chi Ni - Modern Chinese Cuisine",
+        "shortDescription": "A picturesque dining spot offering modern interpretations of Chinese dishes, surrounded by serene landscapes.",
+        "location": "The Roseate, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipME8J7u7xj5Cq0hlTWhNwN8yxLOkEFUClpDIGTX=s680-w680-h510"
+      },
+      {
+        "name": "Le Cirque",
+        "title": "Le Cirque: French-Italian Fine Dining at The Leela Palace, New Delhi",
+        "shortDescription": "Experience luxury dining at Le Cirque, The Leela Palace, New Delhi. Renowned for its French-Italian menu, exquisite ambiance, and world-class service, it's a top destination for fine dining enthusiasts.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPK144ZoH9aejq7weyrU580M60Mx2IT6G7Dc34t=s680-w680-h510"
+      },
+      {
+        "name": "Sevilla",
+        "title": "Sevilla: Mediterranean Culinary Delight at The Claridges, New Delhi",
+        "shortDescription": "Sevilla at The Claridges, New Delhi, serves exceptional Mediterranean cuisine in a romantic alfresco setting. Known for its signature tapas and wood-fired pizzas, it’s perfect for an elegant dining experience.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipONSsXkQz7rlsJZPb65h8-gSN0IZ8D8lvVzhb-S=s680-w680-h510"
+      },
+      {
+        "name": "The Chambers - Taj",
+        "title": "The Chambers - Taj: Exclusive Dining at Taj Mahal Hotel, New Delhi",
+        "shortDescription": "The Chambers at Taj Mahal Hotel, New Delhi, is an exclusive dining venue offering a premium experience with exquisite cuisine, impeccable service, and a luxurious ambiance.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipN55EIE3Kdn1HS_LyGiqLNnIByGzlVNNqsFq8hm=s680-w680-h510"
+      },
+      {
+        "name": "Masala Library by Jiggs Kalra, New Delhi",
+        "title": "Masala Library: Modern Indian Gastronomy in New Delhi",
+        "shortDescription": "Masala Library by Jiggs Kalra, New Delhi, offers an innovative dining experience with modern Indian cuisine. Known for its molecular gastronomy and creative presentations, it’s a must-visit for food connoisseurs.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNDj0YsBIuOx7VuHaZC9Z5PYsHQiKkVShqr327y=s680-w680-h510"
+      },
+      {
+        "name": "बलूची",
+        "title": "बलूची: Authentic Indian Dining at The Lalit, New Delhi",
+        "shortDescription": "बलूची at The Lalit, New Delhi, brings the essence of Indian cuisine to life with its traditional flavors, clay oven delicacies, and royal ambiance. A true gem for food lovers.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOXtjHUex96wdt_8TsTBNMs2SuO5YY8SRrXtqxf=s680-w680-h510"
+      },
+      {
+        "name": "The Art Of Dumpling",
+        "title": "The Art Of Dumpling: A Dumpling Lover's Paradise in New Delhi",
+        "shortDescription": "The Art Of Dumpling in New Delhi offers a delightful array of handmade dumplings with global flavors. A cozy spot for those who enjoy culinary artistry and comfort food.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNP4nIDCRk5mvx3xo_RjsMwVvvVnf-W7hHZVHu-=s680-w680-h510"
+      },
+      {
+        "name": "Sakura",
+        "title": "Sakura: Award-Winning Japanese Restaurant at The Metropolitan, New Delhi",
+        "shortDescription": "Sakura at The Metropolitan Hotel, New Delhi, is an award-winning Japanese restaurant serving authentic sushi, sashimi, and teppanyaki. Perfect for a refined and elegant dining experience.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNA_ZbXVD6P2GbCszM0fvRb3zjoUM-FiaR6Uath=s680-w680-h510"
+      },
+      {
+        "name": "Kiyan, New Delhi",
+        "title": "Kiyan: Farm-to-Table Luxury Dining at The Roseate, New Delhi",
+        "shortDescription": "Kiyan at The Roseate, New Delhi, offers a farm-to-table dining experience with global and Indian cuisines. Surrounded by lush greenery, it’s a serene and luxurious escape for food enthusiasts.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM_HsL2Xojc7nHdzW14rV2Cv3joGalRODYx2fZF=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d112065.66919142287!2d77.22259948165151!3d28.628198710657667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1smichelin%20star%20restaurants%20delhi!5e0!3m2!1sen!2sin!4v1735799595629!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipPlpwB7x9tTfG2QqxgxeX96QWvbigT1a3m9uF1T=s680-w680-h510"
+  },
+  {
+    "title": "best-restaurants-khan-market-new-delhi",
+    "name": "Best Restaurants in Khan Market, New Delhi",
+    "location": "Khan Market, New Delhi, India",
+    "shortDescription": "Explore the best restaurants in Khan Market, New Delhi, offering an array of global cuisines, trendy cafes, and iconic dining spots in one of the city's most upscale areas.",
+    "description": "Explore the best restaurants in Khan Market, New Delhi, offering an array of global cuisines, trendy cafes, and iconic dining spots in one of the city's most upscale areas.",
+    "aboutTheLocation": "Khan Market is a premier shopping and dining hub in New Delhi, known for its vibrant ambiance, chic boutiques, and an eclectic mix of eateries serving everything from Indian classics to international delicacies.",
+    "mustTryDishes": [
+      {
+        "name": "Mamagoto",
+        "description": "Dive into bold Asian flavors with their signature bowls, curries, and street food-inspired dishes."
+      },
+      {
+        "name": "The Big Chill Café",
+        "description": "A retro-style café perfect for Italian comfort food, delectable desserts, and milkshakes."
+      }
+    ],
+    "tipsForVisitors": "Visit during weekdays to avoid heavy crowds. Parking can be limited, so plan accordingly. Many restaurants have rooftop or outdoor seating, ideal for enjoying pleasant weather.",
+    "personalRecommendations": "Explore the seasonal specials offered by various restaurants. Don’t miss out on desserts at Theobroma or the flavorful kebabs at Khan Chacha.",
+    "conclusion": "Khan Market is a culinary paradise that caters to diverse tastes and preferences, making it a must-visit for food lovers in New Delhi.",
+    "tags": [
+      "Best Restaurants Khan Market",
+      "Khan Market Dining",
+      "Top Restaurants Delhi",
+      "Asian Cuisine Khan Market",
+      "Italian Food Delhi",
+      "Fine Dining Khan Market",
+      "Delhi Eateries",
+      "Parsi Cuisine Delhi",
+      "Best Cafes Khan Market",
+      "Iconic Food Spots Delhi"
+    ],
+    "sections": [
+      {
+        "name": "Mamagoto",
+        "title": "Mamagoto - Bold Pan-Asian Flavors",
+        "shortDescription": "Known for its flavorful Pan-Asian menu, Mamagoto serves signature bowls, sushi, and Asian curries in a colorful, fun atmosphere.",
+        "location": "Khan Market, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMk-9Jp2Xn3vrSB3W7Mga9rQGgB7bLJZbGOaEwF=s680-w680-h510"
+      },
+      {
+        "name": "The Big Chill Café",
+        "title": "The Big Chill Café - Italian Comfort Food",
+        "shortDescription": "Enjoy hearty portions of pastas, pizzas, and mouthwatering desserts in this retro-themed café loved by all.",
+        "location": "Khan Market, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM5ew0qOgGBeT2bftAyt1TsXdAjDvkU7atqkwgU=s680-w680-h510"
+      },
+      {
+        "name": "Khan Chacha",
+        "title": "Khan Chacha - Iconic North Indian Kebabs",
+        "shortDescription": "A legendary spot for North Indian kebabs and rolls, featuring juicy tikkas, seekh kebabs, and curries.",
+        "location": "Khan Market, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPcaCeAopa6eUo5v72aJeUYzUB1lYPjZEmVvaKC=s680-w680-h510"
+      },
+      {
+        "name": "Perch Wine & Coffee Bar",
+        "title": "Perch Wine & Coffee Bar - European Charm",
+        "shortDescription": "Perfect for wine lovers, Perch offers European-inspired dishes paired with an extensive wine and coffee menu.",
+        "location": "Khan Market, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNskYbwZsXtmMejJZ5RynyyQcTSAbQ_krrgZfBD=s680-w680-h510"
+      },
+      {
+        "name": "Town Hall",
+        "title": "Town Hall - Sushi and Global Delights",
+        "shortDescription": "A trendy spot offering exceptional sushi, Asian cuisine, and global dishes in a chic setting.",
+        "location": "Khan Market, New Delhi",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipM9tC6UD2fyvuMyrVC1t76LihWbc-wLwuOptsA=s680-w680-h510"
+      },
+      {
+        "name": "Wok In The Clouds - Khan Market",
+        "title": "Wok In The Clouds: Asian Fusion Dining in Khan Market, New Delhi",
+        "shortDescription": "Wok In The Clouds in Khan Market, New Delhi, offers a diverse menu featuring Asian fusion cuisine, Indian delicacies, and refreshing beverages in a vibrant and contemporary setting.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOvlhdU-m3CpbuqCO5bFJqjCBwQUyJkG44ru3zy=s680-w680-h510"
+      },
+      {
+        "name": "Cafe Delhi Heights",
+        "title": "Cafe Delhi Heights: A Casual Dining Spot in Khan Market, New Delhi",
+        "shortDescription": "Cafe Delhi Heights in Khan Market serves an eclectic menu ranging from global favorites to Indian classics. Known for its lively ambiance and hearty meals, it’s a must-visit casual dining spot.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOB5E7_UljiJA4WYGp8dZ0xZ7TSHR4KlFWPZE5Y=s680-w680-h510"
+      },
+      {
+        "name": "Anglow",
+        "title": "Anglow: British Colonial-Inspired Dining in Khan Market, New Delhi",
+        "shortDescription": "Anglow in Khan Market, New Delhi, blends British colonial aesthetics with Indian cuisine. Enjoy unique dishes, signature cocktails, and an elegant dining ambiance.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNuQwCJTHs9Br36gt3_jFbMRVY9EHWZyQql5yL2=s680-w680-h510"
+      },
+      {
+        "name": "The Chatter House",
+        "title": "The Chatter House: European-Inspired Pub in Khan Market, New Delhi",
+        "shortDescription": "The Chatter House offers a cozy pub experience in Khan Market, New Delhi. With its European-inspired decor, hearty menu, and craft cocktails, it’s perfect for casual gatherings.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNaxoc3YZ3TxcNpvetzoQLT6c9mabkvjTXIS9-A=s680-w680-h510"
+      },
+      {
+        "name": "Green Mantis",
+        "title": "Green Mantis: Sustainable Pan-Asian Dining in Khan Market, New Delhi",
+        "shortDescription": "Green Mantis in Khan Market, New Delhi, focuses on sustainable, plant-based Pan-Asian cuisine. Enjoy vibrant flavors and eco-conscious dining in a stylish ambiance.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMeAGU_I7lnyA4cN7xZEHSHlfzO6a7VVQ52Oq29=s680-w680-h510"
+      },
+      {
+        "name": "Gola Sizzlers",
+        "title": "Gola Sizzlers: Sizzling Platters in Khan Market, New Delhi",
+        "shortDescription": "Gola Sizzlers in Khan Market, New Delhi, is a paradise for sizzler lovers. Indulge in a variety of sizzling platters paired with refreshing drinks in a lively atmosphere.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMViOIqiXHRxwu2cEdsIwVIMc1s2tgPi8prXaWK=s680-w680-h510"
+      },
+      {
+        "name": "The Blue Door Cafe",
+        "title": "The Blue Door Cafe: European Delights in Khan Market, New Delhi",
+        "shortDescription": "The Blue Door Cafe in Khan Market, New Delhi, offers a cozy setting with European-inspired dishes, including breakfast options, healthy bowls, and indulgent desserts.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMufcRMw4ft6r0e36sx1n9G7oFL0tKjf2pxGqc8=s680-w680-h510"
+      },
+      {
+        "name": "Andrea's Bar & Brasserie",
+        "title": "Andrea's Bar & Brasserie: Global Cuisine in Khan Market, New Delhi",
+        "shortDescription": "Andrea's Bar & Brasserie in Khan Market, New Delhi, serves globally inspired dishes with a creative twist. A perfect spot for food enthusiasts and casual diners.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipMYzmT_PaKspUu1M0dgrJy5q_-5vTQ0ZZjliSmW=s680-w680-h510"
+      },
+      {
+        "name": "Public Affair",
+        "title": "Public Affair: Modern European Dining in Khan Market, New Delhi",
+        "shortDescription": "Public Affair in Khan Market, New Delhi, combines modern European cuisine with a chic ambiance. Enjoy gourmet dishes, innovative cocktails, and a refined dining experience.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNAqErztquz4ZOgmtcpxKzqKWLTa7-Mxeq4lUg=s680-w680-h510"
+      },
+      {
+        "name": "Tera Vita",
+        "title": "Tera Vita: Authentic Italian Dining in Khan Market, New Delhi",
+        "shortDescription": "Tera Vita in Khan Market, New Delhi, offers authentic Italian dishes, including pasta, pizzas, and decadent desserts, served in a warm and inviting ambiance.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNfMC-EfTDRvY2uFL8y8yn_RlQp82uKixFK4Glg=s680-w680-h510"
+      },
+      {
+        "name": "Yum Yum Cha Khan Market",
+        "title": "Yum Yum Cha: Vibrant Pan-Asian Dining in Khan Market, New Delhi",
+        "shortDescription": "Yum Yum Cha in Khan Market, New Delhi, is a popular spot for vibrant Pan-Asian cuisine, featuring sushi, dim sum, and more in a lively, colorful setting.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNcr5Expbq09cPhXo4DtIY3wtHQSeTS1mP3Er2X=s680-w680-h510"
+      },
+      {
+        "name": "Latitude 28",
+        "title": "Latitude 28: Chic Cafe and Boutique Dining in Khan Market, New Delhi",
+        "shortDescription": "Latitude 28 in Khan Market, New Delhi, offers a chic dining experience with globally inspired dishes, artisan coffee, and a stylish boutique ambiance.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNBWSgWRfRnobg0H1OetUfriaMwmLIZVN8ees1E=s680-w680-h510"
+      },
+      {
+        "name": "Fat Lulu's",
+        "title": "Fat Lulu's: Artisan Pizza and Italian Delights in Khan Market, New Delhi",
+        "shortDescription": "Fat Lulu's in Khan Market, New Delhi, is renowned for its artisan pizzas, fresh pasta, and authentic Italian flavors, served in a laid-back and cozy environment.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOFeVrnyohqvjJtki8s2hcQkE5j1ifDRSUVm3Cz=s680-w680-h510"
+      },
+      {
+        "name": "Out of the Box",
+        "title": "Out of the Box: Fusion Dining and Lounge in Khan Market, New Delhi",
+        "shortDescription": "Out of the Box in Khan Market, New Delhi, offers a creative fusion menu and vibrant cocktails. A great spot for casual dining and social gatherings.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipODwN_HmTDVPxfxOT5CoNYihfdbijtbABRflkUJ=s680-w680-h510"
+      },
+      {
+        "name": "KLAP",
+        "title": "KLAP: Fine Dining with a Twist in Khan Market, New Delhi",
+        "shortDescription": "KLAP in Khan Market, New Delhi, combines gourmet cuisine with innovative presentations. A must-visit for foodies seeking an elevated dining experience.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipNsTKNoCqrxLuiiaGHHt7nOlxJsh7w9PZqsed8Z=s680-w680-h510"
+      },
+      {
+        "name": "Sly Granny",
+        "title": "Sly Granny: Eclectic Cuisine and Rooftop Dining in Khan Market, New Delhi",
+        "shortDescription": "Sly Granny in Khan Market, New Delhi, offers eclectic dishes, creative cocktails, and rooftop dining with a quirky yet chic ambiance.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOVdmiOtXbaYhqSKkoIxiYFwu6hO4B3Cy8ViXAM=s680-w680-h510"
+      },
+      {
+        "name": "Azam's Mughlai",
+        "title": "Azam's Mughlai: Authentic Mughlai Cuisine in Khan Market, New Delhi",
+        "shortDescription": "Azam's Mughlai in Khan Market, New Delhi, specializes in flavorful Mughlai dishes, including kebabs, biryanis, and curries, served in a traditional yet contemporary setting.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipOvrhwgU4vr6ikd2CT4Sf1g2um3FU1wPJoeNyjq=s680-w680-h510"
+      },
+      {
+        "name": "Miamo Diner",
+        "title": "Miamo Diner: All-Day Dining in Khan Market, New Delhi",
+        "shortDescription": "Miamo Diner in Khan Market, New Delhi, offers an all-day menu featuring comfort food, indulgent desserts, and beverages in a casual, welcoming environment.",
+        "image": "https://lh3.googleusercontent.com/p/AF1QipPjdDEhnkKvY8mmCvKJHsKkxI__Voo2mYdfR2oK=s680-w680-h510"
+      }
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d1751.4973145739382!2d77.22570574766021!3d28.599937935972697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sRestaurants%20in%20khan%20market!5e0!3m2!1sen!2sin!4v1735887682239!5m2!1sen!2sin",
+    "imageSrc": "https://lh3.googleusercontent.com/p/AF1QipP1fM8587_ZGDv7gJEgOe4ezPrOD-Pc1IKsWXTa=s680-w680-h510"
   }
 ]

@@ -41,7 +41,7 @@ function Homepage() {
     restaurant["name"] = locationLists[i].name
     restaurant["image"] = locationLists[i].image
     restaurant["cuisine"] = locationLists[i].tags?.toString()
-    restaurant["description"] = locationLists[i].shortDescription
+    locationLists[i]?.overview ? (restaurant["description"] = locationLists[i]?.overview ) : (restaurant["description"] = locationLists[i]?.shortDescription )
     itemListElement.push(restaurant)
   }
 
@@ -90,11 +90,6 @@ function Homepage() {
         <SearchFilter />
       </div>
       <section className="featured-locations container">
-        {/* <h2>Featured Locations</h2> */}
-        {/* <p>Explore Our Top Picks</p> */}
-        {/* <h6>
-          Discover handpicked restaurants, cozy cafes, and vibrant thelas in the most exciting culinary destinations. From street food gems to fine dining experiences, these places are a must-visit.
-        </h6> */}
         <div>
           <FeaturedLocations />
         </div>

@@ -21,11 +21,11 @@ function LocationListings() {
   const searchQu = new URLSearchParams(search).get("search");
   const handleSearch = (val, filterVal) => {
     setSearchQuery(val)
-    var query = val.toLowerCase();
+    var query = val?.toLowerCase();
     if (val?.trim() === "") {
       searchQuery = val
-    } else if (searchQuery !== "") {
-      query = searchQuery.toLowerCase().trim();
+    } else if (searchQuery !== null && searchQuery !== "") {
+      query = searchQuery?.toLowerCase()?.trim();
     }
     const filtered = data.filter((location) => {
       const name = location?.name?.toLowerCase();
@@ -34,9 +34,9 @@ function LocationListings() {
       const category = location?.category?.toString()?.toLowerCase()
       const tags = location?.tags?.toString()?.toLowerCase()
       if (filterVal === "category") {
-        if (category != null) { return category?.includes(query); }
+        if (category !== null) { return category?.includes(query); }
       } else if (filterVal === "tags") {
-        if (tags != null) { return tags?.includes(query); }
+        if (tags !== null) { return tags?.includes(query); }
       } else {
         return name?.includes(query) || description?.includes(query) || locationName?.includes(query) || category?.includes(query) || tags?.includes(query);;
       }
@@ -61,7 +61,7 @@ function LocationListings() {
     }, 500)
 
     setTimeout(() => {
-      if (searchQu != null && searchQu != "null") {
+      if (searchQu !== null && searchQu !== "null") {
         var searchBar = document.getElementById('searchBar')
         searchBar.value = searchQu
         setSearchQuery(searchQu)
@@ -99,7 +99,7 @@ function LocationListings() {
     "@type": "WebSite",
     "url": "https://crowndevour.com",
     "name": "Search Cafes and Restaurants",
-    "description": "Search Nearby cafes and Restaurants near your locality",
+    "description": "Search Nearby cafes and Restaurants near me",
     "potentialAction": {
       "@type": "SearchAction",
       "target": "https://crowndevour.com/location?search={search_term_string}",
@@ -142,7 +142,7 @@ function LocationListings() {
     restaurant["name"] = filteredLocations[i].name
     restaurant["image"] = filteredLocations[i].image
     restaurant["cuisine"] = filteredLocations[i].tags?.toString()
-    restaurant["description"] = filteredLocations[i].shortDescription
+    filteredLocations[i]?.overview ? (restaurant["description"] = filteredLocations[i].overview ) : (restaurant["description"] = filteredLocations[i]?.shortDescription )
     itemListElement.push(restaurant)
   }
 
@@ -160,7 +160,7 @@ function LocationListings() {
       <Helmet>
         <meta name="robots" content="NOODP,NOYDIR" />
         <link rel="canonical" href="https://crowndevour.com/location" />
-        <title>search cafe and restaurants</title>
+        <title>search cafe and restaurants near me</title>
         <meta name="description" content="Search cafes, restaurants, and food stalls near your locality, Discover diverse flavors and settings in this gastronomic exploration." />
         <meta property="og:title" content="Crowndevour food Outlets" />
         <meta property="og:type" content="website" />
@@ -176,7 +176,7 @@ function LocationListings() {
           id='searchBar'
           InputProps={{
             endAdornment: (
-              <IconButton color="primary">
+              <IconButton color="primary" onClick={(e) => handleSearch(e.target.value)}>
                 <SearchIcon />
               </IconButton>
             ),
@@ -190,7 +190,7 @@ function LocationListings() {
       <div className='container mb-2 breadcrumbs'>
         <Breadcrumb>
           <Breadcrumb.Item href="/">Home</Breadcrumb.Item>
-          <Breadcrumb.Item active>Locations</Breadcrumb.Item>
+          <Breadcrumb.Item active>Restaurants</Breadcrumb.Item>
         </Breadcrumb>
       </div>
       <section className="section-sm">

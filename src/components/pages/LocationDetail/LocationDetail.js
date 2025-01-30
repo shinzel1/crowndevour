@@ -32,7 +32,7 @@ function MyVerticallyCenteredModal(props) {
 			</Modal.Header>
 			<Modal.Body>
 				{menuImage?.map((item, index) => (
-					<img loading="lazy" src={item} className="img-fluid" alt="menu" />
+					<img loading="lazy" src={item} className="img-fluid" alt={"menuImage" + index} />
 				))}
 			</Modal.Body>
 			<Modal.Footer>
@@ -48,22 +48,20 @@ function LocationDetail() {
 	var { loc } = ""
 	var category = ["Continental", "Pizza", "Italian", "Burger", "Fast Food", "Rolls", "Mexican", "Beverages", "Sushi", "North Indian", "Chinese", "Mughlai", "Casual Dining", "Coffee", "Cafes", "Live Music", "Art & Culture"]
 	var cuisine_tags = [
-		"Italian", "Pasta", "Pizza", "Risotto", "Tiramisu", "Caprese Salad",
-		"Mexican", "Tacos", "Enchiladas", "Guacamole", "Salsa", "Chiles Rellenos",
-		"Asian", "Chinese", "Japanese", "Thai", "Indian", "Sushi", "Curry", "Stir-fry",
+		"Italian", "Pasta", "Pizza", "Mexican", "Tacos",
+		"Asian", "Chinese", "Japanese", "Thai", "Indian", "Sushi", "Curry",
 		"Mediterranean", "Greek", "Hummus", "Falafel", "Tabbouleh", "Kebabs",
-		"Middle Eastern", "Lebanese", "Turkish", "Shawarma", "Baba Ganoush", "Kofta",
-		"French", "Croissants", "Quiche", "Coq au Vin", "Ratatouille", "Crème Brûlée",
-		"American", "Burgers", "BBQ", "Mac and Cheese", "Apple Pie", "Pancakes",
-		"Latin American", "Brazilian", "Argentinian", "Empanadas", "Ceviche", "Tamales",
-		"Caribbean", "Jamaican", "Cuban", "Ackee and Saltfish", "Plantains", "Rice and Beans",
-		"African", "Moroccan", "Ethiopian", "Tagine", "Injera", "Bobotie"
+		"Middle Eastern", "Lebanese", "Turkish", "Shawarma", "Kofta",
+		"French", "Croissants", "American", "Burgers", "BBQ", "Mac and Cheese", "Pancakes",
+		"Latin American", "Brazilian", "Argentinian",
+		"Caribbean", "Jamaican", "Cuban",
+		"African"
 	]
-	if (location.state != null) {
+	if (location.state !== null) {
 		loc = location.state.loc;
 	} else if (location.pathname.split('/').slice(-1).length > 0) {
 		var idex = location.pathname.split('/').slice(-1)[0]
-		loc = locationLists.filter(locatione => locatione.title == idex)[0]
+		loc = locationLists.filter(locatione => locatione.title === idex)[0]
 		if (loc == null) {
 			window.location.href = "/404"
 		}
@@ -84,7 +82,7 @@ function LocationDetail() {
 	}, []);
 	const categoryArr = loc.category
 	// const categoryArr = loc.category?.toString()?.split(' ')?.join(',')?.split(',')
-	var filteredData = locationLists.filter((location) => {
+	var filteredLocations = locationLists.filter((location) => {
 		const name = location?.name?.toLowerCase();
 		const description = location?.description?.toString()?.toLowerCase();
 		const locationName = location?.location?.toLowerCase();
@@ -92,7 +90,20 @@ function LocationDetail() {
 		const tags = location?.tags?.toString()?.toLowerCase()
 		const text = name + description + locationName + category + tags
 		for (var i = 0; i < categoryArr?.length; i++) {
-			if (loc?.title != location?.title)
+			if (loc?.title !== location?.title)
+				return text?.includes(categoryArr[i].toLowerCase().trim())
+		}
+	})
+	var filteredBlogs = blogPosts.filter((blog) => {
+		const name = blog?.name?.toLowerCase();
+		const description = blog?.description?.toString()?.toLowerCase();
+		const blogName = blog?.location?.toLowerCase();
+		const category = blog?.category?.toString()?.toLowerCase()
+		const sections = JSON.stringify(blog?.sections)?.toLowerCase()
+		const tags = blog?.tags?.toString()?.toLowerCase()
+		const text = name + description + blogName + category + tags + sections
+		for (var i = 0; i < categoryArr?.length; i++) {
+			if (loc?.title !== blog?.title)
 				return text?.includes(categoryArr[i].toLowerCase().trim())
 		}
 	})
@@ -124,33 +135,36 @@ function LocationDetail() {
 		MenuItemList.push(MenuItem)
 	}
 
-	var schemaData = {
-		"@context": "https://schema.org",
-		"@type": "Restaurant",
-		"name": loc?.name,
-		"image": loc?.imageSrc || loc?.image,
-		"description": loc?.shortDescription,
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": loc?.location,
-			"addressCountry": "IN"
-		},
-		"menu": MenuItemList,
-		"aggregateRating": {
-			"@type": "AggregateRating",
-			"ratingValue": loc?.rating,
-			"bestRating": "5",
-			"ratingCount": "1"
-		},
-		// "servesCuisine": "Punjabi",
-		// "priceRange": "$",
-		"url": "https://crowndevour.com/location/" + loc?.title,
-		"additionalType": "https://schema.org/IndianRestaurant",
-		"keywords": loc?.tags?.toString(),
-		// "specialty": "Punjabi Cuisine",
-		"highlights": loc.highlights?.toString()
-	}
+	var schemaData = {}
 
+	schemaData["@context"] = "https://schema.org"
+	schemaData["@type"] = "Restaurant"
+	schemaData["name"] = loc?.name
+	schemaData["image"] = loc?.imageSrc || loc?.image
+	loc?.overview ? (schemaData["description"] = loc?.overview) : (schemaData["description"] = loc?.shortDescription)
+	schemaData["address"] = {
+		"@type": "PostalAddress",
+		"streetAddress": loc?.location,
+		"addressCountry": "IN"
+	}
+	schemaData["menu"] = MenuItemList
+	schemaData["aggregateRating"] = {
+		"@type": "AggregateRating",
+		"ratingValue": loc?.rating,
+		"bestRating": "5",
+		"ratingCount": "1"
+	}
+	// schemaData["servesCuisine"] =Punjabi
+	if (loc?.additional_info?.price_for_two) {
+		schemaData["priceRange"] = loc?.additional_info?.price_for_two
+	}
+	schemaData["url"] = "https://crowndevour.com/location/" + loc?.title
+	// schemaData["additionalType"] = loc?.name
+	schemaData["additionalType"] = "https://schema.org/IndianRestaurant"
+	schemaData["keywords"] = loc?.tags?.toString()
+	schemaData["highlights"] = loc.highlights?.toString()
+	// schemaData["specialty"] = "Punjabi Cuisine"
+	schemaData["name"] = loc?.name
 
 	var breadcrumbsList = {
 		"@context": "http://schema.org",
@@ -191,7 +205,7 @@ function LocationDetail() {
 			<div className='container mb-2 breadcrumbs'>
 				<Breadcrumb>
 					<Breadcrumb.Item href="/">Home</Breadcrumb.Item>
-					<Breadcrumb.Item href="/location">Locations</Breadcrumb.Item>
+					<Breadcrumb.Item href="/location">Restaurants</Breadcrumb.Item>
 					<Breadcrumb.Item active>{loc?.name}</Breadcrumb.Item>
 				</Breadcrumb>
 			</div>
@@ -202,12 +216,12 @@ function LocationDetail() {
 					<meta name="robots" content="NOODP,NOYDIR" />
 					<link rel="canonical" href={"https://crowndevour.com/location/" + loc.title} />
 					<title>{loc?.name + ", " + loc?.location}</title>
-					<meta name="description" content={loc?.name + ", " + loc?.location + " , " + "View reviews, menu, contact, location, and for more"} />
-					<meta property="og:title" content={loc?.name + ", " + loc?.location} />
+					<meta name="description" content={loc?.name + " " + loc?.location + " , " + "View reviews, menu, contact, location, and for more"} />
+					<meta property="og:title" content={loc?.name + " " + loc?.location} />
 					<meta property="og:type" content="website" />
 					<meta property="og:url" content={"https://crowndevour.com/location/" + loc.title} />
 					<meta property="og:image" content={loc?.imageSrc} />
-					<meta property="og:description" content={loc?.name + ", " + loc?.location + " , " + "View reviews, menu, contact, location, and for more"} />
+					<meta property="og:description" content={loc?.name + " " + loc?.location + " , " + "View reviews, menu, contact, location, and for more"} />
 					<meta property="og:site_name" content={loc?.name} />
 				</Helmet>
 			</HelmetProvider>
@@ -216,15 +230,12 @@ function LocationDetail() {
 					<div className="col-lg-8  mb-5 mb-lg-0">
 						<article className="row mb-5">
 							<div className="col-12">
-								<div className="post-slider">
+								<div className="post-slider rounded">
 									<img loading="lazy" src={loc.image} className="img-fluid" alt={loc.name} />
 								</div>
 							</div>
 							<div className="col-12 mx-auto">
 								<h1><span className="post-title">{loc.name}</span>
-									<Button variant="primary" className='menu' onClick={() => setModalShow(true)}>
-										<RestaurantMenuIcon />
-									</Button>
 								</h1>
 								<ul className="list-inline post-meta mb-4">
 									<li className="list-inline-item"><i className="ti-user mr-2"></i>
@@ -237,41 +248,123 @@ function LocationDetail() {
 									</li>
 									<li className="list-inline-item"><span>Rating : <Rating name="size-medium" defaultValue={loc?.rating} readOnly /></span>
 									</li>
+									<li className="list-inline-item">
+										<span className="btn btn-sm btn-primary menu" onClick={() => setModalShow(true)}>
+											Menu
+											<RestaurantMenuIcon />
+										</span>
+
+									</li>
+
 								</ul>
 								<MyVerticallyCenteredModal
 									show={modalShow}
 									onHide={() => setModalShow(false)}
 								/>
-								<div className='description text-left'>
-									<p>{loc.shortDescription}</p>
-								</div>
 
-								<div className='description text-left'>
-									{loc?.description?.map((item, index) => (
-										<p>{item}</p>
-									))}
-								</div>
-								<h2 style={{ textAlign: "left" }}>Best In Menu</h2>
-								<div className='container'>
-									<div className='row'>
-										{bestInMenu.map((item, index) => (
-											<div className="col-lg-4 col-sm-4 mb-4">
-												<div className="card">
-													<div className="card-image">
-														<img src={item.image ? item?.image : foodItemImage} />
-													</div>
-													<div className="card-text">
-														{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
-														<h2 className="card-title">{item.name}</h2>
-														{/* <p className="card-body">{item.description}</p> */}
-													</div>
-													{/* <div className="card-price">$56</div> */}
-												</div>
-											</div>
-										))}
+
+								{(loc?.overview !== undefined && loc?.overview !== "")
+									? <div className='full-detailed-section'>
+										<div className="sections">
+											<h4><strong>Overview</strong></h4>
+											<p>{loc?.overview}</p>
+										</div>
+										<hr className='hr-divider'></hr>
+										<div className="sections">
+											<h4><strong>Ambiance</strong></h4>
+											<p>{loc?.ambiance?.description}</p>
+											<ul>
+												{loc?.ambiance?.features?.map((item, index) => (
+													<li key={index}>{item}</li>
+												))}
+											</ul>
+										</div>
+										<hr className='hr-divider'></hr>
+
+										<div className="sections">
+											<h4><strong>Cuisine</strong></h4>
+											<p>{loc?.cuisine?.description}</p>
+											<ul className='cuisine-list'>
+												{Object.entries(loc?.cuisine?.menu_sections).map(([key, value]) => (
+													<li key={key}><strong>{key.replaceAll('_', ' ').toString()} :</strong> {value}</li>
+												))}
+											</ul>
+										</div>
+										<hr className='hr-divider'></hr>
+										<div className="sections">
+											<h4><strong>Must-Try Dishes</strong></h4>
+											<ul>
+												{loc?.must_try?.map((item, index) => (
+													<li key={index}>{item}</li>
+												))}
+											</ul>
+										</div>
+										<hr className='hr-divider'></hr>
+										<div className="sections">
+											<h4><strong>Service</strong></h4>
+											<ul className='cuisine-list'>
+												{Object.entries(loc?.service).map(([key, value]) => (
+													<li key={key}><strong>{key.replaceAll('_', ' ').toString()} :</strong> {value}</li>
+												))}
+											</ul>
+										</div>
+										<hr className='hr-divider'></hr>
+										<div className="sections">
+											<h4><strong>Why Visit {loc?.name}?</strong></h4>
+											<ul>
+												{loc?.reasons_to_visit?.map((item, index) => (
+													<li key={index}>{item}</li>
+												))}
+											</ul>
+										</div>
+										<hr className='hr-divider'></hr>
+										<div className="sections">
+											<h4><strong>Tips for Visitors</strong></h4>
+											<ul className='cuisine-list'>
+												{Object.entries(loc?.tips_for_visitors).map(([key, value]) => (
+													<li key={key}><strong>{key.replaceAll('_', ' ').toString()} :</strong> {value}</li>
+												))}
+											</ul>
+										</div>
 									</div>
-								</div>
+									: <div className='brief-details'>
+										<div className='description text-left'>
+											<p>{loc.shortDescription}</p>
+										</div>
 
+										<div className='description text-left'>
+											{loc?.description?.map((item, index) => (
+												<p>{item}</p>
+											))}
+										</div>
+
+										<h2 style={{ textAlign: "left" }}>Best In Menu</h2>
+										<div className='container'>
+											<div className='row'>
+												{bestInMenu.map((item, index) => (
+													<div className="col-lg-4 col-sm-4 mb-4">
+														<div className="card">
+															<div className="card-image">
+																<img src={item.image ? item?.image : foodItemImage} />
+															</div>
+															<div className="card-text">
+																<h2 className="card-title">{item.name}</h2>
+															</div>
+														</div>
+													</div>
+												))}
+											</div>
+										</div>
+									</div>
+								}
+								<section className='blogSection float-left text-left'>
+									<h4><strong>Tags</strong></h4>
+									<li className="list-inline-item">
+										{loc?.tags?.map((item) => (
+											<span className="btn btn-outline-dark m-1" onClick={() => fetchTags(item)}>{item}</span>
+										))}
+									</li>
+								</section>
 								<section className='blogSection'>
 									<div className='container'>
 										<div className="margin-top-3rem">
@@ -282,7 +375,7 @@ function LocationDetail() {
 											<div className="container">
 												<hr id="two" data-symbol="✈"></hr>
 												<div className="row">
-													{filteredData.slice(-3)?.reverse().map((location, index) => (
+													{filteredLocations.slice(-3)?.reverse()?.map((location, index) => (
 														<div className="col-lg-4 col-sm-6 mb-4">
 															<span className='blog-article'>
 																<LocationCards data={location} />
@@ -302,7 +395,7 @@ function LocationDetail() {
 											<div className="container">
 												<hr id="two" data-symbol="✈"></hr>
 												<div className="row">
-													{blogPosts.slice(-3)?.reverse().map((post, index) => (
+													{filteredBlogs.slice(-3)?.reverse().map((post, index) => (
 														<div className="col-lg-4 col-sm-6 mb-4">
 															<span className='blog-article'>
 																<BlogPostCards data={post} />
@@ -314,24 +407,32 @@ function LocationDetail() {
 										</section>
 									</div>
 								</section>
-
-								<section className='blogSection float-left text-left'>
-									<h2>
-										Tags:
-									</h2>
-									<li className="list-inline-item">
-										{loc?.tags?.map((item) => (
-											<span className="btn btn-outline-dark m-1" onClick={() => fetchTags(item)}>{item}</span>
-										))}
-									</li>
-								</section>
 							</div>
 						</article>
 					</div>
 					<aside className="col-lg-4">
 						<div className='widget'>
-							<iframe src={loc.locationUrl} width="400" height="300" style={{ border: 0 }} allowFullscreen="" loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
+							<iframe src={loc.locationUrl} width="400" height="300" style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
 						</div>
+						{(loc?.location_details !== undefined && loc?.location_details !== "") ?
+
+							<div className='widget'>
+								<div className="sections">
+
+									{(loc?.additional_info !== undefined && loc?.additional_info !== "") ?
+										<div>
+											<p><strong>Timing:</strong> {loc?.additional_info?.timing}</p>
+											<p><strong>Price for Two:</strong> {loc?.additional_info?.price_for_two}</p>
+										</div>
+										: ""}
+									<p><strong>Address:</strong> {loc?.location_details?.address}</p>
+									{(loc?.location_details?.nearest_metro !== undefined && loc?.location_details?.nearest_metro !== "") ?
+										<p><strong>Nearest Metro:</strong> {loc?.location_details?.nearest_metro}</p>
+										: ""}
+									<p><strong>Parking:</strong> {loc?.location_details?.parking}</p>
+								</div>
+							</div> : ""}
+
 						<div className="widget">
 							<h5 className="widget-title"><span>Search</span></h5>
 							<form action="/logbook-hugo/search" className="widget-search">

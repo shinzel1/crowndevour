@@ -14,16 +14,14 @@ function BlogPostDetail() {
 	var { post } = ""
 	var category = ["Continental", "Pizza", "Italian", "Burger", "Fast Food", "Rolls", "Mexican", "Beverages", "Sushi", "North Indian", "Chinese", "Mughlai", "Casual Dining", "Coffee", "Cafes", "Live Music", "Art & Culture"]
 	var cuisine_tags = [
-		"Italian", "Pasta", "Pizza", "Risotto", "Tiramisu", "Caprese Salad",
-		"Mexican", "Tacos", "Enchiladas", "Guacamole", "Salsa", "Chiles Rellenos",
-		"Asian", "Chinese", "Japanese", "Thai", "Indian", "Sushi", "Curry", "Stir-fry",
+		"Italian", "Pasta", "Pizza", "Mexican", "Tacos",
+		"Asian", "Chinese", "Japanese", "Thai", "Indian", "Sushi", "Curry",
 		"Mediterranean", "Greek", "Hummus", "Falafel", "Tabbouleh", "Kebabs",
-		"Middle Eastern", "Lebanese", "Turkish", "Shawarma", "Baba Ganoush", "Kofta",
-		"French", "Croissants", "Quiche", "Coq au Vin", "Ratatouille", "Crème Brûlée",
-		"American", "Burgers", "BBQ", "Mac and Cheese", "Apple Pie", "Pancakes",
-		"Latin American", "Brazilian", "Argentinian", "Empanadas", "Ceviche", "Tamales",
-		"Caribbean", "Jamaican", "Cuban", "Ackee and Saltfish", "Plantains", "Rice and Beans",
-		"African", "Moroccan", "Ethiopian", "Tagine", "Injera", "Bobotie"
+		"Middle Eastern", "Lebanese", "Turkish", "Shawarma", "Kofta",
+		"French", "Croissants", "American", "Burgers", "BBQ", "Mac and Cheese", "Pancakes",
+		"Latin American", "Brazilian", "Argentinian",
+		"Caribbean", "Jamaican", "Cuban",
+		"African"
 	]
 	if (location.state != null) {
 		post = location.state.post;
@@ -171,7 +169,7 @@ function BlogPostDetail() {
 					<div className="col-lg-8  mb-5 mb-lg-0">
 						<article className="row mb-5">
 							<div className="col-12">
-								<div className="post-slider">
+								<div className="post-slider rounded">
 									<img loading="lazy" src={post?.imageSrc} className="img-fluid" alt={post?.name} />
 								</div>
 							</div>
@@ -213,30 +211,20 @@ function BlogPostDetail() {
 										</ul>
 									</section> */}
 									<section className='blogSection'>
-										<h2>Must-Try Dishes</h2>
+										<h2>Must-Try</h2>
 										<div className='container'>
-											<div className='row'>
-												{post?.mustTryDishes?.map((item, index) => (
-													<div className="col-lg-4 col-sm-4 mb-4">
-														<div className="card">
-															<div className="card-image">
-																<img src={item.image ? item?.image : restaurantImage} />
-															</div>
-															<div className="card-text">
-																{/* <p className="card-meal-type">Breakfast/Eggs</p> */}
-																<h3 className="card-title">{item?.name}</h3>
-																{/* <p className="card-body">{item.description}</p> */}
-															</div>
-															{/* <div className="card-price">$56</div> */}
-														</div>
-													</div>
-												))}
+											<div className='sections'>
+												<ul>
+													{post?.mustTryDishes?.map((item, index) => (
+														<li key={index}><strong>{item?.name.replaceAll('_', ' ').toString()} :</strong> {item.description}</li>
+													))}
+												</ul>
 											</div>
 										</div>
 									</section>
-									<section className='blogSection'>
-										<h2>Available outlets near {post?.location}</h2>
-
+									<hr className='hr-divider'></hr>
+									<section className='sections'>
+									<h2>Available outlets near {post?.location}</h2>
 										<div className="container">
 											<div className="row">
 												<div className="col-lg-12">
@@ -245,7 +233,7 @@ function BlogPostDetail() {
 													</div>
 												</div>
 												{post?.sections?.map((location, index) => (
-													<div>
+													<div className='text-left'>
 														{/* <Link to={'/location/' + location.title} state={{ loc: location }}> */}
 														<BlogsArticle data={location} loc={post?.location} />
 														{/* </Link> */}
@@ -333,8 +321,10 @@ function BlogPostDetail() {
 						<div className="widget">
 							<h5 className="widget-title"><span>Tags</span></h5>
 							<ul className="list-inline widget-list-inline">
-								{cuisine_tags.map((item, index) => (
-									<li className="list-inline-item" onClick={() => fetchTags(item)}><span>{item}</span>
+
+								{cuisine_tags?.map((item) => (
+									<li className="list-inline-item btn btn-outline-dark m-1" onClick={() => fetchTags(item)}>
+										{item}
 									</li>
 								))}
 							</ul>

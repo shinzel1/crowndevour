@@ -152,7 +152,7 @@ function LocationDetail() {
 					<div className="col-lg-8  mb-5 mb-lg-0">
 						<article className="row mb-5">
 							<div className="col-12">
-								<div className="post-slider">
+								<div className="post-slider rounded">
 									<img loading="lazy" src={loc.image} className="img-fluid" alt={loc.name} />
 								</div>
 							</div>
