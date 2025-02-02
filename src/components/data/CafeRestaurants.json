@@ -3056,10 +3056,11 @@
       "description": "United Coffee House is renowned for its impeccable service, with attentive staff who ensure a seamless dining experience."
     },
     "reasons_to_visit": [
-      "Historic Legacy: A dining experience steeped in over 80 years of history.",
-      "Varied Menu: Offers a wide array of Indian and global cuisines.",
-      "Elegant Interiors: A perfect setting for special occasions and formal gatherings.",
-      "Cultural Significance: A landmark in Delhi's culinary and social history."
+      "Historic Legacy: Experience the charm of a restaurant that has been a part of Delhi’s culinary scene for over 80 years.",
+      "Varied Menu: Indulge in an extensive selection of Indian and international dishes, catering to diverse tastes.",
+      "Elegant Interiors: Enjoy a sophisticated ambiance with vintage decor, ideal for special occasions and formal gatherings.",
+      "Cultural Significance: A legendary establishment that has witnessed generations of food lovers, making it a must-visit landmark in Delhi.",
+      "Timeless Hospitality: Known for its impeccable service and old-world charm, ensuring a memorable dining experience."
     ],
     "tips_for_visitors": {
       "best_time_to_visit": "Afternoons for a quiet lunch or evenings for a more vibrant ambiance.",
@@ -3070,6 +3071,10 @@
       "address": "United Coffee House, E Block, Connaught Place, New Delhi",
       "nearest_metro": "Rajiv Chowk Metro Station (Yellow and Blue Lines), a 5-minute walk.",
       "parking": "Paid parking available in Connaught Place's outer and inner circles."
+    },
+    "additional_info": {
+      "timing": "10:00 AM to 11:45 PM, Monday to Sunday",
+      "price_for_two": "Approximately ₹4,500 (including taxes)"
     }
   },
   {
@@ -3744,23 +3749,10 @@
       "Popular Brunch Menu",
       "Instagrammable Interiors"
     ],
-    "category": [
-      "Instagrammable",
-      "European",
-      "Parisian"
-    ],
-    "tags": [
-      "Cafe De Flora",
-      "Chanakyapuri",
-      "Parisian Cafe Delhi",
-      "Santushti Shopping Complex",
-      "Brunch Delhi"
-    ],
     "menuImage": [
       "https://lh3.googleusercontent.com/p/AF1QipN5PeOlhNBjIfFBpcc5KTD-Zy0itA_j-xNorGxx=s680-w680-h510",
       "https://lh3.googleusercontent.com/p/AF1QipNPi_6a7I5QOHi5D3ZttZf16OmtCDmEMt6gK2Y=s680-w680-h510"
     ],
-    "rating": 4.4,
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.172221840121!2d77.19580011126779!3d28.594609785699962!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3e8fde93fd7%3A0x9b22dcca4a4ec097!2sCafe%20De%20Flora!5e0!3m2!1sen!2sin!4v1717580252305!5m2!1sen!2sin",
     "bestInMenu": [
       {
@@ -3782,50 +3774,76 @@
       "Cafe De Flora offers a captivating escape into a Parisian dream, complete with delectable food and an Instagram-worthy ambiance."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNDw9_jZrs1lXNDFl1FmsXiwrbMwdSeUuOrU7of=s680-w680-h510",
-    "overview": "Cafe De Flora is a charming Parisian-inspired cafe in Delhi, offering a cozy ambiance and elegant French decor. Whether you're catching up with friends, enjoying a quiet coffee, or planning a romantic date, this serene retreat provides the perfect escape from the city’s hustle. With its delightful atmosphere and attention to detail, Cafe De Flora promises an unforgettable experience. Ideal for food lovers and those seeking a peaceful getaway, it’s a must-visit destination in Delhi.",
+    "overview": "Cafe De Flora is a European-inspired cafe located in the heart of Chanakyapuri, offering a delightful blend of cozy ambiance, artisanal coffee, and gourmet cuisine. With its beautifully designed interiors, floral aesthetics, and relaxed outdoor seating, the cafe is an ideal escape from the hustle and bustle of city life. Whether you’re looking for a peaceful morning breakfast, a casual lunch, or an evening coffee with friends, Cafe De Flora provides a tranquil setting and a refined menu to cater to all your cravings.",
     "ambiance": {
-      "description": "Cafe De Flora exudes elegance with its minimalistic yet sophisticated interiors. The design is heavily inspired by Parisian cafes, complete with rustic wooden furniture, pastel accents, and soft lighting that creates an inviting and calming atmosphere.",
+      "description": "A Parisian-style cafe with a charming, elegant, and laid-back atmosphere.",
       "features": [
-        "Indoor Seating: Comfortable and charming, perfect for quiet conversations or working on your laptop.",
-        "Outdoor Seating: Surrounded by greenery, this alfresco area is ideal for soaking in the serene vibes, especially during winter mornings or evenings."
+        "Rustic wooden furniture with pastel floral decor, creating a warm and inviting vibe.",
+        "Open-air seating adorned with potted plants and fairy lights, perfect for an evening out.",
+        "Large glass windows allowing natural light to brighten the space, enhancing the overall aesthetic.",
+        "A mix of soft French jazz and instrumental music that complements the relaxed setting.",
+        "Comfortable seating arrangements, making it an ideal spot for both casual and intimate gatherings."
       ]
     },
     "cuisine": {
-      "description": "The menu at Cafe De Flora is a blend of European classics and contemporary café favorites, with a focus on fresh ingredients and exquisite presentation.",
+      "description": "A refined selection of gourmet dishes featuring European, Continental, and Italian flavors, perfectly curated to complement artisanal beverages and handcrafted desserts.",
       "menu_sections": {
-        "breakfast_delights": "Choose from a selection of buttery croissants, eggs benedict, or their signature avocado toast.",
-        "main_course": "Relish dishes like creamy pastas, gourmet sandwiches, and hearty quiches.",
-        "desserts": "Their decadent pastries and signature tiramisu are a must-try.",
-        "beverages": "The café boasts a curated menu of aromatic coffees, teas, and refreshing mocktails. Their iced lattes and hot chocolate are crowd favorites."
+        "appetizers": "French Onion Soup with a cheesy toast topping, Classic Bruschetta with fresh tomatoes and basil, and Truffle Fries with parmesan cheese.",
+        "main_course": "Pasta Alfredo with creamy white sauce, Avocado & Smoked Salmon Sandwich, Gourmet Margherita Pizza with hand-rolled dough, and Quinoa & Roasted Veggie Bowl for a healthy option.",
+        "desserts": "Classic Tiramisu with rich mascarpone layers, Chocolate Fondant with a molten lava center, and Apple Pie served with vanilla ice cream.",
+        "beverages": "Freshly brewed Espresso and Cappuccino, Herbal Teas like Chamomile and Hibiscus, Signature Mocktails like Rose Lemonade and Iced Berry Spritz, and Cold-Pressed Juices for a refreshing treat."
       }
     },
     "must_try": [
-      "Classic French Croissant: Buttery, flaky, and perfectly golden, served with sweet preserves for an authentic Parisian touch.",
-      "Spinach and Feta Quiche: A rich and savory delight with a creamy spinach and feta filling encased in a perfectly baked golden crust.",
-      "Tiramisu: A decadent Italian dessert featuring layers of coffee-soaked ladyfingers, velvety mascarpone, and a dusting of cocoa.",
-      "Iced Caramel Latte: A refreshing blend of smooth espresso, creamy milk, and a luscious caramel drizzle, perfect for warm days.",
-      "Raspberry Almond Tart: A delicate pastry filled with almond cream and topped with fresh raspberries for a perfect balance of sweetness and texture.",
-      "French Onion Soup: A comforting, classic French soup with caramelized onions, rich broth, and a melted cheese-topped baguette."
+      "French Onion Soup – a soul-warming dish with a deep caramelized onion flavor topped with crispy, cheesy toast.",
+      "Pasta Alfredo – a rich and creamy pasta dish made with perfectly cooked fettuccine and parmesan cheese.",
+      "Avocado & Smoked Salmon Sandwich – a delicious and healthy open sandwich packed with flavor.",
+      "Classic Tiramisu – an indulgent Italian dessert with layers of espresso-soaked sponge and mascarpone cream.",
+      "Rose Lemonade – a refreshing, floral-infused lemonade that pairs well with the cafe’s delicate flavors."
     ],
     "service": {
-      "description": "Cafe De Flora is known for its attentive and courteous staff, ensuring a pleasant dining experience. The team is always ready to offer recommendations and accommodate special requests."
+      "description": "Exceptional service with a warm and welcoming approach, ensuring a relaxed dining experience.",
+      "style": "Attentive, polite, and professional staff who offer personalized recommendations and quick service."
     },
     "reasons_to_visit": [
-      "Tranquil Location: Tucked away in Santushti Shopping Complex, it’s a peaceful retreat from the city's noise.",
-      "Charming Ambiance: Parisian-inspired interiors and outdoor seating surrounded by greenery.",
-      "Exquisite Menu: A thoughtfully curated selection of European dishes, desserts, and beverages.",
-      "Perfect for All Occasions: Ideal for brunches, coffee dates, or simply unwinding with a book."
+      "A beautifully designed European-style cafe that offers an elegant and peaceful ambiance.",
+      "Extensive menu catering to coffee lovers, dessert enthusiasts, and health-conscious diners.",
+      "Perfect for breakfast, brunch, casual meetings, or a romantic evening with a Parisian touch.",
+      "Great for work-from-cafe days with its comfortable seating and quiet atmosphere.",
+      "Aesthetic and Instagram-worthy setting, ideal for food photography and social gatherings."
     ],
     "tips_for_visitors": {
-      "best_time_to_visit": "Early mornings or late afternoons to enjoy the calm environment and avoid peak hours.",
-      "reservations": "Not mandatory but recommended during weekends.",
-      "parking": "Ample parking is available within the Santushti Shopping Complex."
+      "best_time_to_visit": "Mornings for a peaceful breakfast experience or evenings for a cozy, candlelit ambiance.",
+      "reservations": "Highly recommended on weekends, as the cafe tends to get busy.",
+      "dress_code": "Smart casual; perfect for a chic, laid-back outing."
     },
     "location_details": {
-      "address": "Santushti Shopping Complex, Chanakyapuri, New Delhi",
-      "nearest_metro": "Lok Kalyan Marg Metro Station (Yellow Line), approximately 10 minutes away by car.",
-      "parking": "Available within the complex."
-    }
+      "address": "Chanakyapuri, New Delhi.",
+      "nearest_landmark": "Near the Embassy of Japan, in the Santushti Shopping Complex.",
+      "parking": "Ample parking available within the shopping complex premises."
+    },
+    "additional_info": {
+      "timing": "8:00 AM to 10:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,500."
+    },
+    "rating": 4.4,
+    "category": [
+      "Cafe",
+      "European",
+      "Continental",
+      "Italian"
+    ],
+    "tags": [
+      "Cafe",
+      "European Cuisine",
+      "Artisanal Coffee",
+      "Desserts",
+      "Peaceful Ambiance",
+      "Brunch Spot",
+      "Parisian Theme",
+      "Instagrammable Cafe",
+      "Chanakyapuri"
+    ]
   },
   {
     "title": "Amour-Bistro-Cafe",
@@ -4731,8 +4749,12 @@
       "Global Cuisine Delhi",
       "Comfort Food Delhi"
     ],
-    "menuImage": [],
-    "rating": 4.4,
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipP4vaiAtvEqWfxCa_SvTiaKYxN_-BvVOWClxTy5=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipO8q3JCbmT7zDqEdeaWBDafazgweeydnXUmQ6Kr=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM4EIUIhDBn3OdrZNRRCkwRGdrq7vI4qKX2Uc99=s680-w680-h510"
+    ],
+    "rating": 4.2,
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14008.24760599434!2d77.2198233!3d28.6279068!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd35c804a1a1%3A0xe374c47e935b9c3a!2sCafe%20Delhi%20Heights!5e0!3m2!1sen!2sin!4v1723305020831!5m2!1sen!2sin",
     "bestInMenu": [
       {
@@ -4749,7 +4771,53 @@
       "The ambiance at Cafe Delhi Heights is warm and inviting, with a lively and energetic vibe that makes it a favorite hangout spot for both locals and tourists. The decor is modern and quirky, reflecting the diverse and cosmopolitan nature of the menu. Whether you're there for a casual meal, a coffee with friends, or a relaxing evening, the cafe's atmosphere makes it a great place to unwind.",
       "Cafe Delhi Heights in Connaught Place is the perfect destination for those looking to enjoy a delicious meal in a lively and comfortable setting. Its central location, diverse menu, and welcoming vibe make it a top choice for food lovers in Delhi."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipNC7jUloMfEzdX5hXdoQ89iP-rKCIOtStsPV5uN=s680-w680-h510"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNC7jUloMfEzdX5hXdoQ89iP-rKCIOtStsPV5uN=s680-w680-h510",
+    "overview": "Cafe Delhi Heights is a vibrant and eclectic eatery located in the heart of Connaught Place, New Delhi. Known for its diverse menu that spans various cuisines, it offers a unique dining experience that caters to a wide range of palates. The cafe's lively atmosphere and innovative dishes make it a popular choice among locals and tourists alike.",
+    "ambiance": {
+      "description": "A lively and eclectic space with a blend of modern and rustic decor.",
+      "features": [
+        "Themed decor with quirky elements and comfortable seating.",
+        "Live music performances enhancing the dining experience.",
+        "Spacious layout suitable for large groups and gatherings."
+      ]
+    },
+    "cuisine": {
+      "description": "An extensive menu featuring a fusion of global cuisines, including Italian, North Indian, Asian, and Continental dishes.",
+      "menu_sections": {
+        "appetizers": "Pasta Al Forno, Roasted Peanuts, Potato Wedges.",
+        "main_course": "Delhi Burger, Various Pizzas and Pastas, North Indian Curries.",
+        "desserts": "Assorted pastries and desserts.",
+        "beverages": "Oreo Shake, a variety of cocktails and mocktails."
+      }
+    },
+    "must_try": [
+      "Pasta Al Forno – a baked pasta dish with rich flavors.",
+      "Delhi Burger – a signature burger known for its generous size and taste.",
+      "Oreo Shake – a creamy and indulgent beverage."
+    ],
+    "service": {
+      "description": "Attentive and friendly staff providing prompt service.",
+      "style": "Casual yet professional, ensuring a pleasant dining experience."
+    },
+    "reasons_to_visit": [
+      "Diverse menu catering to various culinary preferences.",
+      "Lively ambiance with live music performances.",
+      "Centrally located in Connaught Place, making it easily accessible."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Evenings for live music and a more vibrant atmosphere.",
+      "reservations": "Recommended during weekends and peak hours.",
+      "dress_code": "Smart casual attire is appropriate."
+    },
+    "location_details": {
+      "address": "68/1, 1st Floor, Janpath, New Delhi.",
+      "nearest_landmark": "Near Connaught Place, close to Rajpath and Central Secretariat.",
+      "parking": "Street parking available; valet service may be offered."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:55 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,500."
+    }
   },
   {
     "title": "Indian-Coffee-House",
@@ -8370,8 +8438,8 @@
   },
   {
     "title": "daryaganj-restaurant-aerocity-delhi",
-    "name": "Daryaganj Restaurant",
-    "location": "Aerocity, New Delhi, Delhi 110037",
+    "name": "Daryaganj Restaurant Aerocity",
+    "location": "Aerocity",
     "type": "Fine Dining",
     "highlights": [
       "Iconic North Indian Cuisine",
@@ -8415,14 +8483,67 @@
         "name": "Gulab Jamun"
       }
     ],
-    "shortDescription": "Daryaganj Restaurant in Aerocity blends heritage with flavors, serving iconic North Indian dishes like Butter Chicken and Dal Makhani in an elegant setting.",
+    "shortDescription": "Daryaganj Restaurant Aerocity blends heritage with flavors, serving iconic North Indian dishes like Butter Chicken and Dal Makhani in an elegant setting.",
     "description": [
-      "Daryaganj Restaurant, located in Aerocity’s upscale Worldmark 1, brings the rich legacy of Indian culinary heritage to life. Known for its authentic North Indian recipes, the restaurant carries forward the timeless flavors of Old Delhi.",
+      "Daryaganj Restaurant Aerocity, upscale Worldmark 1, brings the rich legacy of Indian culinary heritage to life. Known for its authentic North Indian recipes, the restaurant carries forward the timeless flavors of Old Delhi.",
       "The menu features iconic dishes such as the Original Butter Chicken, Dal Makhani, and Tandoori Chicken, all prepared using recipes dating back to 1947. Desserts like Gulab Jamun add a sweet touch to the meal, making it a complete dining experience.",
       "The ambiance is a blend of sophistication and warmth, with contemporary interiors that pay homage to traditional Indian aesthetics. It's a perfect destination for family dinners, casual outings, and celebrations.",
-      "Daryaganj Restaurant offers more than just a meal; it delivers an experience steeped in tradition, authenticity, and exquisite flavors. A must-visit for lovers of classic North Indian cuisine!"
+      "Daryaganj Restaurant Aerocity offers more than just a meal; it delivers an experience steeped in tradition, authenticity, and exquisite flavors. A must-visit for lovers of classic North Indian cuisine!"
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipOO2EYRqBS5BGB7v2Xnh6DQE69poZPj-pOXzNr9=s680-w680-h510"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOO2EYRqBS5BGB7v2Xnh6DQE69poZPj-pOXzNr9=s680-w680-h510",
+    "overview": "Daryaganj Restaurant Aerocity is a celebrated North Indian dining destination, paying homage to the original inventors of Butter Chicken and Dal Makhani. With a nostalgic yet contemporary setting, this restaurant offers a culinary journey through the rich flavors of Old Delhi while maintaining a sophisticated dining experience.",
+    "ambiance": {
+      "description": "A perfect blend of heritage charm and modern elegance, creating a warm and inviting dining atmosphere.",
+      "features": [
+        "Vintage-inspired decor with a mix of wooden furnishings and historical elements.",
+        "Soft, ambient lighting that enhances the warm and nostalgic setting.",
+        "Spacious seating arrangements, making it ideal for both family gatherings and corporate dinners.",
+        "Open kitchen concept, allowing diners to witness the artistry of traditional cooking.",
+        "Wall murals and framed historical photographs that narrate the legacy of Daryaganj’s culinary journey."
+      ]
+    },
+    "cuisine": {
+      "description": "Authentic North Indian cuisine with a focus on traditional recipes, especially the legendary Butter Chicken and Dal Makhani.",
+      "menu_sections": {
+        "starters": "Tandoori Chicken, Galouti Kebab, Amritsari Fish Fry, and Stuffed Paneer Tikka.",
+        "main_course": "Signature Butter Chicken, Dal Makhani, Mutton Rogan Josh, and Paneer Lababdar.",
+        "breads": "Garlic Naan, Lachha Paratha, Tandoori Roti, and Stuffed Kulcha.",
+        "desserts": "Phirni, Gulab Jamun, and Rabri with Malpua.",
+        "beverages": "Classic Lassi, Masala Chaas, Fresh Lime Soda, and Signature Cocktails."
+      }
+    },
+    "must_try": [
+      "Signature Butter Chicken – a legendary dish with a rich and creamy tomato-based gravy.",
+      "Dal Makhani – slow-cooked for 24 hours, offering a velvety and indulgent texture.",
+      "Amritsari Fish Fry – a crispy and flavorful appetizer, perfect for seafood lovers.",
+      "Tandoori Chicken – an iconic North Indian favorite with smoky flavors.",
+      "Phirni – a traditional dessert with aromatic saffron and crushed pistachios."
+    ],
+    "service": {
+      "description": "Warm, welcoming, and attentive service that ensures a delightful dining experience.",
+      "style": "Professional yet friendly staff with extensive knowledge of the menu and recommendations."
+    },
+    "reasons_to_visit": [
+      "Home to the original Butter Chicken and Dal Makhani recipe, offering an unmatched authentic taste.",
+      "A perfect blend of nostalgia and contemporary dining, making it ideal for all age groups.",
+      "Located in the heart of Aerocity, a prime destination for food lovers and travelers.",
+      "Great for business lunches, family gatherings, and celebrations.",
+      "A well-curated menu that brings together classic North Indian flavors with premium ingredients."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Dinner time for a lively experience, or lunch for a quieter and more relaxed meal.",
+      "reservations": "Highly recommended, especially on weekends and holidays.",
+      "dress_code": "Smart casual; perfect for both casual and semi-formal outings."
+    },
+    "location_details": {
+      "address": "Aerocity, New Delhi.",
+      "nearest_landmark": "Near Indira Gandhi International Airport, within the Worldmark complex.",
+      "parking": "Ample parking available in the Aerocity complex."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹2,000."
+    }
   },
   {
     "title": "jamun-lodhi-colony-new-delhi",
@@ -8480,7 +8601,69 @@
       "The restaurant's ambiance is a visual treat, with bold, vibrant interiors inspired by India's rich culture, making it a favorite for foodies and Instagram enthusiasts alike.",
       "Perfect for family outings, date nights, or cultural food explorations, Jamun combines regional authenticity with an elegant dining experience, earning its reputation as one of the best Indian restaurants in Delhi."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipPbJp9hT4VMbaQ-Tr6N2CptIGaWS1ggByR3mJ6o=s680-w680-h510"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPbJp9hT4VMbaQ-Tr6N2CptIGaWS1ggByR3mJ6o=s680-w680-h510",
+    "overview": "Jamun is a contemporary Indian restaurant offering a nostalgic yet modern dining experience. Inspired by regional Indian flavors, the restaurant showcases an extensive menu featuring authentic and lesser-known dishes from across the country. With a charming ambiance and carefully curated dishes, Jamun is a go-to destination for those seeking an elevated Indian culinary experience.",
+    "ambiance": {
+      "description": "An aesthetically pleasing space infused with traditional Indian elements and contemporary elegance.",
+      "features": [
+        "A signature violet-themed decor inspired by the Jamun fruit, creating a cozy yet luxurious atmosphere.",
+        "Floral embellishments, arched windows, and terracotta tiles that evoke the charm of an Indian verandah.",
+        "Soft ambient lighting, cane furniture, and bougainvillea-covered walls, adding a rustic yet sophisticated touch.",
+        "A semi-outdoor seating area perfect for intimate gatherings and leisurely meals.",
+        "Calm, soulful Indian instrumental music enhancing the dining experience."
+      ]
+    },
+    "cuisine": {
+      "description": "An exquisite selection of regional Indian delicacies, reinvented with a contemporary touch while preserving authentic flavors.",
+      "menu_sections": {
+        "appetizers": "Aloo Tuk – crispy fried potatoes with tangy chutney, Dahi Gol Gappa – stuffed with spiced yogurt, and Tandoori Malai Broccoli.",
+        "main_course": "Mutton Ghee Roast – slow-cooked mutton in a rich ghee masala, Biryani with smoked raita, and Parsi Salli Boti – a traditional Parsi lamb dish served with crispy potato straws.",
+        "regional_specials": "Kosha Mangsho – a Bengali-style slow-cooked mutton curry, Goan Prawn Balchão – tangy prawn preparation, and Kathal Biryani – a flavorful jackfruit biryani.",
+        "desserts": "Jamun Kulfi – creamy kulfi infused with jamun fruit essence, and Nolen Gur Rasgulla – soft, spongy rasgullas dipped in date palm jaggery syrup.",
+        "beverages": "Masala Chai served in clay cups, Filter Coffee, and signature cocktails infused with Indian spices like saffron, turmeric, and betel leaves."
+      }
+    },
+    "must_try": [
+      "Aloo Tuk – a crispy, flavorful potato dish perfect for starting the meal.",
+      "Mutton Ghee Roast – slow-cooked mutton infused with rich spices and ghee, offering a decadent taste.",
+      "Goan Prawn Balchão – tangy and spicy prawn dish packed with coastal flavors.",
+      "Jamun Kulfi – a signature dessert that blends traditional flavors with a refreshing twist."
+    ],
+    "service": {
+      "description": "Warm, attentive service that enhances the dining experience with personal recommendations and hospitality.",
+      "style": "Professional yet friendly, ensuring every guest feels welcomed."
+    },
+    "reasons_to_visit": [
+      "A thoughtfully designed space that perfectly blends traditional charm with modern elegance.",
+      "Authentic, handcrafted dishes that take you on a culinary journey through India.",
+      "An ideal spot for family gatherings, romantic dinners, and special occasions.",
+      "Unique cocktails and beverages crafted with Indian spices and ingredients.",
+      "Perfect for those looking to explore regional Indian cuisine in an upscale setting."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Dinner time for a lively ambiance, or brunch for a relaxed experience.",
+      "reservations": "Highly recommended, especially on weekends, as it tends to get crowded.",
+      "dress_code": "Smart casual attire is preferred for a comfortable yet sophisticated dining experience."
+    },
+    "location_details": {
+      "address": "17, Lodhi Colony Market, New Delhi.",
+      "nearest_landmark": "Near Yamuna Chemist.",
+      "parking": "Limited street parking available; valet service may be provided on weekends."
+    },
+    "additional_info": {
+      "timing": "7:00 AM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,800.",
+      "rating": 4.4,
+      "category": "Indian, Regional Specialties, Fine Dining.",
+      "tags": [
+        "Indian Cuisine",
+        "Regional Dishes",
+        "Fine Dining",
+        "Elegant Ambiance",
+        "Signature Cocktails",
+        "Lodhi Colony Restaurants"
+      ]
+    }
   },
   {
     "title": "ghoomar-traditional-thali-restaurant-connaught-place",
@@ -8691,8 +8874,8 @@
   },
   {
     "title": "daryaganj-restaurant-ambience-mall-gurugram",
-    "name": "Daryaganj Restaurant",
-    "location": "SCO 31, Ground Floor,Ambience Mall, Sector 29, Gurugram, Haryana 122002",
+    "name": "Daryaganj Restaurant Gurugram ",
+    "location": "Ambience Mall, Sector 29, Gurugram, Haryana 122002",
     "type": "Casual Dining",
     "highlights": [
       "Authentic North Indian Cuisine",
@@ -8742,7 +8925,60 @@
       "With elegant interiors and a warm ambiance, Daryaganj provides a family-friendly environment ideal for celebrations, casual lunches, and dinners. The restaurant blends nostalgia with modern comfort, making it a favorite spot among food lovers in Gurugram.",
       "Located in the vibrant Sector 29, this outlet continues the legacy of the original Daryaganj restaurant, delivering timeless flavors that capture the essence of Indian culinary heritage."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipN-nGLsfI-krGvqsLsXx5e0hXFQpuzmMXJcRrP0=s680-w680-h510"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN-nGLsfI-krGvqsLsXx5e0hXFQpuzmMXJcRrP0=s680-w680-h510",
+    "overview": "Daryaganj Restaurant Gurugram brings the legacy of the original Butter Chicken and Dal Makhani to the heart of the city. With a perfect blend of nostalgia and modern elegance, this restaurant offers an authentic North Indian dining experience, inspired by time-honored recipes and rich culinary traditions.",
+    "ambiance": {
+      "description": "A sophisticated yet warm setting, reflecting the heritage of Old Delhi with a contemporary touch.",
+      "features": [
+        "Classic wooden furnishings and vintage decor elements that celebrate North Indian culinary history.",
+        "Soft lighting that creates a cozy and intimate dining experience.",
+        "Spacious seating arrangements, ideal for family outings, business lunches, and special celebrations.",
+        "Open kitchen concept, allowing guests to witness live tandoor preparations.",
+        "Historical photographs and murals narrating the story of Butter Chicken’s origin."
+      ]
+    },
+    "cuisine": {
+      "description": "Authentic North Indian flavors with a focus on slow-cooked curries, tandoori delicacies, and rich Mughlai-inspired dishes.",
+      "menu_sections": {
+        "starters": "Tandoori Chicken, Mutton Seekh Kebab, Amritsari Fish Fry, and Stuffed Paneer Tikka.",
+        "main_course": "Signature Butter Chicken, Dal Makhani (slow-cooked for 24 hours), Rogan Josh, and Kadhai Paneer.",
+        "breads": "Garlic Butter Naan, Tandoori Roti, Lachha Paratha, and Amritsari Kulcha.",
+        "desserts": "Phirni, Gulab Jamun, and Rabri with Malpua.",
+        "beverages": "Masala Chaas, Fresh Lime Soda, Classic Lassi, and handcrafted cocktails."
+      }
+    },
+    "must_try": [
+      "Original Butter Chicken – a creamy and flavorful delight made from the original 1947 recipe.",
+      "Dal Makhani – slow-cooked overnight for a rich and velvety texture.",
+      "Mutton Seekh Kebab – perfectly spiced and grilled to perfection.",
+      "Amritsari Fish Fry – crispy, flavorful, and a perfect appetizer.",
+      "Phirni – a traditional North Indian dessert with saffron and nuts."
+    ],
+    "service": {
+      "description": "Professional yet friendly service with knowledgeable staff offering personalized recommendations.",
+      "style": "Attentive and warm, ensuring a delightful and seamless dining experience."
+    },
+    "reasons_to_visit": [
+      "Home to the original Butter Chicken and Dal Makhani, offering a taste of history.",
+      "Perfect for both casual dining and special celebrations with its inviting ambiance.",
+      "Located in a prime area of Gurugram, making it accessible for corporate lunches and family dinners.",
+      "An extensive menu featuring the best of North Indian and Mughlai cuisine.",
+      "Great for both vegetarian and non-vegetarian food lovers."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Dinner hours for a vibrant atmosphere, or lunch for a quieter dining experience.",
+      "reservations": "Highly recommended, especially during weekends and festive seasons.",
+      "dress_code": "Smart casual; suitable for both family outings and business meetings."
+    },
+    "location_details": {
+      "address": "Gurugram, Haryana.",
+      "nearest_landmark": "Located in a prime area, easily accessible from Cyber Hub and Golf Course Road.",
+      "parking": "Ample parking available within the restaurant premises."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹2,200."
+    }
   },
   {
     "title": "birch-by-romeo-lane-pacific-mall-nsp",
@@ -8795,11 +9031,11 @@
     ],
     "overview": "Birch By Romeo Lane, located in the bustling Pacific Mall at Netaji Subhash Place (NSP), is a trendy dining destination that perfectly balances modern elegance with a cozy vibe. Known for its fusion menu, creative cocktails, and aesthetically pleasing interiors, Birch has quickly become a favorite among food enthusiasts and socialites in the area. Whether you’re planning a relaxed brunch, a romantic dinner, or a casual get-together with friends, this spot offers a memorable experience.",
     "ambiance": {
-      "description": "The ambiance at Birch By Romeo Lane is designed to captivate. With warm lighting, sleek furniture, and thoughtfully curated decor, the space is visually stunning and exudes sophistication.",
+      "description": "The ambiance at Birch By Romeo Lane is a perfect blend of elegance and contemporary charm. With a sophisticated setting, warm lighting, and stylish interiors, it offers a luxurious dining experience.",
       "features": [
-        "Comfortable and chic indoor seating, ideal for intimate dinners or group gatherings.",
-        "Vibrant music adds to the lively vibe, making it a popular spot for evenings and weekends.",
-        "Aesthetically designed interiors provide Instagram-worthy backdrops."
+        "Chic and comfortable indoor seating, making it an ideal choice for intimate dinners, social gatherings, and special occasions.",
+        "A lively and energetic atmosphere complemented by vibrant music, enhancing the overall experience, especially in the evenings.",
+        "Aesthetically curated interiors with modern decor, offering stunning Instagram-worthy backdrops for a memorable visit."
       ]
     },
     "cuisine": {
@@ -8836,6 +9072,10 @@
       "address": "Pacific Mall, Netaji Subhash Place, New Delhi",
       "nearest_metro": "NSP Metro Station (Red and Pink Lines), a short walk away.",
       "parking": "Ample parking available within the mall premises."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 12:30 AM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹2,000."
     },
     "image": "https://lh3.googleusercontent.com/p/AF1QipOdW8_fQnXkOY4Ce00JGquXD0xvwqp8eanTzfRk=s680-w680-h510"
   },
@@ -8900,7 +9140,7 @@
   {
     "title": "carnatic-cafe-sunder-nursery",
     "name": "Carnatic Cafe Sunder Nursery",
-    "location": "Nizamuddin,New Delhi",
+    "location": "Nizamuddin , New Delhi",
     "type": "South Indian Restaurant",
     "highlights": [
       "Authentic South Indian Cuisine",
@@ -8948,7 +9188,7 @@
       "Whether you're a fan of crispy dosas, flavorful curries, or hearty South Indian meals, Carnatic Cafe Sunder Nursery ensures a wholesome and delightful dining experience."
     ],
     "image": "https://lh3.googleusercontent.com/p/AF1QipNjVGt6SIyYUXtHtV2xwTW5lzu3uad5qNHkXkQ4=s680-w680-h510",
-    "overview": "Carnatic Cafe Sunder Nursery is a delightful destination for those seeking authentic South Indian cuisine in a serene, open-air setting. Known for its traditional flavors, sustainable ethos, and tranquil ambiance, the cafe blends the charm of regional food with the beauty of Sunder Nursery's lush surroundings. Whether you're exploring the nearby heritage monuments or simply looking for a peaceful dining experience, Carnatic Cafe is a perfect stop.",
+    "overview": "Carnatic Cafe Sunder Nursery is a charming culinary retreat offering authentic South Indian flavors in a serene, open-air setting. Nestled amidst the lush greenery of Sunder Nursery, the cafe provides a perfect blend of traditional cuisine, sustainable dining, and a tranquil ambiance.",
     "ambiance": {
       "description": "Carnatic Cafe, Sunder Nursery, exudes a serene and rustic charm, offering a tranquil dining experience amidst lush greenery. Set within the historic and scenic surroundings of Sunder Nursery, the cafe provides a perfect retreat from the city's hustle, making it an ideal spot for a peaceful meal.",
       "features": [
@@ -8959,12 +9199,12 @@
       ]
     },
     "cuisine": {
-      "description": "Specializing in authentic South Indian dishes, Carnatic Cafe Sunder Nursery offers a menu that highlights the diversity and depth of regional flavors, prepared with fresh ingredients and traditional recipes.",
+      "description": "Carnatic Cafe Sunder Nursery specializes in authentic South Indian cuisine, celebrating the rich culinary heritage of the region. With a focus on fresh ingredients and traditional recipes, the menu offers a flavorful journey through South India's diverse food culture.",
       "menu_sections": {
-        "breakfast": "Classic South Indian staples like idli, vada, and dosa served with flavorful chutneys and sambar.",
-        "main_course": "Signature dishes include ragi dosa, ghee masala dosa, and filter coffee.",
-        "desserts": "Traditional options like payasam (sweet pudding) and kesari bath (semolina-based dessert).",
-        "beverages": "South Indian filter coffee, spiced buttermilk, and fresh juices."
+        "breakfast": "A variety of classic South Indian staples, including soft idlis, crispy vadas, and flavorful dosas, served with an assortment of chutneys and piping-hot sambar.",
+        "main_course": "Signature dishes such as Malleshwaram dosa, ragi dosa, and ghee masala dosa, each crafted with authentic spices and rich flavors.",
+        "desserts": "Traditional South Indian sweets like payasam (a creamy rice pudding) and kesari bath (a fragrant semolina dessert) to end the meal on a sweet note.",
+        "beverages": "A selection of refreshing drinks, including the famous South Indian filter coffee, spiced buttermilk, and fresh seasonal juices."
       }
     },
     "must_try": [
@@ -9349,8 +9589,8 @@
   },
   {
     "title": "diggin-cafe-connaught-place",
-    "name": "Diggin Cafe",
-    "location": "M-15, Outer Circle, Connaught Place, New Delhi, Delhi 110001",
+    "name": "Diggin Cafe Connaught Place",
+    "location": "New Delhi, Delhi 110001",
     "type": "Cafe - Italian, Continental",
     "highlights": [
       "Romantic Ambiance",
@@ -9641,8 +9881,7 @@
   },
   {
     "title": "daryaganj-restaurant-civil-lines",
-    "name": "Daryaganj Restaurant - By the Inventors of Butter Chicken and Dal Makhani",
-    "location": "Shop No. 22, The Boulevard, 6, Bungalow Rd, Civil Lines, New Delhi, Delhi 110054",
+    "name": "Daryaganj Restaurant Civil Lines",
     "type": "Fine Dining - North Indian, Mughlai",
     "highlights": [
       "Inventors of Butter Chicken",
@@ -9695,107 +9934,60 @@
       "Located in the heart of Civil Lines, Daryaganj Restaurant boasts a sophisticated ambiance with elegant interiors that blend modernity with heritage. It's an ideal venue for family dinners, celebrations, and those seeking to indulge in North Indian comfort food.",
       "Whether you're savoring their legendary Butter Chicken or diving into the rich Dal Makhani, Daryaganj Restaurant offers an unparalleled dining experience, making it a must-visit for food enthusiasts in Delhi."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipN7G2GC7v9UZMtanQDWdUUWSQqvkLCeQrC1uz1-=s680-w680-h510"
-  },
-  {
-    "title": "daryaganj-restaurant",
-    "name": "Daryaganj Restaurant",
-    "location": "Connaught Place, Aerocity, Gurgaon (multiple locations in NCR)",
-    "type": "Fine Dining - North Indian, Mughlai",
-    "highlights": [
-      "Inventors of Butter Chicken",
-      "Authentic North Indian Cuisine",
-      "Signature Dal Makhani",
-      "Elegant Dining Experience"
-    ],
-    "category": [
-      "Fine Dining",
-      "North Indian",
-      "Mughlai"
-    ],
-    "tags": [
-      "Daryaganj Restaurant",
-      "Best Butter Chicken Delhi",
-      "Dal Makhani Inventors",
-      "Iconic Indian Restaurants",
-      "Traditional Mughlai Cuisine"
-    ],
-    "menuImage": [
-      "https://lh3.googleusercontent.com/p/AF1QipN1-nI8cOrvVJ74FpWqEon8OZTluTCV0VVAvYKF=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipNk9-ltmM1PSRouNT5j_rXIfgBhelgvI4EWzgzs=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipMDkME0_RSmlenOHTY7n49Z_Fxh5bG-rW_dHKPa=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipO3c4p6zc6n4-TBDLIdi273zJQcWi6xIGRYIS1C=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipO9BFNc30hXP6KtennVSCH6s9wg0YopO1XZ_cef=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipMe9bULED9HbhW91ntGxfohuiec-EGhTA3_sbiT=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipNz1RoAl8JHn4_65Q0IJl3O6gVBw-Oa8Ao4ACHJ=s680-w680-h510",
-      "https://lh3.googleusercontent.com/p/AF1QipNHTucGA5KjVLKjYn4l1o_zPh6iPIAkHAMHtWs3=s680-w680-h510"
-    ],
-    "rating": 4.5,
-    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d28017.049770907914!2d77.19510833819274!3d28.6258290281534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd9d99706035%3A0xade2cd0fa29734f6!2sDaryaganj%20Restaurant!5e0!3m2!1sen!2sin!4v1737215613010!5m2!1sen!2sin",
-    "bestInMenu": [
-      {
-        "name": "Butter Chicken"
-      },
-      {
-        "name": "Dal Makhani"
-      },
-      {
-        "name": "Paneer Tikka Masala"
-      },
-      {
-        "name": "Kadhai Chicken"
-      }
-    ],
-    "shortDescription": "Daryaganj Restaurant, founded by the inventors of Butter Chicken and Dal Makhani, offers an iconic North Indian dining experience, blending tradition with elegance.",
-    "description": [
-      "Daryaganj Restaurant is a tribute to the culinary legacy of its founders, who invented the iconic Butter Chicken and Dal Makhani in 1947. Located across premium locations like Connaught Place, Aerocity, and Gurgaon, this restaurant redefines classic North Indian and Mughlai dining.",
-      "The menu celebrates timeless recipes with signature dishes like Butter Chicken, slow-cooked Dal Makhani, and succulent Paneer Tikka Masala. Each dish is prepared with authentic spices, high-quality ingredients, and traditional cooking techniques that have been passed down through generations.",
-      "The restaurant's ambiance combines sophistication and warmth, with tasteful decor that reflects the rich culinary heritage. It's an ideal destination for family gatherings, romantic dinners, or celebrating special occasions.",
-      "Whether you're indulging in their creamy Butter Chicken or the velvety Dal Makhani, Daryaganj offers an unparalleled gastronomic journey that honors India's culinary history. A must-visit for food connoisseurs and lovers of authentic North Indian cuisine."
-    ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipOO2EYRqBS5BGB7v2Xnh6DQE69poZPj-pOXzNr9=s680-w680-h510",
-    "overview": "Daryaganj Restaurant is a tribute to the timeless culinary legacy of Kundan Lal Jaggi, the man who introduced Butter Chicken and Dal Makhani to the world. Combining a rich heritage with a contemporary dining experience, the restaurant offers authentic North Indian cuisine in an elegant setting. With multiple locations across Delhi-NCR, Daryaganj serves as a bridge between the flavors of the past and the preferences of modern diners.",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN7G2GC7v9UZMtanQDWdUUWSQqvkLCeQrC1uz1-=s680-w680-h510",
+    "location": "Civil Lines, New Delhi",
+    "overview": "Daryaganj Restaurant in Civil Lines is a culinary landmark that pays homage to the origins of Butter Chicken and Dal Makhani. Combining vintage charm with modern comfort, this restaurant offers an immersive dining experience with rich North Indian flavors and time-honored recipes.",
     "ambiance": {
-      "description": "The ambiance at Daryaganj is a blend of vintage charm and modern sophistication. The decor features warm tones, plush seating, and nostalgic photographs that pay homage to the restaurant's origins.",
+      "description": "A blend of classic and contemporary, creating an inviting and nostalgic atmosphere.",
       "features": [
-        "Elegant interiors with a mix of classic and contemporary design.",
-        "Soft lighting and comfortable seating for a relaxed dining experience.",
-        "Family-friendly environment suitable for special occasions."
+        "Heritage-inspired decor with vintage photographs and warm wooden interiors.",
+        "Dim, elegant lighting to enhance the fine dining experience.",
+        "Spacious seating perfect for family gatherings, corporate lunches, and special occasions.",
+        "Live kitchen concept, allowing diners to witness the artistry behind North Indian cooking.",
+        "A welcoming and sophisticated vibe with a touch of old-world charm."
       ]
     },
     "cuisine": {
-      "description": "Daryaganj specializes in authentic North Indian cuisine, with a focus on timeless recipes that have been perfected over generations. Signature dishes like Butter Chicken and Dal Makhani are complemented by a variety of kebabs, curries, and breads.",
+      "description": "Authentic North Indian and Mughlai cuisine with a strong focus on traditional cooking techniques and rich flavors.",
       "menu_sections": {
-        "appetizers": "Start with classics like Tandoori Chicken, Mutton Seekh Kebab, and Paneer Tikka.",
-        "main_course": "Indulge in signature dishes like Butter Chicken, Dal Makhani, Rogan Josh, and Amritsari Chole.",
-        "breads": "Freshly baked naans, butter rotis, and stuffed parathas.",
-        "desserts": "End with sweet treats like Kulfi, Phirni, and Gulab Jamun."
+        "starters": "Tandoori Chicken, Mutton Seekh Kebab, Paneer Tikka, and Amritsari Fish Fry.",
+        "main_course": "Signature Butter Chicken, Dal Makhani (slow-cooked for 24 hours), Chicken Biryani, and Mutton Rogan Josh.",
+        "breads": "Tandoori Roti, Butter Naan, Garlic Naan, and Amritsari Kulcha.",
+        "desserts": "Phirni, Rabri with Malpua, and Gulab Jamun.",
+        "beverages": "Masala Chaas, Lassi, Fresh Lime Soda, and handcrafted cocktails."
       }
     },
     "must_try": [
-      "Butter Chicken: The iconic dish invented by Kundan Lal Jaggi, with its creamy and tangy gravy.",
-      "Dal Makhani: A slow-cooked black lentil dish that's rich and flavorful.",
-      "Mutton Seekh Kebab: Juicy, spiced minced mutton skewers cooked in a tandoor.",
-      "Garlic Naan: A perfect accompaniment to the rich curries."
+      "Original Butter Chicken – made with the legendary 1947 recipe.",
+      "Dal Makhani – slow-cooked overnight for deep, rich flavors.",
+      "Mutton Seekh Kebab – perfectly spiced and grilled to perfection.",
+      "Amritsari Fish Fry – crispy, flavorful, and a must-try appetizer.",
+      "Phirni – a creamy, traditional Indian dessert with saffron and nuts."
     ],
     "service": {
-      "description": "The service at Daryaganj is exceptional, with well-trained staff who ensure a warm and hospitable experience. Attention to detail and guest satisfaction are top priorities."
+      "description": "Attentive and professional service, ensuring a memorable dining experience.",
+      "style": "Warm and welcoming, with knowledgeable staff offering personalized recommendations."
     },
     "reasons_to_visit": [
-      "Culinary Legacy: Experience the original Butter Chicken and Dal Makhani recipes.",
-      "Authentic Flavors: A menu that stays true to the roots of North Indian cuisine.",
-      "Elegant Ambiance: Perfect for family dinners, celebrations, and casual outings.",
-      "Multiple Locations: Conveniently located across Delhi-NCR."
+      "Experience the legacy of the original Butter Chicken and Dal Makhani.",
+      "Perfect for family dinners, corporate lunches, and special celebrations.",
+      "Rich and authentic flavors, bringing the essence of North Indian cuisine to life.",
+      "Prime location in Civil Lines, offering a relaxed and refined dining environment.",
+      "An extensive menu catering to both vegetarian and non-vegetarian diners."
     ],
     "tips_for_visitors": {
-      "best_time_to_visit": "Evenings for a fine-dining experience or lunch hours for a relaxed meal.",
-      "reservations": "Recommended during weekends or special occasions to avoid waiting.",
-      "parking": "Available at most locations, but can get busy during peak hours."
+      "best_time_to_visit": "Evenings for a lively ambiance or lunch for a quieter experience.",
+      "reservations": "Highly recommended, especially on weekends and holidays.",
+      "dress_code": "Smart casual; ideal for both formal and casual dining."
     },
     "location_details": {
-      "address": "Connaught Place, New Delhi",
-      "nearest_metro": "Rajiv Chowk Metro Station (Yellow and Blue Lines), a short walk away.",
-      "parking": "Available at the restaurant or nearby parking lots."
+      "address": "Civil Lines, New Delhi.",
+      "nearest_landmark": "Easily accessible from Kashmere Gate and Old Delhi.",
+      "parking": "Ample parking available within the restaurant premises."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹2,000."
     }
   },
   {
@@ -10100,7 +10292,7 @@
   {
     "title": "mazaar-restaurant",
     "name": "Mazaar Restaurant",
-    "location": "Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    "location": "Lajpat Nagar, New Delhi",
     "overview": "Mazaar Restaurant is a hidden gem in the vibrant streets of Lajpat Nagar, serving authentic Afghani cuisine that captures the rich culinary traditions of Afghanistan. Known for its flavorful kebabs, hearty curries, and freshly baked bread, the restaurant is a favorite among food lovers seeking an authentic Middle Eastern dining experience. With a warm and inviting atmosphere, it’s perfect for families, friends, and even solo diners who wish to explore unique flavors.",
     "shortDescription": "Mazaar Restaurant is a hidden gem in the vibrant streets of Lajpat Nagar, serving authentic Afghani cuisine that captures the rich culinary traditions of Afghanistan. ",
     "ambiance": {
@@ -10122,10 +10314,11 @@
       }
     },
     "must_try": [
-      "Kabuli Pulao: Fragrant rice cooked with tender lamb, raisins, and carrots.",
-      "Chapli Kebabs: Spiced minced meat patties, crispy on the outside and juicy inside.",
-      "Mantu: Steamed dumplings stuffed with minced meat, topped with a tangy yogurt sauce.",
-      "Qorma-e-Gosht: A rich, aromatic curry made with slow-cooked meat and spices."
+      "Kabuli Pulao: A signature Afghan delicacy with fragrant basmati rice, tender lamb, sweet raisins, and julienned carrots, offering a perfect balance of flavors.",
+      "Chapli Kebabs: Flavorful and spiced minced meat patties, shallow-fried to perfection, delivering a crispy texture with a juicy, well-seasoned interior.",
+      "Mantu: Traditional Afghan steamed dumplings filled with spiced minced meat, generously topped with tangy yogurt and a flavorful tomato-based sauce.",
+      "Qorma-e-Gosht: A slow-cooked, aromatic meat curry infused with rich spices, creating a deep and indulgent taste that pairs well with naan or rice.",
+      "Bolani: A crisp, pan-fried flatbread stuffed with spiced potatoes or leeks, served with yogurt and chutney for an authentic Afghan street-food experience."
     ],
     "service": {
       "description": "Mazaar is known for its courteous and attentive staff, ensuring a comfortable and delightful dining experience for all guests."
@@ -10621,11 +10814,11 @@
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3508.8531839791085!2d77.09060749999999!3d28.4236866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d19e8cf954925%3A0x3b521ba6620d6014!2sBYOB%20Gurgaon!5e0!3m2!1sen!2sin!4v1737512184933!5m2!1sen!2sin"
   },
   {
-    "name": "Daryaganj Restaurant",
+    "name": "Daryaganj Restaurant Noida",
     "title": "daryaganj-restaurant-noida",
     "location": "Dlf Mall Of India,Noida",
     "shortDescription": "Daryaganj Restaurant in Noida is an extension of the legacy that brought Butter Chicken and Dal Makhani to the world. This elegant dining space serves a delectable array of North Indian classics while paying homage to authentic flavors and time-honored recipes. It's perfect for family meals, casual outings, or special occasions.",
-    "overview": "Daryaganj Restaurant in Noida is an extension of the legacy that brought Butter Chicken and Dal Makhani to the world. This elegant dining space serves a delectable array of North Indian classics while paying homage to authentic flavors and time-honored recipes. It's perfect for family meals, casual outings, or special occasions.",
+    "overview": "Daryaganj Restaurant Noida is an extension of the legacy that brought Butter Chicken and Dal Makhani to the world. This elegant dining space serves a delectable array of North Indian classics while paying homage to authentic flavors and time-honored recipes. It's perfect for family meals, casual outings, or special occasions.",
     "ambiance": {
       "description": "A sophisticated and inviting space with a blend of modern and vintage aesthetics.",
       "features": [
@@ -11054,13 +11247,14 @@
     "name": "Dilkhush Restaurant",
     "title": "dilkhush-restaurant",
     "location": "Paschim Vihar, Delhi",
-    "overview": "Dilkhush Restaurant in Paschim Vihar is a popular casual dining spot known for its flavorful North Indian and Mughlai dishes. With a cozy ambiance, delicious food, and affordable pricing, it’s a favorite among families and food enthusiasts in the area.",
+    "overview": "Dilkhush Restaurant Paschim Vihar is a popular casual dining spot known for its flavorful North Indian and Mughlai dishes. With a cozy ambiance, delicious food, and affordable pricing, it’s a favorite among families and food enthusiasts in the area.",
     "ambiance": {
-      "description": "A warm and inviting space with a comfortable dining setup.",
+      "description": "Dilkhush Restaurant in Paschim Vihar offers a cozy and welcoming ambiance, perfect for a relaxed dining experience with family and friends. The restaurant's comfortable setting makes it an ideal spot for casual outings and hearty meals.",
       "features": [
-        "Simple and functional interiors suited for families and groups.",
-        "Soft lighting and a calm environment for a relaxed dining experience.",
-        "Spacious seating arrangements ideal for casual outings."
+        "Simple yet functional interiors designed to provide a warm and homely feel, catering to families and large groups.",
+        "Soft lighting and a calm, unpretentious environment, allowing guests to enjoy their meals in peace.",
+        "Spacious seating arrangements that ensure comfort, making it a great choice for gatherings, celebrations, or casual dining.",
+        "A friendly and laid-back atmosphere that adds to the charm of enjoying delicious, satisfying meals."
       ]
     },
     "cuisine": {
@@ -11379,9 +11573,11 @@
       "Exceptional Cocktails: Crafted by expert mixologists."
     ],
     "tips_for_visitors": {
-      "best_time_to_visit": "Evenings for the full dining and nightlife experience.",
-      "reservations": "Essential, especially on weekends.",
-      "dress_code": "Upscale casual or formal."
+      "best_time_to_visit": "Evenings are ideal to experience the vibrant dining scene and lively nightlife ambiance.",
+      "reservations": "Highly recommended, especially on weekends, to secure a table at this popular hotspot.",
+      "dress_code": "Upscale casual or formal attire is required to match the sophisticated setting.",
+      "ambiance": "Expect a high-energy atmosphere with dim lighting, stylish decor, and an immersive Pan-Asian theme.",
+      "additional_tips": "Arrive early to enjoy a cocktail at the bar before dinner, and be prepared for a buzzing crowd, especially during peak hours."
     },
     "location_details": {
       "address": "92 9th Avenue, New York, NY 10011, United States",
@@ -11955,7 +12151,11 @@
       "price_for_two": "Approximately ₹1000"
     },
     "rating": 4.4,
-    "category": ["Mughlai", "North Indian", "Kebabs"],
+    "category": [
+      "Mughlai",
+      "North Indian",
+      "Kebabs"
+    ],
     "tags": [
       "Mughlai Cuisine",
       "Kebabs",
@@ -11963,8 +12163,292 @@
       "North Indian",
       "Ashok Vihar Restaurants"
     ],
-    "image":"https://lh3.googleusercontent.com/p/AF1QipM8EMjUM9OdGuwRSntjy7Adw04vSvl3nQUe6C81=s680-w680-h510",
-    "menuImage":["public/images/Sufiana-restaurant.png"],
-    "locationUrl":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.784410935823!2d77.17100529999999!3d28.696095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d034c00faacd5%3A0x4c02569260d25308!2sSufiaana!5e0!3m2!1sen!2sin!4v1738226117570!5m2!1sen!2sin"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM8EMjUM9OdGuwRSntjy7Adw04vSvl3nQUe6C81=s680-w680-h510",
+    "menuImage": [
+      "https://raw.githubusercontent.com/shinzel1/crowndevour/latest-update/public/images/Sufiana-restaurant.png"
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.784410935823!2d77.17100529999999!3d28.696095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d034c00faacd5%3A0x4c02569260d25308!2sSufiaana!5e0!3m2!1sen!2sin!4v1738226117570!5m2!1sen!2sin"
+  },
+  {
+    "name": "AMA Cafe",
+    "title": "ama-cafe-majnu-ka-tilla",
+    "location": "Majnu-ka-Tilla, New Delhi",
+    "overview": "AMA Cafe is a beloved Tibetan-inspired cafe in Majnu-ka-Tilla, famous for its cozy ambiance, delicious breakfast options, and freshly baked goods. A hotspot for coffee lovers and those looking to enjoy a relaxed, peaceful atmosphere with a touch of Himalayan charm.",
+    "ambiance": {
+      "description": "AMA Cafe offers a cozy and rustic retreat, making it a beloved spot for coffee lovers and food enthusiasts alike. With its warm interiors and inviting atmosphere, it's the perfect place to relax and unwind.",
+      "features": [
+        "Charming wooden furniture and Tibetan-inspired decor that add to the cafe’s authentic vibe.",
+        "Soft lighting and a peaceful, laid-back ambiance, creating a welcoming escape from the city's hustle.",
+        "A perfect setting for breakfast dates, casual meetups, solo coffee sessions, or work-friendly café time."
+      ]
+    },
+    "cuisine": {
+      "description": "Continental and Tibetan-inspired cafe menu with hearty breakfast and dessert options.",
+      "menu_sections": {
+        "breakfast_favorites": "Pancakes, Omelettes, Granola Bowls, English Breakfast.",
+        "main_course": "Burgers, Sandwiches, Pasta, Tibetan Thukpa.",
+        "desserts": "Freshly baked Croissants, Brownies, Cheesecake.",
+        "beverages": "Himalayan Butter Tea, Cappuccino, Hot Chocolate, Fruit Smoothies."
+      }
+    },
+    "must_try": [
+      "Classic Pancakes with Maple Syrup.",
+      "Himalayan Butter Tea – a traditional Tibetan specialty.",
+      "AMA’s Signature Cheesecake – creamy and rich."
+    ],
+    "service": {
+      "description": "Friendly and welcoming staff offering quick service with a smile.",
+      "style": "Casual and relaxed, creating a homely vibe."
+    },
+    "reasons_to_visit": [
+      "One of the best cafes in Majnu-ka-Tilla for a peaceful coffee break.",
+      "Delicious breakfast and freshly baked goods.",
+      "Perfect ambiance for reading, working, or casual meetups."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Morning hours for a calm breakfast experience.",
+      "reservations": "Not required, but peak hours may have waiting time.",
+      "dress_code": "Casual and comfortable."
+    },
+    "location_details": {
+      "address": "House 6, New Tibetan Colony, Majnu-ka-Tilla, New Delhi, 110054",
+      "nearest_landmark": "Near North Delhi University Campus.",
+      "parking": "Limited street parking available."
+    },
+    "additional_info": {
+      "timing": "7:00 AM to 10:00 PM (Monday to Sunday)",
+      "price_for_two": "Approximately ₹700"
+    },
+    "rating": 4.5,
+    "category": [
+      "Cafe",
+      "Continental",
+      "Tibetan"
+    ],
+    "tags": [
+      "Cafe",
+      "Breakfast",
+      "Coffee",
+      "Pancakes",
+      "Tibetan Cuisine",
+      "Majnu-ka-Tilla"
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMV8GfyZpdBLSbjCKhOUaJmAWJ2i0lIRKVNaJuR=s680-w680-h510",
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipPB2ucPKRi1Fvbz4KJ6HIcTqqdNXScKhEMnpezs=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNAau-r4Yfb2Zq87JEbb4OytSLqmDbKgbMEjzpy=s680-w680-h510"
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.566814210393!2d77.2283847!3d28.702602100000004!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfdc56ff9ff1b%3A0x95b9aa88b9ef0eb3!2sAMA%20Cafe!5e0!3m2!1sen!2sin!4v1738230771084!5m2!1sen!2sin"
+  },
+  {
+    "name": "Kala Cafe",
+    "title": "kala-cafe",
+    "location": "Parliament Street, New Delhi",
+    "overview": "Kala Cafe is a multi-cuisine restaurant located on Parliament Street, offering a diverse menu that includes North Indian, South Indian, Chinese, Pizza, Fast Food, Street Food, Desserts, and Beverages. It's an ideal spot for those seeking a variety of flavors in a comfortable setting.",
+    "ambiance": {
+      "description": "A simple and functional space designed to accommodate families and groups.",
+      "features": [
+        "Indoor seating with air conditioning.",
+        "Casual and relaxed atmosphere suitable for all age groups.",
+        "Wheelchair accessible and kid-friendly environment."
+      ]
+    },
+    "cuisine": {
+      "description": "An extensive menu featuring a blend of Indian and international dishes.",
+      "menu_sections": {
+        "north_indian": "Butter Chicken, Paneer Tikka, Dal Makhani.",
+        "south_indian": "Dosa, Idli, Vada with traditional accompaniments.",
+        "chinese": "Chow Mein, Manchurian, Spring Rolls.",
+        "pizza": "Classic Margherita, Veggie Delight, Pepperoni.",
+        "fast_food": "Burgers, Sandwiches, French Fries.",
+        "street_food": "Pani Puri, Bhel Puri, Chaat.",
+        "desserts": "Gulab Jamun, Ice Cream, Brownies.",
+        "beverages": "Cold Coffee, Fresh Juices, Soft Drinks."
+      }
+    },
+    "must_try": [
+      "Gol Gappa – Crisp and tangy street food favorite.",
+      "Kulhad Chai – Traditional tea served in earthen cups.",
+      "Butter Chicken – Creamy and flavorful North Indian delicacy."
+    ],
+    "service": {
+      "description": "Prompt and courteous service ensuring a pleasant dining experience.",
+      "style": "Professional and attentive staff catering to customer needs."
+    },
+    "reasons_to_visit": [
+      "Diverse menu catering to various culinary preferences.",
+      "Affordable pricing suitable for budget-friendly outings.",
+      "Convenient location near major landmarks in Central Delhi."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Lunch hours for a variety of freshly prepared dishes.",
+      "reservations": "Not typically required, but advisable for larger groups.",
+      "dress_code": "Casual attire is appropriate."
+    },
+    "location_details": {
+      "address": "Indira Gandhi National Centre For The Arts, Near Western Court, Parliament Street, New Delhi.",
+      "nearest_landmark": "Close to Rajpath and Central Secretariat.",
+      "parking": "Valet parking available; street parking options nearby."
+    },
+    "additional_info": {
+      "timing": "10:00 AM to 8:00 PM (Monday to Sunday)",
+      "price_for_two": "Approximately ₹500"
+    },
+    "rating": 3.6,
+    "category": [
+      "Multi-Cuisine",
+      "Cafe"
+    ],
+    "tags": [
+      "Multi-Cuisine",
+      "Family Dining",
+      "Affordable",
+      "Central Delhi",
+      "Street Food"
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOPZEXawEK2Nmg_-PYUZ8rWAtMw_HgORbMhVVCn=s680-w680-h510",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.255856715236!2d77.21804159999999!3d28.622092900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce3000b78d0b7%3A0x8a67b319f0a74cec!2sKala%20Cafe!5e0!3m2!1sen!2sin!4v1738231953806!5m2!1sen!2sin",
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipMcy8kxGjMZ3J1NjlcOHat_RblWzRfcrlgjRPes=s680-w680-h510"
+    ]
+  },
+  {
+    "name": "Cafe Lota",
+    "title": "cafe-lota",
+    "location": "Pragati Maidan, New Delhi",
+    "overview": "Nestled within the National Crafts Museum at Pragati Maidan, Cafe Lota offers a unique dining experience that celebrates India's rich culinary heritage. The cafe is renowned for its contemporary take on traditional Indian dishes, providing a delightful fusion of flavors in a serene and culturally enriched setting.",
+    "ambiance": {
+      "description": "An open-air, eco-friendly space that harmoniously blends with the cultural aesthetics of the Crafts Museum.",
+      "features": [
+        "Rustic decor featuring handcrafted elements and traditional Indian motifs.",
+        "Casual and relaxed atmosphere, ideal for leisurely meals.",
+        "Proximity to museum exhibits enhances the cultural dining experience."
+      ]
+    },
+    "cuisine": {
+      "description": "A diverse menu showcasing regional Indian cuisines with a modern twist, emphasizing lesser-known dishes from across the country.",
+      "menu_sections": {
+        "appetizers": "Sabudana Popcorn, Palak Patta Chaat.",
+        "main_course": "Pondicherry Fish Curry, Rajasthani Lal Maas, Himachali Dham.",
+        "desserts": "Bhapa Doi, Coconut and Jaggery Cheesecake.",
+        "beverages": "Masala Chai, Aam Panna, Filter Coffee."
+      }
+    },
+    "must_try": [
+      "Sabudana Popcorn – crispy sago pearls seasoned to perfection.",
+      "Pondicherry Fish Curry – a tangy and spicy fish curry served with rice.",
+      "Bhapa Doi – a steamed yogurt dessert with a delicate sweetness."
+    ],
+    "service": {
+      "description": "Courteous and knowledgeable staff providing attentive service.",
+      "style": "Informal yet efficient, enhancing the relaxed dining atmosphere."
+    },
+    "reasons_to_visit": [
+      "Innovative menu celebrating regional Indian flavors.",
+      "Charming ambiance within a cultural landmark.",
+      "Ideal for both casual meals and special occasions."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Weekday mornings for a peaceful breakfast experience.",
+      "reservations": "Advisable during weekends and public holidays due to high demand.",
+      "dress_code": "Casual attire is suitable."
+    },
+    "location_details": {
+      "address": "National Crafts Museum, Gate 2, Bhairon Marg, Pragati Maidan, New Delhi 110001.",
+      "nearest_landmark": "Opposite Purana Qila (Old Fort).",
+      "parking": "Limited parking available near the museum entrance."
+    },
+    "additional_info": {
+      "timing": "8:00 AM to 9:30 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,200."
+    },
+    "rating": 4.5,
+    "category": [
+      "Indian",
+      "Cafe"
+    ],
+    "tags": [
+      "Regional Indian Cuisine",
+      "Cultural Experience",
+      "Outdoor Seating",
+      "Pragati Maidan",
+      "Crafts Museum"
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.538750007824!2d77.24249999999999!3d28.613611099999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce327c505fa3f%3A0xeb4addd9e7c6f11b!2sCafe%20Lota!5e0!3m2!1sen!2sin!4v1738304555191!5m2!1sen!2sin",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNlnHHXfpZ2VxPeo9zIvzOEoAtpgoifU3n-H4qB=s680-w680-h510",
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipMSJb0SsqPEcepJuD4Xe1AKng9J_qLwur7JZGG1=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipMIJtxT6CaSnm84S4Lu9tMpV_pK7fEitCe97VKk=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOJO8YnqubkbaJRB34J_tDPGq23DIAk6zRSxjk-=s680-w680-h510"
+    ]
+  },
+  {
+    "name": "Cafe Uncover",
+    "title": "cafe-uncover",
+    "location": "Sector 12, Dwarka, New Delhi",
+    "overview": "Cafe Uncover is a contemporary dining establishment located in Sector 12, Dwarka, New Delhi. Known for its diverse menu and inviting ambiance, it has become a favored spot among locals and visitors seeking a relaxed yet vibrant dining experience.",
+    "ambiance": {
+      "description": "A modern and stylish space featuring chic decor and comfortable seating arrangements.",
+      "features": [
+        "Indoor and outdoor seating options to suit different preferences.",
+        "Pet-friendly environment, welcoming guests with their furry companions.",
+        "Live music performances enhancing the overall dining experience."
+      ]
+    },
+    "cuisine": {
+      "description": "An extensive menu offering a fusion of North Indian, Oriental, and Continental cuisines.",
+      "menu_sections": {
+        "appetizers": "Margherita Thin Crust Pizza, Mac N Cheese, Chilli Garlic Chowmein.",
+        "main_course": "Mixed Sauce Pasta, Dimsum, Chilly Potato.",
+        "desserts": "Assorted pastries and desserts.",
+        "beverages": "Variety of mocktails, shakes, and hot beverages."
+      }
+    },
+    "must_try": [
+      "Margherita Thin Crust Pizza – a classic delight with a crispy base and fresh toppings.",
+      "Mac N Cheese – creamy and comforting, a favorite among cheese lovers.",
+      "Chilli Garlic Chowmein – a spicy and flavorful noodle dish."
+    ],
+    "service": {
+      "description": "Friendly and attentive staff ensuring a pleasant dining experience.",
+      "style": "Casual yet professional, catering to the needs of diverse patrons."
+    },
+    "reasons_to_visit": [
+      "Diverse menu catering to various culinary preferences.",
+      "Pet-friendly policy allowing guests to dine with their pets.",
+      "Live music events adding to the vibrant atmosphere."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Evenings for live music and a lively ambiance.",
+      "reservations": "Recommended during weekends and for larger groups.",
+      "dress_code": "Casual attire is appropriate."
+    },
+    "location_details": {
+      "address": "Plot 14, Block A, Sector 12, Dwarka, New Delhi.",
+      "nearest_landmark": "Near the lane of grocery stores in Sector 12.",
+      "parking": "Street parking available; valet service may be offered."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,300."
+    },
+    "rating": 4.6,
+    "category": [
+      "Cafe",
+      "Multi-Cuisine"
+    ],
+    "tags": [
+      "Cafe",
+      "Multi-Cuisine",
+      "Pet-Friendly",
+      "Live Music",
+      "Dwarka"
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.1227278413353!2d77.0412297!3d28.596094800000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1b3a56e8f807%3A0x194e6cc090b566b6!2sCafe%20Uncover!5e0!3m2!1sen!2sin!4v1738312460362!5m2!1sen!2sin",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/APrbqlULcHxdfvQxHet91bck9-LDj24G67Mq9URC73R4aYNXh24BEZhf6tLfM6SBVrniDJgCMH9mPqWK80JbJSgXLZLDR21gshkHdK5zQqEQ_AQPWvAihG0IYRFnv7RbzyIPXQhDTJ1H=s680-w680-h510",
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipPS-dJ08paqkH6cqO90jL4XP-WqhXGa-i4VXT05=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOU1str4QEwF6B_Y0W8L7NNW-C5CIBhWkrpEWN_=s680-w680-h510"
+    ]
   }
 ]

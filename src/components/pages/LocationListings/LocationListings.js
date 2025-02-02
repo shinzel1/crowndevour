@@ -196,7 +196,7 @@ function LocationListings() {
       <section className="section-sm">
         <div className="container">
           <div className="row">
-            {filteredLocations.map((location, index) => (
+            {filteredLocations.reverse().map((location, index) => (
               <div className="col-lg-4 col-sm-6 mb-4">
                 <Link to={'/location/' + location.title} state={{ loc: location }}>
                   <LocationCards data={location} />

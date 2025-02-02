@@ -1003,3 +1003,36 @@ a:hover {
   font-size: 2rem !important;
   font-weight: 500;
 }
+
+
+
+/* new changhe */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  /* padding: 20px; */
+}
+
+.featured-locations {
+  min-height: 300px; /* Prevents shifting */
+}
+
+.fine-dining-checkpoint, .text-Checkout {
+  font-size: 18px;
+}
+
+.margin-top-3rem {
+  margin-top: 3rem;
+}
+
+.blog-article {
+  display: flex;
+  justify-content: center;
+  min-height: 250px; /* Prevents shifting */
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

@@ -1,7 +1,6 @@
 import React, { useEffect } from 'react';
 import './LocationDetail.css';
 import { useLocation, Link } from "react-router-dom";
-import foodItemImage from "../../data/Images/cafe/kaffee-meister-_tc92wGVf60-unsplash.jpg"
 import locationLists from "../../data/CafeRestaurants.json"
 import SchemaOrg from '../../commons/Schema/Schema';
 import Button from 'react-bootstrap/Button';
@@ -30,10 +29,14 @@ function MyVerticallyCenteredModal(props) {
 					Menu
 				</Modal.Title>
 			</Modal.Header>
-			<Modal.Body>
-				{menuImage?.map((item, index) => (
-					<img loading="lazy" src={item} className="img-fluid" alt={"menuImage" + index} />
-				))}
+			<Modal.Body className="p-0">
+				<img
+					loading="lazy"
+					src={props.item}
+					className="img-fluid w-100 h-100"
+					alt={"menuImage"}
+					style={{ objectFit: 'contain' }}
+				/>
 			</Modal.Body>
 			<Modal.Footer>
 				<Button onClick={props.onHide}>Close</Button>
@@ -73,6 +76,7 @@ function LocationDetail() {
 	menuImage = loc.menuImage
 	const lastThreeLocations = locationLists.slice(-3)
 	const [modalShow, setModalShow] = React.useState(false);
+	const [imageShow, setImageShow] = React.useState("");
 	useEffect(() => {
 		const body = document.querySelector('#root');
 
@@ -199,6 +203,10 @@ function LocationDetail() {
 			}
 		]
 	}
+	const handleOpenModal = (item) => {
+		setModalShow(true);
+		setImageShow(item);
+	};
 
 	return (
 		<section className="section">
@@ -238,36 +246,44 @@ function LocationDetail() {
 								<h1><span className="post-title">{loc.name}</span>
 								</h1>
 								<ul className="list-inline post-meta mb-4">
-									<li className="list-inline-item"><i className="ti-user mr-2"></i>
-										<span>Shinzel</span>
-									</li>
-									<li className="list-inline-item">Categories :
-										{loc?.category?.map((item, index) => (
-											<span className="ml-1" onClick={() => fetchCategory(item)}>{item}</span>
-										))}
-									</li>
-									<li className="list-inline-item"><span>Rating : <Rating name="size-medium" defaultValue={loc?.rating} readOnly /></span>
-									</li>
-									<li className="list-inline-item">
-										<span className="btn btn-sm btn-primary menu" onClick={() => setModalShow(true)}>
-											Menu
-											<RestaurantMenuIcon />
-										</span>
-
+									{(loc?.additional_info !== undefined && loc?.additional_info !== "") ?
+										<li className="list-inline-item">
+											<span><strong>Timing :</strong> {loc?.additional_info?.timing}</span>
+											<span><strong> Price for Two :</strong> {loc?.additional_info?.price_for_two}</span>
+										</li>
+										: ""}
+									<li className="list-inline-item"><span> <strong>Rating :</strong> <Rating name="size-medium" defaultValue={loc?.rating} readOnly /> {loc?.rating}</span>
 									</li>
 
 								</ul>
 								<MyVerticallyCenteredModal
 									show={modalShow}
-									onHide={() => setModalShow(false)}
+									onHide={() => { setModalShow(false); }} item={imageShow}
 								/>
-
-
 								{(loc?.overview !== undefined && loc?.overview !== "")
 									? <div className='full-detailed-section'>
 										<div className="sections">
 											<h4><strong>Overview</strong></h4>
 											<p>{loc?.overview}</p>
+										</div>
+										<hr className='hr-divider'></hr>
+										<div className="sections">
+											<h4><strong>Menu</strong></h4>
+											<div className='container-box'>
+												<div className="">
+													{menuImage?.map((item, index) => (
+														<div className="box" style={{
+															backgroundImage: "url(" + item + ")",
+															backgroundPosition: 'center',
+															backgroundSize: 'cover',
+															backgroundRepeat: 'no-repeat'
+														}}
+															onClick={() => handleOpenModal(item)}
+														>
+														</div>
+													))}
+												</div>
+											</div>
 										</div>
 										<hr className='hr-divider'></hr>
 										<div className="sections">
@@ -345,7 +361,7 @@ function LocationDetail() {
 													<div className="col-lg-4 col-sm-4 mb-4">
 														<div className="card">
 															<div className="card-image">
-																<img src={item.image ? item?.image : foodItemImage} />
+																<img src={item.image} />
 															</div>
 															<div className="card-text">
 																<h2 className="card-title">{item.name}</h2>
@@ -362,6 +378,14 @@ function LocationDetail() {
 									<li className="list-inline-item">
 										{loc?.tags?.map((item) => (
 											<span className="btn btn-outline-dark m-1" onClick={() => fetchTags(item)}>{item}</span>
+										))}
+									</li>
+								</section>
+								<section className='blogSection float-left text-left'>
+									<h4><strong>Categories</strong></h4>
+									<li className="list-inline-item">
+										{loc?.category?.map((item) => (
+											<span className="btn btn-outline-dark m-1" onClick={() => fetchCategory(item)}>{item}</span>
 										))}
 									</li>
 								</section>
@@ -411,6 +435,14 @@ function LocationDetail() {
 						</article>
 					</div>
 					<aside className="col-lg-4">
+						<div className="widget">
+							<h5 className="widget-title"><span>Find Restaurant</span></h5>
+							<form action="/logbook-hugo/search" className="widget-search">
+								<input id="search-query" name="s" type="search" placeholder="Search..." />
+								<button type="submit" onClick={(e) => handleSubmit(e)}><i className="ti-search"></i>
+								</button>
+							</form>
+						</div>
 						<div className='widget'>
 							<iframe src={loc.locationUrl} width="400" height="300" style={{ border: 0 }} loading="lazy" referrerPolicy="no-referrer-when-downgrade"></iframe>
 						</div>
@@ -418,13 +450,6 @@ function LocationDetail() {
 
 							<div className='widget'>
 								<div className="sections">
-
-									{(loc?.additional_info !== undefined && loc?.additional_info !== "") ?
-										<div>
-											<p><strong>Timing:</strong> {loc?.additional_info?.timing}</p>
-											<p><strong>Price for Two:</strong> {loc?.additional_info?.price_for_two}</p>
-										</div>
-										: ""}
 									<p><strong>Address:</strong> {loc?.location_details?.address}</p>
 									{(loc?.location_details?.nearest_metro !== undefined && loc?.location_details?.nearest_metro !== "") ?
 										<p><strong>Nearest Metro:</strong> {loc?.location_details?.nearest_metro}</p>
@@ -432,15 +457,6 @@ function LocationDetail() {
 									<p><strong>Parking:</strong> {loc?.location_details?.parking}</p>
 								</div>
 							</div> : ""}
-
-						<div className="widget">
-							<h5 className="widget-title"><span>Search</span></h5>
-							<form action="/logbook-hugo/search" className="widget-search">
-								<input id="search-query" name="s" type="search" placeholder="Type &amp; Hit Enter..." />
-								<button type="submit" onClick={(e) => handleSubmit(e)}><i className="ti-search"></i>
-								</button>
-							</form>
-						</div>
 						<div className="widget">
 							<h5 className="widget-title"><span>Latest Article</span></h5>
 
@@ -480,7 +496,6 @@ function LocationDetail() {
 								))}
 							</ul>
 						</div>
-
 					</aside>
 				</div>
 			</div>

@@ -41,7 +41,7 @@ function Homepage() {
     restaurant["name"] = locationLists[i].name
     restaurant["image"] = locationLists[i].image
     restaurant["cuisine"] = locationLists[i].tags?.toString()
-    locationLists[i]?.overview ? (restaurant["description"] = locationLists[i]?.overview ) : (restaurant["description"] = locationLists[i]?.shortDescription )
+    locationLists[i]?.overview ? (restaurant["description"] = locationLists[i]?.overview) : (restaurant["description"] = locationLists[i]?.shortDescription)
     itemListElement.push(restaurant)
   }
 
@@ -71,11 +71,13 @@ function Homepage() {
       <SchemaOrg data={schemaList} />
       <SchemaOrg data={schemaBlogList} />
       <Helmet>
+        <meta name="viewport" content="width=1024" />
         <meta name="robots" content="NOODP,NOYDIR" />
         <link rel="canonical" href="https://crowndevour.com" />
         <meta name="description"
           content="Crowndevour Delivers the Finest Dining Experience Across Top Cafes and Restaurants - Delhi, NCR, Gurugram, and Noida" />
         <title>CROWNDEVOUR : Finest Dining Experience for Top Cafes and Restaurants</title>
+        <meta name="viewport" content="width=1024" />
         <meta property="og:title" content="CROWNDEVOUR : Finest Dining Experience for Top Cafes and Restaurants" />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://crowndevour.com" />
@@ -83,31 +85,35 @@ function Homepage() {
         <meta property="og:description" content="Crowndevour Delivers the Finest Dining Experience Across Top Cafes and Restaurants - Delhi, NCR, Gurugram, and Noida" />
         <meta property="og:site_name" content="Crowndevour" />
       </Helmet>
-      <div>
+      <div className="container">
         <ImageBanner />
       </div>
-      <div className=''>
+
+      <div className="container">
         <SearchFilter />
       </div>
-      <section className="featured-locations container">
-        <div>
+
+      <section className="container">
+        <div className="featured-locations">
           <FeaturedLocations />
         </div>
       </section>
 
-      <section>
-        <div className='container'>
-          <div className="margin-top-3rem">
-            <span className="fine-dining-checkpoint float-left">Recent Dining Checkpoints</span>
-            <a className='text-Checkout float-right' href='/location'>Checkout for more</a>
+      <section className="container">
+        <div>
+          {/* Recent Dining Checkpoints */}
+          <div className="margin-top-3rem d-flex justify-content-between align-items-center">
+            <span className="fine-dining-checkpoint">Recent Dining Checkpoints</span>
+            <a className="text-Checkout" href="/location">Checkout for more</a>
           </div>
-          <section className="">
+
+          <section>
             <div className="container">
-              <hr id="two" data-symbol="✈"></hr>
+              <hr id="two" data-symbol="✈" />
               <div className="row">
                 {locationLists.slice(-3)?.reverse().map((location, index) => (
-                  <div className="col-lg-4 col-sm-6 mb-4">
-                    <span className='blog-article'>
+                  <div key={index} className="col-lg-4 col-sm-6 mb-4">
+                    <span className="blog-article">
                       <LocationCards data={location} />
                     </span>
                   </div>
@@ -116,18 +122,19 @@ function Homepage() {
             </div>
           </section>
 
-
-          <div className="margin-top-3rem">
-            <span className="fine-dining-checkpoint float-left">Latest Blogs</span>
-            <a className='text-Checkout float-right' href='/blogs'>Checkout for more</a>
+          {/* Latest Blogs */}
+          <div className="margin-top-3rem d-flex justify-content-between align-items-center">
+            <span className="fine-dining-checkpoint">Latest Blogs</span>
+            <a className="text-Checkout" href="/blogs">Checkout for more</a>
           </div>
-          <section className="">
+
+          <section>
             <div className="container">
-              <hr id="two" data-symbol="✈"></hr>
+              <hr id="two" data-symbol="✈" />
               <div className="row">
                 {blogPosts.slice(-3)?.reverse().map((post, index) => (
-                  <div className="col-lg-4 col-sm-6 mb-4">
-                    <span className='blog-article'>
+                  <div key={index} className="col-lg-4 col-sm-6 mb-4">
+                    <span className="blog-article">
                       <BlogPostCards data={post} />
                     </span>
                   </div>
@@ -138,12 +145,15 @@ function Homepage() {
         </div>
       </section>
 
-      <section className="cta">
-        <h2>Explore Cafes and Restaurants Across Cities</h2>
-        <h6>Indulge in a global culinary adventure as you explore cafes and restaurants, each city a unique chapter in the flavorful story of urban gastronomy.</h6>
-        <div>
-          <CulinaryJournery />
-          {/* <JoinUsBanner /> */}
+      <section className="container ">
+        <div className='cta'>
+          <h2>Explore Cafes and Restaurants Across Cities</h2>
+          <h6>
+            Indulge in a global culinary adventure as you explore cafes and restaurants, each city a unique chapter in the flavorful story of urban gastronomy.
+          </h6>
+          <div>
+            <CulinaryJournery />
+          </div>
         </div>
       </section>
     </div>
