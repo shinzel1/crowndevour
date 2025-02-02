@@ -5,6 +5,7 @@ function ImageBanner() {
     <div className="imageBanner">
       <h2 className="title">Crowndevour</h2>
       <h2 className="title title-large"> Welcome to Crowndevour, where you can discover the best places to eat out and enjoy street food in various cities.</h2>
+      
       <div id="img-1" className="img-container">
         <img className="img" src="https://raw.githubusercontent.com/shinzel1/crowndevour/latest-update/public/images/banner/image1.webp" alt='image' />
       </div>
