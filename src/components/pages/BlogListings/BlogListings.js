@@ -218,7 +218,7 @@ const BlogListings = () => {
         <Row xs={1} md={3} className="g-3">
           {filteredBlogs.reverse().map((post, index) => (
             <Col key={index} className=''>
-              <Link to={'/blogs/' + post.title} state={{ post: post }} className='blog-article'>
+              <Link to={'/blogs/' + post.title} state={{ post: post }} className=''>
                 <BlogPostCards key={"blogsCards" + index} data={post} />
               </Link>
             </Col>

@@ -134,7 +134,7 @@ function Homepage() {
               <div className="row">
                 {blogPosts.slice(-3)?.reverse().map((post, index) => (
                   <div key={index} className="col-lg-4 col-sm-6 mb-4">
-                    <span className="blog-article">
+                    <span className="">
                       <BlogPostCards data={post} />
                     </span>
                   </div>
