@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.a4e26553.css",
-    "main.js": "/static/js/main.d6f7be8d.js",
+    "main.js": "/static/js/main.56e8edc9.js",
     "static/js/845.edf72dba.chunk.js": "/static/js/845.edf72dba.chunk.js",
     "static/media/restaurant.avif": "/static/media/restaurant.ef85abd8e8de774aecd1.avif",
     "static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.jpg": "/static/media/jimmy-dean-Yn0l7uwBrpw-unsplash.b5c2f4abb9d7bf934798.jpg",
@@ -12,15 +12,16 @@
     "static/media/themify.ttf?-fvbane": "/static/media/themify.eda8b94308c6f538f04a.ttf",
     "static/media/themify.woff?-fvbane": "/static/media/themify.29b39089170885ae2967.woff",
     "static/media/image1.webp": "/static/media/image1.7fd56cb74937caba54a7.webp",
+    "static/media/image5.webp": "/static/media/image5.6473b1009d222d576fe4.webp",
     "static/media/WholeImage.webp": "/static/media/WholeImage.d0c6224be7e976996059.webp",
     "static/media/logoImage.webp": "/static/media/logoImage.4e2b1d6d196e114fcdb1.webp",
     "index.html": "/index.html",
     "main.a4e26553.css.map": "/static/css/main.a4e26553.css.map",
-    "main.d6f7be8d.js.map": "/static/js/main.d6f7be8d.js.map",
+    "main.56e8edc9.js.map": "/static/js/main.56e8edc9.js.map",
     "845.edf72dba.chunk.js.map": "/static/js/845.edf72dba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4e26553.css",
-    "static/js/main.d6f7be8d.js"
+    "static/js/main.56e8edc9.js"
   ]
 }
