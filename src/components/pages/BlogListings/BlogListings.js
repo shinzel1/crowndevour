@@ -215,11 +215,13 @@ const BlogListings = () => {
         <meta name="description" content="Help yourself fiding handpicked cafes, restaurants, and food stalls! Discover diverse flavors and settings in this gastronomic exploration." />
       </Helmet>
       <div className='BlogListing centered container'>
-        <Row xs={1} md={3} className="g-3">
+        <Row xs={1} md={3} className="g-3 justify-content-start">
           {filteredBlogs.reverse().map((post, index) => (
             <Col key={index} className=''>
               <Link to={'/blogs/' + post.title} state={{ post: post }} className=''>
-                <BlogPostCards key={"blogsCards" + index} data={post} />
+                <span className="blog-article">
+                  <BlogPostCards key={"blogsCards" + index} data={post} />
+                </span>
               </Link>
             </Col>
           ))}

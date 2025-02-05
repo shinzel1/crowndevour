@@ -1,19 +1,17 @@
-import React from 'react';
 import './Homepage.css';
+import React from 'react';
 import FeaturedLocations from './Sections/featured-locations/featured-locations'
 import ImageBanner from '../Homepage/Sections/ImageBanner/image-banner';
 import SearchFilter from '../Homepage/Sections/search-filter/search-filter'
 import CulinaryJournery from './Sections/culinary-journey/CulinaryJourney';
 import { Helmet } from 'react-helmet';
 import SchemaOrg from '../../commons/Schema/Schema';
-import Logo from '../../data/Images/WholeImage.png'
+import Logo from '../../data/Images/WholeImage.webp'
 import { Link } from "react-router-dom";
 import blogPosts from '../../data/BlogPost.json'
 import locationLists from "../../data/CafeRestaurants.json"
 import LocationCards from '../../commons/locationCard/locationCard'
 import BlogPostCards from '../../commons/blogPostCards/blogPostCards';
-
-
 function Homepage() {
   var { loc } = ""
   var data =
@@ -93,11 +91,11 @@ function Homepage() {
         <SearchFilter />
       </div>
 
-      <section className="container">
+      {/* <section className="container">
         <div className="featured-locations">
           <FeaturedLocations />
         </div>
-      </section>
+      </section> */}
 
       <section className="container">
         <div>
@@ -134,7 +132,7 @@ function Homepage() {
               <div className="row">
                 {blogPosts.slice(-3)?.reverse().map((post, index) => (
                   <div key={index} className="col-lg-4 col-sm-6 mb-4">
-                    <span className="">
+                    <span className="blog-article">
                       <BlogPostCards data={post} />
                     </span>
                   </div>
@@ -145,7 +143,7 @@ function Homepage() {
         </div>
       </section>
 
-      <section className="container ">
+      <section className="container">
         <div className='cta'>
           <h2>Explore Cafes and Restaurants Across Cities</h2>
           <h6>

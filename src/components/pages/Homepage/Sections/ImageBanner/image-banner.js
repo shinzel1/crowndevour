@@ -1,5 +1,8 @@
 import React from 'react';
 import './image-banner.css'
+import image1 from '../../../../data/Images/Banners/image1.webp'
+import image5 from '../../../../data/Images/Banners/image5.webp'
+
 function ImageBanner() {
   return (
     <div className="imageBanner">
@@ -7,7 +10,7 @@ function ImageBanner() {
       <h2 className="title title-large"> Welcome to Crowndevour, where you can discover the best places to eat out and enjoy street food in various cities.</h2>
       
       <div id="img-1" className="img-container">
-        <img className="img" src="https://crowndevour.com/images/banner/image1.webp" alt='image' />
+        <img className="img" src={image1} alt='image' />
       </div>
       <div className="img-container fourth-animation">
         <img className="img nba" src="https://crowndevour.com/images/banner/image2.webp" alt='image' />
@@ -19,7 +22,7 @@ function ImageBanner() {
         <img className="img" src="https://crowndevour.com/images/banner/image4.webp" alt='image' />
       </div>
       <div id="img-7" className="img-container seventh-animation">
-        <img className="img" src="https://crowndevour.com/images/banner/image5.webp" alt='image' />
+        <img className="img" src={image5} alt='image' />
       </div>
     </div>);
 }

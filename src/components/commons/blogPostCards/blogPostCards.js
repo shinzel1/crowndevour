@@ -9,11 +9,15 @@ const BlogPostCards = ({ data }) => {
       navigate(`/location`, { state: { tags: item } });
     }
   }
+  var image = ""
+
+  if (data?.imageSrc != undefined) { image = (data.imageSrc).replace("s680-w680-h510", "s300") }
+
 
   return (
     <article className="mb-5 post-card" id={data.title}>
       <div className="post-slider slider-sm blogPostCardImage">
-        <img loading="lazy" src={data.imageSrc} className="img-fluid image" alt={data.name} />
+        <img loading="lazy" src={image} className="img-fluid image" alt={data.name} />
       </div>
       <div className='p-2'>
         <h3 className="h5"><a className="post-title" href={'/blogs/' + data.title}>{data.name}</a></h3>

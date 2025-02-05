@@ -50,9 +50,13 @@
 .margin-top-4rem{
   margin-top: 4rem;
 }
-body{
-  font-family: 'Poppins', sans-serif;
-  font-weight: bold;
+
+h1, h2 {
+  font-family: 'Playfair Display', serif !important;
+}
+
+p, body {
+  font-family: 'Poppins', sans-serif !important;
 }
 .margin-top-4rem{
   margin-bottom: 4rem !important;
@@ -68,10 +72,7 @@ p, .paragraph {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #1c1d1f;
   font-family: "Poppins", sans-serif !important;
-  font-weight: 600;
-  line-height: 1.2;
 }
 
 h1, .h1 {
@@ -372,7 +373,6 @@ a:hover {
   --img-scale: 1.1;
   --link-icon-translate: 0;
   --link-icon-opacity: 1;
-  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px;
 }
 @media (max-width: 991px) {
   .navbar .dropdown-menu {

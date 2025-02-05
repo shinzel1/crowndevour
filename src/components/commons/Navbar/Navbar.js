@@ -2,8 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import BootstrapNavbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-import Logo from '../../data/Images/logoImage.png'
-import LogoImage from '../../data/Images/WholeImage.png'
+import Logo from '../../data/Images/logoImage.webp'
 import './Navbar.css'
 
 const Navbar = () => {
@@ -20,7 +19,7 @@ const Navbar = () => {
           alt="logo"
           src={Logo}
           className="align-top logoImage"/>
-        <img alt='logo' src={LogoImage} className='phonelogoImage'/>
+        <img alt='logo' src={Logo} className='phonelogoImage'/>
         {' '}
         <span className='logoName'>Crowndevour</span>
         </BootstrapNavbar.Brand>

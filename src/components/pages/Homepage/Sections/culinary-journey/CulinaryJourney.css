@@ -144,3 +144,6 @@
     white-space: nowrap; 
     width: 1px;
   }
+  .article-wrapper img{
+    object-fit: contain;
+  }

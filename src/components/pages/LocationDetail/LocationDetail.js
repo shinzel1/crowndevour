@@ -32,7 +32,7 @@ function MyVerticallyCenteredModal(props) {
 			<Modal.Body className="p-0">
 				<img
 					loading="lazy"
-					src={props.item}
+					src={props.item?.replace("s680-w680-h510","s0")}
 					className="img-fluid w-100 h-100"
 					alt={"menuImage"}
 					style={{ objectFit: 'contain' }}
@@ -154,6 +154,7 @@ function LocationDetail() {
 	schemaData["menu"] = MenuItemList
 	schemaData["aggregateRating"] = {
 		"@type": "AggregateRating",
+		"ratingCount": 1000,
 		"ratingValue": loc?.rating,
 		"bestRating": "5",
 		"ratingCount": "1"
@@ -166,9 +167,20 @@ function LocationDetail() {
 	// schemaData["additionalType"] = loc?.name
 	schemaData["additionalType"] = "https://schema.org/IndianRestaurant"
 	schemaData["keywords"] = loc?.tags?.toString()
-	schemaData["highlights"] = loc.highlights?.toString()
+	if (loc.highlights) {
+		schemaData["highlights"] = loc.highlights?.toString()
+	}	
 	// schemaData["specialty"] = "Punjabi Cuisine"
 	schemaData["name"] = loc?.name
+	schemaData["url"] = "/location/" + loc?.title
+	if (loc?.additional_info?.timing) {
+		schemaData["openingHours"] = loc?.additional_info?.timing
+	}
+	if (loc?.additional_info?.price_for_two) {
+		schemaData["priceRange"] = loc?.additional_info?.price_for_two
+	}
+	//  schemaData["servesCuisine"] = loc?.additional_info?.timing
+	schemaData["openingHours"] = loc?.additional_info?.timing
 
 	var breadcrumbsList = {
 		"@context": "http://schema.org",
@@ -239,7 +251,7 @@ function LocationDetail() {
 						<article className="row mb-5">
 							<div className="col-12">
 								<div className="post-slider rounded">
-									<img loading="lazy" src={loc.image} className="img-fluid" alt={loc.name} />
+									<img loading="lazy" src={loc.image?.replace("s680-w680-h510","s0")} className="img-fluid" alt={loc.name} />
 								</div>
 							</div>
 							<div className="col-12 mx-auto">

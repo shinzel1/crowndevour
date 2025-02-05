@@ -898,7 +898,7 @@
   {
     "title": "coast-cafe",
     "name": "Coast Cafe",
-    "location": "H-2, Second Floor & Third Floor, Above Ogaan, Hauz Khas Village",
+    "location": "Hauz Khas Village, New Delhi",
     "type": "Café",
     "highlights": [
       "Soothing Ambience",
@@ -911,7 +911,7 @@
       "seafood"
     ],
     "tags": [
-      "Coast Café Hauz Khas",
+      "Coast Café",
       "Best cafés in Hauz Khas",
       "seafood restaurants Hauz Khas",
       "dining in Hauz Khas",
@@ -956,7 +956,69 @@
       "Some of the must-try dishes at Coast Cafe are the prawn moilee, a creamy coconut-based curry with succulent prawns, served with appam, a soft and fluffy rice pancake; the veg tacos, crispy tortillas stuffed with spicy vegetables and cheese, topped with salsa and sour cream; and the sundal, a tangy and crunchy salad made with chickpeas, coconut, and curry leaves. The cafe also serves a variety of beverages, such as smoothies, juices, teas, and coffees, as well as desserts, such as cakes, pies, and ice creams.",
       "Coast Cafe is a perfect place to enjoy a leisurely meal with family or friends, or to have a romantic date with a stunning view of the lake. It is open from 11 am to 11 pm, and accepts online reservations through Zomato and Dineout. The average cost for two people is around Rs. 1500, excluding taxes and charges. Coast Cafe is rated 4.5 out of 5 on Tripadvisor, and has received rave reviews from customers for its food, service, value, and atmosphere. It is one of the best restaurants in Delhi, and a must-visit for anyone who loves coastal cuisine and culture."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipPJWIV1C1zdTgO07a_IGXi7NzlbqhleugewWOqW=s680-w680-h510"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPJWIV1C1zdTgO07a_IGXi7NzlbqhleugewWOqW=s680-w680-h510",
+    "overview": "Coast Cafe in Hauz Khas Village is a charming and stylish eatery that brings the rich flavors of coastal Indian cuisine to the heart of Delhi. Known for its fresh seafood, authentic South Indian coastal dishes, and contemporary ambiance, the cafe offers a perfect blend of taste and tranquility. With its relaxing atmosphere and scenic views, it’s a great spot for a casual meal, a date night, or a peaceful work session.",
+    "ambiance": {
+      "description": "A breezy and modern space with warm coastal vibes.",
+      "features": [
+        "Minimalist decor with wooden accents and a soothing color palette.",
+        "Large windows offering beautiful views of the Hauz Khas greenery.",
+        "Relaxed and casual setting, perfect for brunches and laid-back dining."
+      ]
+    },
+    "cuisine": {
+      "description": "Authentic South Indian coastal cuisine with a contemporary twist.",
+      "menu_sections": {
+        "starters": "Prawn Rava Fry, Banana Flower Croquettes, and Kerala-style Fried Chicken.",
+        "main_course": "Malabar Prawn Curry, Fish Moilee, and Appams with Stew.",
+        "vegetarian_specials": "Avial, Coconut-infused Dal, and Raw Mango Curry.",
+        "desserts": "Elaneer Payasam (Tender Coconut Pudding) and Jaggery Banana Cake.",
+        "beverages": "Filter Coffee, Fresh Coconut Water, and Tropical Cocktails."
+      }
+    },
+    "must_try": [
+      "Malabar Prawn Curry – rich and flavorful, served with appams.",
+      "Prawn Rava Fry – crispy and perfectly spiced.",
+      "Fish Moilee – a coconut milk-based delicacy from Kerala.",
+      "Banana Flower Croquettes – unique and delicious vegetarian starter.",
+      "Elaneer Payasam – a refreshing coconut-based dessert."
+    ],
+    "service": {
+      "description": "Warm and attentive service, making every visit memorable.",
+      "style": "Friendly and efficient, ensuring a relaxed dining experience."
+    },
+    "reasons_to_visit": [
+      "Authentic South Indian coastal cuisine in a stylish setting.",
+      "Scenic views of Hauz Khas greenery and relaxed ambiance.",
+      "Perfect for brunches, casual meetups, and romantic dinners.",
+      "A well-curated selection of tropical cocktails and beverages."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Sunset hours for a stunning view with a relaxed vibe.",
+      "reservations": "Recommended on weekends to secure a good spot.",
+      "dress_code": "Casual chic."
+    },
+    "location_details": {
+      "address": "Hauz Khas Village, New Delhi.",
+      "nearest_landmark": "Overlooking the Hauz Khas Fort and Lake.",
+      "parking": "Limited street parking available; valet service recommended."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,800 to ₹2,200.",
+      "rating": 4.5,
+      "review_count": 1100,
+      "category": "Coastal, South Indian, Casual Dining.",
+      "tags": [
+        "South Indian Cuisine",
+        "Seafood",
+        "Coastal Flavors",
+        "Kerala Cuisine",
+        "Romantic Dining",
+        "Hauz Khas Restaurants",
+        "Brunch Spot"
+      ]
+    }
   },
   {
     "title": "gyspy-cafe",
@@ -1355,7 +1417,8 @@
       "Fast Food"
     ],
     "menuImage": [
-      ""
+      "https://lh3.googleusercontent.com/p/AF1QipNfUwrbPBSx3Nw-xD58Acfx7iZJHd60yhmt2Rl_=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM5Z9tc8G3m2OqUaIjYP5I2jdfNf6PiFMlIQULQ=s680-w680-h510"
     ],
     "rating": 4,
     "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8351.837670300712!2d77.16727580279802!3d28.587435453470725!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d1d130b25aae5%3A0x12126ab1fbfb2728!2sMadira%20Cafe!5e0!3m2!1sen!2sin!4v1708144633255!5m2!1sen!2sin",
@@ -1383,7 +1446,60 @@
       "Madira Cafe is a great place to hang out with friends and family, or to just chill and relax. The restaurant has a vibrant and energetic vibe, with comfortable seating and a dim lighting. The restaurant also offers a wide selection of drinks, from mocktails to shakes. The restaurant also hosts events such as live music, trivia nights, and karaoke.",
       "Madira Cafe is one of the best restaurants in Satyaniketan, and a must-visit for anyone who loves food, drinks, and music. It is a place where you can enjoy a casual and fun dining experience, with a touch of spice and style. Madira Cafe is open from 11 am to 11 pm, and you can book a table online or call them at +91 98111 73459 or +91 99998 73459."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipOpYGLIRGS2CKcJKHLh_WnRdFQxT3M_p9tk357e=s1360-w1360-h1020"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOpYGLIRGS2CKcJKHLh_WnRdFQxT3M_p9tk357e=s1360-w1360-h1020",
+    "overview": "Madira Cafe in Satya Niketan is a lively and trendy hangout spot, known for its affordable drinks, fusion food, and vibrant ambiance. A favorite among college students and young professionals, it offers a mix of global and Indian flavors, along with an upbeat atmosphere perfect for casual meetups and nightlife enthusiasts.",
+    "ambiance": {
+      "description": "A modern and energetic space with chic decor and a youthful vibe.",
+      "features": [
+        "Trendy interiors with neon lights and graffiti-inspired wall art.",
+        "Cozy indoor seating with a mix of high tables and plush sofas.",
+        "Lively music, making it a great spot for evening hangouts and celebrations.",
+        "A well-stocked bar with a wide range of cocktails and beverages.",
+        "Casual and laid-back atmosphere, ideal for groups and college students."
+      ]
+    },
+    "cuisine": {
+      "description": "A mix of fusion, continental, and Indian comfort food with exciting flavors.",
+      "menu_sections": {
+        "appetizers": "Loaded Nachos, Peri Peri Fries, Chicken Wings, and Tandoori Momos.",
+        "main_course": "Cheesy Pizzas, Chilli Chicken, Butter Chicken Pasta, and Burgers.",
+        "desserts": "Chocolate Brownie with Ice Cream, Nutella Waffles.",
+        "beverages": "Signature Cocktails, Mocktails, Fresh Juices, and Iced Coffees."
+      }
+    },
+    "must_try": [
+      "Tandoori Momos – a flavorful twist on a Delhi street food favorite.",
+      "Butter Chicken Pasta – a fusion dish combining Italian and Indian flavors.",
+      "Peri Peri Fries – crispy and perfectly spiced, great for sharing.",
+      "Signature Cocktails – innovative blends with refreshing flavors.",
+      "Chocolate Brownie with Ice Cream – a decadent dessert to end your meal."
+    ],
+    "service": {
+      "description": "Friendly and quick service, ensuring a fun and hassle-free experience.",
+      "style": "Casual and welcoming, perfect for a relaxed outing."
+    },
+    "reasons_to_visit": [
+      "Affordable drinks and great happy hour deals.",
+      "Perfect spot for college students and young professionals.",
+      "A fun and vibrant atmosphere with great music.",
+      "Delicious fusion food with creative twists on popular dishes.",
+      "Convenient location in Satya Niketan, a student-friendly area."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Evenings for a buzzing atmosphere and best deals on drinks.",
+      "reservations": "Not mandatory but recommended on weekends.",
+      "dress_code": "Casual and trendy."
+    },
+    "location_details": {
+      "address": "Satya Niketan, New Delhi.",
+      "nearest_landmark": "Near Sri Venkateswara College.",
+      "parking": "Limited street parking available."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 1:00 AM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,500.",
+      "rating": 4.0
+    }
   },
   {
     "title": "The-Big-House-Cafe",
@@ -3776,13 +3892,13 @@
     "image": "https://lh3.googleusercontent.com/p/AF1QipNDw9_jZrs1lXNDFl1FmsXiwrbMwdSeUuOrU7of=s680-w680-h510",
     "overview": "Cafe De Flora is a European-inspired cafe located in the heart of Chanakyapuri, offering a delightful blend of cozy ambiance, artisanal coffee, and gourmet cuisine. With its beautifully designed interiors, floral aesthetics, and relaxed outdoor seating, the cafe is an ideal escape from the hustle and bustle of city life. Whether you’re looking for a peaceful morning breakfast, a casual lunch, or an evening coffee with friends, Cafe De Flora provides a tranquil setting and a refined menu to cater to all your cravings.",
     "ambiance": {
-      "description": "A Parisian-style cafe with a charming, elegant, and laid-back atmosphere.",
+      "description": "Café De Flora offers a Parisian escape in the heart of the city, blending elegance with a cozy, laid-back charm.",
       "features": [
-        "Rustic wooden furniture with pastel floral decor, creating a warm and inviting vibe.",
-        "Open-air seating adorned with potted plants and fairy lights, perfect for an evening out.",
-        "Large glass windows allowing natural light to brighten the space, enhancing the overall aesthetic.",
-        "A mix of soft French jazz and instrumental music that complements the relaxed setting.",
-        "Comfortable seating arrangements, making it an ideal spot for both casual and intimate gatherings."
+        "Rustic wooden furniture paired with pastel floral decor, creating a warm and inviting ambiance.",
+        "Open-air seating adorned with lush greenery and twinkling fairy lights, perfect for a romantic evening or a relaxing coffee break.",
+        "Large glass windows that flood the space with natural light, enhancing the serene and aesthetic appeal.",
+        "A soothing playlist of soft French jazz and instrumental tunes, complementing the relaxed atmosphere.",
+        "Comfortable and well-spaced seating, ideal for intimate conversations, casual hangouts, or peaceful solo retreats."
       ]
     },
     "cuisine": {
@@ -3979,10 +4095,10 @@
       }
     },
     "must_try": [
-      "Zucchini Fries: A crispy and flavorful starter.",
-      "Spinach and Ricotta Ravioli: A creamy pasta dish that's a crowd favorite.",
-      "Four Cheese Pizza: A cheesy delight baked to perfection in a wood-fired oven.",
-      "Nutella Waffle: A decadent dessert that is perfect for chocolate lovers."
+      "Zucchini Fries: Crispy, golden-brown zucchini fries served with a flavorful dipping sauce – a perfect start to your meal.",
+      "Spinach and Ricotta Ravioli: Handcrafted ravioli stuffed with creamy ricotta and spinach, tossed in a rich sauce for a comforting bite.",
+      "Four Cheese Pizza: A wood-fired delight featuring a gooey blend of mozzarella, cheddar, parmesan, and gouda for the ultimate cheese lover’s experience.",
+      "Nutella Waffle: Warm, fluffy waffles drizzled with Nutella, topped with fresh fruits and whipped cream – a dream dessert for chocolate lovers."
     ],
     "service": {
       "description": "The staff at Diggin Cafe are known for their attentive and friendly service. They ensure that guests feel welcome and well-cared for throughout their dining experience."
@@ -4002,6 +4118,10 @@
       "address": "Diggin Cafe, Santushti Complex, Chanakyapuri, New Delhi",
       "nearest_metro": "Lok Kalyan Marg Metro Station (Yellow Line), approximately 10 minutes away by car.",
       "parking": "Available within Santushti Complex premises."
+    },
+    "additional_info": {
+      "timing": "11:00 AM to 9:30 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,500."
     }
   },
   {
@@ -7667,7 +7787,7 @@
   {
     "title": "the-potbelly-restaurant-bihar-niwas-chanakyapuri-new-delhi",
     "name": "The Potbelly Restaurant",
-    "location": "Bihar Niwas, Chanakyapuri, New Delhi, Delhi 110021",
+    "location": "Bihar Niwas, Chanakyapuri",
     "type": "Bihari Cuisine Restaurant",
     "highlights": [
       "Authentic Bihari Cuisine",
@@ -7676,22 +7796,19 @@
       "Vegetarian and Non-Vegetarian Options"
     ],
     "category": [
+      "Bihar",
       "rooftop",
       "Regional"
     ],
     "tags": [
-      "The Potbelly Restaurant Delhi",
-      "Best Bihari restaurant in Delhi",
-      "authentic Bihari cuisine Delhi",
-      "The Potbelly Café Delhi",
-      "top regional restaurants in Delhi",
-      "Bihari food in Delhi",
-      "Potbelly restaurant menu",
-      "affordable dining in South Delhi",
-      "Indian fusion food Delhi",
-      "The Potbelly rooftop café",
-      "unique dining experience Delhi",
-      "popular Bihari food Delhi"
+      "Bihari Cuisine",
+      "Litti Chokha",
+      "Champaran Mutton",
+      "Regional Indian Food",
+      "Affordable Dining",
+      "Authentic Flavors",
+      "Chanakyapuri Restaurants",
+      "Traditional Dining"
     ],
     "menuImage": [
       "https://lh3.googleusercontent.com/p/AF1QipO6vbbQJy6C8x6u1XhHQwLDfCcSScICSdeOq8h5=s680-w680-h510",
@@ -7717,7 +7834,60 @@
       "Signature dishes include the Litti Chokha, Bihari Thali, and Maithili Machhli, each prepared with authentic spices and techniques that bring out the unique taste of Bihar. The Potbelly's interiors are warm and welcoming, providing a charming ambiance ideal for a casual meal or a family outing.",
       "With its focus on regional flavors and cultural authenticity, The Potbelly Restaurant at Bihar Niwas has become a favorite among locals and travelers alike. It’s a must-visit for anyone interested in exploring the rich culinary heritage of Bihar."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipPNaJixCCo1g63DUK7OH_GzXm8derzK6tvNT83c=s680-w680-h510"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPNaJixCCo1g63DUK7OH_GzXm8derzK6tvNT83c=s680-w680-h510",
+    "overview": "The Potbelly Restaurant at Bihar Niwas brings the authentic flavors of Bihari cuisine to the heart of New Delhi. Known for its rustic charm and delicious traditional dishes, this restaurant is a favorite among food lovers seeking a unique regional dining experience. With its homely ambiance and flavorful offerings, it showcases the culinary heritage of Bihar in a contemporary setting.",
+    "ambiance": {
+      "description": "A cozy and earthy atmosphere with traditional Bihari elements.",
+      "features": [
+        "Rustic decor with wooden furniture and folk-inspired artwork.",
+        "Warm lighting that creates a comfortable and welcoming environment.",
+        "Spacious indoor seating with a casual and homely vibe.",
+        "Perfect for family gatherings, casual meetups, and cultural dining experiences."
+      ]
+    },
+    "cuisine": {
+      "description": "Authentic Bihari cuisine with a mix of traditional and modern flavors.",
+      "menu_sections": {
+        "starters": "Litti Chokha, Dal Pitha, Baggia Basket, and Bihari Mutton Pockets.",
+        "main_course": "Sattu Paratha with Ghughni, Maithili Thali, Champaran Mutton, and Dehati Fish Curry.",
+        "breads": "Thekua, Sattu Roti, and Bajra Roti.",
+        "desserts": "Khaja, Balushahi, and Malpua.",
+        "beverages": "Aam Panna, Sattu Sherbet, and Masala Chai."
+      }
+    },
+    "must_try": [
+      "Litti Chokha – the iconic dish of Bihar, served with authentic flavors.",
+      "Champaran Mutton – slow-cooked mutton with rich spices.",
+      "Dal Pitha – traditional Bihari dumplings filled with lentils.",
+      "Thekua – a crispy and sweet Bihari delicacy.",
+      "Sattu Sherbet – a refreshing and nutritious traditional drink."
+    ],
+    "service": {
+      "description": "Friendly and efficient service with a touch of traditional hospitality.",
+      "style": "Warm and welcoming, ensuring a delightful dining experience."
+    },
+    "reasons_to_visit": [
+      "The only restaurant in Delhi dedicated to authentic Bihari cuisine.",
+      "A unique dining experience with traditional flavors and homely comfort.",
+      "Affordable and flavorful meals, perfect for both individuals and families.",
+      "Convenient location at Bihar Niwas, making it easily accessible.",
+      "A must-visit for those looking to explore regional Indian cuisines."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Lunch hours for a fulfilling thali experience or early dinner for a relaxed meal.",
+      "reservations": "Recommended on weekends and holidays due to high demand.",
+      "dress_code": "Casual and comfortable."
+    },
+    "location_details": {
+      "address": "Bihar Niwas, Chanakyapuri, New Delhi.",
+      "nearest_landmark": "Near the Embassy Area in Chanakyapuri.",
+      "parking": "Available within the Bihar Niwas premises."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 10:30 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹800 to ₹1,200."
+    },
+    "review_count": 850
   },
   {
     "title": "tonino-ristorante-mehrauli-new-delhi",
@@ -8667,27 +8837,14 @@
   },
   {
     "title": "ghoomar-traditional-thali-restaurant-connaught-place",
-    "name": "Ghoomar Traditional Thali Restaurant",
-    "location": "Outer Circle, Connaught Place, New Delhi, Delhi 110001",
+    "name": "Ghoomar Restaurant",
+    "location": "Connaught Place",
     "type": "Casual Dining",
     "highlights": [
       "Authentic Rajasthani Thali",
       "Unlimited Thali Experience",
       "Traditional Indian Ambiance",
       "Cultural Rajasthani Vibes"
-    ],
-    "category": [
-      "Connaught Place",
-      "Thali Restaurant",
-      "Casual Dining",
-      "Rajasthani"
-    ],
-    "tags": [
-      "Ghoomar Thali CP",
-      "Rajasthani Food Connaught Place",
-      "Unlimited Thali Delhi",
-      "Traditional Indian Restaurant",
-      "Best Thali Restaurants Delhi"
     ],
     "menuImage": [
       "https://lh3.googleusercontent.com/p/AF1QipOjpPEhy4k7OwrkwXRYg0kc0_kL2tsyz7Zy0A4j=s680-w680-h510"
@@ -8715,7 +8872,75 @@
       "The decor reflects the essence of Rajasthani culture, with intricate patterns, traditional seating arrangements, and a vibrant ambiance that transports diners to Rajasthan.",
       "Whether you're looking for a family lunch, a cultural dining experience, or simply wish to savor the essence of Rajasthan in Delhi, Ghoomar is the perfect spot. Its central location and unlimited thali offerings make it a popular choice among food enthusiasts."
     ],
-    "image": "https://lh3.googleusercontent.com/p/AF1QipOAwRxJQAv7p5t_S2bu5djf-tloKI0DPahGqRMc=s680-w680-h510"
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOAwRxJQAv7p5t_S2bu5djf-tloKI0DPahGqRMc=s680-w680-h510",
+    "overview": "Ghoomar Traditional Thali Restaurant in Connaught Place offers an authentic Rajasthani dining experience, bringing the royal flavors of Rajasthan to the heart of Delhi. Known for its grand thali servings and cultural ambiance, it is a must-visit for those who love traditional Indian cuisine and warm hospitality.",
+    "ambiance": {
+      "description": "A vibrant and culturally rich setting with a royal Rajasthani theme.",
+      "features": [
+        "Traditional Rajasthani decor with colorful interiors and ethnic artwork.",
+        "Live folk music and cultural performances for an immersive experience.",
+        "Spacious seating with a comfortable and family-friendly environment.",
+        "Servers dressed in traditional Rajasthani attire, enhancing the authenticity.",
+        "A warm and hospitable atmosphere that reflects Rajasthan’s royal culture."
+      ]
+    },
+    "cuisine": {
+      "description": "Authentic Rajasthani cuisine, served in an unlimited thali format.",
+      "menu_sections": {
+        "starters": "Dal Baati Churma, Moong Dal Kachori, and Rajasthani Samosa.",
+        "main_course": "Gatte ki Sabzi, Ker Sangri, Panchmel Dal, and Govind Gatta.",
+        "breads": "Missi Roti, Bajra Roti, and Tandoori Roti with Desi Ghee.",
+        "desserts": "Malpua, Ghewar, Moong Dal Halwa, and Mawa Kachori.",
+        "beverages": "Chaas, Lassi, and Kesar Thandai."
+      }
+    },
+    "must_try": [
+      "Dal Baati Churma – the signature Rajasthani delicacy.",
+      "Gatte ki Sabzi – gram flour dumplings in a flavorful curry.",
+      "Ker Sangri – a traditional Rajasthani dry dish made with local berries and beans.",
+      "Ghewar – a classic dessert perfect for sweet lovers.",
+      "Unlimited Rajasthani Thali – a complete experience of Rajasthan’s rich flavors."
+    ],
+    "service": {
+      "description": "Warm and attentive service, reflecting Rajasthan’s traditional hospitality.",
+      "style": "Friendly and courteous, ensuring an exceptional dining experience."
+    },
+    "reasons_to_visit": [
+      "Authentic Rajasthani food with an unlimited thali experience.",
+      "Live folk performances for an immersive cultural experience.",
+      "A perfect spot for family gatherings and festive celebrations.",
+      "Great value for money with unlimited refills and royal hospitality.",
+      "Centrally located in Connaught Place, easily accessible from all parts of Delhi."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Lunch or early dinner for the best service and experience.",
+      "reservations": "Recommended on weekends and holidays due to high demand.",
+      "dress_code": "Casual and comfortable."
+    },
+    "location_details": {
+      "address": "Connaught Place, New Delhi.",
+      "nearest_landmark": "Near Rajiv Chowk Metro Station.",
+      "parking": "Available at CP parking zones."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,500."
+    },
+    "category": [
+      "Rajasthani",
+      "Vegetarian",
+      "Thali Restaurant"
+    ],
+    "tags": [
+      "Rajasthani Cuisine",
+      "Thali",
+      "Dal Baati Churma",
+      "Cultural Dining",
+      "Traditional Food",
+      "Family Dining",
+      "Unlimited Thali",
+      "Connaught Place Restaurants"
+    ]
   },
   {
     "title": "karigari-sector-51-noida",
@@ -9233,6 +9458,10 @@
       "address": "Sunder Nursery, Nizamuddin, near National Zoological Park, Sundar Nagar, New Delhi",
       "nearest_metro": "Jangpura Metro Station (Pink Line), approximately 10 minutes away by car.",
       "parking": "Available within Sunder Nursery premises."
+    },
+    "additional_info": {
+      "timing": "8:00 AM to 9:00 PM, Monday to Sunday",
+      "price_for_two": "Approximately ₹200–600 (including taxes)"
     }
   },
   {
@@ -11115,12 +11344,12 @@
       ]
     },
     "cuisine": {
-      "description": "Offering authentic Syrian and Middle Eastern cuisine, the restaurant specializes in bold spices and rich flavors, providing a true taste of the region.",
+      "description": "Specializing in authentic Syrian and Middle Eastern cuisine, the restaurant brings a rich culinary heritage to life with bold spices, fresh ingredients, and time-honored recipes.",
       "menu_sections": {
-        "starters": "Classic favorites like Hummus, Baba Ganoush, and crispy Falafel.",
-        "main_course": "Delicious options such as Shawarma Platters, Kibbeh, and hearty Fatteh.",
-        "desserts": "Indulgent sweets like Baklava, Basbousa, and creamy Umm Ali.",
-        "beverages": "Refreshing drinks including Arabic Coffee, Mint Lemonade, and Jallab."
+        "starters": "Traditional mezze platters featuring favorites like Hummus, Baba Ganoush, Muhammara, and crispy Falafel.",
+        "main_course": "Signature dishes such as juicy Shawarma Platters, flavorful Kibbeh, hearty Fatteh, and slow-cooked Lamb Mansaf.",
+        "desserts": "A selection of indulgent sweets including flaky Baklava, semolina-rich Basbousa, creamy Umm Ali, and Date Maamoul.",
+        "beverages": "Authentic Middle Eastern drinks such as strong Arabic Coffee, refreshing Mint Lemonade, spiced Karak Chai, and sweet Jallab."
       }
     },
     "must_try": [
@@ -12183,12 +12412,12 @@
       ]
     },
     "cuisine": {
-      "description": "Continental and Tibetan-inspired cafe menu with hearty breakfast and dessert options.",
+      "description": "A unique blend of Continental and Tibetan-inspired dishes, AMA Cafe offers a delightful menu that features hearty breakfasts, comforting mains, and indulgent desserts.",
       "menu_sections": {
-        "breakfast_favorites": "Pancakes, Omelettes, Granola Bowls, English Breakfast.",
-        "main_course": "Burgers, Sandwiches, Pasta, Tibetan Thukpa.",
-        "desserts": "Freshly baked Croissants, Brownies, Cheesecake.",
-        "beverages": "Himalayan Butter Tea, Cappuccino, Hot Chocolate, Fruit Smoothies."
+        "breakfast_favorites": "Start your day with classics like fluffy Pancakes, flavorful Omelettes, nutritious Granola Bowls, or a traditional English Breakfast.",
+        "main_course": "Savor a variety of dishes including juicy Burgers, delicious Sandwiches, creamy Pasta, and the ever-popular Tibetan Thukpa.",
+        "desserts": "Treat yourself to freshly baked Croissants, rich Brownies, or a decadent slice of Cheesecake.",
+        "beverages": "Quench your thirst with a warm Himalayan Butter Tea, a frothy Cappuccino, creamy Hot Chocolate, or refreshing Fruit Smoothies."
       }
     },
     "must_try": [
@@ -12449,6 +12678,245 @@
     "menuImage": [
       "https://lh3.googleusercontent.com/p/AF1QipPS-dJ08paqkH6cqO90jL4XP-WqhXGa-i4VXT05=s680-w680-h510",
       "https://lh3.googleusercontent.com/p/AF1QipOU1str4QEwF6B_Y0W8L7NNW-C5CIBhWkrpEWN_=s680-w680-h510"
+    ]
+  },
+  {
+    "name": "Bungalow Restaurant",
+    "title": "bungalow-restaurant",
+    "location": "New York City, NY",
+    "overview": "Bungalow Restaurant in NYC is a stylish and upscale dining destination, offering a fusion of modern American and international cuisine. Known for its elegant decor, curated cocktails, and elevated dining experience, it attracts food enthusiasts, socialites, and those looking for a refined yet lively atmosphere.",
+    "ambiance": {
+      "description": "A sophisticated and contemporary space with a chic, lounge-style setting.",
+      "features": [
+        "Elegant interiors with warm lighting, plush seating, and modern decor.",
+        "Lounge-style ambiance with a mix of cozy booths and open dining spaces.",
+        "Live DJ nights and curated music playlists for an energetic vibe.",
+        "Outdoor seating available, providing a scenic city dining experience.",
+        "Perfect for date nights, celebrations, and upscale social gatherings."
+      ]
+    },
+    "cuisine": {
+      "description": "A refined take on modern American cuisine with global influences.",
+      "menu_sections": {
+        "appetizers": "Truffle Mac & Cheese, Tuna Tartare, Crispy Calamari, and Wagyu Sliders.",
+        "main_course": "Grilled Chilean Sea Bass, Dry-Aged Ribeye Steak, Lobster Ravioli, and Vegan Buddha Bowl.",
+        "desserts": "Molten Lava Cake, Classic New York Cheesecake, and Tiramisu.",
+        "beverages": "Signature Cocktails, Premium Wines, Craft Beers, and Specialty Coffees."
+      }
+    },
+    "must_try": [
+      "Truffle Mac & Cheese – a creamy and indulgent delight.",
+      "Grilled Chilean Sea Bass – perfectly cooked with a flavorful glaze.",
+      "Wagyu Sliders – juicy and rich mini burgers with gourmet toppings.",
+      "Lobster Ravioli – fresh pasta stuffed with lobster in a creamy sauce.",
+      "Signature Cocktails – handcrafted drinks with unique flavors."
+    ],
+    "service": {
+      "description": "Attentive and professional service, ensuring a seamless dining experience.",
+      "style": "Friendly yet sophisticated, catering to a high-end crowd."
+    },
+    "reasons_to_visit": [
+      "An upscale dining experience with a stylish and vibrant atmosphere.",
+      "Innovative cocktails crafted by expert mixologists.",
+      "Diverse menu featuring gourmet dishes with international influences.",
+      "Perfect for date nights, special occasions, and social gatherings.",
+      "Located in the heart of NYC, offering a premium city dining experience."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Evenings and weekends for the best ambiance and nightlife experience.",
+      "reservations": "Highly recommended due to its popularity.",
+      "dress_code": "Smart casual to semi-formal."
+    },
+    "location_details": {
+      "address": "New York City, NY.",
+      "nearest_landmark": "Close to major downtown attractions.",
+      "parking": "Valet and nearby public parking available."
+    },
+    "additional_info": {
+      "timing": "5:00 PM to 12:00 AM (Monday to Thursday), 5:00 PM to 2:00 AM (Friday to Sunday).",
+      "price_for_two": "Approximately $150 to $200."
+    },
+    "rating": 4.5,
+    "review_count": 1250,
+    "category": [
+      "Modern American",
+      "Lounge",
+      "Fine Dining"
+    ],
+    "tags": [
+      "Fine Dining",
+      "Modern American Cuisine",
+      "Cocktails",
+      "Luxury Dining",
+      "NYC Restaurants",
+      "Upscale Lounge",
+      "Date Night",
+      "Nightlife"
+    ],
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMYZkT2lNCdvCpSEqzvj2PgKjUl2DoXs7ZpsbHi=s680-w680-h510",
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.743284126144!2d-73.98797429999999!3d40.7236675!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2590044e143c5%3A0x5d377f3ad3b83659!2sBungalow!5e0!3m2!1sen!2sin!4v1738595327500!5m2!1sen!2sin",
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipP1ZfQLvWLNw6619OK_4oPtk5Ha_rJdLhuY5NI=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipM0RDpDti7eA0cPyReXHMfM5T7An4GfjoMiUiA=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPGtHqKZe-vKn9CUPcr_MUd3EoUso3gFXuMvCa0=s680-w680-h510"
+    ]
+  },
+  {
+    "name": "Themis Barbeque",
+    "title": "themis-barbeque",
+    "location": "Netaji Subhash Place, New Delhi",
+    "overview": "Themis Barbeque in Netaji Subhash Place is a paradise for grill and buffet lovers, offering a delightful mix of North Indian, Mughlai, and Barbecue-style dishes. Known for its live grill concept, flavorful kebabs, and an elaborate buffet spread, it’s a great spot for family gatherings, corporate lunches, and celebrations. The restaurant delivers a combination of unlimited delicious food, a vibrant ambiance, and top-notch hospitality.",
+    "ambiance": {
+      "description": "A lively and inviting dining space with an interactive grill experience.",
+      "features": [
+        "Elegant interiors with warm lighting and comfortable seating.",
+        "Live grill on each table for a unique barbecue experience.",
+        "Spacious setup suitable for family gatherings and large groups.",
+        "Lively atmosphere with soft music and occasional live performances."
+      ]
+    },
+    "cuisine": {
+      "description": "A lavish spread of North Indian, Mughlai, and barbecue-style delicacies.",
+      "menu_sections": {
+        "starters": "Paneer Tikka, Tandoori Chicken, Dahi Ke Kebab, and Seekh Kebabs.",
+        "main_course": "Dal Makhani, Butter Chicken, Mutton Rogan Josh, and Assorted Indian Breads.",
+        "buffet_specials": "Live counters for chaats, pastas, and Indian street food.",
+        "desserts": "Gulab Jamun, Brownies, Ice Creams, and Phirni.",
+        "beverages": "Mocktails, Fresh Juices, and a selection of Cocktails."
+      }
+    },
+    "must_try": [
+      "Live Barbecue Grill Experience – marinated meats and veggies grilled to perfection.",
+      "Tandoori Chicken – classic smoky flavors with juicy tenderness.",
+      "Butter Chicken – rich, creamy, and full of authentic North Indian taste.",
+      "Dahi Ke Kebab – crispy on the outside, soft and flavorful inside.",
+      "Phirni – a deliciously creamy and traditional Indian dessert."
+    ],
+    "service": {
+      "description": "Prompt and attentive service, ensuring a seamless dining experience.",
+      "style": "Professional yet friendly, enhancing the overall dining experience."
+    },
+    "reasons_to_visit": [
+      "Live grill concept offering a unique interactive dining experience.",
+      "Unlimited buffet with a vast selection of vegetarian and non-vegetarian options.",
+      "Perfect for family outings, corporate events, and celebratory gatherings.",
+      "Affordable pricing with great value for money.",
+      "Located in the bustling Netaji Subhash Place, easily accessible."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Weekday lunches for a relaxed dining experience or weekend dinners for a lively atmosphere.",
+      "reservations": "Recommended during weekends and festive seasons due to high demand.",
+      "dress_code": "Casual and comfortable."
+    },
+    "location_details": {
+      "address": "Netaji Subhash Place, Pitampura, New Delhi.",
+      "nearest_landmark": "Near NSP Metro Station.",
+      "parking": "Available in the complex with valet service."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,400 to ₹1,800."
+    },
+    "rating": 4.1,
+    "review_count": 1200,
+    "category": [
+      "Barbeque",
+      "North Indian",
+      "Buffet"
+    ],
+    "tags": [
+      "Live Barbecue",
+      "Buffet Dining",
+      "North Indian Cuisine",
+      "Grill Experience",
+      "Family Friendly",
+      "Corporate Dining",
+      "Affordable Buffets",
+      "Pitampura Restaurants"
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.854454561365!2d77.1493126!3d28.69400010000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d02331a2c3907%3A0x81a0a521e3dd9d19!2sThemis%20Barbecue%20House%20-%20NSP!5e0!3m2!1sen!2sin!4v1738655017839!5m2!1sen!2sin",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOWUcOr8qQTIrtTDIKWDxHYinvNlTJd94dVvscx=s680-w680-h510",
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipP1UXz6UGeKsdwFApePmdoN98F22MUETgF92aZm=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipNoPHUL44Bd5K2JwApId4jSyvHZceHWLcEIgob2=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipOTDIHqjRxvVX9Iqz5r8y-U86JfnqNkKvBdptcC=s680-w680-h510",
+      "https://lh3.googleusercontent.com/p/AF1QipPcU0cV7XzkrzaKmiHttdovMhjUfAgvm8tuyAAq=s680-w680-h510"
+    ]
+  },
+  {
+    "name": "Kesar Restaurant",
+    "title": "kesar-restaurant",
+    "location": "Ashok Vihar, New Delhi",
+    "overview": "Kesar Restaurant in Ashok Vihar is a well-known destination for authentic North Indian and Mughlai cuisine, offering a rich and flavorful dining experience. With its elegant ambiance, quality ingredients, and impeccable service, it’s a favorite among food lovers looking for a hearty meal in a comfortable setting.",
+    "ambiance": {
+      "description": "A warm and inviting dining space with a traditional yet modern touch.",
+      "features": [
+        "Elegant decor with subtle lighting and comfortable seating.",
+        "Spacious interiors, perfect for families and group gatherings.",
+        "A relaxing atmosphere complemented by soft background music."
+      ]
+    },
+    "cuisine": {
+      "description": "A delightful mix of North Indian and Mughlai flavors, prepared with traditional recipes.",
+      "menu_sections": {
+        "starters": "Paneer Tikka, Tandoori Chicken, Dahi Kebab, and Mutton Seekh Kebab.",
+        "main_course": "Butter Chicken, Dal Makhani, Kadhai Paneer, and Mutton Rogan Josh.",
+        "breads": "Variety of Naans, Tandoori Roti, and Stuffed Kulchas.",
+        "desserts": "Gulab Jamun, Rasmalai, and Phirni.",
+        "beverages": "Lassi, Fresh Lime Soda, and Traditional Indian Drinks."
+      }
+    },
+    "must_try": [
+      "Butter Chicken – rich, creamy, and full of authentic flavors.",
+      "Dal Makhani – slow-cooked and perfectly spiced.",
+      "Mutton Rogan Josh – tender and flavorful with aromatic spices.",
+      "Paneer Lababdar – a vegetarian delight with a creamy texture.",
+      "Phirni – a classic Indian dessert served chilled."
+    ],
+    "service": {
+      "description": "Attentive and courteous staff ensuring a pleasant dining experience.",
+      "style": "Friendly and professional, making guests feel at home."
+    },
+    "reasons_to_visit": [
+      "Authentic North Indian and Mughlai dishes with rich flavors.",
+      "Ideal for family dinners, casual outings, and celebrations.",
+      "Great portion sizes and value for money.",
+      "Easily accessible location in Ashok Vihar."
+    ],
+    "tips_for_visitors": {
+      "best_time_to_visit": "Evenings for a lively dining experience.",
+      "reservations": "Recommended during weekends and festive seasons.",
+      "dress_code": "Casual and comfortable."
+    },
+    "location_details": {
+      "address": "Ashok Vihar, New Delhi.",
+      "nearest_landmark": "Close to Ashok Vihar Metro Station.",
+      "parking": "Available with valet service."
+    },
+    "additional_info": {
+      "timing": "12:00 PM to 11:00 PM (Monday to Sunday).",
+      "price_for_two": "Approximately ₹1,200 to ₹1,600."
+    },
+    "rating": 4.3,
+    "review_count": 326,
+    "category": [
+      "North Indian",
+      "Mughlai",
+      "Casual Dining"
+    ],
+    "tags": [
+      "North Indian Cuisine",
+      "Mughlai Food",
+      "Butter Chicken",
+      "Family Dining",
+      "Casual Dining",
+      "Affordable Dining",
+      "Ashok Vihar Restaurants"
+    ],
+    "locationUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.7791881533694!2d77.1797779!3d28.696251200000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03cea6b72133%3A0xc7d71fb00980172b!2sKesar%20Restaurant%20Ashok%20Vihar!5e0!3m2!1sen!2sin!4v1738655736568!5m2!1sen!2sin",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMkNxIG4_1Ip8AOd9gU_ZJmr0mzwgSWaXdaLbNw=s680-w680-h510",
+    "menuImage": [
+      "https://lh3.googleusercontent.com/p/AF1QipMxybp4PuI6LNaXMpGtOQ8bStRRQrwq8WGyJnJy=s680-w680-h510"
     ]
   }
 ]
